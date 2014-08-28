@@ -1,0 +1,3 @@
+<word>gracious</word>
+<meaning>very polite in a way that shows respect</meaning>
+<example>a gracious friend</example>

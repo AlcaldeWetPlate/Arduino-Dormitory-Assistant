@@ -1,0 +1,3 @@
+<word>retain</word>
+<meaning>to continue to have or use (something)</meaning>
+<example>Camels can retain water.</example>

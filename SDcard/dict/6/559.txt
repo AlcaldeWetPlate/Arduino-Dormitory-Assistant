@@ -1,0 +1,3 @@
+<word>challenge</word>
+<meaning>a difficult task or problem :something that is hard to do</meaning>
+<example>face a challenge</example>

@@ -1,0 +1,3 @@
+<word>tortuous</word>
+<meaning>having many twists and turns</meaning>
+<example>a tortuous road</example>

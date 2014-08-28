@@ -1,0 +1,3 @@
+<word>engross</word>
+<meaning>to hold the complete interest or attention of (someone)</meaning>
+<example>The book engrosses her.</example>

@@ -1,0 +1,3 @@
+<word>gallantry</word>
+<meaning>polite attention shown by a man to a woman</meaning>
+<example>gallantry towards women</example>

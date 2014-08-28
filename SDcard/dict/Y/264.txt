@@ -1,0 +1,3 @@
+<word>obstacle</word>
+<meaning>something that makes it difficult to do something</meaning>
+<example>jump over obstacles</example>

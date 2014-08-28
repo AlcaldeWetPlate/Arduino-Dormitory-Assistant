@@ -1,0 +1,3 @@
+<word>antiquity</word>
+<meaning>objects from ancient times</meaning>
+<example>the Greeks of antiquity</example>

@@ -1,0 +1,3 @@
+<word>hilly</word>
+<meaning>having many hills</meaning>
+<example>the hilly countryside</example>

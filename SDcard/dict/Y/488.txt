@@ -1,0 +1,3 @@
+<word>integral</word>
+<meaning>very important and necessary</meaning>
+<example>an integral part of chain</example>

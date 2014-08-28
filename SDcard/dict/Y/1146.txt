@@ -1,0 +1,3 @@
+<word>ending</word>
+<meaning>the final part of something</meaning>
+<example>the movie's sad ending</example>

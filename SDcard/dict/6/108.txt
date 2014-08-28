@@ -1,0 +1,3 @@
+<word>fuss</word>
+<meaning>to be or become upset or worried</meaning>
+<example>fuss with his hair</example>

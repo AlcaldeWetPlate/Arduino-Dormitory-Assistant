@@ -1,0 +1,3 @@
+<word>achieve</word>
+<meaning>to become successful :to reach a goal</meaning>
+<example>achieve one's goal</example>

@@ -1,0 +1,3 @@
+<word>stingy</word>
+<meaning>not liking or wanting to give or spend money</meaning>
+<example>stingy old man</example>

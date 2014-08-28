@@ -1,0 +1,3 @@
+<word>noted</word>
+<meaning>famous or well-known</meaning>
+<example>a noted monument in Paris</example>

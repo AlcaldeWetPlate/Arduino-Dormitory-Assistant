@@ -1,0 +1,3 @@
+<word>snug</word>
+<meaning>fitting closely and often too tightly</meaning>
+<example>a snug fur coat</example>

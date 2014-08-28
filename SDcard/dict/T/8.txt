@@ -1,0 +1,3 @@
+<word>adept</word>
+<meaning>very good at doing something that is not easy</meaning>
+<example>an adept student</example>

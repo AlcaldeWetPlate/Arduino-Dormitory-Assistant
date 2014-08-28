@@ -1,0 +1,3 @@
+<word>secrete</word>
+<meaning>to produce and give off (a liquid)</meaning>
+<example>secrete tears</example>

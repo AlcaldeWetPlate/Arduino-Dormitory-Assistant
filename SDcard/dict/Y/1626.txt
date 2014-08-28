@@ -1,0 +1,3 @@
+<word>mild</word>
+<meaning>not strong or harsh in taste</meaning>
+<example>mild tasting soup</example>

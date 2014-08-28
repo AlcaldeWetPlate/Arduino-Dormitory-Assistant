@@ -1,0 +1,3 @@
+<word>asset</word>
+<meaning>something that is owned by a person, company, etc.</meaning>
+<example>a valuable asset</example>

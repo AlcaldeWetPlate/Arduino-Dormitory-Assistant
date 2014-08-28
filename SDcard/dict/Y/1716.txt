@@ -1,0 +1,3 @@
+<word>jar</word>
+<meaning>a glass container that has a wide opening and usually a lid</meaning>
+<example>jars of apple sauce</example>

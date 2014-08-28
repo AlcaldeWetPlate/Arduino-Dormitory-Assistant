@@ -1,0 +1,3 @@
+<word>splendor</word>
+<meaning>things that are very beautiful or impressive</meaning>
+<example>the splendor of the bird's coat</example>

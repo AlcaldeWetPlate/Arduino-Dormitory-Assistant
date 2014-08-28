@@ -1,0 +1,3 @@
+<word>cabbage</word>
+<meaning>a leafy vegetable that has several forms</meaning>
+<example>two green cabbages</example>

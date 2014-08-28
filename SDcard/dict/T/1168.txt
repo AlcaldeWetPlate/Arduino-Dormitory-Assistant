@@ -1,0 +1,3 @@
+<word>deterrent</word>
+<meaning>something that makes someone decide not to do something</meaning>
+<example>a deterrent for birds</example>

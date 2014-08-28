@@ -1,0 +1,3 @@
+<word>diagram</word>
+<meaning>a drawing that explains or shows the parts of something</meaning>
+<example>a diagram of human hair growth</example>

@@ -1,0 +1,3 @@
+<word>assertive</word>
+<meaning>confident in behavior or style</meaning>
+<example>a loud and assertive man</example>

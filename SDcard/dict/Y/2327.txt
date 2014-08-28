@@ -1,0 +1,3 @@
+<word>together</word>
+<meaning>in a close relationship</meaning>
+<example>stand together at the beach</example>

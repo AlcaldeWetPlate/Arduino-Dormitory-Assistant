@@ -1,0 +1,3 @@
+<word>nuance</word>
+<meaning>a very small difference in color, tone, meaning, etc.</meaning>
+<example>the nuances of the painting</example>

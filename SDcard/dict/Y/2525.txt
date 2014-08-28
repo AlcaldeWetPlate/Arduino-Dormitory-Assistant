@@ -1,0 +1,3 @@
+<word>fair</word>
+<meaning>agreeing with what is thought to be right or acceptable</meaning>
+<example>a fair judgement</example>

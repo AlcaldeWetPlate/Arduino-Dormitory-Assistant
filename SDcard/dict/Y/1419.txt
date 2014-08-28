@@ -1,0 +1,3 @@
+<word>elevator</word>
+<meaning>a tall building for storing grain</meaning>
+<example>The elevators go up and down.</example>

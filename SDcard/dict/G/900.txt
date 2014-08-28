@@ -1,0 +1,3 @@
+<word>puny</word>
+<meaning>small and weak</meaning>
+<example>the puny man in his hands</example>

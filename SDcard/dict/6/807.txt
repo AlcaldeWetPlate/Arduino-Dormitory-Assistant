@@ -1,0 +1,3 @@
+<word>scared</word>
+<meaning>afraid of something :nervous or frightened</meaning>
+<example>be scared of too much work</example>

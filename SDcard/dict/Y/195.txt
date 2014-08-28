@@ -1,0 +1,3 @@
+<word>grocer</word>
+<meaning>a person who sells food and other supplies for people's houses</meaning>
+<example>The grocer gives her the food.</example>

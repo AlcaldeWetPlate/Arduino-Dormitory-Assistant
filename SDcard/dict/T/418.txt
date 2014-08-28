@@ -1,0 +1,3 @@
+<word>exceed</word>
+<meaning>to go beyond the limit of (something)</meaning>
+<example>exceed a safe speed</example>

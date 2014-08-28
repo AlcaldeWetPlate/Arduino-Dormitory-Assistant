@@ -1,0 +1,3 @@
+<word>donkey</word>
+<meaning>an animal that is like a small horse with large ears</meaning>
+<example>a gray donkey</example>

@@ -1,0 +1,3 @@
+<word>embryonic</word>
+<meaning>in an early or undeveloped stage</meaning>
+<example>the embryonic form of a human being</example>

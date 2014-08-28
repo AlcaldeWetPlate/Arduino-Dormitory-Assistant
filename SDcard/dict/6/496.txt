@@ -1,0 +1,3 @@
+<word>lever</word>
+<meaning>a strong bar that is used to lift and move something heavy</meaning>
+<example>pull the lever</example>

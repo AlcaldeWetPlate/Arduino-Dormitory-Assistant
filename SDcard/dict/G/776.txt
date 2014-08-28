@@ -1,0 +1,3 @@
+<word>furtive</word>
+<meaning>done in a quiet and secret way to avoid being noticed</meaning>
+<example>her furtive escape</example>

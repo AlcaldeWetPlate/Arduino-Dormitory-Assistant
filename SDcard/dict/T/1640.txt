@@ -1,0 +1,3 @@
+<word>snippet</word>
+<meaning>a small piece of information or news</meaning>
+<example>She hears a snippet of the conversation.</example>

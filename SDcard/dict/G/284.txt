@@ -1,0 +1,3 @@
+<word>castigate</word>
+<meaning>to criticize (someone) harshly</meaning>
+<example>The angry man castigates his son.</example>

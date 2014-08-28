@@ -1,0 +1,3 @@
+<word>entitle</word>
+<meaning>to give a right to (someone)</meaning>
+<example>entitles them to the seats</example>

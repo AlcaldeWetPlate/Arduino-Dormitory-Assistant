@@ -1,0 +1,3 @@
+<word>tasteless</word>
+<meaning>not having or showing good taste :not tasteful</meaning>
+<example>tasteless food</example>

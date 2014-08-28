@@ -1,0 +1,3 @@
+<word>acclaimed</word>
+<meaning>public praise for someone or something.</meaning>
+<example>a highly acclaimed performance</example>

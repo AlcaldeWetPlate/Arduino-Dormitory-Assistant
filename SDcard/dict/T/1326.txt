@@ -1,0 +1,3 @@
+<word>leisurely</word>
+<meaning>not hurried :slow and relaxed</meaning>
+<example>bike at a leisurely pace</example>

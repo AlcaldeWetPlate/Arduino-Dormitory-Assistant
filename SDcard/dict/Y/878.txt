@@ -1,0 +1,3 @@
+<word>terminate</word>
+<meaning>to cause (something) to end</meaning>
+<example>terminate his employment</example>

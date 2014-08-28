@@ -1,0 +1,3 @@
+<word>bromide</word>
+<meaning>a drug that makes a person calm</meaning>
+<example>the chemical diagram of phenacyl bromide</example>

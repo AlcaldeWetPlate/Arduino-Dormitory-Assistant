@@ -1,0 +1,3 @@
+<word>strata</word>
+<meaning>the plural of stratum</meaning>
+<example>strata of the rock formation</example>

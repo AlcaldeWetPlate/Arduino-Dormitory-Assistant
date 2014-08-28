@@ -1,0 +1,3 @@
+<word>proffer</word>
+<meaning>to offer or give (something) to someone</meaning>
+<example>proffer a gift</example>

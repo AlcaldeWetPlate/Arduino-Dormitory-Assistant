@@ -1,0 +1,3 @@
+<word>outgrow</word>
+<meaning>to grow faster than (something)</meaning>
+<example>The dog outgrows his tiny shirt.</example>

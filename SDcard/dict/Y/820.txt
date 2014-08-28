@@ -1,0 +1,3 @@
+<word>vocation</word>
+<meaning>the work that a person does or should be doing</meaning>
+<example>Nursing is her vocation.</example>

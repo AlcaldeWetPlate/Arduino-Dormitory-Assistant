@@ -1,0 +1,3 @@
+<word>spelling</word>
+<meaning>the act of forming of words from letters</meaning>
+<example>Good spelling is important for this game.</example>

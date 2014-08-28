@@ -1,0 +1,3 @@
+<word>punch</word>
+<meaning>to hit (someone or something) hard with your fist</meaning>
+<example>a punch in the face</example>

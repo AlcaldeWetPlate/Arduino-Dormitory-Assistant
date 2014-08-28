@@ -1,0 +1,3 @@
+<word>per cent</word>
+<meaning>in the hundred : of each hundred</meaning>
+<example>% is a per cent symbol.</example>

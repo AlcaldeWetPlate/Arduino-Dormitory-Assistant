@@ -1,0 +1,3 @@
+<word>sterile</word>
+<meaning>clean and free of bacteria and germs</meaning>
+<example>keep hands sterile</example>

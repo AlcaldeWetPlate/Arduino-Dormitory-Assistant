@@ -1,0 +1,3 @@
+<word>remains</word>
+<meaning>the dead body of a person or animal</meaning>
+<example>remains of the dead dog</example>

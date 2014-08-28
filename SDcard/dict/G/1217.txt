@@ -1,0 +1,3 @@
+<word>alacrity</word>
+<meaning>a quick and cheerful readiness to do something</meaning>
+<example>run with great alacrity</example>

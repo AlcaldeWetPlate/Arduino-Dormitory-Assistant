@@ -1,0 +1,3 @@
+<word>endure</word>
+<meaning>to experience (pain or suffering) for a long time</meaning>
+<example>endure the knee pain</example>

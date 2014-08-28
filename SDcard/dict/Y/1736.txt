@@ -1,0 +1,3 @@
+<word>reliant</word>
+<meaning>needing someone or something for help, support, etc.</meaning>
+<example>be reliant on his mother</example>

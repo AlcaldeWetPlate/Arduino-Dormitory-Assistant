@@ -1,0 +1,3 @@
+<word>practical</word>
+<meaning>good at making or repairing things</meaning>
+<example>a practical little girl</example>

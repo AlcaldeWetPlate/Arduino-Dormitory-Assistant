@@ -1,0 +1,3 @@
+<word>freeze</word>
+<meaning>to be become a hard substance (such as ice) because of cold</meaning>
+<example>The snow freezes on the car.</example>

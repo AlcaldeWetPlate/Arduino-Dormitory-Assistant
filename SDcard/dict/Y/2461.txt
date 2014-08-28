@@ -1,0 +1,3 @@
+<word>basic</word>
+<meaning>a simple language used for programming computers</meaning>
+<example>basic mathematics</example>

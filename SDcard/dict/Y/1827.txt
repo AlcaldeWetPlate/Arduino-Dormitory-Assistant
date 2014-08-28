@@ -1,0 +1,3 @@
+<word>link</word>
+<meaning>to join or connect (two or more things, places, etc.) together</meaning>
+<example>link up with each other</example>

@@ -1,0 +1,3 @@
+<word>turnip</word>
+<meaning>the plant that produces such a root</meaning>
+<example>a white turnip</example>

@@ -1,0 +1,3 @@
+<word>conceal</word>
+<meaning>to hide (something or someone) from sight</meaning>
+<example>conceal the face</example>

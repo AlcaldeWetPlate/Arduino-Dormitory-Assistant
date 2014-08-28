@@ -1,0 +1,3 @@
+<word>fawn</word>
+<meaning>a young deer</meaning>
+<example>a deer and her fawn</example>

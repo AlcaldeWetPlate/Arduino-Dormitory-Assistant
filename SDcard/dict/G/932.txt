@@ -1,0 +1,3 @@
+<word>abstruse</word>
+<meaning>hard to understand</meaning>
+<example>an abstruse problem</example>

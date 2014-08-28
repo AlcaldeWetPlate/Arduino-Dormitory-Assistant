@@ -1,0 +1,3 @@
+<word>slant</word>
+<meaning>to not be level or straight up and down</meaning>
+<example>the tower slants</example>

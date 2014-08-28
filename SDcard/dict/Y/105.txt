@@ -1,0 +1,3 @@
+<word>concur</word>
+<meaning>to agree with someone or something</meaning>
+<example>concur with your idea</example>

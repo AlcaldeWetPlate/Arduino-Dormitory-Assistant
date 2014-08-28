@@ -1,0 +1,3 @@
+<word>abominate</word>
+<meaning>to feel great hatred for (someone or something)</meaning>
+<example>abominate the bad flavor</example>

@@ -1,0 +1,3 @@
+<word>sturdy</word>
+<meaning>having or showing mental or emotional strength</meaning>
+<example>a sturdy chair</example>

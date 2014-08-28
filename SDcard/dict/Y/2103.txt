@@ -1,0 +1,3 @@
+<word>amiable</word>
+<meaning>friendly and pleasant</meaning>
+<example>an amiable salesman</example>

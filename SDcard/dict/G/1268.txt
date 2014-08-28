@@ -1,0 +1,3 @@
+<word>wayward</word>
+<meaning>tending to behave in ways that are not socially acceptable</meaning>
+<example>a wayward little boy</example>

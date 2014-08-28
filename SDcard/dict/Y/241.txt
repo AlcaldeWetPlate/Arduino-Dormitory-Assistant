@@ -1,0 +1,3 @@
+<word>marked</word>
+<meaning>having a mark or a particular kind of mark</meaning>
+<example>Payday is marked for the 18th.</example>

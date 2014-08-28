@@ -1,0 +1,3 @@
+<word>mark</word>
+<meaning>to write a note about (something)</meaning>
+<example>mark the meeting on the calendar</example>

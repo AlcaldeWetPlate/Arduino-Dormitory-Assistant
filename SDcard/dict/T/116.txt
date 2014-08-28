@@ -1,0 +1,3 @@
+<word>exclusion</word>
+<meaning>The condition or fact of being excluded</meaning>
+<example>his exclusion from the school</example>

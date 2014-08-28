@@ -1,0 +1,3 @@
+<word>propose</word>
+<meaning>to ask someone to marry you</meaning>
+<example>propose to her</example>

@@ -1,0 +1,3 @@
+<word>vapid</word>
+<meaning>not lively or interesting :dull or boring</meaning>
+<example>two vapid girls</example>

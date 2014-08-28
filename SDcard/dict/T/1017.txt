@@ -1,0 +1,3 @@
+<word>inanimate</word>
+<meaning>not living :not capable of life</meaning>
+<example>an inanimate statue</example>

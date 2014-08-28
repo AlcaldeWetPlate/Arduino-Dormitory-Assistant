@@ -1,0 +1,3 @@
+<word>keen</word>
+<meaning>very excited about and interested in something</meaning>
+<example>a keen student</example>

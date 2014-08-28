@@ -1,0 +1,3 @@
+<word>possible</word>
+<meaning>able to happen or exist</meaning>
+<example>be possible to hit the target</example>

@@ -1,0 +1,3 @@
+<word>shrub</word>
+<meaning>a plant that has stems of wood and is smaller than a tree</meaning>
+<example>small shrubs in a garden</example>

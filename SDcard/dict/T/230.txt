@@ -1,0 +1,3 @@
+<word>peerless</word>
+<meaning>having no equal :better than all others</meaning>
+<example>her peerless performance</example>

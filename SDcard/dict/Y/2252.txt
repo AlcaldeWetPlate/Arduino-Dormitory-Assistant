@@ -1,0 +1,3 @@
+<word>type</word>
+<meaning>to write with a computer keyboard or typewriter</meaning>
+<example>type on a keyboard</example>

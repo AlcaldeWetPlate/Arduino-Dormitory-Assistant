@@ -1,0 +1,3 @@
+<word>mill</word>
+<meaning>a building with machinery for grinding grain into flour</meaning>
+<example>an old wind mill</example>

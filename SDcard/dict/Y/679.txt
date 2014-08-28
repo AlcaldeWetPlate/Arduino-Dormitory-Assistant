@@ -1,0 +1,3 @@
+<word>statesman</word>
+<meaning>a usually wise, skilled, and respected government leader</meaning>
+<example>a popular statesman</example>

@@ -1,0 +1,3 @@
+<word>motion</word>
+<meaning>an act or process of moving</meaning>
+<example>forward motion</example>

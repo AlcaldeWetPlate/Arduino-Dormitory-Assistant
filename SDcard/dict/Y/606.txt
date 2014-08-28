@@ -1,0 +1,3 @@
+<word>ease</word>
+<meaning>freedom from pain or trouble :comfort of body or mind</meaning>
+<example>laying in ease on the grass</example>

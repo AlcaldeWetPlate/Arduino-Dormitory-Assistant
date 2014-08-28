@@ -1,0 +1,3 @@
+<word>bulge</word>
+<meaning>a rounded lump on the surface of something</meaning>
+<example>His stomach bulges.</example>

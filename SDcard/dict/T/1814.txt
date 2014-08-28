@@ -1,0 +1,3 @@
+<word>shine</word>
+<meaning>to give off light</meaning>
+<example>The moon shines</example>

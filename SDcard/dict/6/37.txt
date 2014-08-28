@@ -1,0 +1,3 @@
+<word>casualty</word>
+<meaning>a person who is hurt or killed during an accident, war, etc.</meaning>
+<example>casualty of a safety issue</example>

@@ -1,0 +1,3 @@
+<word>grin</word>
+<meaning>to smile widely</meaning>
+<example>grins and holds his chin</example>

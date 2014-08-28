@@ -1,0 +1,3 @@
+<word>academy</word>
+<meaning>a school that provides training in special subjects or skills</meaning>
+<example>an academy for students</example>

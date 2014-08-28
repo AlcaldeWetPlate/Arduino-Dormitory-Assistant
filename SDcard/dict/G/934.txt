@@ -1,0 +1,3 @@
+<word>nascent</word>
+<meaning>beginning to exist :recently formed or developed</meaning>
+<example>nascent baby chick</example>

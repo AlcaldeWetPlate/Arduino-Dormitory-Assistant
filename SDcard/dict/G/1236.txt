@@ -1,0 +1,3 @@
+<word>tangy</word>
+<meaning>tasting sour like a lemon</meaning>
+<example>the tangy taste of oranges</example>

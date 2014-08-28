@@ -1,0 +1,3 @@
+<word>ancestral</word>
+<meaning>of or belonging to or inherited from an ancestor</meaning>
+<example>an ancestral home</example>

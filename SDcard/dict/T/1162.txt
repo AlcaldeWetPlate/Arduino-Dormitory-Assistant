@@ -1,0 +1,3 @@
+<word>oddly</word>
+<meaning>in a strange or unusual way</meaning>
+<example>act oddly</example>

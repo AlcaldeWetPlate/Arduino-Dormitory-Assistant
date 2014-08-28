@@ -1,0 +1,3 @@
+<word>justly</word>
+<meaning>in accordance with moral or social standards</meaning>
+<example>rule justly on the case</example>

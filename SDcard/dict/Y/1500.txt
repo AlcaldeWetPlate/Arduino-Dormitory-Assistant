@@ -1,0 +1,3 @@
+<word>mass</word>
+<meaning>a large number or amount</meaning>
+<example>a mass of people</example>

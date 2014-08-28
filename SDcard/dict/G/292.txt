@@ -1,0 +1,3 @@
+<word>disinter</word>
+<meaning>to take (a body) out of a grave or tomb :to dig up (a body)</meaning>
+<example>to disinter a body</example>

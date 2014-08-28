@@ -1,0 +1,3 @@
+<word>costly</word>
+<meaning>having a high price :costing a lot</meaning>
+<example>a costly house</example>

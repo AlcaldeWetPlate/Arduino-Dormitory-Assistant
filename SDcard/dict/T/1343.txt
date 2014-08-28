@@ -1,0 +1,3 @@
+<word>glandular</word>
+<meaning>of or relating to glands</meaning>
+<example>a body's glandular problems</example>

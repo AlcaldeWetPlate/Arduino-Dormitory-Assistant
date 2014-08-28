@@ -1,0 +1,3 @@
+<word>lamb</word>
+<meaning>a young sheep</meaning>
+<example>two cute lambs</example>

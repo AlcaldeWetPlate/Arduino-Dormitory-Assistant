@@ -1,0 +1,3 @@
+<word>land</word>
+<meaning>the solid part of the surface of the Earth :an area of ground</meaning>
+<example>beautiful land</example>

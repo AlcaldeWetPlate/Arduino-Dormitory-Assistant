@@ -1,0 +1,3 @@
+<word>replica</word>
+<meaning>an exact or very close copy of something</meaning>
+<example>a replica of the houses</example>

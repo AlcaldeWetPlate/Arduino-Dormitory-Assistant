@@ -1,0 +1,3 @@
+<word>wretched</word>
+<meaning>very unhappy, ill, etc.</meaning>
+<example>a wretched man on the ground</example>

@@ -1,0 +1,3 @@
+<word>delicious</word>
+<meaning>having a smell that suggests a very pleasant taste</meaning>
+<example>a delicious burger</example>

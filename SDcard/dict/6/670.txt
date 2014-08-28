@@ -1,0 +1,3 @@
+<word>illegal</word>
+<meaning>not allowed by the law :not legal</meaning>
+<example>an illegal activity</example>

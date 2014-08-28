@@ -1,0 +1,3 @@
+<word>adherence</word>
+<meaning>the act of adhering</meaning>
+<example>the adherence of the sticky notes</example>

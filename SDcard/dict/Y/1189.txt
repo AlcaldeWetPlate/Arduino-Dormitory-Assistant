@@ -1,0 +1,3 @@
+<word>peasant</word>
+<meaning>a person who is not educated and has low social status</meaning>
+<example>the hardworking peasants</example>

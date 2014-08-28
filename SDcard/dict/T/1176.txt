@@ -1,0 +1,3 @@
+<word>submarine</word>
+<meaning>located below the surface of the water</meaning>
+<example>Submarines travel underwater.</example>

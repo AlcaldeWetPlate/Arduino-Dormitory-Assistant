@@ -1,0 +1,3 @@
+<word>hamstring</word>
+<meaning>a tendon at the back of a person's knee</meaning>
+<example>stretch one's hamstring</example>

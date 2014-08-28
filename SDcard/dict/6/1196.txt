@@ -1,0 +1,3 @@
+<word>initial</word>
+<meaning>occurring at the beginning of something</meaning>
+<example>initial letter of the alphabet</example>

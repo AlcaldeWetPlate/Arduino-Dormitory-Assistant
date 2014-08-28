@@ -1,0 +1,3 @@
+<word>courtly</word>
+<meaning>polite and graceful in a formal way</meaning>
+<example>she likes his courtly manners</example>

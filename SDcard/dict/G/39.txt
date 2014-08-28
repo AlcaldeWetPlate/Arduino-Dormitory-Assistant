@@ -1,0 +1,3 @@
+<word>brash</word>
+<meaning>confident and aggressive in usually a rude or unpleasant way</meaning>
+<example>a brash, rude man</example>

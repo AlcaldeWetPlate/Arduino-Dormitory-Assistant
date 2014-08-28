@@ -1,0 +1,3 @@
+<word>hovel</word>
+<meaning>a small, poorly built and often dirty house</meaning>
+<example>an old wooden hovel</example>

@@ -1,0 +1,3 @@
+<word>rotund</word>
+<meaning>fat and round</meaning>
+<example>a rotund body</example>

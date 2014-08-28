@@ -1,0 +1,3 @@
+<word>auditory</word>
+<meaning>relating to hearing or the ears</meaning>
+<example>Auditory sensations come from the ears.</example>

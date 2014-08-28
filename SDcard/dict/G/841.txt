@@ -1,0 +1,3 @@
+<word>vitriolic</word>
+<meaning>harsh or corrosive in tone</meaning>
+<example>vitriolic insults</example>

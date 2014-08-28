@@ -1,0 +1,3 @@
+<word>fanciful</word>
+<meaning>showing imagination :unusual and appealing</meaning>
+<example>a fanciful picture of a horse</example>

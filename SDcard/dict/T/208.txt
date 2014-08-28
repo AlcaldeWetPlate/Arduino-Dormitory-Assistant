@@ -1,0 +1,3 @@
+<word>memorable</word>
+<meaning>very good or interesting and worth remembering</meaning>
+<example>make tasks more memorable</example>

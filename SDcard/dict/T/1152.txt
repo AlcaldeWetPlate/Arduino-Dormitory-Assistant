@@ -1,0 +1,3 @@
+<word>blizzard</word>
+<meaning>a severe snowstorm that goes on for a long time</meaning>
+<example>a snowy blizzard</example>

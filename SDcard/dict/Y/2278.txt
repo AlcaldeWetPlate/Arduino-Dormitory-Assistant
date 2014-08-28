@@ -1,0 +1,3 @@
+<word>through</word>
+<meaning>into one side and out the other side of (something)</meaning>
+<example>run through a wall</example>

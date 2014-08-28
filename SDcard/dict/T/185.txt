@@ -1,0 +1,3 @@
+<word>laborer</word>
+<meaning>a person who does hard physical work for money</meaning>
+<example>a laborer in his uniform</example>

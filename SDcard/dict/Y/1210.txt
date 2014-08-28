@@ -1,0 +1,3 @@
+<word>discount</word>
+<meaning>an amount taken off a regular price :a price reduction</meaning>
+<example>A discount sale!</example>

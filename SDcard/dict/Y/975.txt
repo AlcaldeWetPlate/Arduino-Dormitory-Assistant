@@ -1,0 +1,3 @@
+<word>adult</word>
+<meaning>a fully grown person or animal</meaning>
+<example>two adults who love each other</example>

@@ -1,0 +1,3 @@
+<word>marshy</word>
+<meaning>(of soil) soft and watery</meaning>
+<example>marshy land</example>

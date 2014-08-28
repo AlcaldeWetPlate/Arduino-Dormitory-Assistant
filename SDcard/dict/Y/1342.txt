@@ -1,0 +1,3 @@
+<word>ashore</word>
+<meaning>on or to the shore of an ocean, sea, lake, or river</meaning>
+<example>The bottle washes ashore.</example>

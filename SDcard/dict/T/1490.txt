@@ -1,0 +1,3 @@
+<word>urbanite</word>
+<meaning>somebody who lives in a city or town</meaning>
+<example>The woman is an urbanite.</example>

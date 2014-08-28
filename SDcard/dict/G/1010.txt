@@ -1,0 +1,3 @@
+<word>falsehood</word>
+<meaning>an untrue statement</meaning>
+<example>Your nose grows when you tell falsehoods.</example>

@@ -1,0 +1,3 @@
+<word>buy</word>
+<meaning>to get (something) by paying money for it</meaning>
+<example>buy a house</example>

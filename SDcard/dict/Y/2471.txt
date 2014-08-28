@@ -1,0 +1,3 @@
+<word>binder</word>
+<meaning>a cover for holding together sheets of paper</meaning>
+<example>neatly stacked binders</example>

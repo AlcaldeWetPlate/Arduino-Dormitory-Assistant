@@ -1,0 +1,3 @@
+<word>dash off</word>
+<meaning>write quickly</meaning>
+<example>dash off a quick note</example>

@@ -1,0 +1,3 @@
+<word>ensure</word>
+<meaning>to make (something) sure, certain, or safe</meaning>
+<example>ensure that everything is OK</example>

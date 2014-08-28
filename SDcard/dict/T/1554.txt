@@ -1,0 +1,3 @@
+<word>awkwardly</word>
+<meaning>in an awkward manner</meaning>
+<example>He types awkwardly.</example>

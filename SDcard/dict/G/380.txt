@@ -1,0 +1,3 @@
+<word>disarray</word>
+<meaning>a lack of order :a confused or messy condition</meaning>
+<example>books and clothing in disarray</example>

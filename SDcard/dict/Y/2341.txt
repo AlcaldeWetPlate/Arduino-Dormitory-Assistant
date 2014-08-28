@@ -1,0 +1,3 @@
+<word>expensive</word>
+<meaning>costing a lot of money</meaning>
+<example>expensive jewelry</example>

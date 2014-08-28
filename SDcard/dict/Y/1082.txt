@@ -1,0 +1,3 @@
+<word>maneuver</word>
+<meaning>a clever or skillful action or movement</meaning>
+<example>maneuver the vehicle</example>

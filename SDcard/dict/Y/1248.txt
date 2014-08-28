@@ -1,0 +1,3 @@
+<word>gloomy</word>
+<meaning>sad or depressed</meaning>
+<example>a gloomy child</example>

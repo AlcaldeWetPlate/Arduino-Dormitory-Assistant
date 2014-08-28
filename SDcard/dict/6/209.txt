@@ -1,0 +1,3 @@
+<word>preserve</word>
+<meaning>to keep (something) in its original state or in good condition</meaning>
+<example>preserve a mosquito's body</example>

@@ -1,0 +1,3 @@
+<word>sink</word>
+<meaning>to move down to a lower position</meaning>
+<example>water from the sink</example>

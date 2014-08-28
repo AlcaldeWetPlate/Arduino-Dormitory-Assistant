@@ -1,0 +1,3 @@
+<word>saddle</word>
+<meaning>a leather-covered seat that is put on the back of a horse</meaning>
+<example>a horse's saddle</example>

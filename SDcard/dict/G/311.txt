@@ -1,0 +1,3 @@
+<word>purloin</word>
+<meaning>to take (something that belongs to someone else)</meaning>
+<example>The thief purloins some money.</example>

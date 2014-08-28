@@ -1,0 +1,3 @@
+<word>discrete</word>
+<meaning>separate and different from each other</meaning>
+<example>discrete units of an abacus</example>

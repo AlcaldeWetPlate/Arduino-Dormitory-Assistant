@@ -1,0 +1,3 @@
+<word>log cabin</word>
+<meaning>a cabin built with logs</meaning>
+<example>a log cabin in the country</example>

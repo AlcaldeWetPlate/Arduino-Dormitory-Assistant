@@ -1,0 +1,3 @@
+<word>credible</word>
+<meaning>able to be believed :reasonable to trust or believe</meaning>
+<example>trust the credible source</example>

@@ -1,0 +1,3 @@
+<word>lyrically</word>
+<meaning>In a manner that is pleasing to hear, as singing</meaning>
+<example>He expresses himself lyrically.</example>

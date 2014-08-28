@@ -1,0 +1,3 @@
+<word>lad</word>
+<meaning>a boy or young man</meaning>
+<example>a young lad in red</example>

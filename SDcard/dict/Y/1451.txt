@@ -1,0 +1,3 @@
+<word>quarrel</word>
+<meaning>an angry argument or disagreement</meaning>
+<example>they quarrel angrily</example>

@@ -1,0 +1,3 @@
+<word>permeate</word>
+<meaning>to pass or spread through (something)</meaning>
+<example>The coffee permeates the water.</example>

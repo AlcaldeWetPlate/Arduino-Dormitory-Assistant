@@ -1,0 +1,3 @@
+<word>full</word>
+<meaning>having a large amount of material</meaning>
+<example>be full of beer</example>

@@ -1,0 +1,3 @@
+<word>spare</word>
+<meaning>to not destroy or harm (something)</meaning>
+<example>a spare tire</example>

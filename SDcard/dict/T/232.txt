@@ -1,0 +1,3 @@
+<word>petal</word>
+<meaning>one of the soft, colorful parts of a flower</meaning>
+<example>flower petals</example>

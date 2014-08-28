@@ -1,0 +1,3 @@
+<word>textile</word>
+<meaning>a fabric that is woven or knit</meaning>
+<example>colorful textiles</example>

@@ -1,0 +1,3 @@
+<word>trap</word>
+<meaning>a device that is used for catching animals</meaning>
+<example>many traps on the ground</example>

@@ -1,0 +1,3 @@
+<word>dispense</word>
+<meaning>to give or provide (something)</meaning>
+<example>dispense cash</example>

@@ -1,0 +1,3 @@
+<word>affix</word>
+<meaning>to attach (something)</meaning>
+<example>affix the notes to the corkboard</example>

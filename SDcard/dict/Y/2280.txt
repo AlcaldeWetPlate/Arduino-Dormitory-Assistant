@@ -1,0 +1,3 @@
+<word>president</word>
+<meaning>the head of the government in some countries</meaning>
+<example>American presidents</example>

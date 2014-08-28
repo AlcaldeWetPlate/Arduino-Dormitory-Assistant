@@ -1,0 +1,3 @@
+<word>expand</word>
+<meaning>to increase in size, range, or amount :to become bigger</meaning>
+<example>The balloon expands.</example>

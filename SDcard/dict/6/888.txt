@@ -1,0 +1,3 @@
+<word>spine</word>
+<meaning>the row of connected bones down the middle of the back</meaning>
+<example>spine pain</example>

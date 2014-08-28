@@ -1,0 +1,3 @@
+<word>existence</word>
+<meaning>the state of existing</meaning>
+<example>the existence of dragons</example>

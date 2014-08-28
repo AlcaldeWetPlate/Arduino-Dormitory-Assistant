@@ -1,0 +1,3 @@
+<word>earth</word>
+<meaning>the planet on which we live</meaning>
+<example>We all live on Earth.</example>

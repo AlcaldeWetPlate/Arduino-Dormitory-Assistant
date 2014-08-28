@@ -1,0 +1,3 @@
+<word>rescue</word>
+<meaning>to save (someone or something) from danger or harm</meaning>
+<example>The firemen rescue the people.</example>

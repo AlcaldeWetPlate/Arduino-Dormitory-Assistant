@@ -1,0 +1,3 @@
+<word>iron</word>
+<meaning>to use a heated iron to make clothing or fabric smooth</meaning>
+<example>iron my shirt</example>

@@ -1,0 +1,3 @@
+<word>rubbery</word>
+<meaning>similar to rubber</meaning>
+<example>rubbery toys</example>

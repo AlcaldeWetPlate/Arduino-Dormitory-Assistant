@@ -1,0 +1,3 @@
+<word>fetter</word>
+<meaning>a chain or shackle for the feet</meaning>
+<example>bound by fetters</example>

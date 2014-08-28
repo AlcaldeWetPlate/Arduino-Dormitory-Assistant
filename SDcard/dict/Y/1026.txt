@@ -1,0 +1,3 @@
+<word>convince</word>
+<meaning>to cause (someone) to believe that something is true</meaning>
+<example>convince the businessmen</example>

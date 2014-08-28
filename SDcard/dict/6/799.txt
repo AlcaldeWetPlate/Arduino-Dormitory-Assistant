@@ -1,0 +1,3 @@
+<word>enroll</word>
+<meaning>to enter (someone) as a member of or participant in something</meaning>
+<example>enroll in classes</example>

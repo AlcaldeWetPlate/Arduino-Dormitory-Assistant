@@ -1,0 +1,3 @@
+<word>inferior</word>
+<meaning>low or lower in rank</meaning>
+<example>feel inferior to the tall man</example>

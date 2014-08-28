@@ -1,0 +1,3 @@
+<word>profound</word>
+<meaning>having or showing great knowledge or understanding</meaning>
+<example>books with profound ideas</example>

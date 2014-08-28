@@ -1,0 +1,3 @@
+<word>darling</word>
+<meaning>a person you love very much</meaning>
+<example>his beautiful darling</example>

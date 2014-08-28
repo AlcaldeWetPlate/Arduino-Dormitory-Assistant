@@ -1,0 +1,3 @@
+<word>taciturn</word>
+<meaning>tending to be quiet :not speaking frequently</meaning>
+<example>a taciturn, silent man</example>

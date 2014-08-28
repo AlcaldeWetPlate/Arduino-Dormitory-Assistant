@@ -1,0 +1,3 @@
+<word>rapid</word>
+<meaning>moving quickly</meaning>
+<example>at a rapid pace</example>

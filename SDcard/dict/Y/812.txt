@@ -1,0 +1,3 @@
+<word>reside</word>
+<meaning>to live in a particular place</meaning>
+<example>reside in a small house</example>

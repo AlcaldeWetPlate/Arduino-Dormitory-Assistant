@@ -1,0 +1,3 @@
+<word>fit</word>
+<meaning>to be suitable or appropriate for (someone or something)</meaning>
+<example>Their heads fit perfectly.</example>

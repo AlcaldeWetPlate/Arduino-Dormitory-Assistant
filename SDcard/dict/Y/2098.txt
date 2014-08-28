@@ -1,0 +1,3 @@
+<word>zoom</word>
+<meaning>to increase suddenly</meaning>
+<example>zoom in on sth. small</example>

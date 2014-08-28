@@ -1,0 +1,3 @@
+<word>theatre</word>
+<meaning>a place to watch movie</meaning>
+<example>a play at the theatre</example>

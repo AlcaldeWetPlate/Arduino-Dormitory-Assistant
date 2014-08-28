@@ -1,0 +1,3 @@
+<word>estate</word>
+<meaning>a large piece of land with a large house on it</meaning>
+<example>a house on an estate</example>

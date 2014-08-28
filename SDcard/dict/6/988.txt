@@ -1,0 +1,3 @@
+<word>hiss</word>
+<meaning>to produce a sound like a long “s” :to make a hiss</meaning>
+<example>The snake hisses.</example>

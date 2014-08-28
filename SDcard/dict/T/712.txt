@@ -1,0 +1,3 @@
+<word>massive</word>
+<meaning>very large and heavy</meaning>
+<example>a massive animal</example>

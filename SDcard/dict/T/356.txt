@@ -1,0 +1,3 @@
+<word>monetary</word>
+<meaning>of or relating to money</meaning>
+<example>saving is monetary planning</example>

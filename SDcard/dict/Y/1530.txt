@@ -1,0 +1,3 @@
+<word>rotary</word>
+<meaning>having a part that turns around a central point like a wheel</meaning>
+<example>an old rotary phone</example>

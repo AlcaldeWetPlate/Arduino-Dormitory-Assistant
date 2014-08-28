@@ -1,0 +1,3 @@
+<word>marble</word>
+<meaning>a little glass ball used in some children's games</meaning>
+<example>colored marbles</example>

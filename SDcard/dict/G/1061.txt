@@ -1,0 +1,3 @@
+<word>staunch</word>
+<meaning>very devoted or loyal to a person, belief, or cause</meaning>
+<example>staunch football fans</example>

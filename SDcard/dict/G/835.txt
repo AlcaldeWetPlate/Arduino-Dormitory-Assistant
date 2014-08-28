@@ -1,0 +1,3 @@
+<word>tumult</word>
+<meaning>a state of noisy confusion or disorder</meaning>
+<example>a tumult among the pigs</example>

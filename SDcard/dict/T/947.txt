@@ -1,0 +1,3 @@
+<word>comical</word>
+<meaning>causing laughter especially by being unusual or unexpected</meaning>
+<example>a comical dog</example>

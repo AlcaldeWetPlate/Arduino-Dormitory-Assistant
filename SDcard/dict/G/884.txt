@@ -1,0 +1,3 @@
+<word>ruminate</word>
+<meaning>to think carefully and deeply about something</meaning>
+<example>ruminate on and think about sth.</example>

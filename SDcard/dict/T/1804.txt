@@ -1,0 +1,3 @@
+<word>encourage</word>
+<meaning>to make (someone) more determined, hopeful, or confident</meaning>
+<example>encourage her to exercise</example>

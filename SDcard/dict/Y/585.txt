@@ -1,0 +1,3 @@
+<word>weird</word>
+<meaning>unusual or strange</meaning>
+<example>It's weird to dress dogs up.</example>

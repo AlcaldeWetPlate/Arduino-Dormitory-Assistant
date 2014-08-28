@@ -1,0 +1,3 @@
+<word>product</word>
+<meaning>something that is made or grown to be sold or used</meaning>
+<example>skincare products</example>

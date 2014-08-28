@@ -1,0 +1,3 @@
+<word>malinger</word>
+<meaning>to pretend to be sick or injured in order to avoid doing work</meaning>
+<example>malinger and fake sickness at work</example>

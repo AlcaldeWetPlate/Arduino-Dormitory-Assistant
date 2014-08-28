@@ -1,0 +1,3 @@
+<word>nap</word>
+<meaning>a short period of sleep especially during the day</meaning>
+<example>nap in the afternoon</example>

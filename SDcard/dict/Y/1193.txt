@@ -1,0 +1,3 @@
+<word>fortunate</word>
+<meaning>having good luck :enjoying good fortune</meaning>
+<example>He's fortunate to make profits.</example>

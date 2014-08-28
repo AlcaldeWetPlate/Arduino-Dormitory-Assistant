@@ -1,0 +1,3 @@
+<word>betrayal</word>
+<meaning>The act of betraying</meaning>
+<example>betrayal of his wife</example>

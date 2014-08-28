@@ -1,0 +1,3 @@
+<word>restrain</word>
+<meaning>to prevent (a person or animal) from doing something</meaning>
+<example>restrain the violent man</example>

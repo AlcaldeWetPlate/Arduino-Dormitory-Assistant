@@ -1,0 +1,3 @@
+<word>hurl</word>
+<meaning>to throw (something) with force</meaning>
+<example>hurl her papers into the air</example>

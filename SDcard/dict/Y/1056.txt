@@ -1,0 +1,3 @@
+<word>bare</word>
+<meaning>not covered by clothing, shoes, a hat, etc.</meaning>
+<example>bare legs</example>

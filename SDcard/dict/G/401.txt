@@ -1,0 +1,3 @@
+<word>prologue</word>
+<meaning>an introduction to a book, play, etc.</meaning>
+<example>prologue of the book</example>

@@ -1,0 +1,3 @@
+<word>toward</word>
+<meaning>in the direction of (something or someone)</meaning>
+<example>race toward the top of the mountai</example>

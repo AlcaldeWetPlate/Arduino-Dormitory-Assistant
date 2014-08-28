@@ -1,0 +1,3 @@
+<word>sequence</word>
+<meaning>a group of things that come one after the other</meaning>
+<example>The moon changes in sequence.</example>

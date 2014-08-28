@@ -1,0 +1,3 @@
+<word>feral</word>
+<meaning>of, relating to, or resembling a wild beast</meaning>
+<example>a feral cat</example>

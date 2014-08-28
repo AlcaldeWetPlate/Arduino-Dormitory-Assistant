@@ -1,0 +1,3 @@
+<word>mankind</word>
+<meaning>all people thought of as one group</meaning>
+<example>mankind's evolution</example>

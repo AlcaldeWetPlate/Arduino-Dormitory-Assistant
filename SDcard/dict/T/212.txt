@@ -1,0 +1,3 @@
+<word>moist</word>
+<meaning>slightly or barely wet :not completely dry</meaning>
+<example>The glass is moist.</example>

@@ -1,0 +1,3 @@
+<word>imitate</word>
+<meaning>to make or do something the same way as (something else)</meaning>
+<example>She imitates her mother.</example>

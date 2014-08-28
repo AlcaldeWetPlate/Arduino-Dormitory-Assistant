@@ -1,0 +1,3 @@
+<word>chromatic</word>
+<meaning>of or relating to a musical scale that has all semitones</meaning>
+<example>a chromatic wheel</example>

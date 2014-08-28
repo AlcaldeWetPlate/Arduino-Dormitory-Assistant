@@ -1,0 +1,3 @@
+<word>knack</word>
+<meaning>an ability, talent, or special skill needed to do something</meaning>
+<example>the cat's knack for playing chess</example>

@@ -1,0 +1,3 @@
+<word>acerbic</word>
+<meaning>expressing harsh or sharp criticism in a clever way</meaning>
+<example>the acerbic taste of a lemon</example>

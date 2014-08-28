@@ -1,0 +1,3 @@
+<word>avoid</word>
+<meaning>to stay away from (someone or something)</meaning>
+<example>avoid his calls</example>

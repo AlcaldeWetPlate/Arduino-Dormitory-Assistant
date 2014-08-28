@@ -1,0 +1,3 @@
+<word>hide</word>
+<meaning>to go to or stay at a place where you cannot be seen or found</meaning>
+<example>hide in the garden</example>

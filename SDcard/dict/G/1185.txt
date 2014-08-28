@@ -1,0 +1,3 @@
+<word>luminary</word>
+<meaning>a very famous or successful person</meaning>
+<example>Steve Jobs was a luminary.</example>

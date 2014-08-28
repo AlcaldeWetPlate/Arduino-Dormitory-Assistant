@@ -1,0 +1,3 @@
+<word>cavern</word>
+<meaning>a large cave</meaning>
+<example>a cavern entrance</example>

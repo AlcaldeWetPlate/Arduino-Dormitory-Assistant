@@ -1,0 +1,3 @@
+<word>fogged</word>
+<meaning>obscured by fog</meaning>
+<example>a fogged up glass</example>

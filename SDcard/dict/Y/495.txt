@@ -1,0 +1,3 @@
+<word>portion</word>
+<meaning>a part of a larger amount, area, etc.</meaning>
+<example>a portion of the pizza</example>

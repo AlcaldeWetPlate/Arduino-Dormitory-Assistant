@@ -1,0 +1,3 @@
+<word>untamed</word>
+<meaning>wild and not controlled by people :not tamed</meaning>
+<example>the untamed lion</example>

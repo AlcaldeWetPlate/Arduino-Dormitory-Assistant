@@ -1,0 +1,3 @@
+<word>woolly</word>
+<meaning>made of wool or resembling wool</meaning>
+<example>the sheep's woolly coat</example>

@@ -1,0 +1,3 @@
+<word>agonize</word>
+<meaning>to think or worry very much about something</meaning>
+<example>agonize over a decision</example>

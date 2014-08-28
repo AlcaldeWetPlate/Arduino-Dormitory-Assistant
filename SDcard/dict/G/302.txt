@@ -1,0 +1,3 @@
+<word>obloquy</word>
+<meaning>harsh or critical statements about someone</meaning>
+<example>the girls' rude obloquy</example>

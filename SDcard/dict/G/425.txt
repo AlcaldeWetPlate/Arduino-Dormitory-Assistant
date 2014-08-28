@@ -1,0 +1,3 @@
+<word>appeal</word>
+<meaning>a quality that causes people to like someone or something</meaning>
+<example>the appeal of money</example>

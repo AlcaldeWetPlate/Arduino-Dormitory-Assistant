@@ -1,0 +1,3 @@
+<word>witness</word>
+<meaning>a person who sees something (such as a crime) happen</meaning>
+<example>a witness to the crime</example>

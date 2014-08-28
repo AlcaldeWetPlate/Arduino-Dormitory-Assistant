@@ -1,0 +1,3 @@
+<word>chapel</word>
+<meaning>a small church</meaning>
+<example>pray in the chapel</example>

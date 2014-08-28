@@ -1,0 +1,3 @@
+<word>homework</word>
+<meaning>work that a student is given to do at home</meaning>
+<example>kids do homework</example>

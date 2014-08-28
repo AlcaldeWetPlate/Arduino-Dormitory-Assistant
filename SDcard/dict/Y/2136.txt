@@ -1,0 +1,3 @@
+<word>rocky</word>
+<meaning>full of rocks :having many rocks</meaning>
+<example>the rocky shoreline</example>

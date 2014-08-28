@@ -1,0 +1,3 @@
+<word>outskirts</word>
+<meaning>the parts of a city or town that are far from the center</meaning>
+<example>houses at the outskirts of town</example>

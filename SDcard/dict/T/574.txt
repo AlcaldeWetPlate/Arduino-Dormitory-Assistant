@@ -1,0 +1,3 @@
+<word>import</word>
+<meaning>to bring a product into a country to be sold</meaning>
+<example>import goods</example>

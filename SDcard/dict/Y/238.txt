@@ -1,0 +1,3 @@
+<word>magnify</word>
+<meaning>to make (something) greater</meaning>
+<example>magnify the picture with a microscope</example>

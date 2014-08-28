@@ -1,0 +1,3 @@
+<word>harvest</word>
+<meaning>to gather (a crop)</meaning>
+<example>harvest his crop</example>

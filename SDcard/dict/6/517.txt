@@ -1,0 +1,3 @@
+<word>liner</word>
+<meaning>something that covers the inner surface of another thing</meaning>
+<example>thick black eye liner</example>

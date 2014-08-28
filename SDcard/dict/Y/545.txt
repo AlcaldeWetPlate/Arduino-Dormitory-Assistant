@@ -1,0 +1,3 @@
+<word>earnest</word>
+<meaning>not fooling :serious and sincere</meaning>
+<example>his earnest attitude</example>

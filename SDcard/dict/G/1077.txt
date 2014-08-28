@@ -1,0 +1,3 @@
+<word>neophyte</word>
+<meaning>a person who has just started learning or doing something</meaning>
+<example>neophyte female student</example>

@@ -1,0 +1,3 @@
+<word>curly</word>
+<meaning>having curls</meaning>
+<example>curly hair</example>

@@ -1,0 +1,3 @@
+<word>obsolete</word>
+<meaning>no longer used because something newer exists</meaning>
+<example>Radios are almost obsolete.</example>

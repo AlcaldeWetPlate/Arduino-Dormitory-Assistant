@@ -1,0 +1,3 @@
+<word>trip</word>
+<meaning>a journey to a place</meaning>
+<example>a trip to the mountain</example>

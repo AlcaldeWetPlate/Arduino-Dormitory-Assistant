@@ -1,0 +1,3 @@
+<word>ministry</word>
+<meaning>a government department or the building in which it is located</meaning>
+<example>the government's Ministry of Defense</example>

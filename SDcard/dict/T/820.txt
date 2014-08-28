@@ -1,0 +1,3 @@
+<word>predict</word>
+<meaning>to say that (something) will or might happen in the future</meaning>
+<example>predict the future</example>

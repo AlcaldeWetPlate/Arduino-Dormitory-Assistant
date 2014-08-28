@@ -1,0 +1,3 @@
+<word>wag</word>
+<meaning>to move something from side to side repeatedly</meaning>
+<example>The dog wags its tail.</example>

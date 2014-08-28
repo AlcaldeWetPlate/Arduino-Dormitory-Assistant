@@ -1,0 +1,3 @@
+<word>somber</word>
+<meaning>having a dull or dark color</meaning>
+<example>gray and somber sky</example>

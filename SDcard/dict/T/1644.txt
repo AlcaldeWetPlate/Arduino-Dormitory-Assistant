@@ -1,0 +1,3 @@
+<word>spoilage</word>
+<meaning>the process or result of decaying</meaning>
+<example>spoilage of the orange</example>

@@ -1,0 +1,3 @@
+<word>limited</word>
+<meaning>not high or great in number, amount, etc.</meaning>
+<example>a limited amount of broccoli</example>

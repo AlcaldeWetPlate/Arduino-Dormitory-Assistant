@@ -1,0 +1,3 @@
+<word>vast</word>
+<meaning>very great in size, amount, or extent</meaning>
+<example>the vast universe</example>

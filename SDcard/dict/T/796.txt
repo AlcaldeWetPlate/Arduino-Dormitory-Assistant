@@ -1,0 +1,3 @@
+<word>assorted</word>
+<meaning>including several kinds</meaning>
+<example>assorted fruits</example>

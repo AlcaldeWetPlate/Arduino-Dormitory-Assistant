@@ -1,0 +1,3 @@
+<word>compact</word>
+<meaning>smaller than other things of the same kind</meaning>
+<example>Smartphones are compact computers.</example>

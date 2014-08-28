@@ -1,0 +1,3 @@
+<word>elicit</word>
+<meaning>to get (a response, information, etc.) from someone</meaning>
+<example>elicit the answer from the students</example>

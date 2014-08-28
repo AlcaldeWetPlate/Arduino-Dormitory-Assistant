@@ -1,0 +1,3 @@
+<word>sedate</word>
+<meaning>quiet and peaceful</meaning>
+<example>be alone and sedate</example>

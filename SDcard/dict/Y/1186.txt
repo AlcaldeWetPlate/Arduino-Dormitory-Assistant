@@ -1,0 +1,3 @@
+<word>historian</word>
+<meaning>a person who studies or writes about history</meaning>
+<example>historian studying history</example>

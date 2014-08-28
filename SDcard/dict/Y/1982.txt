@@ -1,0 +1,3 @@
+<word>selection</word>
+<meaning>someone or something that is chosen from a group</meaning>
+<example>a selection of flowers</example>

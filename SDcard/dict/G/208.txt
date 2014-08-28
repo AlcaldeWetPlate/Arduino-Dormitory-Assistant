@@ -1,0 +1,3 @@
+<word>temporal</word>
+<meaning>of or relating to life on the earth and not spiritual life</meaning>
+<example>the church's temporal needs</example>

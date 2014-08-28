@@ -1,0 +1,3 @@
+<word>slavery</word>
+<meaning>the state of being a slave</meaning>
+<example>African slavery</example>

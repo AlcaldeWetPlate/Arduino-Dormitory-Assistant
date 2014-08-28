@@ -1,0 +1,3 @@
+<word>vastness</word>
+<meaning>unusual largeness in size or extent</meaning>
+<example>vastness of the field</example>

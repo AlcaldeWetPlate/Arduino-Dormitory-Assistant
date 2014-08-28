@@ -1,0 +1,3 @@
+<word>meet</word>
+<meaning>to come together formally :to have a meeting</meaning>
+<example>meet with colleagues</example>

@@ -1,0 +1,3 @@
+<word>butcher</word>
+<meaning>someone who cuts and sells meat in a shop</meaning>
+<example>The butcher cuts meat.</example>

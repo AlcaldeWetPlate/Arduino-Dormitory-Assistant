@@ -1,0 +1,3 @@
+<word>gigantic</word>
+<meaning>extremely large</meaning>
+<example>an ancient, gigantic animal</example>

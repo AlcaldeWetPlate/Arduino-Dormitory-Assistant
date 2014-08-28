@@ -1,0 +1,3 @@
+<word>select</word>
+<meaning>to choose (someone or something) from a group</meaning>
+<example>select one dress</example>

@@ -1,0 +1,3 @@
+<word>specific</word>
+<meaning>special or particular</meaning>
+<example>want that specific peach</example>

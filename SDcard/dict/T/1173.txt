@@ -1,0 +1,3 @@
+<word>Baroque</word>
+<meaning>having elaborate symmetrical ornamentation</meaning>
+<example>Baroque buildings</example>

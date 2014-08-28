@@ -1,0 +1,3 @@
+<word>spat</word>
+<meaning>a short argument about something that is not important</meaning>
+<example>a spat about paying rent</example>

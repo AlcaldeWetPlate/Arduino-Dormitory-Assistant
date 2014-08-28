@@ -1,0 +1,3 @@
+<word>fret</word>
+<meaning>to worry or be concerned</meaning>
+<example>fret about sth. worrying</example>

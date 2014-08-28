@@ -1,0 +1,3 @@
+<word>innocence</word>
+<meaning>the state of being innocent</meaning>
+<example>innocence of children</example>

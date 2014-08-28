@@ -1,0 +1,3 @@
+<word>transit</word>
+<meaning>the act of moving people or things from one place to another</meaning>
+<example>cargo containers in transit</example>

@@ -1,0 +1,3 @@
+<word>nurture</word>
+<meaning>to help (something or someone) to grow, develop, or succeed</meaning>
+<example>nurture the plant</example>

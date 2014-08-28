@@ -1,0 +1,3 @@
+<word>stern</word>
+<meaning>very serious especially in an unfriendly way</meaning>
+<example>a stern expression</example>

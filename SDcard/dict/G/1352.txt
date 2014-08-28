@@ -1,0 +1,3 @@
+<word>ill-bred</word>
+<meaning>rude and impolite :having or showing bad manners</meaning>
+<example>The ill-bred man is too loud.</example>

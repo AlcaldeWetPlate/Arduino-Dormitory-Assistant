@@ -1,0 +1,3 @@
+<word>dive</word>
+<meaning>to jump into water with your arms and head going in first</meaning>
+<example>dive into the water</example>

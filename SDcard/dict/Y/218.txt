@@ -1,0 +1,3 @@
+<word>inclusive</word>
+<meaning>covering or including everything</meaning>
+<example>an inclusive survey</example>

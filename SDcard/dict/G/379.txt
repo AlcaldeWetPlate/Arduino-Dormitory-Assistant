@@ -1,0 +1,3 @@
+<word>commotion</word>
+<meaning>noisy excitement and confusion</meaning>
+<example>The elephants make a commotion.</example>

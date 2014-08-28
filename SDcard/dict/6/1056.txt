@@ -1,0 +1,3 @@
+<word>pantry</word>
+<meaning>a small room in a house in which food is stored</meaning>
+<example>store the food in the pantry</example>

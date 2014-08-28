@@ -1,0 +1,3 @@
+<word>paw</word>
+<meaning>the foot of an animal that has claws</meaning>
+<example>a dog's paw</example>

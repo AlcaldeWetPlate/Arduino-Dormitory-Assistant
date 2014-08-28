@@ -1,0 +1,3 @@
+<word>manual</word>
+<meaning>of or relating to using the hands</meaning>
+<example>the car's manual transmission</example>

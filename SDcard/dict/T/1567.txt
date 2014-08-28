@@ -1,0 +1,3 @@
+<word>break up</word>
+<meaning>to cause to separate and go in different directions</meaning>
+<example>break up with her boyfriend</example>

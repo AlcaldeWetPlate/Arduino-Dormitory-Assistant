@@ -1,0 +1,3 @@
+<word>sea</word>
+<meaning>the salt water that covers much of the Earth's surface</meaning>
+<example>sit by the sea</example>

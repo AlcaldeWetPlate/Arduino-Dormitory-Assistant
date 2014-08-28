@@ -1,0 +1,3 @@
+<word>extensive</word>
+<meaning>large in size or amount :very full or complete</meaning>
+<example>extensive flooding</example>

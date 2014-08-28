@@ -1,0 +1,3 @@
+<word>monstrous</word>
+<meaning>very ugly, cruel, or vicious</meaning>
+<example>a monstrous dinosaur</example>

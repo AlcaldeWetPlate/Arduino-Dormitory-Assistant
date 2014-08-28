@@ -1,0 +1,3 @@
+<word>conceit</word>
+<meaning>an idea that shows imagination</meaning>
+<example>the fat man's conceit</example>

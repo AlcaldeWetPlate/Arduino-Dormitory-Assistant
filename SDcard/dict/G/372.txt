@@ -1,0 +1,3 @@
+<word>gloss</word>
+<meaning>the brightness of a smooth and shiny surface</meaning>
+<example>apply lip gloss</example>

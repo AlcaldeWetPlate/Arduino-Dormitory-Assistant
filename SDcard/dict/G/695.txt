@@ -1,0 +1,3 @@
+<word>husk</word>
+<meaning>a usually thin, dry layer that covers some seeds and fruits</meaning>
+<example>remove the husks from the corn</example>

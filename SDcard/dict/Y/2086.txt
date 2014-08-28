@@ -1,0 +1,3 @@
+<word>liar</word>
+<meaning>a person who tells lies</meaning>
+<example>The liar does not tell the truth.</example>

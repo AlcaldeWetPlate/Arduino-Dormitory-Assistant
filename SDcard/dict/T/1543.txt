@@ -1,0 +1,3 @@
+<word>nonverbal</word>
+<meaning>not involving or using words</meaning>
+<example>nonverbal communication</example>

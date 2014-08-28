@@ -1,0 +1,3 @@
+<word>soloist</word>
+<meaning>a person who performs a musical solo</meaning>
+<example>the cello soloist</example>

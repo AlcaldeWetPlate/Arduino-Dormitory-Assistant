@@ -1,0 +1,3 @@
+<word>flounder</word>
+<meaning>a type of fish that has a flat body and that is eaten as food</meaning>
+<example>a dead flounder</example>

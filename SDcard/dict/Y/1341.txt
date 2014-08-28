@@ -1,0 +1,3 @@
+<word>watt</word>
+<meaning>a unit for measuring electrical power</meaning>
+<example>How many watts per hour?</example>

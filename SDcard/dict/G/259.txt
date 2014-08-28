@@ -1,0 +1,3 @@
+<word>shiftless</word>
+<meaning>lacking ambition and energy</meaning>
+<example>shiftless couch potato</example>

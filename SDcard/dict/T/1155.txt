@@ -1,0 +1,3 @@
+<word>dime</word>
+<meaning>a U.S. or Canadian coin that is worth 10 cents</meaning>
+<example>A dime will not buy much.</example>

@@ -1,0 +1,3 @@
+<word>nibble</word>
+<meaning>to eat slowly or with small bites</meaning>
+<example>the rat nibbles on food</example>

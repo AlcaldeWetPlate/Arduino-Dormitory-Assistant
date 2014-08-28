@@ -1,0 +1,3 @@
+<word>quantum</word>
+<meaning>the smallest amount of many forms of energy (such as light)</meaning>
+<example>quantum physics</example>

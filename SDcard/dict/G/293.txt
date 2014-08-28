@@ -1,0 +1,3 @@
+<word>dissemble</word>
+<meaning>to hide your true feelings, opinions, etc.</meaning>
+<example>dissemble her feelings</example>

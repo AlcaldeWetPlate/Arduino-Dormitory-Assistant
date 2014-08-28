@@ -1,0 +1,3 @@
+<word>sarcastic</word>
+<meaning>using or showing sarcasm</meaning>
+<example>a sarcastic attitude</example>

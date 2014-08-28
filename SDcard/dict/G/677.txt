@@ -1,0 +1,3 @@
+<word>tasty</word>
+<meaning>having a good flavor :pleasing to the taste</meaning>
+<example>the tasty pizza</example>

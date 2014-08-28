@@ -1,0 +1,3 @@
+<word>quiescent</word>
+<meaning>not active</meaning>
+<example>the quiescent volcano</example>

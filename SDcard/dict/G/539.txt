@@ -1,0 +1,3 @@
+<word>oblique</word>
+<meaning>not direct :not stated directly</meaning>
+<example>angled and oblique lines</example>

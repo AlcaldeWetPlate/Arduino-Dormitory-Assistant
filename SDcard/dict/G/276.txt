@@ -1,0 +1,3 @@
+<word>reprobate</word>
+<meaning>a person who behaves in a morally wrong way</meaning>
+<example>an evil reprobate</example>

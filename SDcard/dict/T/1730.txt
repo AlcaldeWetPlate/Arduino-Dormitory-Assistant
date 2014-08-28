@@ -1,0 +1,3 @@
+<word>balmy</word>
+<meaning>warm, calm, and pleasant</meaning>
+<example>the balmy forest</example>

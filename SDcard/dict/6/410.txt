@@ -1,0 +1,3 @@
+<word>maximum</word>
+<meaning>greatest possible in amount or degree</meaning>
+<example>maximum energy</example>

@@ -1,0 +1,3 @@
+<word>fancy</word>
+<meaning>very expensive and fashionable</meaning>
+<example>a fancy dinner</example>

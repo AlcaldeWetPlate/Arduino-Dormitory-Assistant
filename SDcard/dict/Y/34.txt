@@ -1,0 +1,3 @@
+<word>aptitude</word>
+<meaning>a natural ability to do something or to learn something</meaning>
+<example>an aptitude for science</example>

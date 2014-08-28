@@ -1,0 +1,3 @@
+<word>jest</word>
+<meaning>something said or done to cause laughter</meaning>
+<example>make a funny jest</example>

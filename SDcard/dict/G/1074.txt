@@ -1,0 +1,3 @@
+<word>autocracy</word>
+<meaning>a country that is ruled by a person or group with total power</meaning>
+<example>a symbol of autocracy</example>

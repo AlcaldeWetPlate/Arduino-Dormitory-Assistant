@@ -1,0 +1,3 @@
+<word>hatchet</word>
+<meaning>a small ax that has a short handle</meaning>
+<example>hatchets are weapons</example>

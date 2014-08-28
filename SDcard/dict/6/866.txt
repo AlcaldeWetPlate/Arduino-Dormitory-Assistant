@@ -1,0 +1,3 @@
+<word>define</word>
+<meaning>to explain the meaning of (a word, phrase, etc.)</meaning>
+<example>Define the meaning of respect.</example>

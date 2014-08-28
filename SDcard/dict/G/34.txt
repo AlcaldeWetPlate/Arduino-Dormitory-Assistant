@@ -1,0 +1,3 @@
+<word>banal</word>
+<meaning>boring or ordinary :not interesting</meaning>
+<example>banal, boring math</example>

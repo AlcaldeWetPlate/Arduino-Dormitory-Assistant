@@ -1,0 +1,3 @@
+<word>hermetic</word>
+<meaning>closed tightly so that no air can go in or out</meaning>
+<example>a hermetic seal</example>

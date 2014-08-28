@@ -1,0 +1,3 @@
+<word>nominal</word>
+<meaning>existing as something in name only :not actual or real</meaning>
+<example>a nominal head of state</example>

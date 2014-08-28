@@ -1,0 +1,3 @@
+<word>reconvene</word>
+<meaning>to cause (a group of people) to meet again after a break</meaning>
+<example>reconvene the meeting at the beach</example>

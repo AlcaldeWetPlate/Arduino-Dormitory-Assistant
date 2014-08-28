@@ -1,0 +1,3 @@
+<word>tablet</word>
+<meaning>a flat piece of stone, clay, or wood that has writing on it</meaning>
+<example>a stone tablet</example>

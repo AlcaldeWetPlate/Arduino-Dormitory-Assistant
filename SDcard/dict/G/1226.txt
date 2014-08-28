@@ -1,0 +1,3 @@
+<word>effluvium</word>
+<meaning>a foul-smelling outflow or vapor (especially a gaseous waste)</meaning>
+<example>dump the effluvium into the river</example>

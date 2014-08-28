@@ -1,0 +1,3 @@
+<word>craft</word>
+<meaning>objects made by skillful use of the hands</meaning>
+<example>do crafts with kids</example>

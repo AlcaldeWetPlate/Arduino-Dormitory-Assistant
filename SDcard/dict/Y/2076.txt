@@ -1,0 +1,3 @@
+<word>monitor</word>
+<meaning>a device that shows information or images on a screen</meaning>
+<example>the computer monitor</example>

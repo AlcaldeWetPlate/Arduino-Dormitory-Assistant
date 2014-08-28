@@ -1,0 +1,3 @@
+<word>face</word>
+<meaning>a front or outer surface of something</meaning>
+<example>her pretty face</example>

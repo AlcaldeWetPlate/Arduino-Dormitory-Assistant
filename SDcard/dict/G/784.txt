@@ -1,0 +1,3 @@
+<word>nexus</word>
+<meaning>a relationship or connection between people or things</meaning>
+<example>nexus of friends</example>

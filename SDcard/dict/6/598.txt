@@ -1,0 +1,3 @@
+<word>abuse</word>
+<meaning>to attack (someone) in words</meaning>
+<example>child abuse</example>

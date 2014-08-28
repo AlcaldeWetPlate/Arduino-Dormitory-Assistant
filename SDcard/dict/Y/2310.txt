@@ -1,0 +1,3 @@
+<word>violinist</word>
+<meaning>a person who plays the violin</meaning>
+<example>a young violinist</example>

@@ -1,0 +1,3 @@
+<word>freshly</word>
+<meaning>very recently</meaning>
+<example>freshly baked bread</example>

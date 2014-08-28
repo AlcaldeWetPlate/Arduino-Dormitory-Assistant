@@ -1,0 +1,3 @@
+<word>big deal</word>
+<meaning>something that is very important</meaning>
+<example>a big deal to be a VIP</example>

@@ -1,0 +1,3 @@
+<word>shopworn</word>
+<meaning>faded or damaged from being in a shop or store for too long</meaning>
+<example>the old, shopworn stuffed animals</example>

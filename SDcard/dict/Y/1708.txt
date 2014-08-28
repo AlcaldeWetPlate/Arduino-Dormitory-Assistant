@@ -1,0 +1,3 @@
+<word>nephew</word>
+<meaning>a son of your brother or sister</meaning>
+<example>kiss my nephew</example>

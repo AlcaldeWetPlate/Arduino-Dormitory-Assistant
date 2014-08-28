@@ -1,0 +1,3 @@
+<word>inclined</word>
+<meaning>having a slope</meaning>
+<example>an inclined ladder</example>

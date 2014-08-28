@@ -1,0 +1,3 @@
+<word>spark</word>
+<meaning>a short, bright flash of electricity between two points</meaning>
+<example>a hot, orange spark</example>

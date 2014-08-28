@@ -1,0 +1,3 @@
+<word>clatter</word>
+<meaning>a rattling noise (often produced by rapid movement)</meaning>
+<example>the clatter of shoes</example>

@@ -1,0 +1,3 @@
+<word>lumbering</word>
+<meaning>the activity or business of making lumber from logs</meaning>
+<example>a lumbering giant</example>

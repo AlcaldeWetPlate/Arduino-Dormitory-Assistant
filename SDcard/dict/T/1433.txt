@@ -1,0 +1,3 @@
+<word>tally</word>
+<meaning>a recorded count of scores, votes, etc.</meaning>
+<example>tally the scores</example>

@@ -1,0 +1,3 @@
+<word>abscond</word>
+<meaning>to go away or escape from a place secretly</meaning>
+<example>abscond with the suitcase</example>

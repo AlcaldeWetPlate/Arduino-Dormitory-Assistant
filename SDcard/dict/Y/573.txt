@@ -1,0 +1,3 @@
+<word>thumb</word>
+<meaning>the short, thick finger on the side of your hand</meaning>
+<example>many thumbs up</example>

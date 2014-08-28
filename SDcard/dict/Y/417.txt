@@ -1,0 +1,3 @@
+<word>fault</word>
+<meaning>a mistake that results in a bad serve</meaning>
+<example>it's his fault and his problem</example>

@@ -1,0 +1,3 @@
+<word>user</word>
+<meaning>a person or thing that uses something</meaning>
+<example>a user of baicizhan.com!</example>

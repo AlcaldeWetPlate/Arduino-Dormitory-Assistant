@@ -1,0 +1,3 @@
+<word>harmful</word>
+<meaning>causing or capable of causing damage or harm</meaning>
+<example>harmful smoke</example>

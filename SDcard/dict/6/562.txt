@@ -1,0 +1,3 @@
+<word>concept</word>
+<meaning>an idea of what something is or how it works</meaning>
+<example>explain the concept</example>

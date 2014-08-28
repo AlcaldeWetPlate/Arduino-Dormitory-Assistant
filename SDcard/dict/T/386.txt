@@ -1,0 +1,3 @@
+<word>insight</word>
+<meaning>an understanding of the true nature of something</meaning>
+<example>an idea and a new insight</example>

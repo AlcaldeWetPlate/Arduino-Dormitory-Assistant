@@ -1,0 +1,3 @@
+<word>prodigal</word>
+<meaning>carelessly and foolishly spending money, time, etc.</meaning>
+<example>The prodigal son returns to his father.</example>

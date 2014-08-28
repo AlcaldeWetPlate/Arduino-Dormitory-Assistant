@@ -1,0 +1,3 @@
+<word>lawful</word>
+<meaning>allowed by the law</meaning>
+<example>a lawful judgement</example>

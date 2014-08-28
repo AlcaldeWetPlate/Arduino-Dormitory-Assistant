@@ -1,0 +1,3 @@
+<word>underline</word>
+<meaning>to draw a line under (something)</meaning>
+<example>underline the word</example>

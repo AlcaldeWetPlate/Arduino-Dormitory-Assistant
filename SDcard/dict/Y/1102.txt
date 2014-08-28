@@ -1,0 +1,3 @@
+<word>Orthodox</word>
+<meaning>adhering to what is commonly accepted</meaning>
+<example>orthodox Christianity</example>

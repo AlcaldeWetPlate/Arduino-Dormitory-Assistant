@@ -1,0 +1,3 @@
+<word>hortative</word>
+<meaning>giving strong encouragement</meaning>
+<example>The father is hortative with his son.</example>

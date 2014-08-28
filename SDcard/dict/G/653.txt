@@ -1,0 +1,3 @@
+<word>jubilant</word>
+<meaning>feeling or expressing great joy :very happy</meaning>
+<example>a jubilant smile</example>

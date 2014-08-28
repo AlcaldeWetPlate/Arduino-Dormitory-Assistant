@@ -1,0 +1,3 @@
+<word>herd</word>
+<meaning>a group of animals that live or are kept together</meaning>
+<example>the herd of sheep</example>

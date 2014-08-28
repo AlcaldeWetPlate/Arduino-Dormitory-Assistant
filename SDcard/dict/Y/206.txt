@@ -1,0 +1,3 @@
+<word>heartache</word>
+<meaning>a strong feeling of sadness</meaning>
+<example>heartache after the breakup</example>

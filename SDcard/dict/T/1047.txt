@@ -1,0 +1,3 @@
+<word>cast off</word>
+<meaning>get rid of</meaning>
+<example>cast off old furniture</example>

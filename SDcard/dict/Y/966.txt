@@ -1,0 +1,3 @@
+<word>route</word>
+<meaning>a way to get from one place to another place</meaning>
+<example>a highway route</example>

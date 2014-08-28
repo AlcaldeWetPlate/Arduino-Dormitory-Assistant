@@ -1,0 +1,3 @@
+<word>bison</word>
+<meaning>a large, hairy wild animal that has a big head and short horns</meaning>
+<example>a big black bison</example>

@@ -1,0 +1,3 @@
+<word>frisky</word>
+<meaning>very playful or lively</meaning>
+<example>a frisky puppy</example>

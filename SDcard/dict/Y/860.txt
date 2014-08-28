@@ -1,0 +1,3 @@
+<word>physician</word>
+<meaning>a medical doctor</meaning>
+<example>an old physician</example>

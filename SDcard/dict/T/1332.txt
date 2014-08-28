@@ -1,0 +1,3 @@
+<word>annoying</word>
+<meaning>causing irritation or annoyance</meaning>
+<example>the annoying baby</example>

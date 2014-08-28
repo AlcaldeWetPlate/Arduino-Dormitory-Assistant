@@ -1,0 +1,3 @@
+<word>sermon</word>
+<meaning>a serious talk about how someone should behave</meaning>
+<example>a sermon in church</example>

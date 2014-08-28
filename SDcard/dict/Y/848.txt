@@ -1,0 +1,3 @@
+<word>rot</word>
+<meaning>to slowly decay or cause (something) to decay</meaning>
+<example>The apple rots.</example>

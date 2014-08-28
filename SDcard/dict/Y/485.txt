@@ -1,0 +1,3 @@
+<word>sovereign</word>
+<meaning>having unlimited power or authority</meaning>
+<example>a sovereign ruler</example>

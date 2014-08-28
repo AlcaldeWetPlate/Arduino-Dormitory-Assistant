@@ -1,0 +1,3 @@
+<word>battle</word>
+<meaning>a fight between two different or opposite forces</meaning>
+<example>a battle between good and evil</example>

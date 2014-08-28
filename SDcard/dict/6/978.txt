@@ -1,0 +1,3 @@
+<word>fund</word>
+<meaning>an amount of money that is used for a special purpose</meaning>
+<example>plenty of funds</example>

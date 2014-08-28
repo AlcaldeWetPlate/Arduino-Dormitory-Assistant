@@ -1,0 +1,3 @@
+<word>purify</word>
+<meaning>to make (something or someone) pure</meaning>
+<example>purify the water</example>

@@ -1,0 +1,3 @@
+<word>gadget</word>
+<meaning>a small, useful device</meaning>
+<example>electronic gadgets</example>

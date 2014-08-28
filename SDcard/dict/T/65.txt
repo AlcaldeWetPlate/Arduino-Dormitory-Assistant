@@ -1,0 +1,3 @@
+<word>colossal</word>
+<meaning>very large or great</meaning>
+<example>a colossal pumpkin</example>

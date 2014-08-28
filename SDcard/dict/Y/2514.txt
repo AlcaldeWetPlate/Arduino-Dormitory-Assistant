@@ -1,0 +1,3 @@
+<word>just</word>
+<meaning>to an exact degree or in an exact manner</meaning>
+<example>It fits just right.</example>

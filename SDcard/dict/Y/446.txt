@@ -1,0 +1,3 @@
+<word>plot</word>
+<meaning>a series of events that form the story in a novel, movie, etc.</meaning>
+<example>a romantic plot</example>

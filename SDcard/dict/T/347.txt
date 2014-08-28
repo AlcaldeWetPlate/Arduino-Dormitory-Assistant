@@ -1,0 +1,3 @@
+<word>impose</word>
+<meaning>to force someone to accept (something or yourself)</meaning>
+<example>impose his idea on his employee</example>

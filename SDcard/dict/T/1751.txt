@@ -1,0 +1,3 @@
+<word>platelike</word>
+<meaning>like a plate</meaning>
+<example>reptiles' platelike skin</example>

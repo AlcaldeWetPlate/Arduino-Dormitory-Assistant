@@ -1,0 +1,3 @@
+<word>plunge</word>
+<meaning>to fall or jump suddenly from a high place</meaning>
+<example>plunge into the water</example>

@@ -1,0 +1,3 @@
+<word>graft</word>
+<meaning>to attach (a part of a plant) to another plant</meaning>
+<example>graft a tree</example>

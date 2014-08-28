@@ -1,0 +1,3 @@
+<word>attire</word>
+<meaning>clothing</meaning>
+<example>wear formal attire</example>

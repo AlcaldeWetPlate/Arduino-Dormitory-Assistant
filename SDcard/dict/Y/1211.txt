@@ -1,0 +1,3 @@
+<word>bull</word>
+<meaning>an adult male animal of the ox and cow family</meaning>
+<example>a bull with two horns</example>

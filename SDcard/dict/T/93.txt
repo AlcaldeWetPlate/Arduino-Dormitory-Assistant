@@ -1,0 +1,3 @@
+<word>devise</word>
+<meaning>to invent or plan (something that is difficult or complicated)</meaning>
+<example>devise a plan</example>

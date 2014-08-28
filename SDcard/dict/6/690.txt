@@ -1,0 +1,3 @@
+<word>adoption</word>
+<meaning>the act or process of adopting a child</meaning>
+<example>Adoption builds families.</example>

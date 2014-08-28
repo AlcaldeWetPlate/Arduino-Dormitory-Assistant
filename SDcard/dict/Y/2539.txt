@@ -1,0 +1,3 @@
+<word>holdup</word>
+<meaning>a robbery that is done using a gun</meaning>
+<example>point a gun during the holdup</example>

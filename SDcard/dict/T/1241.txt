@@ -1,0 +1,3 @@
+<word>labyrinth</word>
+<meaning>a place that has many confusing paths or passages</meaning>
+<example>be lost in a labyrinth</example>

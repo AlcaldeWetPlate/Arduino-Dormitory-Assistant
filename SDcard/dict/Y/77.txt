@@ -1,0 +1,3 @@
+<word>bypass</word>
+<meaning>a road that goes around a blocked or very crowded area</meaning>
+<example>bypass the maze</example>

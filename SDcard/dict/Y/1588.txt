@@ -1,0 +1,3 @@
+<word>strict</word>
+<meaning>demanding that people obey rules or behave in a certain way</meaning>
+<example>a strict teacher</example>

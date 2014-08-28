@@ -1,0 +1,3 @@
+<word>master</word>
+<meaning>a person who has become very skilled at doing something</meaning>
+<example>a martial arts master</example>

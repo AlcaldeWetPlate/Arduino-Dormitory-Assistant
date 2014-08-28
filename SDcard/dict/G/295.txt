@@ -1,0 +1,3 @@
+<word>doff</word>
+<meaning>to take off or remove (a hat or a piece of clothing)</meaning>
+<example>doffs her hat</example>

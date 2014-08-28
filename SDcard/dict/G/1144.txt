@@ -1,0 +1,3 @@
+<word>hallow</word>
+<meaning>render holy by means of religious rites</meaning>
+<example>hallow a Buddhist statue</example>

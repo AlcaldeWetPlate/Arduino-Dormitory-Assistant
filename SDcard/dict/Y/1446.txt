@@ -1,0 +1,3 @@
+<word>tense</word>
+<meaning>not relaxed but hard and tight</meaning>
+<example>feeling tense at work</example>

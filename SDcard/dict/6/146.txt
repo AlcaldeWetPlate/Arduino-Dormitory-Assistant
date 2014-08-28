@@ -1,0 +1,3 @@
+<word>lounge</word>
+<meaning>a long chair or couch</meaning>
+<example>lounge on the sofa</example>

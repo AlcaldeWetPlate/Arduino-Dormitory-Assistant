@@ -1,0 +1,3 @@
+<word>exact</word>
+<meaning>fully and completely correct or accurate</meaning>
+<example>be exact in your measurements</example>

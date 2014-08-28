@@ -1,0 +1,3 @@
+<word>choleric</word>
+<meaning>made angry easily</meaning>
+<example>a choleric, angry man</example>

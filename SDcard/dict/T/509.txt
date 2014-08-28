@@ -1,0 +1,3 @@
+<word>undergo</word>
+<meaning>to experience or endure (something)</meaning>
+<example>undergo surgery</example>

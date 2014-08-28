@@ -1,0 +1,3 @@
+<word>dismay</word>
+<meaning>a strong feeling of being worried, disappointed, or upset</meaning>
+<example>cry out in dismay</example>

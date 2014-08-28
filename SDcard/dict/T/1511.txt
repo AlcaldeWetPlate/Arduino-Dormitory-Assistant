@@ -1,0 +1,3 @@
+<word>dismember</word>
+<meaning>to cut or tear (a body) into pieces</meaning>
+<example>dismember the doll</example>

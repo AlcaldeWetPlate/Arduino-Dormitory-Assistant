@@ -1,0 +1,3 @@
+<word>become</word>
+<meaning>to begin to be or come to be something specified</meaning>
+<example>become a fully blossomed plant</example>

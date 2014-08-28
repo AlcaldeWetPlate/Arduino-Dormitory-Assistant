@@ -1,0 +1,3 @@
+<word>ruffle</word>
+<meaning>to move or lift (something) so that it is no longer smooth</meaning>
+<example>The water ruffles in the wind.</example>

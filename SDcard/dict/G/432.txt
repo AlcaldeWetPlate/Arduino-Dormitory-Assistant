@@ -1,0 +1,3 @@
+<word>movement</word>
+<meaning>the act of moving your body or a part of your body</meaning>
+<example>dancing movements</example>

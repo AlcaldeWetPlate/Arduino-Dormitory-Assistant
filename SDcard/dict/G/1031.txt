@@ -1,0 +1,3 @@
+<word>pitiless</word>
+<meaning>very cruel :having or showing no pity</meaning>
+<example>a pitiless villain</example>

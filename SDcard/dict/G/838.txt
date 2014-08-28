@@ -1,0 +1,3 @@
+<word>inception</word>
+<meaning>the time at which something begins</meaning>
+<example>inception of the U.S.A.</example>

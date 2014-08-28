@@ -1,0 +1,3 @@
+<word>formulae</word>
+<meaning>a group of symbols that make a mathematical statement</meaning>
+<example>formulae like e=mc^2</example>

@@ -1,0 +1,3 @@
+<word>campaign</word>
+<meaning>a series of activities designed to produce a particular result</meaning>
+<example>a campaign against corruption</example>

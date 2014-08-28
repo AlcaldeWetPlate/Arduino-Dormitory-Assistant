@@ -1,0 +1,3 @@
+<word>client</word>
+<meaning>a customer in a shop or hotel</meaning>
+<example>discuss with clients</example>

@@ -1,0 +1,3 @@
+<word>enhance</word>
+<meaning>to increase or improve (something)</meaning>
+<example>enhance productivity</example>

@@ -1,0 +1,3 @@
+<word>infamous</word>
+<meaning>well-known for being bad :known for evil acts or crimes</meaning>
+<example>the infamous pirate captain</example>

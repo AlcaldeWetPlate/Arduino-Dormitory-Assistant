@@ -1,0 +1,3 @@
+<word>stick</word>
+<meaning>a cut or broken branch or twig</meaning>
+<example>five wooden sticks</example>

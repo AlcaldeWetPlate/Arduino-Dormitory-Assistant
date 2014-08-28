@@ -1,0 +1,3 @@
+<word>beneath</word>
+<meaning>hidden under (something)</meaning>
+<example>beneath the water's surface</example>

@@ -1,0 +1,3 @@
+<word>lively</word>
+<meaning>very active and energetic</meaning>
+<example>lively old folks</example>

@@ -1,0 +1,3 @@
+<word>corps</word>
+<meaning>a large military group consisting of two or more divisions</meaning>
+<example>an Army corps</example>

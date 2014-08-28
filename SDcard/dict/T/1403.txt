@@ -1,0 +1,3 @@
+<word>illegible</word>
+<meaning>not clear enough to read :not legible</meaning>
+<example>the illegible handwriting</example>

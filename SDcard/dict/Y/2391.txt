@@ -1,0 +1,3 @@
+<word>useful</word>
+<meaning>helping to do or achieve something</meaning>
+<example>a useful tool</example>

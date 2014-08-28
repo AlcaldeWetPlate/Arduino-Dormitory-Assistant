@@ -1,0 +1,3 @@
+<word>quest</word>
+<meaning>a journey made in search of something</meaning>
+<example>the Monkey King's quest</example>

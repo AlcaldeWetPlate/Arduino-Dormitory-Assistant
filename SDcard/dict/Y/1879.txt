@@ -1,0 +1,3 @@
+<word>onward</word>
+<meaning>to or toward what is ahead in space or time</meaning>
+<example>Onward! Keep running!</example>

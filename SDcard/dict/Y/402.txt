@@ -1,0 +1,3 @@
+<word>decade</word>
+<meaning>a period of 10 years</meaning>
+<example>One decade is ten years.</example>

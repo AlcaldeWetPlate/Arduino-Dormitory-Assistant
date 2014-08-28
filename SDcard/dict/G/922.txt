@@ -1,0 +1,3 @@
+<word>rapt</word>
+<meaning>showing complete interest in something</meaning>
+<example>rapt interest in you</example>

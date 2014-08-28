@@ -1,0 +1,3 @@
+<word>ludicrous</word>
+<meaning>very foolish</meaning>
+<example>a ludicrous ear piercing</example>

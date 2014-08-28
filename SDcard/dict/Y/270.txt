@@ -1,0 +1,3 @@
+<word>outing</word>
+<meaning>a brief trip that people take for fun usually as a group</meaning>
+<example>a family outing</example>

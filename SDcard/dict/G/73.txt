@@ -1,0 +1,3 @@
+<word>defray</word>
+<meaning>to pay for (something)</meaning>
+<example>defray expenses with money</example>

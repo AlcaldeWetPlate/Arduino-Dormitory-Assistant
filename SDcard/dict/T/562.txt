@@ -1,0 +1,3 @@
+<word>starve</word>
+<meaning>to suffer or die from lack of food :to suffer extreme hunger</meaning>
+<example>starve the skinny man</example>

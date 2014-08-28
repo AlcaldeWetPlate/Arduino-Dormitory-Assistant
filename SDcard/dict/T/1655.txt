@@ -1,0 +1,3 @@
+<word>tinplate</word>
+<meaning>blik , tin</meaning>
+<example>a tinplate cover</example>

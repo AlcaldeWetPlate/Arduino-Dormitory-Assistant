@@ -1,0 +1,3 @@
+<word>imprecise</word>
+<meaning>not clear or exact :not precise</meaning>
+<example>an imprecise road sign</example>

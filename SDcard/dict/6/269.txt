@@ -1,0 +1,3 @@
+<word>reign</word>
+<meaning>to rule as a king, queen, emperor, etc.</meaning>
+<example>The king reigned over Egypt.</example>

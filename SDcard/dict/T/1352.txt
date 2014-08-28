@@ -1,0 +1,3 @@
+<word>chateau</word>
+<meaning>a castle or a large house especially in France</meaning>
+<example>a chateau in France</example>

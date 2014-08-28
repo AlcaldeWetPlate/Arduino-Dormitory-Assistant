@@ -1,0 +1,3 @@
+<word>vigorous</word>
+<meaning>done with great force and energy</meaning>
+<example>vigorous effort</example>

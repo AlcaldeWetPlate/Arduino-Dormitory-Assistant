@@ -1,0 +1,3 @@
+<word>doll</word>
+<meaning>a child's toy in the form of a baby or small person</meaning>
+<example>a doll with green hair</example>

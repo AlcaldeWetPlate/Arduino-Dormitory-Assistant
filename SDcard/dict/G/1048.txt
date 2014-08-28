@@ -1,0 +1,3 @@
+<word>valiant</word>
+<meaning>having or showing courage :very brave or courageous</meaning>
+<example>armored and valiant</example>

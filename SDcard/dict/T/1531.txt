@@ -1,0 +1,3 @@
+<word>flake</word>
+<meaning>a small, thin piece of something</meaning>
+<example>corn flakes for breakfast</example>

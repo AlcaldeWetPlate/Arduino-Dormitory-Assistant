@@ -1,0 +1,3 @@
+<word>prophetic</word>
+<meaning>correctly stating what will happen in the future</meaning>
+<example>her prophetic predictions</example>

@@ -1,0 +1,3 @@
+<word>reclaim</word>
+<meaning>to get back (something that was lost or taken away)</meaning>
+<example>reclaim the luggage</example>

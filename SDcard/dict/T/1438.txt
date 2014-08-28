@@ -1,0 +1,3 @@
+<word>rebuke</word>
+<meaning>to speak in an angry and critical way to (someone)</meaning>
+<example>rebuke her on the phone</example>

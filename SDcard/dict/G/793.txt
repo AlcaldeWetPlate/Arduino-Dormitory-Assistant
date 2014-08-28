@@ -1,0 +1,3 @@
+<word>divulge</word>
+<meaning>to make (information) known :to give (information) to someone</meaning>
+<example>divulge a secret</example>

@@ -1,0 +1,3 @@
+<word>enervate</word>
+<meaning>to make (someone or something) very weak or tired</meaning>
+<example>Work enervates the tired man.</example>

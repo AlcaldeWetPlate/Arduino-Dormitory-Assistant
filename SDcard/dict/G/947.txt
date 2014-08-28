@@ -1,0 +1,3 @@
+<word>repugnant</word>
+<meaning>causing a strong feeling of dislike or disgust</meaning>
+<example>a hateful, repugnant person</example>

@@ -1,0 +1,3 @@
+<word>brow</word>
+<meaning>the upper edge of a steep slope</meaning>
+<example>His brows are arched.</example>

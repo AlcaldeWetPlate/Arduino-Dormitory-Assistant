@@ -1,0 +1,3 @@
+<word>shaft</word>
+<meaning>the long, narrow part of a weapon, tool, instrument, etc.</meaning>
+<example>A croquet shaft</example>

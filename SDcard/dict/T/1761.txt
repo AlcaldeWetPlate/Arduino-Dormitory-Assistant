@@ -1,0 +1,3 @@
+<word>careful</word>
+<meaning>using care</meaning>
+<example>pay careful attention to</example>

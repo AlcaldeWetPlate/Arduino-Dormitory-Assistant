@@ -1,0 +1,3 @@
+<word>entertain</word>
+<meaning>to provide or be entertainment for (someone)</meaning>
+<example>The clowns entertain us.</example>

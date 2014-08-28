@@ -1,0 +1,3 @@
+<word>majority</word>
+<meaning>a number that is greater than half of a total</meaning>
+<example>about a 3/4 majority</example>

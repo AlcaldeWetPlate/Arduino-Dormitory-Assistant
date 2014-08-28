@@ -1,0 +1,3 @@
+<word>ascending</word>
+<meaning>to rise from a lower level or degree</meaning>
+<example>the ascending stairs</example>

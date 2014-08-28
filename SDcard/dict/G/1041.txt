@@ -1,0 +1,3 @@
+<word>sprightly</word>
+<meaning>full of life and energy</meaning>
+<example>The sprightly girl jumps.</example>

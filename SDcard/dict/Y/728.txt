@@ -1,0 +1,3 @@
+<word>primary</word>
+<meaning>most basic or essential</meaning>
+<example>in primary school</example>

@@ -1,0 +1,3 @@
+<word>subside</word>
+<meaning>to become less strong or intense</meaning>
+<example>wait for the rain to subside</example>

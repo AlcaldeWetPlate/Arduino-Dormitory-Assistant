@@ -1,0 +1,3 @@
+<word>enjoy</word>
+<meaning>to take pleasure in (something)</meaning>
+<example>enjoy life</example>

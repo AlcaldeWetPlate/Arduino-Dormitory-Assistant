@@ -1,0 +1,3 @@
+<word>prostrate</word>
+<meaning>lying with the front of your body turned toward the ground</meaning>
+<example>lie prostrate on the ground</example>

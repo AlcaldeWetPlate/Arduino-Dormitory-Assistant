@@ -1,0 +1,3 @@
+<word>journey</word>
+<meaning>an act of traveling from one place to another</meaning>
+<example>A family takes a journey.</example>

@@ -1,0 +1,3 @@
+<word>utopian</word>
+<meaning>characterized by or aspiring to impracticable perfection</meaning>
+<example>They fly to a utopian paradise.</example>

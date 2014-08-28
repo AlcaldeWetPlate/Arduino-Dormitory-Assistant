@@ -1,0 +1,3 @@
+<word>saucer</word>
+<meaning>a small, round dish that you put a cup on</meaning>
+<example>a cup on a saucer</example>

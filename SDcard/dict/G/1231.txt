@@ -1,0 +1,3 @@
+<word>mannered</word>
+<meaning>formal in a way that is intended to impress other people</meaning>
+<example>a well-mannered, polite man</example>

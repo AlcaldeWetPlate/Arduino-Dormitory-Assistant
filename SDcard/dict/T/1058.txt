@@ -1,0 +1,3 @@
+<word>accurate</word>
+<meaning>free from mistakes or errors</meaning>
+<example>an accurate shot</example>

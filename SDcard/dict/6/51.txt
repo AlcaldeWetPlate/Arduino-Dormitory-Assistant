@@ -1,0 +1,3 @@
+<word>composer</word>
+<meaning>a person who writes music</meaning>
+<example>The composer writes music.</example>

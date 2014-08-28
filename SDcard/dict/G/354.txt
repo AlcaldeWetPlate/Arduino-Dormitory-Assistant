@@ -1,0 +1,3 @@
+<word>advocate</word>
+<meaning>to support or argue for (a cause, policy, etc.)</meaning>
+<example>The lawyer advocates for his client.</example>

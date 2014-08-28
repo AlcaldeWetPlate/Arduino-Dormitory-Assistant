@@ -1,0 +1,3 @@
+<word>fee</word>
+<meaning>an amount that is paid for work done by a doctor, lawyer, etc.</meaning>
+<example>pay a fee</example>

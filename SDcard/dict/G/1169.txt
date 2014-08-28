@@ -1,0 +1,3 @@
+<word>torpid</word>
+<meaning>having or showing very little energy or movement :not active</meaning>
+<example>the cat's torpid nature</example>

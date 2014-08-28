@@ -1,0 +1,3 @@
+<word>elegant</word>
+<meaning>showing good taste :graceful and attractive</meaning>
+<example>an elegant female model</example>

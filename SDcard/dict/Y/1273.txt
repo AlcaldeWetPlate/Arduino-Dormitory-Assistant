@@ -1,0 +1,3 @@
+<word>prohibit</word>
+<meaning>to say that (something) is not allowed</meaning>
+<example>The sign prohibits sth.</example>

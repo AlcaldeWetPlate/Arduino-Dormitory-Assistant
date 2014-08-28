@@ -1,0 +1,3 @@
+<word>horde</word>
+<meaning>a large group of people</meaning>
+<example>hordes of people in the city</example>

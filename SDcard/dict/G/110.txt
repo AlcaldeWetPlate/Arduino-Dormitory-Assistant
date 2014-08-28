@@ -1,0 +1,3 @@
+<word>fury</word>
+<meaning>violent anger</meaning>
+<example>She turns red with fury.</example>

@@ -1,0 +1,3 @@
+<word>austere</word>
+<meaning>having few pleasures :simple and harsh</meaning>
+<example>a monk's austere lifestyle</example>

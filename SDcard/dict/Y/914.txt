@@ -1,0 +1,3 @@
+<word>miserable</word>
+<meaning>very severe or unpleasant</meaning>
+<example>A miserable man sits.</example>

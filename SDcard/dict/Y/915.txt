@@ -1,0 +1,3 @@
+<word>vice</word>
+<meaning>bad or immoral behavior or habits</meaning>
+<example>Smoking is a vice.</example>

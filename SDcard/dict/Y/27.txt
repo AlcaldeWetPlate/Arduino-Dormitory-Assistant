@@ -1,0 +1,3 @@
+<word>anguish</word>
+<meaning>extreme suffering, grief, or pain</meaning>
+<example>She cries in anguish.</example>

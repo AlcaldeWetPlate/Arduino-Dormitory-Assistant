@@ -1,0 +1,3 @@
+<word>aspiring</word>
+<meaning>seeking advancement or recognition</meaning>
+<example>an aspiring businesswoman</example>

@@ -1,0 +1,3 @@
+<word>gourmet</word>
+<meaning>a person who enjoys and knows a lot about good food and wine</meaning>
+<example>A gourmet wants the best food and drink.</example>

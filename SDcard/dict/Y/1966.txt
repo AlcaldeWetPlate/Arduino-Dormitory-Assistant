@@ -1,0 +1,3 @@
+<word>waken</word>
+<meaning>to stop sleeping or to cause (someone) to stop sleeping</meaning>
+<example>waken her in the morning</example>

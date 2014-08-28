@@ -1,0 +1,3 @@
+<word>terrific</word>
+<meaning>extremely good</meaning>
+<example>The woman feels terrific.</example>

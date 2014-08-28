@@ -1,0 +1,3 @@
+<word>fashion</word>
+<meaning>the business of creating and selling clothes in new styles</meaning>
+<example>fashion show</example>

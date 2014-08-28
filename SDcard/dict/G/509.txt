@@ -1,0 +1,3 @@
+<word>lofty</word>
+<meaning>rising to a great height :very tall and impressive</meaning>
+<example>lofty mountains</example>

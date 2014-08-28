@@ -1,0 +1,3 @@
+<word>obsess</word>
+<meaning>to think and talk about someone or something too much</meaning>
+<example>She obsesses over her new shoes.</example>

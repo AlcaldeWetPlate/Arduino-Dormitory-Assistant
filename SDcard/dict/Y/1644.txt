@@ -1,0 +1,3 @@
+<word>growth</word>
+<meaning>the process of growing</meaning>
+<example>plant growth</example>

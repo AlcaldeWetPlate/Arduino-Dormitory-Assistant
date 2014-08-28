@@ -1,0 +1,3 @@
+<word>coherent</word>
+<meaning>working closely and well together</meaning>
+<example>a coherent football team</example>

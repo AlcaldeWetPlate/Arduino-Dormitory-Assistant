@@ -1,0 +1,3 @@
+<word>stratagem</word>
+<meaning>a trick or plan for deceiving an enemy or for achieving a goal</meaning>
+<example>a clever chess stratagem</example>

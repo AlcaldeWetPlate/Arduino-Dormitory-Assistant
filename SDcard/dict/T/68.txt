@@ -1,0 +1,3 @@
+<word>conserve</word>
+<meaning>to use (something) carefully in order to prevent loss or waste</meaning>
+<example>We should conserve electricity.</example>

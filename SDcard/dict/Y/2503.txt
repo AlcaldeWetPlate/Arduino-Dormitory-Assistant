@@ -1,0 +1,3 @@
+<word>snapshot</word>
+<meaning>an informal photograph that is taken quickly</meaning>
+<example>take a snapshot with the phone</example>

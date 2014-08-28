@@ -1,0 +1,3 @@
+<word>crouch</word>
+<meaning>to lower your body to the ground by bending your legs</meaning>
+<example>The blonde woman crouches.</example>

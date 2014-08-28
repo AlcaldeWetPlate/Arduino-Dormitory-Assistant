@@ -1,0 +1,3 @@
+<word>paltry</word>
+<meaning>having little meaning, importance, or worth</meaning>
+<example>1 yuan is a paltry sum.</example>

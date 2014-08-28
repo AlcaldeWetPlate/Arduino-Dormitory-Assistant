@@ -1,0 +1,3 @@
+<word>irritate</word>
+<meaning>to make (someone) impatient, angry, or annoyed</meaning>
+<example>His snoring irritates me.</example>

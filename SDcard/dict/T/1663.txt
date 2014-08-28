@@ -1,0 +1,3 @@
+<word>veining</word>
+<meaning>inner development</meaning>
+<example>veining of the leaf</example>

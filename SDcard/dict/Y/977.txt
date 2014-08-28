@@ -1,0 +1,3 @@
+<word>beat</word>
+<meaning>to hit (something) repeatedly</meaning>
+<example>beat the meat</example>

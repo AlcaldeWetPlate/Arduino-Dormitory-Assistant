@@ -1,0 +1,3 @@
+<word>viable</word>
+<meaning>capable of living or of developing into a living thing</meaning>
+<example>a viable egg</example>

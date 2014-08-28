@@ -1,0 +1,3 @@
+<word>conquer</word>
+<meaning>to succeed in climbing (a mountain)</meaning>
+<example>conquer the mountain</example>

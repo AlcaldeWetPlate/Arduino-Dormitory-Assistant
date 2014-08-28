@@ -1,0 +1,3 @@
+<word>hoist</word>
+<meaning>to raise (something) especially by using ropes or machinery</meaning>
+<example>hoist the heavy ball</example>

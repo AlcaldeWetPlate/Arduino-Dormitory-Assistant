@@ -1,0 +1,3 @@
+<word>anonymous</word>
+<meaning>not named or identified</meaning>
+<example>stay anonymous by wearing a paper bag</example>

@@ -1,0 +1,3 @@
+<word>tub</word>
+<meaning>a wide container used to hold something</meaning>
+<example>baby in the tub</example>

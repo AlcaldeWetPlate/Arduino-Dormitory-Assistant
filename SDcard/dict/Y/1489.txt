@@ -1,0 +1,3 @@
+<word>prophecy</word>
+<meaning>the power or ability to know what will happen in the future</meaning>
+<example>prophecy from the crystal ball</example>

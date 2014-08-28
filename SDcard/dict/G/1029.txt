@@ -1,0 +1,3 @@
+<word>occult</word>
+<meaning>of or relating to supernatural powers or practices</meaning>
+<example>occult magic</example>

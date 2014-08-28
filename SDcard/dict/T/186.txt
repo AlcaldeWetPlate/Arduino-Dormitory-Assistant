@@ -1,0 +1,3 @@
+<word>lasting</word>
+<meaning>existing or continuing for a long time</meaning>
+<example>a lasting love</example>

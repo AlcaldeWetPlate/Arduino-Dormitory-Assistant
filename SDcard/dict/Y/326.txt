@@ -1,0 +1,3 @@
+<word>villa</word>
+<meaning>a large house or estate that is usually located in the country</meaning>
+<example>villa with a fountain</example>

@@ -1,0 +1,3 @@
+<word>pin</word>
+<meaning>to hold fast or prevent from moving</meaning>
+<example>pin notes to the wall</example>

@@ -1,0 +1,3 @@
+<word>redeem</word>
+<meaning>to save (people) from sin and evil</meaning>
+<example>Jesus will redeem you.</example>

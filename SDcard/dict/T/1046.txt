@@ -1,0 +1,3 @@
+<word>check out</word>
+<meaning>announce one's departure from a hotel</meaning>
+<example>check out of the hotel</example>

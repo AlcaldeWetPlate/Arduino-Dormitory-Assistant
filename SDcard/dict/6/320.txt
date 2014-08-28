@@ -1,0 +1,3 @@
+<word>shatter</word>
+<meaning>to break suddenly into many small pieces</meaning>
+<example>shatter the glass</example>

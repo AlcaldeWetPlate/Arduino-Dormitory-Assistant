@@ -1,0 +1,3 @@
+<word>contend</word>
+<meaning>to compete with someone or for something</meaning>
+<example>contend for championship</example>

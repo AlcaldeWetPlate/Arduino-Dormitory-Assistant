@@ -1,0 +1,3 @@
+<word>constant</word>
+<meaning>staying the same :not changing</meaning>
+<example>Pi's value is constant.</example>

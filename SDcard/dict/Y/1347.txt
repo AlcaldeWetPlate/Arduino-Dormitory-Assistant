@@ -1,0 +1,3 @@
+<word>hillside</word>
+<meaning>the side of a hill</meaning>
+<example>houses built on the hillside</example>

@@ -1,0 +1,3 @@
+<word>virtuous</word>
+<meaning>morally good :having or showing virtue</meaning>
+<example>a kind and virtuous person</example>

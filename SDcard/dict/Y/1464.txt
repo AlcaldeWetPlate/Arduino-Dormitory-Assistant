@@ -1,0 +1,3 @@
+<word>woolen</word>
+<meaning>made of wool</meaning>
+<example>woolen hat</example>

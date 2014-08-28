@@ -1,0 +1,3 @@
+<word>captain</word>
+<meaning>a person who is in charge of a ship or an airplane</meaning>
+<example>a handsome captain</example>

@@ -1,0 +1,3 @@
+<word>conundrum</word>
+<meaning>a confusing or difficult problem</meaning>
+<example>a puzzling conundrum</example>

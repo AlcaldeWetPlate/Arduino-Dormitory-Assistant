@@ -1,0 +1,3 @@
+<word>weaver</word>
+<meaning>a person who weaves cloth, carpets, or baskets</meaning>
+<example>a hardworking weaver</example>

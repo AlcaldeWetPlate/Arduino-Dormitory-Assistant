@@ -1,0 +1,3 @@
+<word>fittingly</word>
+<meaning>in an appropriate manner</meaning>
+<example>He is fittingly dressed.</example>

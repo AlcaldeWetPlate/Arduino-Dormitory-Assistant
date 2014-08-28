@@ -1,0 +1,3 @@
+<word>tuna</word>
+<meaning>a large fish that lives in the ocean and is eaten as food</meaning>
+<example>a tuna fish</example>

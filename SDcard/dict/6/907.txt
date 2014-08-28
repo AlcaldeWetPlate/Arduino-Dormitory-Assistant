@@ -1,0 +1,3 @@
+<word>vision</word>
+<meaning>the ability to see :sight or eyesight</meaning>
+<example>check his vision</example>

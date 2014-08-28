@@ -1,0 +1,3 @@
+<word>career</word>
+<meaning>a period of time spent in a job or profession</meaning>
+<example>She has a business career.</example>

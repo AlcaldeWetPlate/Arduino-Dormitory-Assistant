@@ -1,0 +1,3 @@
+<word>scripture</word>
+<meaning>the sacred writings of a religion</meaning>
+<example>read holy scripture</example>

@@ -1,0 +1,3 @@
+<word>impact</word>
+<meaning>the act or force of one thing hitting another</meaning>
+<example>the impact of the hammer</example>

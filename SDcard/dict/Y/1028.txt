@@ -1,0 +1,3 @@
+<word>ownership</word>
+<meaning>the state or fact of owning something</meaning>
+<example>car ownership</example>

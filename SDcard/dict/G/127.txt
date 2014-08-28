@@ -1,0 +1,3 @@
+<word>heinous</word>
+<meaning>very bad or evil :deserving of hate or contempt</meaning>
+<example>Murder is a heinous crime.</example>

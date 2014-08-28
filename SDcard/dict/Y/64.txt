@@ -1,0 +1,3 @@
+<word>brass</word>
+<meaning>a yellow metal that is made by combining copper and zinc</meaning>
+<example>a brass instrument</example>

@@ -1,0 +1,3 @@
+<word>sapient</word>
+<meaning>acutely insightful and wise</meaning>
+<example>a sapient professor</example>

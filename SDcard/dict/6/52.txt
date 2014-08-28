@@ -1,0 +1,3 @@
+<word>composite</word>
+<meaning>something that is made up of different parts</meaning>
+<example>a composite picture</example>

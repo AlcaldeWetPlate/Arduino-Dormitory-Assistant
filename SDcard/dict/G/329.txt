@@ -1,0 +1,3 @@
+<word>petrify</word>
+<meaning>to make (someone) very afraid</meaning>
+<example>Sth. scary petrifies the old man.</example>

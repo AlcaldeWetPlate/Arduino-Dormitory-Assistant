@@ -1,0 +1,3 @@
+<word>abrupt</word>
+<meaning>very sudden and not expected</meaning>
+<example>the abrupt wind</example>

@@ -1,0 +1,3 @@
+<word>crossing</word>
+<meaning>a place where you can cross a street, stream, etc.</meaning>
+<example>cross the street at the crossing</example>

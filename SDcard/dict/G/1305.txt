@@ -1,0 +1,3 @@
+<word>asymmetry</word>
+<meaning>(mathematics) a lack of symmetry</meaning>
+<example>the asymmetry of the crab's body</example>

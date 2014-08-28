@@ -1,0 +1,3 @@
+<word>stench</word>
+<meaning>a very bad smell</meaning>
+<example>the bad, stinky stench</example>

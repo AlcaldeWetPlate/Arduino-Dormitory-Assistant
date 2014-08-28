@@ -1,0 +1,3 @@
+<word>dexterous</word>
+<meaning>having or showing great skill or cleverness :showing dexterity</meaning>
+<example>skilled, dexterous movements</example>

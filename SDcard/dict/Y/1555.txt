@@ -1,0 +1,3 @@
+<word>Communist</word>
+<meaning>a member of the communist party</meaning>
+<example>the Communist Party</example>

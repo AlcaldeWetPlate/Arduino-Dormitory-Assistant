@@ -1,0 +1,3 @@
+<word>indicate</word>
+<meaning>to show (something)</meaning>
+<example>indicate which way is north</example>

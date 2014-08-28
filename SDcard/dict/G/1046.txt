@@ -1,0 +1,3 @@
+<word>truant</word>
+<meaning>a student who misses school without permission</meaning>
+<example>The young truant skips school.</example>

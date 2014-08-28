@@ -1,0 +1,3 @@
+<word>rentable</word>
+<meaning>that is able or fit be rented</meaning>
+<example>a rentable room</example>

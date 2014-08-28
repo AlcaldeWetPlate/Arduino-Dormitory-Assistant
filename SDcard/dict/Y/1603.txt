@@ -1,0 +1,3 @@
+<word>lover</word>
+<meaning>a partner in a romantic or sexual relationship</meaning>
+<example>holds his lover tightly</example>

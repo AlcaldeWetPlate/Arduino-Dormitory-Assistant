@@ -1,0 +1,3 @@
+<word>lead</word>
+<meaning>to lie or go in a specified direction</meaning>
+<example>lead the men</example>

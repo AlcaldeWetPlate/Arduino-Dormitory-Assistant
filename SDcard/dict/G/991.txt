@@ -1,0 +1,3 @@
+<word>hubris</word>
+<meaning>a great or foolish amount of pride or confidence</meaning>
+<example>the tiny fighter's dangerous hubris</example>

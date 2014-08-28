@@ -1,0 +1,3 @@
+<word>spout</word>
+<meaning>a tube, pipe, or hole out of which a liquid flows</meaning>
+<example>the water spout</example>

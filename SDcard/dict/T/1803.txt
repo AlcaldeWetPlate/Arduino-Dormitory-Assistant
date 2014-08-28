@@ -1,0 +1,3 @@
+<word>victory</word>
+<meaning>success in defeating an opponent or enemy</meaning>
+<example>the son's victory</example>

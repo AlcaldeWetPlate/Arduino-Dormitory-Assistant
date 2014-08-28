@@ -1,0 +1,3 @@
+<word>slumber</word>
+<meaning>a dormant or quiescent state</meaning>
+<example>slumber in a field</example>

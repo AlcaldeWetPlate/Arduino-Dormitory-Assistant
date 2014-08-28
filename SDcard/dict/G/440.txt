@@ -1,0 +1,3 @@
+<word>strip</word>
+<meaning>to remove your clothing</meaning>
+<example>strip off the clothing</example>

@@ -1,0 +1,3 @@
+<word>vouch</word>
+<meaning>to say that (someone or something) is honest, true, or good</meaning>
+<example>vouch for sb. or sth.</example>

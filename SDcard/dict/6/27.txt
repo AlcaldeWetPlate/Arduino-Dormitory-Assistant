@@ -1,0 +1,3 @@
+<word>bizarre</word>
+<meaning>very unusual or strange</meaning>
+<example>a bizarre haircut</example>

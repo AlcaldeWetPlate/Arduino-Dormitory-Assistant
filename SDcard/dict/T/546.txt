@@ -1,0 +1,3 @@
+<word>cabin</word>
+<meaning>a small, simple house made of wood</meaning>
+<example>log cabin in the woods</example>

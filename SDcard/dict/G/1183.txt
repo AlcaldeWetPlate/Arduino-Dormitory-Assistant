@@ -1,0 +1,3 @@
+<word>dashing</word>
+<meaning>attractive and impressive in a way that shows confidence</meaning>
+<example>a handsome, dashing man</example>

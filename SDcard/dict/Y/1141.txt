@@ -1,0 +1,3 @@
+<word>machinery</word>
+<meaning>machines of a particular kind or machines in general</meaning>
+<example>heavy construction machinery</example>

@@ -1,0 +1,3 @@
+<word>gum</word>
+<meaning>the flesh that surrounds the roots of your teeth</meaning>
+<example>chew some gum</example>

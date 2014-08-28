@@ -1,0 +1,3 @@
+<word>forth</word>
+<meaning>onward or forward in time or place</meaning>
+<example>go forth on the road</example>

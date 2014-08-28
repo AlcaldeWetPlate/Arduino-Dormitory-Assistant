@@ -1,0 +1,3 @@
+<word>footpath</word>
+<meaning>a narrow path that people walk on</meaning>
+<example>walk along a footpath</example>

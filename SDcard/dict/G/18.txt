@@ -1,0 +1,3 @@
+<word>amenity</word>
+<meaning>something that makes life easier or more pleasant</meaning>
+<example>standard hotel amenities</example>

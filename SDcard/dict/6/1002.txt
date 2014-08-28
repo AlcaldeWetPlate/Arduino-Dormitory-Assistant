@@ -1,0 +1,3 @@
+<word>shortcut</word>
+<meaning>a shorter, quicker, or easier way to get to a place</meaning>
+<example>a shortcut going home</example>

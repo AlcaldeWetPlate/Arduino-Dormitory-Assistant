@@ -1,0 +1,3 @@
+<word>brief</word>
+<meaning>lasting only a short period of time</meaning>
+<example>for a brief moment</example>

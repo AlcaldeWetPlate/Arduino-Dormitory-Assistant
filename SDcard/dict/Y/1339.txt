@@ -1,0 +1,3 @@
+<word>rigorous</word>
+<meaning>done carefully and with a lot of attention to detail</meaning>
+<example>rigorous discipline</example>

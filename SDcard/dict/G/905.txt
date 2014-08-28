@@ -1,0 +1,3 @@
+<word>piquant</word>
+<meaning>having a pleasant, spicy taste</meaning>
+<example>spicy, piquant tofu</example>

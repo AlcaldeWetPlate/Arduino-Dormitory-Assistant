@@ -1,0 +1,3 @@
+<word>principal</word>
+<meaning>the person in charge of a university or college</meaning>
+<example>the school's principal</example>

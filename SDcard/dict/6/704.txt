@@ -1,0 +1,3 @@
+<word>tightly</word>
+<meaning>in a tight or constricted manner</meaning>
+<example>hold her son tightly</example>

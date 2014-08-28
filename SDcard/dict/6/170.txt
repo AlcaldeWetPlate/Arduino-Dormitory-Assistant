@@ -1,0 +1,3 @@
+<word>pledge</word>
+<meaning>to formally promise to give or do (something)</meaning>
+<example>pledge allegiance to the flag</example>

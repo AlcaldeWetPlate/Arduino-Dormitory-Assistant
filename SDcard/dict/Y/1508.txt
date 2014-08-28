@@ -1,0 +1,3 @@
+<word>troop</word>
+<meaning>a group of soldiers</meaning>
+<example>a lot of troops</example>

@@ -1,0 +1,3 @@
+<word>adulate</word>
+<meaning>flatter in an obsequious manner</meaning>
+<example>adulate the handsome guitarist</example>

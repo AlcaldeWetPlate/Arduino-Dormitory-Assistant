@@ -1,0 +1,3 @@
+<word>rustproof</word>
+<meaning>protected against rusting</meaning>
+<example>a rustproof pot</example>

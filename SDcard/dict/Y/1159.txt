@@ -1,0 +1,3 @@
+<word>fortune</word>
+<meaning>something that happens by chance</meaning>
+<example>You need good fortune to win money.</example>

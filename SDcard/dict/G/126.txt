@@ -1,0 +1,3 @@
+<word>havoc</word>
+<meaning>a situation in which there is much destruction or confusion</meaning>
+<example>wreak havoc on the car</example>

@@ -1,0 +1,3 @@
+<word>daytime</word>
+<meaning>the time of day when the sky is light</meaning>
+<example>It will be daytime soon.</example>

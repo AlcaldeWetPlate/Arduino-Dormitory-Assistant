@@ -1,0 +1,3 @@
+<word>attest</word>
+<meaning>to show, prove, or state that something is true or real</meaning>
+<example>attest to the little boy</example>

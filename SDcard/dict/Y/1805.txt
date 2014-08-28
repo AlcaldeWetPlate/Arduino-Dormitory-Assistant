@@ -1,0 +1,3 @@
+<word>spouse</word>
+<meaning>someone who is married :a husband or wife</meaning>
+<example>the husband and his spouse</example>

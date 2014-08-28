@@ -1,0 +1,3 @@
+<word>graze</word>
+<meaning>to cause (animals) to graze</meaning>
+<example>graze on grass</example>

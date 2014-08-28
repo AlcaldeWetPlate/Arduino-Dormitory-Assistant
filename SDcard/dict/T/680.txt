@@ -1,0 +1,3 @@
+<word>loop</word>
+<meaning>to form or cause (something) to form a loop</meaning>
+<example>a black and white loop</example>

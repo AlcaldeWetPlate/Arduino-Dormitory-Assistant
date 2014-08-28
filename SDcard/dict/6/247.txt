@@ -1,0 +1,3 @@
+<word>adequate</word>
+<meaning>good enough :of a quality that is good or acceptable</meaning>
+<example>an adequate businessman</example>

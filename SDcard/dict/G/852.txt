@@ -1,0 +1,3 @@
+<word>drone</word>
+<meaning>a type of male bee that does not gather honey</meaning>
+<example>Only male bees are drones.</example>

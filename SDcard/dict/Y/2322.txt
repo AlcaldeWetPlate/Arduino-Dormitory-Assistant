@@ -1,0 +1,3 @@
+<word>sell</word>
+<meaning>to exchange (something) for money</meaning>
+<example>sell the house</example>

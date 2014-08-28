@@ -1,0 +1,3 @@
+<word>disarm</word>
+<meaning>to take weapons from (someone or something)</meaning>
+<example>disarm the attacker</example>

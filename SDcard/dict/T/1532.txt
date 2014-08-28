@@ -1,0 +1,3 @@
+<word>kernel</word>
+<meaning>the small, somewhat soft part inside a seed or nut</meaning>
+<example>kernels of corn</example>

@@ -1,0 +1,3 @@
+<word>crust</word>
+<meaning>the hard outer surface of bread</meaning>
+<example>the bread crust</example>

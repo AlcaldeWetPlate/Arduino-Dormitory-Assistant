@@ -1,0 +1,3 @@
+<word>outermost</word>
+<meaning>farthest from the center of something</meaning>
+<example>in the outermost ring</example>

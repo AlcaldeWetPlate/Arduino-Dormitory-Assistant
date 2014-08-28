@@ -1,0 +1,3 @@
+<word>stripe</word>
+<meaning>a long, narrow line of color</meaning>
+<example>colorful stripes</example>

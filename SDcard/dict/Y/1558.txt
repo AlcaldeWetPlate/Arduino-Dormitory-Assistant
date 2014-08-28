@@ -1,0 +1,3 @@
+<word>beauty</word>
+<meaning>the quality of being physically attractive</meaning>
+<example>a woman's beauty</example>

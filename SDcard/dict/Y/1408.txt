@@ -1,0 +1,3 @@
+<word>uneasy</word>
+<meaning>awkward and uncomfortable :not relaxed</meaning>
+<example>He feels uneasy.</example>

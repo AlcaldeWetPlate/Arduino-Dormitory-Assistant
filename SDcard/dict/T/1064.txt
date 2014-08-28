@@ -1,0 +1,3 @@
+<word>fireproof</word>
+<meaning>not easily burned :not able to catch fire</meaning>
+<example>a fireproof suit</example>

@@ -1,0 +1,3 @@
+<word>midday</word>
+<meaning>the middle of the day</meaning>
+<example>the midday sun</example>

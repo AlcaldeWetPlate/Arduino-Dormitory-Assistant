@@ -1,0 +1,3 @@
+<word>ever</word>
+<meaning>at any time</meaning>
+<example>look as skinny as ever</example>

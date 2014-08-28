@@ -1,0 +1,3 @@
+<word>paramount</word>
+<meaning>very important :of highest rank or importance</meaning>
+<example>of paramount importance</example>

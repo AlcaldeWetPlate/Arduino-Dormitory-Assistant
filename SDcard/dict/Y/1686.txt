@@ -1,0 +1,3 @@
+<word>awareness</word>
+<meaning>state of elementary or undifferentiated consciousness</meaning>
+<example>awareness of the problem</example>

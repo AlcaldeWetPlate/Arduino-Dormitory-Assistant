@@ -1,0 +1,3 @@
+<word>dynamic</word>
+<meaning>having or showing a lot of energy</meaning>
+<example>a dynamic executive</example>

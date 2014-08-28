@@ -1,0 +1,3 @@
+<word>senseless</word>
+<meaning>stupid or foolish</meaning>
+<example>It's senseless to hurt a woman like that.</example>

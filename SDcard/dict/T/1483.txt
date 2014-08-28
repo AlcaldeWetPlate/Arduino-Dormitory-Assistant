@@ -1,0 +1,3 @@
+<word>semiarid</word>
+<meaning>somewhat arid</meaning>
+<example>Olive trees grow in semiarid areas.</example>

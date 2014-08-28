@@ -1,0 +1,3 @@
+<word>harden</word>
+<meaning>to become hard or firm or to make (something) hard or firm</meaning>
+<example>The concrete hardens.</example>

@@ -1,0 +1,3 @@
+<word>lopsided</word>
+<meaning>having one side that is lower or smaller than the other</meaning>
+<example>a lopsided scale</example>

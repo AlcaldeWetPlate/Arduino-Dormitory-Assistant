@@ -1,0 +1,3 @@
+<word>game</word>
+<meaning>playful activities</meaning>
+<example>play games</example>

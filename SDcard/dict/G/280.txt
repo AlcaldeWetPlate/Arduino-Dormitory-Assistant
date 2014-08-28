@@ -1,0 +1,3 @@
+<word>svelte</word>
+<meaning>thin in an attractive or graceful way</meaning>
+<example>She is svelte and fashionable.</example>

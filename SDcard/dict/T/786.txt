@@ -1,0 +1,3 @@
+<word>overwhelm</word>
+<meaning>to defeat (someone or something) completely</meaning>
+<example>be overwhelmed by choices</example>

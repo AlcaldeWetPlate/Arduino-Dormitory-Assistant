@@ -1,0 +1,3 @@
+<word>include</word>
+<meaning>to make (someone or something) a part of something</meaning>
+<example>include everybody</example>

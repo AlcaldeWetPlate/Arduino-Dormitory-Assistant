@@ -1,0 +1,3 @@
+<word>heretical</word>
+<meaning>characterized by departure from accepted beliefs or standards</meaning>
+<example>burned because of his heretical views</example>

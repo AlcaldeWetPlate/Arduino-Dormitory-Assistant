@@ -1,0 +1,3 @@
+<word>caustic</word>
+<meaning>able to destroy or burn something by chemical action</meaning>
+<example>dangerous caustic materials</example>

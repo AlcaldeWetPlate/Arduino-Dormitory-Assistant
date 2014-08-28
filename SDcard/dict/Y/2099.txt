@@ -1,0 +1,3 @@
+<word>desktop</word>
+<meaning>the top surface of a desk</meaning>
+<example>a desktop computer</example>

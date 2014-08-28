@@ -1,0 +1,3 @@
+<word>coffin</word>
+<meaning>a box in which a dead person is buried</meaning>
+<example>put the dead body in a wooden coffin</example>

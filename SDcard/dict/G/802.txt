@@ -1,0 +1,3 @@
+<word>incumbent</word>
+<meaning>a person who holds a particular office or position</meaning>
+<example>an incumbent politician</example>

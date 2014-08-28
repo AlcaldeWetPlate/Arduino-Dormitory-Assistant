@@ -1,0 +1,3 @@
+<word>temple</word>
+<meaning>a building for worship</meaning>
+<example>a sacred temple</example>

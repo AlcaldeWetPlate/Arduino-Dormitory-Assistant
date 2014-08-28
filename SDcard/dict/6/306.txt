@@ -1,0 +1,3 @@
+<word>elbow</word>
+<meaning>the joint where your arm bends</meaning>
+<example>Her elbow hurts.</example>

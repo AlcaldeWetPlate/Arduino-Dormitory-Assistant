@@ -1,0 +1,3 @@
+<word>scant</word>
+<meaning>very small in size or amount</meaning>
+<example>scant fresh water on earth</example>

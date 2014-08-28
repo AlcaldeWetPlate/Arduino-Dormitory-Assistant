@@ -1,0 +1,3 @@
+<word>majesty</word>
+<meaning>a great and impressively beautiful quality</meaning>
+<example>the majesty of the Grand Canyon</example>

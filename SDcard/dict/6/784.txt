@@ -1,0 +1,3 @@
+<word>tuition</word>
+<meaning>money that is paid to a school for the right to study there</meaning>
+<example>tuition for university</example>

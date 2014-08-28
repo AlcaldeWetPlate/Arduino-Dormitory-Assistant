@@ -1,0 +1,3 @@
+<word>careless</word>
+<meaning>not using care :not careful</meaning>
+<example>A careless man falls.</example>

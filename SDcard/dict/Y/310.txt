@@ -1,0 +1,3 @@
+<word>surname</word>
+<meaning>the name that is shared by the people in a family</meaning>
+<example>A surname is a family name.</example>

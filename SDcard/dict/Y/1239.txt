@@ -1,0 +1,3 @@
+<word>marital</word>
+<meaning>of or relating to marriage</meaning>
+<example>the husband and wife's marital bliss</example>

@@ -1,0 +1,3 @@
+<word>terror</word>
+<meaning>a very strong feeling of fear</meaning>
+<example>the terror of the sea</example>

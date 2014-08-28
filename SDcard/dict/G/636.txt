@@ -1,0 +1,3 @@
+<word>gratify</word>
+<meaning>to make (someone) happy or satisfied</meaning>
+<example>The water gratifies her.</example>

@@ -1,0 +1,3 @@
+<word>TRUE</word>
+<meaning>exact and accurate</meaning>
+<example>a true description</example>

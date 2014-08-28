@@ -1,0 +1,3 @@
+<word>lithe</word>
+<meaning>moving in an easy and graceful way</meaning>
+<example>a lithe, flexible woman</example>

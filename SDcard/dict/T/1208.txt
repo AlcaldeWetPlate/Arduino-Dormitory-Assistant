@@ -1,0 +1,3 @@
+<word>stocky</word>
+<meaning>short and heavy or broad</meaning>
+<example>a stocky pig</example>

@@ -1,0 +1,3 @@
+<word>chaste</word>
+<meaning>not having sex</meaning>
+<example>chaste Catholic nuns</example>

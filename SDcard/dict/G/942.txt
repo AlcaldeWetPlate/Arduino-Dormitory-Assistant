@@ -1,0 +1,3 @@
+<word>invective</word>
+<meaning>harsh or insulting words :rude and angry language</meaning>
+<example>a woman's angry invective</example>

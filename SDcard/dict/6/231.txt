@@ -1,0 +1,3 @@
+<word>capacity</word>
+<meaning>the largest amount or number that can be held or contained</meaning>
+<example>full to capacity</example>

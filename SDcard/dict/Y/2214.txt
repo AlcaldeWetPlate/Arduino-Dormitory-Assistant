@@ -1,0 +1,3 @@
+<word>singular</word>
+<meaning>showing or indicating no more than one thing</meaning>
+<example>a singular yellow ball</example>

@@ -1,0 +1,3 @@
+<word>apparent</word>
+<meaning>easy to see or understand</meaning>
+<example>an apparent color</example>

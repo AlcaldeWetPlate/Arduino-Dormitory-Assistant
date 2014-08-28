@@ -1,0 +1,3 @@
+<word>idyll</word>
+<meaning>a happy and enjoyable scene or experience</meaning>
+<example>a rural idyll</example>

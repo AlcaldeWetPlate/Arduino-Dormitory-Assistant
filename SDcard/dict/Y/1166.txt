@@ -1,0 +1,3 @@
+<word>overnight</word>
+<meaning>for or during the entire night</meaning>
+<example>campfire lit overnight</example>

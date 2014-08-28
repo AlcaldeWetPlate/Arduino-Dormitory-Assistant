@@ -1,0 +1,3 @@
+<word>didactic</word>
+<meaning>designed or intended to teach people something</meaning>
+<example>a teacher's didactic lecture</example>

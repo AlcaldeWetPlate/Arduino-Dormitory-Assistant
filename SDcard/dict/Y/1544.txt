@@ -1,0 +1,3 @@
+<word>wild</word>
+<meaning>living in nature without human control or care :not tame</meaning>
+<example>a wild animal</example>

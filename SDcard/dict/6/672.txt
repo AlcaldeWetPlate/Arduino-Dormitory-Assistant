@@ -1,0 +1,3 @@
+<word>squad</word>
+<meaning>a small organized group of soldiers</meaning>
+<example>a squad of soldiers</example>

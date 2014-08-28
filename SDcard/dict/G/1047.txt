@@ -1,0 +1,3 @@
+<word>trudge</word>
+<meaning>a long, slow walk that makes you tired</meaning>
+<example>trudge up the stairs</example>

@@ -1,0 +1,3 @@
+<word>displease</word>
+<meaning>to make (someone) feel unhappy or annoyed</meaning>
+<example>Sth. displeases the sad girl.</example>

@@ -1,0 +1,3 @@
+<word>disregard</word>
+<meaning>to ignore (something) or treat (something) as unimportant</meaning>
+<example>He disregards my anger.</example>

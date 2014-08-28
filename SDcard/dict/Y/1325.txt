@@ -1,0 +1,3 @@
+<word>vocal</word>
+<meaning>of, relating to, or produced by the voice</meaning>
+<example>a vocal performer</example>

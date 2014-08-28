@@ -1,0 +1,3 @@
+<word>sly</word>
+<meaning>clever in a dishonest way</meaning>
+<example>a sly way to test sb.'s honesty</example>

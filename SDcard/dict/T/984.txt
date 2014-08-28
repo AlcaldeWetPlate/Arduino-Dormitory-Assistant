@@ -1,0 +1,3 @@
+<word>theft</word>
+<meaning>the act or crime of stealing</meaning>
+<example>theft of money</example>

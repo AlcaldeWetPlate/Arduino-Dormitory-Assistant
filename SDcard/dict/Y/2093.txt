@@ -1,0 +1,3 @@
+<word>heartily</word>
+<meaning>in an enthusiastic and energetic way :in a hearty way</meaning>
+<example>women laughing heartily</example>

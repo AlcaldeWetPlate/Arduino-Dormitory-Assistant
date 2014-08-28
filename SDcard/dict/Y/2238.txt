@@ -1,0 +1,3 @@
+<word>deport</word>
+<meaning>to force (a person who is not a citizen) to leave a country</meaning>
+<example>deport sb. to another country</example>

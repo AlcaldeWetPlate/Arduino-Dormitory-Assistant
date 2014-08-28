@@ -1,0 +1,3 @@
+<word>super</word>
+<meaning>extremely good</meaning>
+<example>super powers like flying</example>

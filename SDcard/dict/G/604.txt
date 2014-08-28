@@ -1,0 +1,3 @@
+<word>sequester</word>
+<meaning>to keep (a person or group) apart from other people</meaning>
+<example>sequester the man in a cup</example>

@@ -1,0 +1,3 @@
+<word>rancher</word>
+<meaning>a person who lives or works on a ranch</meaning>
+<example>the rancher at the farm</example>

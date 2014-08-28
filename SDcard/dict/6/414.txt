@@ -1,0 +1,3 @@
+<word>invert</word>
+<meaning>to turn (something) upside down</meaning>
+<example>invert the teacups on the table</example>

@@ -1,0 +1,3 @@
+<word>joy</word>
+<meaning>a feeling of great happiness</meaning>
+<example>a look of joy on her face</example>

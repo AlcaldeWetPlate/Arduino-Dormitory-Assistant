@@ -1,0 +1,3 @@
+<word>paunchy</word>
+<meaning>having a large belly</meaning>
+<example>the paunchy man's big belly</example>

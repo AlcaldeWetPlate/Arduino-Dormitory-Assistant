@@ -1,0 +1,3 @@
+<word>energy</word>
+<meaning>usable power that comes from heat, electricity, etc.</meaning>
+<example>wind energy</example>

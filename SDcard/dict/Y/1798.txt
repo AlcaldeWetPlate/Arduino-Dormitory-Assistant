@@ -1,0 +1,3 @@
+<word>fling</word>
+<meaning>to throw or push (something) in a sudden and forceful way</meaning>
+<example>fling all the papers</example>

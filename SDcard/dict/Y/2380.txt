@@ -1,0 +1,3 @@
+<word>chairman</word>
+<meaning>the person who is in charge of a company or organization</meaning>
+<example>the company's chairman</example>

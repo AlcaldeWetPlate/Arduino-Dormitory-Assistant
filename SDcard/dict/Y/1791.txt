@@ -1,0 +1,3 @@
+<word>insert</word>
+<meaning>to put (something) in something</meaning>
+<example>insert a card into the ATM</example>

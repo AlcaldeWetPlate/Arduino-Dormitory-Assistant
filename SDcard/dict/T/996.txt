@@ -1,0 +1,3 @@
+<word>dagger</word>
+<meaning>a sharp pointed knife that is used as a weapon</meaning>
+<example>a small, sharp dagger</example>

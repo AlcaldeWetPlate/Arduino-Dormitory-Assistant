@@ -1,0 +1,3 @@
+<word>blink</word>
+<meaning>to close and then open your eyes very quickly</meaning>
+<example>blink with one eye</example>

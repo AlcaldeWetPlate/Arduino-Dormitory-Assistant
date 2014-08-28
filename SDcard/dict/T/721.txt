@@ -1,0 +1,3 @@
+<word>emerge</word>
+<meaning>to become known or regarded</meaning>
+<example>emerge from a crack</example>

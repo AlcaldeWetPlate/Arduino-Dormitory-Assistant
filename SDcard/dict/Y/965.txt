@@ -1,0 +1,3 @@
+<word>threat</word>
+<meaning>the possibility that something bad or harmful could happen</meaning>
+<example>a dangerous threat</example>

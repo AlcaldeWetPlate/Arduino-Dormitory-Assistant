@@ -1,0 +1,3 @@
+<word>due to</word>
+<meaning>able to be assigned or credited to</meaning>
+<example>due to his drinking habits</example>

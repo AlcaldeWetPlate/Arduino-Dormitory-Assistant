@@ -1,0 +1,3 @@
+<word>entrance</word>
+<meaning>something (such as a door) that is used for entering something</meaning>
+<example>a red carpet entrance</example>

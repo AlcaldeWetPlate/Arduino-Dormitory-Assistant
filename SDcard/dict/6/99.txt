@@ -1,0 +1,3 @@
+<word>fist</word>
+<meaning>the hand with its fingers bent down into the palm</meaning>
+<example>make a fist with one's hand</example>

@@ -1,0 +1,3 @@
+<word>web</word>
+<meaning>a net made from silk threads woven together by a spider</meaning>
+<example>a spider's web</example>

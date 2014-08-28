@@ -1,0 +1,3 @@
+<word>tempting</word>
+<meaning>causing an urge or desire to have or do something</meaning>
+<example>a tempting sweet treat</example>

@@ -1,0 +1,3 @@
+<word>elegance</word>
+<meaning>a refined quality of gracefulness and good taste</meaning>
+<example>the woman's elegance and charm</example>

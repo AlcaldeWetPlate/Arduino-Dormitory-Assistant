@@ -1,0 +1,3 @@
+<word>plainly</word>
+<meaning>unmistakably</meaning>
+<example>speak plainly</example>

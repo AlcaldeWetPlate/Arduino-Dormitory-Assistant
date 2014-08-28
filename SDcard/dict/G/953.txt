@@ -1,0 +1,3 @@
+<word>dapper</word>
+<meaning>having a neat appearance :dressed in attractive clothes</meaning>
+<example>a dapper suit</example>

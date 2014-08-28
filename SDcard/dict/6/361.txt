@@ -1,0 +1,3 @@
+<word>poverty</word>
+<meaning>the state of being poor</meaning>
+<example>children living in poverty</example>

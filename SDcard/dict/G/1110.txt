@@ -1,0 +1,3 @@
+<word>coltish</word>
+<meaning>given to merry frolicking</meaning>
+<example>coltish, childish play</example>

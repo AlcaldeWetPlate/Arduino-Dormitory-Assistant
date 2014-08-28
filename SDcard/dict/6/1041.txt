@@ -1,0 +1,3 @@
+<word>spear</word>
+<meaning>a weapon that has a long straight handle and a sharp point</meaning>
+<example>throw a long red spear</example>

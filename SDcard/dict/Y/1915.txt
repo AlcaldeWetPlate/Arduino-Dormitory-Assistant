@@ -1,0 +1,3 @@
+<word>musician</word>
+<meaning>a person who writes, sings, or plays music</meaning>
+<example>young musician plays piano</example>

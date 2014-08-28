@@ -1,0 +1,3 @@
+<word>fulminate</word>
+<meaning>to complain loudly or angrily</meaning>
+<example>fulminate against her husband</example>

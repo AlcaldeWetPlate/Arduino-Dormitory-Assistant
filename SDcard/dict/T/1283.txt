@@ -1,0 +1,3 @@
+<word>melodious</word>
+<meaning>having a pleasing melody</meaning>
+<example>a melodious song</example>

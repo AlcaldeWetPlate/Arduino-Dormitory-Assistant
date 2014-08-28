@@ -1,0 +1,3 @@
+<word>pedagogue</word>
+<meaning>someone who educates young people</meaning>
+<example>The teacher is a pedagogue.</example>

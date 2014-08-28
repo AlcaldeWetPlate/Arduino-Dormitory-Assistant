@@ -1,0 +1,3 @@
+<word>desultory</word>
+<meaning>not having a plan or purpose</meaning>
+<example>the tired girl's desultory tone</example>

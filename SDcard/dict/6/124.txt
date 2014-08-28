@@ -1,0 +1,3 @@
+<word>hearty</word>
+<meaning>done or expressed in a very open, cheerful, and energetic way</meaning>
+<example>a hearty breakfast</example>

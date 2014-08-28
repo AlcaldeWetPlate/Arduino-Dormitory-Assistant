@@ -1,0 +1,3 @@
+<word>fragile</word>
+<meaning>easily broken or damaged</meaning>
+<example>the fragile glass</example>

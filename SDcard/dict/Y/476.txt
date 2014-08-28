@@ -1,0 +1,3 @@
+<word>isle</word>
+<meaning>a small island</meaning>
+<example>an isle with some houses</example>

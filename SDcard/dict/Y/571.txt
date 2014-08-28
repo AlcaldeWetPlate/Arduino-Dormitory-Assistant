@@ -1,0 +1,3 @@
+<word>slit</word>
+<meaning>a long, narrow cut or opening in something</meaning>
+<example>a slit in the gray dress</example>

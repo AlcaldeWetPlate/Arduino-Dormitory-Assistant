@@ -1,0 +1,3 @@
+<word>peril</word>
+<meaning>something that is likely to cause injury, pain, harm, or loss</meaning>
+<example>danger and peril</example>

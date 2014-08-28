@@ -1,0 +1,3 @@
+<word>flourish</word>
+<meaning>a dramatic or fancy way of doing something</meaning>
+<example>The tree flourishes.</example>

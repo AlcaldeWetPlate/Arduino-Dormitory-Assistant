@@ -1,0 +1,3 @@
+<word>forge</word>
+<meaning>a place where objects are made by heating and shaping metal</meaning>
+<example>The forge heats metal.</example>

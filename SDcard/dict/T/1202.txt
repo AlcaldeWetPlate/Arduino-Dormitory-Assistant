@@ -1,0 +1,3 @@
+<word>sheath</word>
+<meaning>a cover for the blade of a knife, sword, etc.</meaning>
+<example>Pull the knife out of the sheath.</example>

@@ -1,0 +1,3 @@
+<word>pillar</word>
+<meaning>a large post that helps to hold up something (such as a roof)</meaning>
+<example>the building's pillars</example>

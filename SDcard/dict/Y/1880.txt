@@ -1,0 +1,3 @@
+<word>minimal</word>
+<meaning>very small or slight in size or amount</meaning>
+<example>the minimal design of the room</example>

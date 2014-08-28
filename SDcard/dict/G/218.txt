@@ -1,0 +1,3 @@
+<word>whiff</word>
+<meaning>a slight smell of something :an odor that is weak</meaning>
+<example>smell a whiff of sth. stinky</example>

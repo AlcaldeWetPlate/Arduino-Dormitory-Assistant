@@ -1,0 +1,3 @@
+<word>epicure</word>
+<meaning>a person who appreciates fine food and drink</meaning>
+<example>The epicure drinks wine.</example>

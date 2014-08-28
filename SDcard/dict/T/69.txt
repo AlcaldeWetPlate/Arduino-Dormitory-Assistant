@@ -1,0 +1,3 @@
+<word>consonant</word>
+<meaning>a letter that represents a consonant</meaning>
+<example>'P' is a consonant.</example>

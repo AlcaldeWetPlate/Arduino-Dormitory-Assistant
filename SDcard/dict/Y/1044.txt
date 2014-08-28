@@ -1,0 +1,3 @@
+<word>deaf</word>
+<meaning>not able to hear</meaning>
+<example>The deaf man can't hear.</example>

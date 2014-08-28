@@ -1,0 +1,3 @@
+<word>healthy</word>
+<meaning>having good health :not sick or injured</meaning>
+<example>a healthy diet</example>

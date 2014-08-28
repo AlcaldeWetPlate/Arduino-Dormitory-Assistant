@@ -1,0 +1,3 @@
+<word>form</word>
+<meaning>bodily shape</meaning>
+<example>walk with correct form</example>

@@ -1,0 +1,3 @@
+<word>gash</word>
+<meaning>a long, deep cut</meaning>
+<example>painful gashes on his leg</example>

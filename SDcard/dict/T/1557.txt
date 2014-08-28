@@ -1,0 +1,3 @@
+<word>glassware</word>
+<meaning>things made of glass</meaning>
+<example>glassware with water in it</example>

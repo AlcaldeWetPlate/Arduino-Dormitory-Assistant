@@ -1,0 +1,3 @@
+<word>jingoist</word>
+<meaning>an extreme bellicose nationalist</meaning>
+<example>an American jingoist</example>

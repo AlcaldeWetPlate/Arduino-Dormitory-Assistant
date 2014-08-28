@@ -1,0 +1,3 @@
+<word>textured</word>
+<meaning>having a surface that was designed so that it is not smooth</meaning>
+<example>the textured metal floor</example>

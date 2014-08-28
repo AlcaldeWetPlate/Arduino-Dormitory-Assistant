@@ -1,0 +1,3 @@
+<word>ego</word>
+<meaning>the opinion that you have about yourself</meaning>
+<example>an man with a big ego</example>

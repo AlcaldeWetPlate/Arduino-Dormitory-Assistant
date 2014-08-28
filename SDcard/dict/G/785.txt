@@ -1,0 +1,3 @@
+<word>jettison</word>
+<meaning>to drop (something) from a moving ship, airplane, etc.</meaning>
+<example>jettison the sandbags off the balloon</example>

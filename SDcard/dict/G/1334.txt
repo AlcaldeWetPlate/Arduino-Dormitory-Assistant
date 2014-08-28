@@ -1,0 +1,3 @@
+<word>opine</word>
+<meaning>to express an opinion about something</meaning>
+<example>opine to the reporter about sth.</example>

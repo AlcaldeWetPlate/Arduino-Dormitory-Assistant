@@ -1,0 +1,3 @@
+<word>piebald</word>
+<meaning>spotted with two different colors (especially black and white)</meaning>
+<example>the piebald pig</example>

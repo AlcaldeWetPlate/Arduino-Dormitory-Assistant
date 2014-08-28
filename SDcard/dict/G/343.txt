@@ -1,0 +1,3 @@
+<word>murmur</word>
+<meaning>to say (something) in a quiet and soft voice</meaning>
+<example>She murmurs to her friend.</example>

@@ -1,0 +1,3 @@
+<word>hilarious</word>
+<meaning>very funny</meaning>
+<example>tell a hilarious joke</example>

@@ -1,0 +1,3 @@
+<word>marshal</word>
+<meaning>an officer of the highest rank in some military forces</meaning>
+<example>a military marshal</example>

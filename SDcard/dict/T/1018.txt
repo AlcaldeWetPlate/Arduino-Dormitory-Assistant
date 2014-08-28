@@ -1,0 +1,3 @@
+<word>incise</word>
+<meaning>to cut or carve (letters, patterns, etc.) into a surface</meaning>
+<example>incise a picture into the wood</example>

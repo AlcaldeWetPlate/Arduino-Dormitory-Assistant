@@ -1,0 +1,3 @@
+<word>viscosity</word>
+<meaning>resistance of a liquid to sheer forces (and hence to flow)</meaning>
+<example>the viscosity of honey</example>

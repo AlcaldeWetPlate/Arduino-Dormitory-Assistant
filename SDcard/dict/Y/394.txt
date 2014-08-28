@@ -1,0 +1,3 @@
+<word>moreover</word>
+<meaning>in addition to what has been said</meaning>
+<example>take pills; moreover, she eats fruit</example>

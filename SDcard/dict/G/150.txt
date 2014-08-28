@@ -1,0 +1,3 @@
+<word>lucid</word>
+<meaning>able to be seen through with clarity</meaning>
+<example>clear, lucid waters</example>

@@ -1,0 +1,3 @@
+<word>frothy</word>
+<meaning>liquid has lots of bubbles on its surface.</meaning>
+<example>frothy foam on top of the coffee</example>

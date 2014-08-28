@@ -1,0 +1,3 @@
+<word>deft</word>
+<meaning>skillful and clever</meaning>
+<example>a mouse's deft hands</example>

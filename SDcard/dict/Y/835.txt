@@ -1,0 +1,3 @@
+<word>beast</word>
+<meaning>a wild animal that is large, dangerous, or unusual</meaning>
+<example>a scary beast</example>

@@ -1,0 +1,3 @@
+<word>aboard</word>
+<meaning>on, onto, or within a train, a ship, an airplane, etc.</meaning>
+<example>aboard the ship</example>

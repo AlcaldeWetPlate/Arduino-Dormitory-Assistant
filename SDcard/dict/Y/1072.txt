@@ -1,0 +1,3 @@
+<word>idiot</word>
+<meaning>a very stupid or foolish person</meaning>
+<example>An idiot pokes his nose.</example>

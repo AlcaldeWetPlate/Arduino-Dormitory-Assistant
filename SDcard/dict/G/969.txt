@@ -1,0 +1,3 @@
+<word>acclimate</word>
+<meaning>to adjust or adapt to a new climate, place, or situation</meaning>
+<example>acclimate to the cold</example>

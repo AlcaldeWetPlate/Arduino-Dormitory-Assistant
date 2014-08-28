@@ -1,0 +1,3 @@
+<word>pen</word>
+<meaning>a writing instrument that uses ink</meaning>
+<example>sign her name with a pen</example>

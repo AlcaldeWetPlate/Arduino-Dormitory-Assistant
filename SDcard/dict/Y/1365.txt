@@ -1,0 +1,3 @@
+<word>metric</word>
+<meaning>of, relating to, or based on the metric system</meaning>
+<example>measure in metric units</example>

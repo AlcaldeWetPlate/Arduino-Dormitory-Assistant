@@ -1,0 +1,3 @@
+<word>subdivide</word>
+<meaning>to divide (something) into several or many smaller parts</meaning>
+<example>subdivide the different documents</example>

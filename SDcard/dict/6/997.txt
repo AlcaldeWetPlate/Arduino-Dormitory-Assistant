@@ -1,0 +1,3 @@
+<word>worthy</word>
+<meaning>good and deserving respect, praise, or attention</meaning>
+<example>worthy of the trophy</example>

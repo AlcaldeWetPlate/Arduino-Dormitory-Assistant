@@ -1,0 +1,3 @@
+<word>squall</word>
+<meaning>a sudden violent wind often with rain or snow</meaning>
+<example>a dangerous squall at sea</example>

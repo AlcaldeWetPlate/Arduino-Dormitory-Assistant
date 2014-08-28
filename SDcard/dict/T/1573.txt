@@ -1,0 +1,3 @@
+<word>cometary</word>
+<meaning>of or relating to or resembling a comet</meaning>
+<example>Cometary bodies travel.</example>

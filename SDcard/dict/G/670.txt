@@ -1,0 +1,3 @@
+<word>despise</word>
+<meaning>to dislike (something or someone) very much</meaning>
+<example>despise her sister</example>

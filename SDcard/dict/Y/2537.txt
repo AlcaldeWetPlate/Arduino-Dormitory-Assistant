@@ -1,0 +1,3 @@
+<word>sure</word>
+<meaning>used to say “yes” or to agree to a request or suggestion</meaning>
+<example>Sure, OK!</example>

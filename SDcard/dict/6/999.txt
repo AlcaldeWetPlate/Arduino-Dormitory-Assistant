@@ -1,0 +1,3 @@
+<word>reed</word>
+<meaning>a tall, thin grass that grows in wet areas</meaning>
+<example>reed plants near the river</example>

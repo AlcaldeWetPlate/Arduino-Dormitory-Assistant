@@ -1,0 +1,3 @@
+<word>fleeting</word>
+<meaning>not lasting :lasting for only a short time</meaning>
+<example>Shooting stars are fleeting.</example>

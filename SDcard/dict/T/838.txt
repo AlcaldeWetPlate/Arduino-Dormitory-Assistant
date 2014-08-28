@@ -1,0 +1,3 @@
+<word>encounter</word>
+<meaning>to meet (someone) without expecting or intending to</meaning>
+<example>an encounter between two cats</example>

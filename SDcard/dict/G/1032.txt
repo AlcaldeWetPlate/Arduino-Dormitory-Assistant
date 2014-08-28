@@ -1,0 +1,3 @@
+<word>plod</word>
+<meaning>to walk slowly and usually heavily</meaning>
+<example>a traveller plods along</example>

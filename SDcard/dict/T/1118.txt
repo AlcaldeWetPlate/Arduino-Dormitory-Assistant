@@ -1,0 +1,3 @@
+<word>notorious</word>
+<meaning>well-known or famous especially for something bad</meaning>
+<example>a notorious pirate</example>

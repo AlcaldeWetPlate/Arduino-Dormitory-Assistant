@@ -1,0 +1,3 @@
+<word>stiff</word>
+<meaning>painful to move or use</meaning>
+<example>his stiff back</example>

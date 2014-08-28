@@ -1,0 +1,3 @@
+<word>discard</word>
+<meaning>to throw (something) away because it is useless or unwanted</meaning>
+<example>discard the trash</example>

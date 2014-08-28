@@ -1,0 +1,3 @@
+<word>slightly</word>
+<meaning>in a very small amount or degree :a little</meaning>
+<example>open the door  slightly</example>

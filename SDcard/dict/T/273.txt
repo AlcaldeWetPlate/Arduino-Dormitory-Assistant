@@ -1,0 +1,3 @@
+<word>upland</word>
+<meaning>a region of high land especially far from the sea</meaning>
+<example>the mountainous upland</example>

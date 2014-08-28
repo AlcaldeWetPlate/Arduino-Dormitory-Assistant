@@ -1,0 +1,3 @@
+<word>stratum</word>
+<meaning>one of usually many layers of a substance (such as rock)</meaning>
+<example>a rock stratum</example>

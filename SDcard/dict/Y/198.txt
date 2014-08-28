@@ -1,0 +1,3 @@
+<word>handout</word>
+<meaning>a document that is given to people</meaning>
+<example>read the handout</example>

@@ -1,0 +1,3 @@
+<word>diction</word>
+<meaning>the way in which words are used in speech or writing</meaning>
+<example>diction of her words</example>

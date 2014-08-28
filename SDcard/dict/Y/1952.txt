@@ -1,0 +1,3 @@
+<word>shipwreck</word>
+<meaning>the destruction or sinking of a ship at sea</meaning>
+<example>an underwater shipwreck</example>

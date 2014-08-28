@@ -1,0 +1,3 @@
+<word>enumerate</word>
+<meaning>to name (things) one after another in a list</meaning>
+<example>enumerate her different reasons</example>

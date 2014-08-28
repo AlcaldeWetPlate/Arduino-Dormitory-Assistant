@@ -1,0 +1,3 @@
+<word>wan</word>
+<meaning>looking sick or pale</meaning>
+<example>sick and wan looking</example>

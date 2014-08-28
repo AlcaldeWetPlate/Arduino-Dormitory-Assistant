@@ -1,0 +1,3 @@
+<word>finicky</word>
+<meaning>requiring a lot of care or attention</meaning>
+<example>finicky about her food</example>

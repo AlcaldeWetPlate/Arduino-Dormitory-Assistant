@@ -1,0 +1,3 @@
+<word>nadir</word>
+<meaning>the worst or lowest point of something</meaning>
+<example>the nadir of the red line</example>

@@ -1,0 +1,3 @@
+<word>vegetable</word>
+<meaning>a plant or plant part that is eaten as food</meaning>
+<example>fresh vegetables in the basket</example>

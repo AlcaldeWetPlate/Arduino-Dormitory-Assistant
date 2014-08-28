@@ -1,0 +1,3 @@
+<word>fry</word>
+<meaning>to cook (food) in fat or oil</meaning>
+<example>stir fry vegetables</example>

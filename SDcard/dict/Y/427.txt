@@ -1,0 +1,3 @@
+<word>judicial</word>
+<meaning>of or relating to courts of law or judges</meaning>
+<example>a judicial decision</example>

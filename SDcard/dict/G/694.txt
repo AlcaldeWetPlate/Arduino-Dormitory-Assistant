@@ -1,0 +1,3 @@
+<word>gallant</word>
+<meaning>showing courage :very brave</meaning>
+<example>a gallant war hero</example>

@@ -1,0 +1,3 @@
+<word>tract</word>
+<meaning>a system of body parts or organs that has a particular purpose</meaning>
+<example>the digestive tract</example>

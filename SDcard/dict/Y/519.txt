@@ -1,0 +1,3 @@
+<word>feast</word>
+<meaning>a special meal with large amounts of food and drink</meaning>
+<example>eat at a feast</example>

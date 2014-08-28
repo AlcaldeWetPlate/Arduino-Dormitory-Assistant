@@ -1,0 +1,3 @@
+<word>ordinance</word>
+<meaning>a law or regulation made by a city or town government</meaning>
+<example>The ordinance forbids smoking.</example>

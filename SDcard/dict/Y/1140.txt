@@ -1,0 +1,3 @@
+<word>sergeant</word>
+<meaning>an officer of low rank in the army or marines</meaning>
+<example>a sergeant in uniform</example>

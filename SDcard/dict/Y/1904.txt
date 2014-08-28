@@ -1,0 +1,3 @@
+<word>fur</word>
+<meaning>the fur of an animal used for clothing</meaning>
+<example>a fur coat</example>

@@ -1,0 +1,3 @@
+<word>dizziness</word>
+<meaning>a reeling sensation; feeling about to fall</meaning>
+<example>His dizziness bothers him.</example>

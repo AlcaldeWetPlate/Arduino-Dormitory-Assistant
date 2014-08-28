@@ -1,0 +1,3 @@
+<word>pastry</word>
+<meaning>dough that is used to make pies and other baked goods</meaning>
+<example>eat a sugary pastry</example>

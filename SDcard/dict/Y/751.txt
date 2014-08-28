@@ -1,0 +1,3 @@
+<word>correct</word>
+<meaning>true or accurate :agreeing with facts</meaning>
+<example>the correct answer</example>

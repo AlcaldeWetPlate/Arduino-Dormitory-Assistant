@@ -1,0 +1,3 @@
+<word>taste</word>
+<meaning>to have a particular taste</meaning>
+<example>taste the ice cream</example>

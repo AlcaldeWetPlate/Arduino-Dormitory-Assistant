@@ -1,0 +1,3 @@
+<word>roof</word>
+<meaning>the cover or top of a building, vehicle, etc.</meaning>
+<example>the roof of a house</example>

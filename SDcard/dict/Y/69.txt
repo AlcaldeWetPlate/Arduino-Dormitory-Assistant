@@ -1,0 +1,3 @@
+<word>bribery</word>
+<meaning>the act or crime giving or accepting a bribe</meaning>
+<example>The doctor doesn't like bribery.</example>

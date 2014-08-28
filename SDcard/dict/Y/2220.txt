@@ -1,0 +1,3 @@
+<word>sexual</word>
+<meaning>of, relating to, or involving sex</meaning>
+<example>couple having sexual relations</example>

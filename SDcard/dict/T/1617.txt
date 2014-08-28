@@ -1,0 +1,3 @@
+<word>paddler</word>
+<meaning>someone paddling a canoe</meaning>
+<example>paddlers of a canoe</example>

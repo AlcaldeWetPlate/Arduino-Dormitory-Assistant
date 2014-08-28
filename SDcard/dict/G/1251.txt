@@ -1,0 +1,3 @@
+<word>contrite</word>
+<meaning>feeling or showing regret for bad behavior</meaning>
+<example>the contrite, apologetic man</example>

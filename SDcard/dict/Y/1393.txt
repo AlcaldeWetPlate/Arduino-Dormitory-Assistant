@@ -1,0 +1,3 @@
+<word>income</word>
+<meaning>money that is earned from work, investments, business, etc.</meaning>
+<example>Doctors have high incomes.</example>

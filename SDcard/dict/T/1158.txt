@@ -1,0 +1,3 @@
+<word>eternal</word>
+<meaning>having no beginning and no end in time :lasting forever</meaning>
+<example>the universe is almost eternal</example>

@@ -1,0 +1,3 @@
+<word>brittle</word>
+<meaning>easily broken or cracked</meaning>
+<example>brittle eggs</example>

@@ -1,0 +1,3 @@
+<word>shifty</word>
+<meaning>having an appearance or way of behaving that seems dishonest</meaning>
+<example>their shifty expressions</example>

@@ -1,0 +1,3 @@
+<word>arboreal</word>
+<meaning>living in or often found in trees</meaning>
+<example>The sloth is an arboreal animal.</example>

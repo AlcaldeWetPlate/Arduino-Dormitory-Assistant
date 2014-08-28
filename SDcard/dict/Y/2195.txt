@@ -1,0 +1,3 @@
+<word>rise</word>
+<meaning>to move upward</meaning>
+<example>the balloon rises</example>

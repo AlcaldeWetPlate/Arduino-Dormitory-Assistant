@@ -1,0 +1,3 @@
+<word>elect</word>
+<meaning>to select (someone) for a position, job, etc., by voting</meaning>
+<example>elect the representatives</example>

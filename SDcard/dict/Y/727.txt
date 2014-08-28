@@ -1,0 +1,3 @@
+<word>win</word>
+<meaning>to achieve victory in a fight, contest, game, etc.</meaning>
+<example>win the World Cup</example>

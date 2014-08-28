@@ -1,0 +1,3 @@
+<word>doorway</word>
+<meaning>the space in front of a door</meaning>
+<example>a doorway into the old building</example>

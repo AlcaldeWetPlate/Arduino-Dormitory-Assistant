@@ -1,0 +1,3 @@
+<word>plow</word>
+<meaning>to dig into or break up (dirt, soil, land, etc.) with a plow</meaning>
+<example>plow the field</example>

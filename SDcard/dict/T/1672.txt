@@ -1,0 +1,3 @@
+<word>fateful</word>
+<meaning>having important results</meaning>
+<example>their fateful marriage</example>

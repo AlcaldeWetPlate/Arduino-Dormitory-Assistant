@@ -1,0 +1,3 @@
+<word>lurch</word>
+<meaning>to make a sudden sideways or forward motion</meaning>
+<example>the boat lurched to the side</example>

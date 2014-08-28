@@ -1,0 +1,3 @@
+<word>glossy</word>
+<meaning>having a shiny, smooth surface</meaning>
+<example>glossy lips</example>

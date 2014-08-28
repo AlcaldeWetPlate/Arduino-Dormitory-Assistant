@@ -1,0 +1,3 @@
+<word>excess</word>
+<meaning>an amount that is more than the usual or necessary amount</meaning>
+<example>eating in excess</example>

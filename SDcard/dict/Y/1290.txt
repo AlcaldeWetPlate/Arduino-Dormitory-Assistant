@@ -1,0 +1,3 @@
+<word>household</word>
+<meaning>of or relating to a house or to the people living in a house</meaning>
+<example>She does household cleaning.</example>

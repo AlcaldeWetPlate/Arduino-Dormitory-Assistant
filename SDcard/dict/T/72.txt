@@ -1,0 +1,3 @@
+<word>countless</word>
+<meaning>too many to be counted :very many</meaning>
+<example>countless stars in the sky</example>

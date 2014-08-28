@@ -1,0 +1,3 @@
+<word>glowing</word>
+<meaning>having a warm color</meaning>
+<example>the glowing stars</example>

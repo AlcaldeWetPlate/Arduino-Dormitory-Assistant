@@ -1,0 +1,3 @@
+<word>inscribe</word>
+<meaning>to write or cut (words, a name, etc.) on something</meaning>
+<example>inscribe onto skin</example>

@@ -1,0 +1,3 @@
+<word>investor</word>
+<meaning>someone who commits capital in order to gain financial returns</meaning>
+<example>The investor invests money.</example>

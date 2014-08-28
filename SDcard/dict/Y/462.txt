@@ -1,0 +1,3 @@
+<word>adjust</word>
+<meaning>to change (something) in a minor way so that it works better</meaning>
+<example>adjust the temperature</example>

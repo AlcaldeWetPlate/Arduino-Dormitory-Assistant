@@ -1,0 +1,3 @@
+<word>reflect</word>
+<meaning>to show the image of (something) on a surface</meaning>
+<example>The water reflects the sky.</example>

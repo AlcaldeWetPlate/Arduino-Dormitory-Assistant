@@ -1,0 +1,3 @@
+<word>surpass</word>
+<meaning>to be better or greater than (someone or something)</meaning>
+<example>surpass people's expectations</example>

@@ -1,0 +1,3 @@
+<word>proponent</word>
+<meaning>a person who argues for or supports something</meaning>
+<example>a proponent of sale</example>

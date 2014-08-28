@@ -1,0 +1,3 @@
+<word>shark</word>
+<meaning>a large and often dangerous sea fish with very sharp teeth</meaning>
+<example>a big gray shark</example>

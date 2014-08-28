@@ -1,0 +1,3 @@
+<word>contour</word>
+<meaning>the outline or outer edge of something</meaning>
+<example>contour lines</example>

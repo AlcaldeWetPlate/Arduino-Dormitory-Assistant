@@ -1,0 +1,3 @@
+<word>brilliant</word>
+<meaning>extremely intelligent :much more intelligent than most people</meaning>
+<example>a brilliant  girl</example>

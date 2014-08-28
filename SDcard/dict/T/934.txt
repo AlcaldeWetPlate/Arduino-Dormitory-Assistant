@@ -1,0 +1,3 @@
+<word>blossom</word>
+<meaning>to produce flowers</meaning>
+<example>The flowers blossom.</example>

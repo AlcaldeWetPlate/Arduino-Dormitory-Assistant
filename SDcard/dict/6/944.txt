@@ -1,0 +1,3 @@
+<word>miser</word>
+<meaning>a person who hates to spend money :a very stingy person</meaning>
+<example>The miser never spends any money.</example>

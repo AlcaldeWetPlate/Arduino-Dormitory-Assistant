@@ -1,0 +1,3 @@
+<word>wed</word>
+<meaning>to bring or join (two things) together</meaning>
+<example>She weds her new husband.</example>

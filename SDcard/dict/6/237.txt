@@ -1,0 +1,3 @@
+<word>minimum</word>
+<meaning>least or lowest possible in amount or degree</meaning>
+<example>pay minimum wage</example>

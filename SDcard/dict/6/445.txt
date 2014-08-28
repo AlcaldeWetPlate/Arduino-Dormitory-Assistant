@@ -1,0 +1,3 @@
+<word>previous</word>
+<meaning>immediately before in time or order</meaning>
+<example>the previous option</example>

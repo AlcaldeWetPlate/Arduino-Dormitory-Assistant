@@ -1,0 +1,3 @@
+<word>code</word>
+<meaning>a set of instructions for a computer</meaning>
+<example>binary computer code</example>

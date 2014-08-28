@@ -1,0 +1,3 @@
+<word>shrivel</word>
+<meaning>to become dry and wrinkled from heat, cold, or old age</meaning>
+<example>The grapes shrivel into raisins.</example>

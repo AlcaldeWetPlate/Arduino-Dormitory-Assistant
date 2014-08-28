@@ -1,0 +1,3 @@
+<word>quench</word>
+<meaning>to stop (a fire) from burning :to put out (a fire)</meaning>
+<example>quench the fire</example>

@@ -1,0 +1,3 @@
+<word>suite</word>
+<meaning>a set of matching pieces of furniture for a room</meaning>
+<example>a deluxe suite</example>

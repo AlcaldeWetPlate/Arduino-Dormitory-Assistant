@@ -1,0 +1,3 @@
+<word>lampshade</word>
+<meaning>a cover that softens or directs the light of a lamp</meaning>
+<example>The lampshade softens the light.</example>

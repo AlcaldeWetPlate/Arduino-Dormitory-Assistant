@@ -1,0 +1,3 @@
+<word>moribund</word>
+<meaning>no longer active or effective :close to failure</meaning>
+<example>a moribund old woman</example>

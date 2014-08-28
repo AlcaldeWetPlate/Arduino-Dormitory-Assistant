@@ -1,0 +1,3 @@
+<word>immune</word>
+<meaning>not capable of being affected by a disease</meaning>
+<example>make the boy immune to a disease</example>

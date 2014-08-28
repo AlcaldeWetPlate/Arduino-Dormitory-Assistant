@@ -1,0 +1,3 @@
+<word>midnight</word>
+<meaning>the middle of the night :12 o'clock at night</meaning>
+<example>go to sleep at midnight</example>

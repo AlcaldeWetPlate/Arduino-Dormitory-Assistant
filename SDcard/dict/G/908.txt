@@ -1,0 +1,3 @@
+<word>resolute</word>
+<meaning>very determined :having or showing a lot of determination</meaning>
+<example>a resolute runner</example>

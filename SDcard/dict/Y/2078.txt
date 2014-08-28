@@ -1,0 +1,3 @@
+<word>queue</word>
+<meaning>to form or wait in a line</meaning>
+<example>a long queue of people</example>

@@ -1,0 +1,3 @@
+<word>prevent</word>
+<meaning>to stop (something) from happening or existing</meaning>
+<example>prevent arms from becoming stinky</example>

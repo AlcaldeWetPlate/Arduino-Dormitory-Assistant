@@ -1,0 +1,3 @@
+<word>border</word>
+<meaning>a line separating one country or state from another</meaning>
+<example>national borders</example>

@@ -1,0 +1,3 @@
+<word>polite</word>
+<meaning>having or showing good manners or respect for other people</meaning>
+<example>a polite greeting from Thailand</example>

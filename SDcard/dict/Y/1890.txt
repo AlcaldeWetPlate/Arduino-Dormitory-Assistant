@@ -1,0 +1,3 @@
+<word>awake</word>
+<meaning>not asleep</meaning>
+<example>wide awake in the morning</example>

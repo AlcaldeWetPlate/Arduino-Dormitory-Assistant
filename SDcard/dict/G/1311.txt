@@ -1,0 +1,3 @@
+<word>turgid</word>
+<meaning>larger or fuller than normal because of swelling</meaning>
+<example>her turgid, swollen hand</example>

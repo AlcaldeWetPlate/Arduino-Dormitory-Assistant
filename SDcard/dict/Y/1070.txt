@@ -1,0 +1,3 @@
+<word>stack</word>
+<meaning>a large amount of something</meaning>
+<example>the entire stack of books</example>

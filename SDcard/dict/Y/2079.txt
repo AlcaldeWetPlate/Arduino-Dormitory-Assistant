@@ -1,0 +1,3 @@
+<word>parcel</word>
+<meaning>a section or area of land</meaning>
+<example>A man delivers a parcel.</example>

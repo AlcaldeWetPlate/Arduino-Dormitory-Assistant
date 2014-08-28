@@ -1,0 +1,3 @@
+<word>stunt</word>
+<meaning>a difficult and often dangerous action</meaning>
+<example>a motorcycle stunt</example>

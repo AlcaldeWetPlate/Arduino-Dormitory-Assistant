@@ -1,0 +1,3 @@
+<word>kinsman</word>
+<meaning>a male relative</meaning>
+<example>high fives the boy's kinsman</example>

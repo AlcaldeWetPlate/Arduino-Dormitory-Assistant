@@ -1,0 +1,3 @@
+<word>minuscule</word>
+<meaning>very small</meaning>
+<example>the minuscule bugs</example>

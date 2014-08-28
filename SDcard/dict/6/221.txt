@@ -1,0 +1,3 @@
+<word>legal</word>
+<meaning>of or relating to the law</meaning>
+<example>the legal profession</example>

@@ -1,0 +1,3 @@
+<word>freedom</word>
+<meaning>the state of being free</meaning>
+<example>a feeling of freedom</example>

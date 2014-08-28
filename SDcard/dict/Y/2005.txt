@@ -1,0 +1,3 @@
+<word>doze</word>
+<meaning>to sleep lightly especially for a short period of time</meaning>
+<example>doze off on the desk</example>

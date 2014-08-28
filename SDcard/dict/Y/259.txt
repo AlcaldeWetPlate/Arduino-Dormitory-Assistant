@@ -1,0 +1,3 @@
+<word>muscle</word>
+<meaning>a body tissue that can contract and produce movement</meaning>
+<example>the man's big muscles</example>

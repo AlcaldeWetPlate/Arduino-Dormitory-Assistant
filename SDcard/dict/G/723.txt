@@ -1,0 +1,3 @@
+<word>mosque</word>
+<meaning>a building that is used for Muslim religious services</meaning>
+<example>a beautiful mosque</example>

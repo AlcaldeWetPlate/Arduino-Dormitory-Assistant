@@ -1,0 +1,3 @@
+<word>enormous</word>
+<meaning>very great in size or amount</meaning>
+<example>an enormous coffee cup</example>

@@ -1,0 +1,3 @@
+<word>immense</word>
+<meaning>very great in size or amount</meaning>
+<example>immense mountains</example>

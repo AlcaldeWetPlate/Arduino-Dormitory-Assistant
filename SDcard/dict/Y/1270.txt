@@ -1,0 +1,3 @@
+<word>overhaul</word>
+<meaning>the act of improving by renewing and restoring</meaning>
+<example>overhaul the house</example>

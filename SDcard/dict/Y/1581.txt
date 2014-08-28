@@ -1,0 +1,3 @@
+<word>punish</word>
+<meaning>to make (someone) suffer for a crime or for bad behavior</meaning>
+<example>punish the kid</example>

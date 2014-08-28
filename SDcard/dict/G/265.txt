@@ -1,0 +1,3 @@
+<word>gadfly</word>
+<meaning>someone who annoys people by being very critical</meaning>
+<example>the bite of the gadfly</example>

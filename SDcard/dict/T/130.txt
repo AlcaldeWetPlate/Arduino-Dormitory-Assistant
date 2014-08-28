@@ -1,0 +1,3 @@
+<word>foresight</word>
+<meaning>the ability to see what will or might happen in the future</meaning>
+<example>foresight into your future</example>

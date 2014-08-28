@@ -1,0 +1,3 @@
+<word>exhale</word>
+<meaning>to breathe out</meaning>
+<example>She exhales to blow bubbles.</example>

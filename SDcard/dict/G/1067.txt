@@ -1,0 +1,3 @@
+<word>agog</word>
+<meaning>full of interest or excitement because of something</meaning>
+<example>The woman is agog with excitement.</example>

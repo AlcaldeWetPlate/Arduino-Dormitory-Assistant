@@ -1,0 +1,3 @@
+<word>cardinal</word>
+<meaning>basic or most important</meaning>
+<example>cardinal directions</example>

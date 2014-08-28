@@ -1,0 +1,3 @@
+<word>bosom</word>
+<meaning>one of a woman's breasts</meaning>
+<example>A baby sucks on her bosom.</example>

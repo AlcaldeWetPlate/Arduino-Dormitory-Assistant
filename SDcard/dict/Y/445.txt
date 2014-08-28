@@ -1,0 +1,3 @@
+<word>residence</word>
+<meaning>the place where someone lives</meaning>
+<example>the residence's garage</example>

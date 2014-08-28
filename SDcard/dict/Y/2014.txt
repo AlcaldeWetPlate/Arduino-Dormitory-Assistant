@@ -1,0 +1,3 @@
+<word>ampere</word>
+<meaning>a unit for measuring the rate at which electric current flows</meaning>
+<example>measures at zero amperes</example>

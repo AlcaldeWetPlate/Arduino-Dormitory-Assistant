@@ -1,0 +1,3 @@
+<word>diffusion</word>
+<meaning>The transmission of light through a translucent material.</meaning>
+<example>diffusion of light</example>

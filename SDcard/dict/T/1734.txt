@@ -1,0 +1,3 @@
+<word>unevenly</word>
+<meaning>in an uneven and irregular way</meaning>
+<example>The road is unevenly surfaced.</example>

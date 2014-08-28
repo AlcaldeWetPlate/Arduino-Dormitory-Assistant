@@ -1,0 +1,3 @@
+<word>sunlit</word>
+<meaning>lighted by the sun</meaning>
+<example>her sunlit skin</example>

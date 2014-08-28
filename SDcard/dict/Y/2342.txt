@@ -1,0 +1,3 @@
+<word>birth</word>
+<meaning>the time when a baby comes out from the body of its mother</meaning>
+<example>the birth of my son</example>

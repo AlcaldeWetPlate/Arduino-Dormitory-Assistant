@@ -1,0 +1,3 @@
+<word>political</word>
+<meaning>of or relating to politics or government</meaning>
+<example>political issues</example>

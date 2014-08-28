@@ -1,0 +1,3 @@
+<word>salinity</word>
+<meaning>the relative proportion of salt in a solution</meaning>
+<example>the salinity of sea water</example>

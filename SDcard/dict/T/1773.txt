@@ -1,0 +1,3 @@
+<word>inspector</word>
+<meaning>a person whose job is to inspect something</meaning>
+<example>a quality inspector</example>

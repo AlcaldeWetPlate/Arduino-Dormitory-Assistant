@@ -1,0 +1,3 @@
+<word>downtown</word>
+<meaning>to, toward, or in the main or central part of a city or town</meaning>
+<example>a city's downtown</example>

@@ -1,0 +1,3 @@
+<word>schooling</word>
+<meaning>teaching that is done in a school</meaning>
+<example>schooling of young kids</example>

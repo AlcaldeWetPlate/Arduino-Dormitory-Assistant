@@ -1,0 +1,3 @@
+<word>vicinity</word>
+<meaning>the area around or near a particular place</meaning>
+<example>a place in the vicinity</example>

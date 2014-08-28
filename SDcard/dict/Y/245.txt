@@ -1,0 +1,3 @@
+<word>merchant</word>
+<meaning>someone who buys and sells goods especially in large amounts</meaning>
+<example>a fruit merchant</example>

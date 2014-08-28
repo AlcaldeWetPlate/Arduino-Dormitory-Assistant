@@ -1,0 +1,3 @@
+<word>crumble</word>
+<meaning>to separate into many small pieces :to fall apart</meaning>
+<example>cake crumbles</example>

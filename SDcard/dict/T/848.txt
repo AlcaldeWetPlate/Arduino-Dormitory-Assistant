@@ -1,0 +1,3 @@
+<word>leap</word>
+<meaning>to jump over (something)</meaning>
+<example>the runner leaps</example>

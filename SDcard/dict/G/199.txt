@@ -1,0 +1,3 @@
+<word>sluggish</word>
+<meaning>moving slowly or lazily</meaning>
+<example>the sluggish tortoise</example>

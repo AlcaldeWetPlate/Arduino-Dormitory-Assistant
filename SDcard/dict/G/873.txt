@@ -1,0 +1,3 @@
+<word>affable</word>
+<meaning>friendly and easy to talk to</meaning>
+<example>an affable waiter</example>

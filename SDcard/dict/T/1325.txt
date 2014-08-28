@@ -1,0 +1,3 @@
+<word>tavern</word>
+<meaning>a place where alcoholic drinks are served</meaning>
+<example>drink at the local tavern</example>

@@ -1,0 +1,3 @@
+<word>asunder</word>
+<meaning>into parts</meaning>
+<example>tear the bill asunder</example>

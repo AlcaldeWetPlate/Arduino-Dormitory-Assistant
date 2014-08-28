@@ -1,0 +1,3 @@
+<word>wanting</word>
+<meaning>not having all that is needed or expected</meaning>
+<example>be wanting in office furniture</example>

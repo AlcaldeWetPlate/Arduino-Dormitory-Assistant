@@ -1,0 +1,3 @@
+<word>penetrate</word>
+<meaning>to go through or into something</meaning>
+<example>penetrate the apple with an arrow</example>

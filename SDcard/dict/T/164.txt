@@ -1,0 +1,3 @@
+<word>hue</word>
+<meaning>a color or a shade of a color</meaning>
+<example>paints of different hues</example>

@@ -1,0 +1,3 @@
+<word>socialist</word>
+<meaning>a member of a political party that supports socialism</meaning>
+<example>Socialists believe in socialism.</example>

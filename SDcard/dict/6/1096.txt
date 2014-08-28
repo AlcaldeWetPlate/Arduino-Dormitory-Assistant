@@ -1,0 +1,3 @@
+<word>stillness</word>
+<meaning>calmness without winds</meaning>
+<example>the stillness of the water</example>

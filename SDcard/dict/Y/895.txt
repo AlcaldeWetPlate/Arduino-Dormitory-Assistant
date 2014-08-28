@@ -1,0 +1,3 @@
+<word>staple</word>
+<meaning>to attach (something) with staples</meaning>
+<example>staple the paper</example>

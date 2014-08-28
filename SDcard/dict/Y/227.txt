@@ -1,0 +1,3 @@
+<word>kindred</word>
+<meaning>closely related</meaning>
+<example>kindred emotions in the family</example>

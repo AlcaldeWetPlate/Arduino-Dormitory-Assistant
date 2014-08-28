@@ -1,0 +1,3 @@
+<word>stellar</word>
+<meaning>of or relating to the stars</meaning>
+<example>a stellar map</example>

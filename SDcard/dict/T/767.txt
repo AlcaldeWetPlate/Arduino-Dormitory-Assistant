@@ -1,0 +1,3 @@
+<word>aquatic</word>
+<meaning>living or found in or near water</meaning>
+<example>fishes in aquatic environments</example>

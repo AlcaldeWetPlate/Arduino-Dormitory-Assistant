@@ -1,0 +1,3 @@
+<word>bonus</word>
+<meaning>an extra amount of money that is given to an employee</meaning>
+<example>give a bonus</example>

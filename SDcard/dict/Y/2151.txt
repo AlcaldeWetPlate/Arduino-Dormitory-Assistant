@@ -1,0 +1,3 @@
+<word>outdoor</word>
+<meaning>done, used, or located outside a building</meaning>
+<example>She loves outdoor activities.</example>

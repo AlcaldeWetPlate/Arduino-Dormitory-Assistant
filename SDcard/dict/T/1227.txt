@@ -1,0 +1,3 @@
+<word>aria</word>
+<meaning>a song in an opera sung by one person</meaning>
+<example>sing an aria</example>

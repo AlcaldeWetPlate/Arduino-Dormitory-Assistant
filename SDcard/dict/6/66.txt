@@ -1,0 +1,3 @@
+<word>deceptive</word>
+<meaning>likely to make someone believe something that is not true</meaning>
+<example>a deceptive trick</example>

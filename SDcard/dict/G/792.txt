@@ -1,0 +1,3 @@
+<word>dire</word>
+<meaning>very bad :causing great fear or worry</meaning>
+<example>a dire disaster</example>

@@ -1,0 +1,3 @@
+<word>applied</word>
+<meaning>having or relating to practical use :not theoretical</meaning>
+<example>an applied science lab</example>

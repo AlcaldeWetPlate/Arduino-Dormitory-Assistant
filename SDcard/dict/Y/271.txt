@@ -1,0 +1,3 @@
+<word>overdue</word>
+<meaning>not paid at an expected or required time</meaning>
+<example>overdue work</example>

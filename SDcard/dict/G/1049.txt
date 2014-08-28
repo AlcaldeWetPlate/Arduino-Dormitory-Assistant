@@ -1,0 +1,3 @@
+<word>wobble</word>
+<meaning>to move with an unsteady side-to-side motion</meaning>
+<example>wobble on the rope</example>

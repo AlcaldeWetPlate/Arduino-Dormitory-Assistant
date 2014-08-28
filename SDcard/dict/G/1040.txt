@@ -1,0 +1,3 @@
+<word>sparing</word>
+<meaning>not using or giving a lot of something</meaning>
+<example>eat a sparing diet</example>

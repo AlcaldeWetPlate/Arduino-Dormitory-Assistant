@@ -1,0 +1,3 @@
+<word>flaccid</word>
+<meaning>not firm :not hard or solid</meaning>
+<example>flaccid noodles</example>

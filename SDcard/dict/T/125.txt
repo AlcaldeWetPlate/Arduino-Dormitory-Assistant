@@ -1,0 +1,3 @@
+<word>faucet</word>
+<meaning>a device that is used to control the flow of water from a pipe</meaning>
+<example>The faucet is dripping.</example>

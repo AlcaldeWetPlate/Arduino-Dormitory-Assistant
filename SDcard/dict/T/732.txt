@@ -1,0 +1,3 @@
+<word>ignore</word>
+<meaning>to do nothing about or in response to (something or someone)</meaning>
+<example>ignores her boyfriend</example>

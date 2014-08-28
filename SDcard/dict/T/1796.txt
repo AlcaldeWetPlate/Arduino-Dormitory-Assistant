@@ -1,0 +1,3 @@
+<word>lay</word>
+<meaning>to place (someone or something) down gently in a flat position</meaning>
+<example>The couple lay together.</example>

@@ -1,0 +1,3 @@
+<word>dieter</word>
+<meaning>a person who is trying to lose weight :a person who is dieting</meaning>
+<example>a determined dieter</example>

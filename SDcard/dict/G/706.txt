@@ -1,0 +1,3 @@
+<word>benign</word>
+<meaning>gentle and kind</meaning>
+<example>Santa Claus is a benign old man.</example>

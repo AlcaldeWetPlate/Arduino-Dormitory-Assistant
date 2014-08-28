@@ -1,0 +1,3 @@
+<word>ascendant</word>
+<meaning>becoming more powerful :gaining more power</meaning>
+<example>The penguin is ascendant!</example>

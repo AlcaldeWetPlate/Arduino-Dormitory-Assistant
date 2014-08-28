@@ -1,0 +1,3 @@
+<word>agenda</word>
+<meaning>a list of things to be considered or done</meaning>
+<example>a meeting agenda</example>

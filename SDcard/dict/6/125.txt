@@ -1,0 +1,3 @@
+<word>historic</word>
+<meaning>famous or important in history</meaning>
+<example>a historic Roman building</example>

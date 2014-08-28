@@ -1,0 +1,3 @@
+<word>dirty</word>
+<meaning>not clean</meaning>
+<example>her dirty hands</example>

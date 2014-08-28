@@ -1,0 +1,3 @@
+<word>democrat</word>
+<meaning>a member of the Democratic Party of the U.S.</meaning>
+<example>Democrats like to vote.</example>

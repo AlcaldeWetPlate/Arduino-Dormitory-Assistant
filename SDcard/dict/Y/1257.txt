@@ -1,0 +1,3 @@
+<word>snack</word>
+<meaning>a small amount of food eaten between meals</meaning>
+<example>eat a snack</example>

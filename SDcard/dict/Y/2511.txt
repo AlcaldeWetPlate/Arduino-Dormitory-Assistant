@@ -1,0 +1,3 @@
+<word>lunatic</word>
+<meaning>a person who behaves in a very foolish way</meaning>
+<example>a lunatic with lipstick on</example>

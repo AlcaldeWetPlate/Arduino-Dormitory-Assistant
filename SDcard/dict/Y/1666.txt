@@ -1,0 +1,3 @@
+<word>cheerful</word>
+<meaning>feeling or showing happiness</meaning>
+<example>a cheerful girl on the grass</example>

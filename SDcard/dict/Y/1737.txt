@@ -1,0 +1,3 @@
+<word>rooster</word>
+<meaning>an adult male chicken</meaning>
+<example>the crow of a rooster</example>

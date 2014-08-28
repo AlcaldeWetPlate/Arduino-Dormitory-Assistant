@@ -1,0 +1,3 @@
+<word>attach</word>
+<meaning>to fasten or join one thing</meaning>
+<example>be attached to the suitcase</example>

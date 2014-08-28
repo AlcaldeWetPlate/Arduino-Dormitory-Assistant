@@ -1,0 +1,3 @@
+<word>knee</word>
+<meaning>the joint that bends at the middle of your leg</meaning>
+<example>I hurt my knee!</example>

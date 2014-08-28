@@ -1,0 +1,3 @@
+<word>folklore</word>
+<meaning>traditional customs, beliefs, stories, and sayings</meaning>
+<example>Australian tribal folklore</example>

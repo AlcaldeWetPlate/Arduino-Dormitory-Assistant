@@ -1,0 +1,3 @@
+<word>unstable</word>
+<meaning>not stable</meaning>
+<example>the unstable financial market</example>

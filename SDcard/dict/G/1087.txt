@@ -1,0 +1,3 @@
+<word>errant</word>
+<meaning>behaving wrongly</meaning>
+<example>The errant boy runs away.</example>

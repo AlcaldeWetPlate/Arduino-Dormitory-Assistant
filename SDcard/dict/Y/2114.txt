@@ -1,0 +1,3 @@
+<word>deafen</word>
+<meaning>to make (someone) unable to hear</meaning>
+<example>use a speaker to deafen her</example>

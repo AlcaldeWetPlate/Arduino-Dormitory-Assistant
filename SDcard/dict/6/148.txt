@@ -1,0 +1,3 @@
+<word>luxurious</word>
+<meaning>very comfortable and expensive :richly appealing</meaning>
+<example>a luxurious apartment</example>

@@ -1,0 +1,3 @@
+<word>shocked</word>
+<meaning>struck with fear, dread, or consternation</meaning>
+<example>a shocked look on her face</example>

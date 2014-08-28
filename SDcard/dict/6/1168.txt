@@ -1,0 +1,3 @@
+<word>barley</word>
+<meaning>a kind of grain used for food and to make beer and whiskey</meaning>
+<example>the golden barley from the farm</example>

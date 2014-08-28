@@ -1,0 +1,3 @@
+<word>emphatic</word>
+<meaning>said or done in a forceful or definite way</meaning>
+<example>The man is emphatic about a point.</example>

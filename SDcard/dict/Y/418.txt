@@ -1,0 +1,3 @@
+<word>throat</word>
+<meaning>the tube inside the neck that leads to the stomach and lungs</meaning>
+<example>throat pain</example>

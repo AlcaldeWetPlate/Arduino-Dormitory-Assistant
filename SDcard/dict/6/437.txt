@@ -1,0 +1,3 @@
+<word>bachelor</word>
+<meaning>a man who is not married</meaning>
+<example>three young bachelors</example>

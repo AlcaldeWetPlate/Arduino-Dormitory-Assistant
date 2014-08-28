@@ -1,0 +1,3 @@
+<word>daisy</word>
+<meaning>a type of white flower that has a yellow center</meaning>
+<example>The beautiful daisies blossom.</example>

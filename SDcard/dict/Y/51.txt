@@ -1,0 +1,3 @@
+<word>battalion</word>
+<meaning>a large organized group of soldiers</meaning>
+<example>a battalion of soldiers</example>

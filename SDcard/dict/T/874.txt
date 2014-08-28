@@ -1,0 +1,3 @@
+<word>cardiac</word>
+<meaning>of or relating to the heart</meaning>
+<example>cardiac problems</example>

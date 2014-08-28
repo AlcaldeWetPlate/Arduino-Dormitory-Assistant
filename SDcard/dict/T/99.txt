@@ -1,0 +1,3 @@
+<word>divert</word>
+<meaning>to change the direction or use of (something)</meaning>
+<example>divert from the road</example>

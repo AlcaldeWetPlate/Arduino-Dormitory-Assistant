@@ -1,0 +1,3 @@
+<word>cogent</word>
+<meaning>very clear and easy for the mind to accept and believe</meaning>
+<example>make a good, cogent argument</example>

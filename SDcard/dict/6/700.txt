@@ -1,0 +1,3 @@
+<word>narrative</word>
+<meaning>of or relating to the process of telling a story</meaning>
+<example>the narrative of a story</example>

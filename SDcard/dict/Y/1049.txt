@@ -1,0 +1,3 @@
+<word>slip</word>
+<meaning>to lose your balance especially on a slippery surface</meaning>
+<example>slip and fall</example>

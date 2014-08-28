@@ -1,0 +1,3 @@
+<word>serene</word>
+<meaning>calm and peaceful</meaning>
+<example>The beach is a serene place.</example>

@@ -1,0 +1,3 @@
+<word>despoiler</word>
+<meaning>someone who takes spoils or plunder (as in war)</meaning>
+<example>a bank despoiler</example>

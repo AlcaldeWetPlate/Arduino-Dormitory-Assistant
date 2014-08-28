@@ -1,0 +1,3 @@
+<word>invite</word>
+<meaning>to ask (someone) formally or politely to do something</meaning>
+<example>invite us into the house</example>

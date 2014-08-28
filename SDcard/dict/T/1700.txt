@@ -1,0 +1,3 @@
+<word>pique</word>
+<meaning>to cause (curiosity or interest)</meaning>
+<example>Books pique my curiosity.</example>

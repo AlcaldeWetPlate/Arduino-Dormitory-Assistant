@@ -1,0 +1,3 @@
+<word>multitude</word>
+<meaning>a great number of things or people</meaning>
+<example>a multitude of people</example>

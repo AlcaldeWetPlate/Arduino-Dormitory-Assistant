@@ -1,0 +1,3 @@
+<word>rouse</word>
+<meaning>to wake (someone) from sleep</meaning>
+<example>he rouses her awake</example>

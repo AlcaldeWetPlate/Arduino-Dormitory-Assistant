@@ -1,0 +1,3 @@
+<word>moisten</word>
+<meaning>to make (something) slightly wet :to make (something) moist</meaning>
+<example>moisten my skin</example>

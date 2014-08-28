@@ -1,0 +1,3 @@
+<word>vitamin</word>
+<meaning>a pill containing vitamins</meaning>
+<example>take vitamins for health</example>

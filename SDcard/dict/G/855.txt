@@ -1,0 +1,3 @@
+<word>exorcise</word>
+<meaning>to force (an evil spirit) to leave</meaning>
+<example>Exorcise the demons from me!</example>

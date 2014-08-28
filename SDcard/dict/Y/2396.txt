@@ -1,0 +1,3 @@
+<word>firewood</word>
+<meaning>wood used to make a fire :wood used as fuel</meaning>
+<example>burn some firewood</example>

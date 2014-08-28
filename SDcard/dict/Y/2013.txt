@@ -1,0 +1,3 @@
+<word>Oceania</word>
+<meaning>lands of the central and southern Pacific Ocean</meaning>
+<example>the region of Oceania</example>

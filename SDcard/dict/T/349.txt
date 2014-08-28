@@ -1,0 +1,3 @@
+<word>personnel</word>
+<meaning>the people who work for a particular company or organization</meaning>
+<example>the office's personnel</example>

@@ -1,0 +1,3 @@
+<word>trespass</word>
+<meaning>to go on someone's land without permission</meaning>
+<example>trespass on somebody else's property</example>

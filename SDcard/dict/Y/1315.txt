@@ -1,0 +1,3 @@
+<word>hut</word>
+<meaning>a small and simple house or building</meaning>
+<example>a wooden log hut</example>

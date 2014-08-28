@@ -1,0 +1,3 @@
+<word>defeat</word>
+<meaning>failure to succeed or to win</meaning>
+<example>defeat in chess</example>

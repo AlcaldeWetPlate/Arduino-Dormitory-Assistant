@@ -1,0 +1,3 @@
+<word>exterior</word>
+<meaning>shown on the outside or surface</meaning>
+<example>a building's exterior</example>

@@ -1,0 +1,3 @@
+<word>eclat</word>
+<meaning>enthusiastic approval</meaning>
+<example>win the gold trophy with much eclat</example>

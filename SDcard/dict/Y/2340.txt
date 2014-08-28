@@ -1,0 +1,3 @@
+<word>unable</word>
+<meaning>not able to do something</meaning>
+<example>be unable to climb</example>

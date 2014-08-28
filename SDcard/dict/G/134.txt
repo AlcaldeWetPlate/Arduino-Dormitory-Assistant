@@ -1,0 +1,3 @@
+<word>indemnity</word>
+<meaning>a payment made to someone because of damage, loss, or injury</meaning>
+<example>Who will pay the indemnity?</example>

@@ -1,0 +1,3 @@
+<word>clutch</word>
+<meaning>to hold onto (someone or something) tightly with your hand</meaning>
+<example>clutch the handholds</example>

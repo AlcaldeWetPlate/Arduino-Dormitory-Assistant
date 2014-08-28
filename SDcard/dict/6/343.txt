@@ -1,0 +1,3 @@
+<word>span</word>
+<meaning>the width of something from one side to the other</meaning>
+<example>the bridge's span</example>

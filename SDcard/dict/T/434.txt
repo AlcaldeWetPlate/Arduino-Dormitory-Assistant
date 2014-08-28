@@ -1,0 +1,3 @@
+<word>arena</word>
+<meaning>an area of activity, interest, or competition</meaning>
+<example>fight in the arena</example>

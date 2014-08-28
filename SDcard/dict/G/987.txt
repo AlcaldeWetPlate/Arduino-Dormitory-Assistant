@@ -1,0 +1,3 @@
+<word>effulgent</word>
+<meaning>radiating or as if radiating light</meaning>
+<example>shine with effulgent light</example>

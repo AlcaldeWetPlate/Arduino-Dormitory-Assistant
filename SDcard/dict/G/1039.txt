@@ -1,0 +1,3 @@
+<word>snub</word>
+<meaning>to ignore (someone) in a deliberate and insulting way</meaning>
+<example>she snubs his advance</example>

@@ -1,0 +1,3 @@
+<word>spiny</word>
+<meaning>having or covered with many sharp, pointed parts</meaning>
+<example>the spiny hedgehogs</example>

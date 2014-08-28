@@ -1,0 +1,3 @@
+<word>trick</word>
+<meaning>an action that is meant to deceive someone</meaning>
+<example>a magic trick</example>

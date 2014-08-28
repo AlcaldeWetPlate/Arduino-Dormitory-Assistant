@@ -1,0 +1,3 @@
+<word>biscuit</word>
+<meaning>a small, light roll that is eaten as part of a meal</meaning>
+<example>a round biscuit</example>

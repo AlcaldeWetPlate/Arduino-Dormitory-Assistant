@@ -1,0 +1,3 @@
+<word>quell</word>
+<meaning>to end or stop (something) usually by using force</meaning>
+<example>the police quell a riot</example>

@@ -1,0 +1,3 @@
+<word>tenacious</word>
+<meaning>very determined to do something</meaning>
+<example>a tenacious boxer who won't quit</example>

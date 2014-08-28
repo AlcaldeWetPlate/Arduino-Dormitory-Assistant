@@ -1,0 +1,3 @@
+<word>jabber</word>
+<meaning>to talk in a fast, unclear, or foolish way</meaning>
+<example>Everybody jabbers to each other.</example>

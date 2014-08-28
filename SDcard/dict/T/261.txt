@@ -1,0 +1,3 @@
+<word>strand</word>
+<meaning>a thin piece of thread, wire, hair, etc.</meaning>
+<example>one strand of the rope</example>

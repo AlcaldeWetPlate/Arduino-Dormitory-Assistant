@@ -1,0 +1,3 @@
+<word>stray</word>
+<meaning>lost or having no home</meaning>
+<example>stray dogs</example>

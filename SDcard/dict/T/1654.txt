@@ -1,0 +1,3 @@
+<word>teem with</word>
+<meaning>filled with</meaning>
+<example>teem with small fish</example>

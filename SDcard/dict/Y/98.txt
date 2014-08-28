@@ -1,0 +1,3 @@
+<word>coastal</word>
+<meaning>located on or near or bordering on a coast</meaning>
+<example>sunset at a coastal location</example>

@@ -1,0 +1,3 @@
+<word>peaceful</word>
+<meaning>quiet and calm :without noise, excitement, etc.</meaning>
+<example>a peaceful place in nature</example>

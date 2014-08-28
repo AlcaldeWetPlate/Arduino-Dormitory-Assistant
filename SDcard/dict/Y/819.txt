@@ -1,0 +1,3 @@
+<word>mistress</word>
+<meaning>a woman who has a sexual relationship with a married man</meaning>
+<example>His mistress holds his hand.</example>

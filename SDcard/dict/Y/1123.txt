@@ -1,0 +1,3 @@
+<word>ultimate</word>
+<meaning>greatest or most extreme</meaning>
+<example>the ultimate natural disaster</example>

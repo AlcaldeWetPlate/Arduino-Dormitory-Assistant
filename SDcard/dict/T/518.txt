@@ -1,0 +1,3 @@
+<word>inert</word>
+<meaning>unable to move</meaning>
+<example>Rocks are inert.</example>

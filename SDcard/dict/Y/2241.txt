@@ -1,0 +1,3 @@
+<word>tourist</word>
+<meaning>a person who travels to a place for pleasure</meaning>
+<example>two foreign tourists</example>

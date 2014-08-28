@@ -1,0 +1,3 @@
+<word>flutter</word>
+<meaning>to move or flap the wings quickly without flying</meaning>
+<example>a flag flutters</example>

@@ -1,0 +1,3 @@
+<word>cadence</word>
+<meaning>a regular beat or rhythm</meaning>
+<example>the drum cadence</example>

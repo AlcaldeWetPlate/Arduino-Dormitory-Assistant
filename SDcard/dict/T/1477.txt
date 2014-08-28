@@ -1,0 +1,3 @@
+<word>automated</word>
+<meaning>to operate by automation</meaning>
+<example>the automated factory</example>

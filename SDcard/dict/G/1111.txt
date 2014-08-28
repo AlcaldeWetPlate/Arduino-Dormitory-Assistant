@@ -1,0 +1,3 @@
+<word>craven</word>
+<meaning>having or showing a complete lack of courage :very cowardly</meaning>
+<example>a craven coward</example>

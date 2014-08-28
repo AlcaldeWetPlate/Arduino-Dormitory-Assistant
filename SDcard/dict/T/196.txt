@@ -1,0 +1,3 @@
+<word>lumber</word>
+<meaning>wooden boards or logs that have been sawed and cut for use</meaning>
+<example>lumber for building houses</example>

@@ -1,0 +1,3 @@
+<word>mythology</word>
+<meaning>the myths of a particular group or culture</meaning>
+<example>dragons in Chinese mythology</example>

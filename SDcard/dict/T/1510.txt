@@ -1,0 +1,3 @@
+<word>invader</word>
+<meaning>someone who enters by force in order to conquer</meaning>
+<example>alien invaders</example>

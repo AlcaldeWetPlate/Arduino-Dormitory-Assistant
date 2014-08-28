@@ -1,0 +1,3 @@
+<word>boastful</word>
+<meaning>exhibiting self-importance</meaning>
+<example>He's boastful of his strength.</example>

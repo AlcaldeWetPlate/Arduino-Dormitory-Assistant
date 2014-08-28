@@ -1,0 +1,3 @@
+<word>sow</word>
+<meaning>to plant seeds in an area of ground</meaning>
+<example>sow the seeds</example>

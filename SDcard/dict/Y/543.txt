@@ -1,0 +1,3 @@
+<word>finite</word>
+<meaning>having limits</meaning>
+<example>a finite set of numbers</example>

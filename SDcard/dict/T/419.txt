@@ -1,0 +1,3 @@
+<word>axis</word>
+<meaning>a straight line that divides a shape evenly into two parts</meaning>
+<example>the x axis</example>

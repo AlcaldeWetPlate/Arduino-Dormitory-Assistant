@@ -1,0 +1,3 @@
+<word>haircut</word>
+<meaning>the act or result of cutting and shaping someone's hair</meaning>
+<example>She gets a haircut.</example>

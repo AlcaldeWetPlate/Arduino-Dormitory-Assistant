@@ -1,0 +1,3 @@
+<word>terribly</word>
+<meaning>very or extremely</meaning>
+<example>terribly scary ghosts</example>

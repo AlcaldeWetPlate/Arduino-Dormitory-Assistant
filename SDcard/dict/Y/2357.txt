@@ -1,0 +1,3 @@
+<word>inside</word>
+<meaning>an inner side, edge, or surface of something</meaning>
+<example>stay inside the house</example>

@@ -1,0 +1,3 @@
+<word>motif</word>
+<meaning>a single or repeated design or pattern</meaning>
+<example>repeat a motif</example>

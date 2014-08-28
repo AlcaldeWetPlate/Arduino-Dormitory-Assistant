@@ -1,0 +1,3 @@
+<word>scotch</word>
+<meaning>a kind of whiskey that is made in Scotland</meaning>
+<example>drink some scotch whisky</example>

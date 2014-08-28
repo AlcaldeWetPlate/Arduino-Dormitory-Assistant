@@ -1,0 +1,3 @@
+<word>hoarse</word>
+<meaning>having a harsh or rough sound or voice</meaning>
+<example>his hoarse voice</example>

@@ -1,0 +1,3 @@
+<word>rift</word>
+<meaning>a deep crack or opening in the ground, a rock, etc.</meaning>
+<example>rift in the ice</example>

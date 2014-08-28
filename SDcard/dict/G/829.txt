@@ -1,0 +1,3 @@
+<word>shun</word>
+<meaning>to avoid (someone or something)</meaning>
+<example>shun sb. he hates</example>

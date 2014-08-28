@@ -1,0 +1,3 @@
+<word>youth</word>
+<meaning>young people</meaning>
+<example>angry youth</example>

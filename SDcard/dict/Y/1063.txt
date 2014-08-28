@@ -1,0 +1,3 @@
+<word>burst</word>
+<meaning>to break open or into pieces in a sudden and violent way</meaning>
+<example>burst in an explosion</example>

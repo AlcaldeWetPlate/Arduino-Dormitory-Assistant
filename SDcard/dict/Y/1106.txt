@@ -1,0 +1,3 @@
+<word>crawl</word>
+<meaning>to move on your hands and knees</meaning>
+<example>crawl on his arms and legs</example>

@@ -1,0 +1,3 @@
+<word>attendant</word>
+<meaning>an assistant or servant</meaning>
+<example>an attendant at a restaurant</example>

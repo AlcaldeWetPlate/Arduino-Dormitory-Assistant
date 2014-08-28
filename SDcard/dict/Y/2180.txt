@@ -1,0 +1,3 @@
+<word>sonorous</word>
+<meaning>having a sound that is deep, loud, and pleasant</meaning>
+<example>low, sonorous sounds</example>

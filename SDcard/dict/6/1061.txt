@@ -1,0 +1,3 @@
+<word>flush</word>
+<meaning>to remove (something) with a flow of liquid</meaning>
+<example>flush money down the toilet</example>

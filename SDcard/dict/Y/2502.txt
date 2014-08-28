@@ -1,0 +1,3 @@
+<word>passerby</word>
+<meaning>a person who walks by something on a street or road</meaning>
+<example>passerby on the street</example>

@@ -1,0 +1,3 @@
+<word>emperor</word>
+<meaning>a man who rules an empire</meaning>
+<example>Napoleon was the emperor of France.</example>

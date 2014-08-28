@@ -1,0 +1,3 @@
+<word>heart</word>
+<meaning>a kind or generous feeling for other people</meaning>
+<example>a red heart</example>

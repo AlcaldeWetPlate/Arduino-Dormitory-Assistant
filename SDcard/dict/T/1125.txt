@@ -1,0 +1,3 @@
+<word>educated</word>
+<meaning>having an education and especially a good education</meaning>
+<example>well educated children</example>

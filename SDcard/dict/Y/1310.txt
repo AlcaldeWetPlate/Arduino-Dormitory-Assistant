@@ -1,0 +1,3 @@
+<word>practise</word>
+<meaning>engage in a rehearsal (of)</meaning>
+<example>practise kicking</example>

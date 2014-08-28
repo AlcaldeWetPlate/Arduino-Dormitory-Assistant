@@ -1,0 +1,3 @@
+<word>trace</word>
+<meaning>to draw the outline of (something)</meaning>
+<example>trace his on-line friends</example>

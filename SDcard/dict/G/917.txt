@@ -1,0 +1,3 @@
+<word>morose</word>
+<meaning>very serious, unhappy, and quiet</meaning>
+<example>a sad, morose man</example>

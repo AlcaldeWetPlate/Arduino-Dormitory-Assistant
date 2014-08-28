@@ -1,0 +1,3 @@
+<word>scholarly</word>
+<meaning>having the characteristics of a scholar</meaning>
+<example>The woman looks scholarly.</example>

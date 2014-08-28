@@ -1,0 +1,3 @@
+<word>grunt</word>
+<meaning>a short, low sound from the throat</meaning>
+<example>The pigs grunt.</example>

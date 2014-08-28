@@ -1,0 +1,3 @@
+<word>preen</word>
+<meaning>to make (yourself) neat and tidy</meaning>
+<example>The colorful birds preen their feathers.</example>

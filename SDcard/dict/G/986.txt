@@ -1,0 +1,3 @@
+<word>ebullient</word>
+<meaning>lively and enthusiastic</meaning>
+<example>happy and ebullient</example>

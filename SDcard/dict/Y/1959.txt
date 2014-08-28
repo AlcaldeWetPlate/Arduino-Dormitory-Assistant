@@ -1,0 +1,3 @@
+<word>behavior</word>
+<meaning>the way a person or animal acts or behaves</meaning>
+<example>his bad behavior in class</example>

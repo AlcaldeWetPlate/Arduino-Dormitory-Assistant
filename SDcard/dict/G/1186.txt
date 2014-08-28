@@ -1,0 +1,3 @@
+<word>scion</word>
+<meaning>a person who was born into a rich, famous, or important family</meaning>
+<example>the King's young scion</example>

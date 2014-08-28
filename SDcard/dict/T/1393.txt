@@ -1,0 +1,3 @@
+<word>breakup</word>
+<meaning>the end of a relationship, marriage, etc.</meaning>
+<example>She goes through a bad breakup.</example>

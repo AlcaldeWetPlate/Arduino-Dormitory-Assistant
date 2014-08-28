@@ -1,0 +1,3 @@
+<word>honey</word>
+<meaning>a thick, sweet substance made by bees</meaning>
+<example>spill the honey</example>

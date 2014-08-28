@@ -1,0 +1,3 @@
+<word>bread</word>
+<meaning>a baked food made from a mixture of flour and water</meaning>
+<example>freshly baked bread</example>

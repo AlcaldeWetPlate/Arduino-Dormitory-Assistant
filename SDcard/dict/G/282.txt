@@ -1,0 +1,3 @@
+<word>cadge</word>
+<meaning>to persuade someone to give you (something) for free</meaning>
+<example>tries to cadge money from sb.</example>

@@ -1,0 +1,3 @@
+<word>credit</word>
+<meaning>a record of how well you have paid your bills in the past</meaning>
+<example>use a credit card</example>

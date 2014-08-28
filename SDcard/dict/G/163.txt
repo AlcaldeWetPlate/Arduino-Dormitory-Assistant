@@ -1,0 +1,3 @@
+<word>nip</word>
+<meaning>to bite or pinch (someone or something) lightly</meaning>
+<example>The fish nip his feet.</example>

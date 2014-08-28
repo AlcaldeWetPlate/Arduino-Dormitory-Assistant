@@ -1,0 +1,3 @@
+<word>cherry</word>
+<meaning>a small round fruit that is usually red or black</meaning>
+<example>a glass of cherry juice</example>

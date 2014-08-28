@@ -1,0 +1,3 @@
+<word>power</word>
+<meaning>physical force or strength</meaning>
+<example>have strength and power</example>

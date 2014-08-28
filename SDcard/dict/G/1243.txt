@@ -1,0 +1,3 @@
+<word>rife</word>
+<meaning>very common and often bad or unpleasant</meaning>
+<example>The lake is rife with birds.</example>

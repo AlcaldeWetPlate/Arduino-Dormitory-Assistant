@@ -1,0 +1,3 @@
+<word>precision</word>
+<meaning>the quality of being precise :exactness or accuracy</meaning>
+<example>measurement precision</example>

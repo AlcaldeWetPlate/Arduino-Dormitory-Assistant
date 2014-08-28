@@ -1,0 +1,3 @@
+<word>house</word>
+<meaning>a building in which a family lives</meaning>
+<example>live in a house</example>

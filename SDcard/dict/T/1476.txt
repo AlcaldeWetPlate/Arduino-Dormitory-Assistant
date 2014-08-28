@@ -1,0 +1,3 @@
+<word>sapphire</word>
+<meaning>a clear, usually deep blue jewel</meaning>
+<example>a blue sapphire</example>

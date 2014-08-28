@@ -1,0 +1,3 @@
+<word>civic</word>
+<meaning>relating to citizenship or being a citizen</meaning>
+<example>a civic responsibility</example>

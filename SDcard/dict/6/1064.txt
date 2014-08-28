@@ -1,0 +1,3 @@
+<word>hush</word>
+<meaning>to make (someone) quiet, calm, or still</meaning>
+<example>hush you because you're loud</example>

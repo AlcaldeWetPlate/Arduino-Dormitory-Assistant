@@ -1,0 +1,3 @@
+<word>optimist</word>
+<meaning>a person who usually expects good things to happen</meaning>
+<example>The optimist is happy about the future.</example>

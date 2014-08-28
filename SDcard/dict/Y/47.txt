@@ -1,0 +1,3 @@
+<word>awe</word>
+<meaning>a strong feeling of fear or respect and also wonder</meaning>
+<example>in awe of our planet</example>

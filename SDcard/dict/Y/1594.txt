@@ -1,0 +1,3 @@
+<word>bench</word>
+<meaning>a long and usually hard seat for two or more people</meaning>
+<example>wooden bench</example>

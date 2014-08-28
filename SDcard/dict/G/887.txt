@@ -1,0 +1,3 @@
+<word>riveting</word>
+<meaning>very exciting or interesting</meaning>
+<example>Four men watch a riveting movie.</example>

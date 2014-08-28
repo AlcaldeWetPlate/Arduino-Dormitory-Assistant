@@ -1,0 +1,3 @@
+<word>mingle</word>
+<meaning>to combine or bring together two or more things</meaning>
+<example>mingle different fruits</example>

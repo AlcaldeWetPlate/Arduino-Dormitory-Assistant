@@ -1,0 +1,3 @@
+<word>singe</word>
+<meaning>to burn (something) slightly</meaning>
+<example>singe the meat</example>

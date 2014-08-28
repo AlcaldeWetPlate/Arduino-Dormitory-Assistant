@@ -1,0 +1,3 @@
+<word>grip</word>
+<meaning>the act of grabbing or holding something</meaning>
+<example>lose his grip on the mountain</example>

@@ -1,0 +1,3 @@
+<word>overhang</word>
+<meaning>a part that sticks out or hangs over something</meaning>
+<example>rest under the cliff's overhang</example>

@@ -1,0 +1,3 @@
+<word>visualize</word>
+<meaning>to form a mental picture of (someone or something)</meaning>
+<example>visualize an idea</example>

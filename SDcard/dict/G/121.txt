@@ -1,0 +1,3 @@
+<word>grumble</word>
+<meaning>to complain quietly about something :to talk in an unhappy way</meaning>
+<example>the old man grumbles</example>

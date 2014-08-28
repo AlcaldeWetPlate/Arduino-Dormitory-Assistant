@@ -1,0 +1,3 @@
+<word>lush</word>
+<meaning>having a lot of full and healthy growth</meaning>
+<example>a lush, green lawn</example>

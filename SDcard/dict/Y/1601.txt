@@ -1,0 +1,3 @@
+<word>forever</word>
+<meaning>for an endless time :for all time</meaning>
+<example>stay together forever</example>

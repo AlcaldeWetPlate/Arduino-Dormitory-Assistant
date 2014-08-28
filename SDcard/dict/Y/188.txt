@@ -1,0 +1,3 @@
+<word>glitter</word>
+<meaning>to shine brightly :to shine with bright points of light</meaning>
+<example>Dew glitters in the sunlight.</example>

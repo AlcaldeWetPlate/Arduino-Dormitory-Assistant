@@ -1,0 +1,3 @@
+<word>Marxist</word>
+<meaning>based on Marxism or relating to Marxism.</meaning>
+<example>Marx was a Marxist theorist.</example>

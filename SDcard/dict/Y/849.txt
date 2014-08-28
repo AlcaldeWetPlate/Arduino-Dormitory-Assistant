@@ -1,0 +1,3 @@
+<word>rotation</word>
+<meaning>the act or process of moving or turning around a central point</meaning>
+<example>the fan's rotation</example>

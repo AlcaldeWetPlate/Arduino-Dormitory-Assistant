@@ -1,0 +1,3 @@
+<word>colleague</word>
+<meaning>a person who works with you :a fellow worker</meaning>
+<example>four colleagues working together</example>

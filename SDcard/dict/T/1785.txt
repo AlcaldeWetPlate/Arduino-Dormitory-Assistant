@@ -1,0 +1,3 @@
+<word>rupture</word>
+<meaning>a break in good relations between people or countries</meaning>
+<example>a rupture in the heart</example>

@@ -1,0 +1,3 @@
+<word>allergic</word>
+<meaning>of or relating to an allergy</meaning>
+<example>be allergic to flowers</example>

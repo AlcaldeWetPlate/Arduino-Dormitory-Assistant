@@ -1,0 +1,3 @@
+<word>bewilder</word>
+<meaning>to confuse (someone) very much</meaning>
+<example>sth. bewilders the confused woman</example>

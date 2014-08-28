@@ -1,0 +1,3 @@
+<word>bid</word>
+<meaning>an offer to pay a particular amount of money for something</meaning>
+<example>bid on the item</example>

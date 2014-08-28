@@ -1,0 +1,3 @@
+<word>bleed</word>
+<meaning>to lose or release blood because of a cut, injury, etc.</meaning>
+<example>a nose bleed</example>

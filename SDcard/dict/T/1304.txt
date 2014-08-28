@@ -1,0 +1,3 @@
+<word>scarlet</word>
+<meaning>a bright red color</meaning>
+<example>a scarlet dress</example>

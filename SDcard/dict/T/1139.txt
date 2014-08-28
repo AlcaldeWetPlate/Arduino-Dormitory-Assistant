@@ -1,0 +1,3 @@
+<word>spot</word>
+<meaning>a small area of a surface that is different from other areas</meaning>
+<example>a pattern of blue spots</example>

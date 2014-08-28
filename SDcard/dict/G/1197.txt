@@ -1,0 +1,3 @@
+<word>spindly</word>
+<meaning>long and thin and usually weak</meaning>
+<example>the mushroom's long, spindly stalk</example>

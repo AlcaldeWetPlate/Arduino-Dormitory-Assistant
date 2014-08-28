@@ -1,0 +1,3 @@
+<word>enmity</word>
+<meaning>a very deep unfriendly feeling</meaning>
+<example>enmity between dogs and cats</example>

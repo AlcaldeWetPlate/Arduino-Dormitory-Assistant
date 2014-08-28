@@ -1,0 +1,3 @@
+<word>bliss</word>
+<meaning>complete happiness</meaning>
+<example>feel marital bliss in their marriage</example>

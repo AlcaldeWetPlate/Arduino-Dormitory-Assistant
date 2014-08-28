@@ -1,0 +1,3 @@
+<word>swarm</word>
+<meaning>to surround (something or someone) with a large group</meaning>
+<example>a swarm of bees</example>

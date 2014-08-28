@@ -1,0 +1,3 @@
+<word>sob</word>
+<meaning>to cry noisily while taking in short, sudden breaths</meaning>
+<example>sob while watching movie</example>

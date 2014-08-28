@@ -1,0 +1,3 @@
+<word>meadow</word>
+<meaning>a usually flat area of land that is covered with tall grass</meaning>
+<example>a tree in the meadow</example>

@@ -1,0 +1,3 @@
+<word>taut</word>
+<meaning>very tight from being pulled or stretched :not loose or slack</meaning>
+<example>pull the rope taut</example>

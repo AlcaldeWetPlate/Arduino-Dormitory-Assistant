@@ -1,0 +1,3 @@
+<word>hardly</word>
+<meaning>almost not</meaning>
+<example>That's hardly a full meal.</example>

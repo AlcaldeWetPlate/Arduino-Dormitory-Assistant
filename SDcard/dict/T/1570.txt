@@ -1,0 +1,3 @@
+<word>cast away</word>
+<meaning>throw or cast away</meaning>
+<example>cast away a bottle</example>

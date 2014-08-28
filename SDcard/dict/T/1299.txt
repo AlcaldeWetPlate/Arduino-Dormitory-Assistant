@@ -1,0 +1,3 @@
+<word>foe</word>
+<meaning>an enemy</meaning>
+<example>they are foes of each other</example>

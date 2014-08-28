@@ -1,0 +1,3 @@
+<word>pirate</word>
+<meaning>someone who attacks and steals from a ship at sea</meaning>
+<example>a bearded pirate</example>

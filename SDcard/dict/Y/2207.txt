@@ -1,0 +1,3 @@
+<word>passage</word>
+<meaning>a long, narrow space that connects one place to another</meaning>
+<example>a passage into the cave</example>

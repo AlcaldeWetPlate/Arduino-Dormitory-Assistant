@@ -1,0 +1,3 @@
+<word>careen</word>
+<meaning>to go forward quickly without control</meaning>
+<example>The car careens off the road.</example>

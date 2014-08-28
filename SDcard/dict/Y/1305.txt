@@ -1,0 +1,3 @@
+<word>carrier</word>
+<meaning>someone or something that carries something</meaning>
+<example>a busy carrier</example>

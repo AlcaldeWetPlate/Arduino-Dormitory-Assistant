@@ -1,0 +1,3 @@
+<word>glow</word>
+<meaning>to shine with low light and heat but usually without flame</meaning>
+<example>stars glow brilliantly</example>

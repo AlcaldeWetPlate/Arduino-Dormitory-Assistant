@@ -1,0 +1,3 @@
+<word>tape</word>
+<meaning>to fasten, tie, or cover (something) with tape</meaning>
+<example>wrinkled masking tape</example>

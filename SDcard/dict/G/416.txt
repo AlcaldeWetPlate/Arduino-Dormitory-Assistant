@@ -1,0 +1,3 @@
+<word>fatuous</word>
+<meaning>foolish or stupid</meaning>
+<example>a stupid, fatuous woman</example>

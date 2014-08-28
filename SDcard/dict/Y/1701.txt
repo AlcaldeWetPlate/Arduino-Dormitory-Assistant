@@ -1,0 +1,3 @@
+<word>astonish</word>
+<meaning>to cause a feeling of great wonder or surprise in (someone)</meaning>
+<example>Sth. astonishes the woman.</example>

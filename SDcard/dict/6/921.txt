@@ -1,0 +1,3 @@
+<word>pinpoint</word>
+<meaning>to find out (something) with certainty</meaning>
+<example>pinpoint someone in a crowd</example>

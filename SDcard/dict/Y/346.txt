@@ -1,0 +1,3 @@
+<word>agitate</word>
+<meaning>to disturb, excite, or anger (someone)</meaning>
+<example>Traffic agitates the woman.</example>

@@ -1,0 +1,3 @@
+<word>pot</word>
+<meaning>a container that is used for storing or holding something</meaning>
+<example>a pot of gold</example>

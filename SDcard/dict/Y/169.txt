@@ -1,0 +1,3 @@
+<word>extinct</word>
+<meaning>no longer existing</meaning>
+<example>The dinosaurs are extinct.</example>

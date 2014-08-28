@@ -1,0 +1,3 @@
+<word>line</word>
+<meaning>a long narrow mark on a surface</meaning>
+<example>draw a line</example>

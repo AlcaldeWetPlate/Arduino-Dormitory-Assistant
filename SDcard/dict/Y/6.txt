@@ -1,0 +1,3 @@
+<word>acclaim</word>
+<meaning>strong approval or praise</meaning>
+<example>give acclaim to the good restaurant</example>

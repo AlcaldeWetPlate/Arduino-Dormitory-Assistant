@@ -1,0 +1,3 @@
+<word>florid</word>
+<meaning>having a red or reddish color</meaning>
+<example>a florid, red complexion</example>

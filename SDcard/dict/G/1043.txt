@@ -1,0 +1,3 @@
+<word>squeamish</word>
+<meaning>easily shocked, offended, or disgusted by unpleasant things</meaning>
+<example>Bugs make the girls feel squeamish.</example>

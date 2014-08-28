@@ -1,0 +1,3 @@
+<word>owner</word>
+<meaning>a person or group that owns something</meaning>
+<example>the property owners</example>

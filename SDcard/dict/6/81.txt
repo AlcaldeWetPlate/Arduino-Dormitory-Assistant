@@ -1,0 +1,3 @@
+<word>dread</word>
+<meaning>to fear something that will or might happen</meaning>
+<example>We dread death.</example>

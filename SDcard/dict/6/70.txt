@@ -1,0 +1,3 @@
+<word>deflect</word>
+<meaning>to cause (something that is moving) to change direction</meaning>
+<example>deflect the arrow upwards</example>

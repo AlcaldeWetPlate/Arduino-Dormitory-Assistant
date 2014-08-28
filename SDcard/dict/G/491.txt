@@ -1,0 +1,3 @@
+<word>humdrum</word>
+<meaning>not interesting :dull, boring, and ordinary</meaning>
+<example>a humdrum job</example>

@@ -1,0 +1,3 @@
+<word>disengage</word>
+<meaning>to separate from someone or something</meaning>
+<example>disengage the rings from each other</example>

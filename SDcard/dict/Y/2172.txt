@@ -1,0 +1,3 @@
+<word>tidy</word>
+<meaning>clean and organized :not messy</meaning>
+<example>keep the house tidy</example>

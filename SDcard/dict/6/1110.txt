@@ -1,0 +1,3 @@
+<word>nickel</word>
+<meaning>a U.S. or Canadian coin that is worth five cents</meaning>
+<example>two nickels among the coins</example>

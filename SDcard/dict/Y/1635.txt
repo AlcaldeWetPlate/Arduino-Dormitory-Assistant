@@ -1,0 +1,3 @@
+<word>folly</word>
+<meaning>the lack of good sense or judgment</meaning>
+<example>youthful folly</example>

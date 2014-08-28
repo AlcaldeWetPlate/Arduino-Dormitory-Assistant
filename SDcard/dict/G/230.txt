@@ -1,0 +1,3 @@
+<word>cower</word>
+<meaning>to move back or bend your body down because you are afraid</meaning>
+<example>cower in fear</example>

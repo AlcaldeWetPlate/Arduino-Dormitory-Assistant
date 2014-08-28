@@ -1,0 +1,3 @@
+<word>bury</word>
+<meaning>to put (a dead person or animal) in a grave</meaning>
+<example>bury the dead</example>

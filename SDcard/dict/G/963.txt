@@ -1,0 +1,3 @@
+<word>blatant</word>
+<meaning>very obvious and offensive</meaning>
+<example>blatant sexual exploitation</example>

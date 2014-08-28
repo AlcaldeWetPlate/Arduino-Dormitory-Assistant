@@ -1,0 +1,3 @@
+<word>captive</word>
+<meaning>captured and kept in a prison, cage, etc.</meaning>
+<example>held captive with chains</example>

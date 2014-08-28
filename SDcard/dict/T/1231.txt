@@ -1,0 +1,3 @@
+<word>harmonica</word>
+<meaning>a small musical instrument that is played with your mouth</meaning>
+<example>play the harmonica</example>

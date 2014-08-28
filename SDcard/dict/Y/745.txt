@@ -1,0 +1,3 @@
+<word>active</word>
+<meaning>involving action or participation</meaning>
+<example>She is active.</example>

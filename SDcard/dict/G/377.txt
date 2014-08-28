@@ -1,0 +1,3 @@
+<word>wane</word>
+<meaning>becoming smaller or less</meaning>
+<example>Our profits have started to wane.</example>

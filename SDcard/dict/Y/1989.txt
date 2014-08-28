@@ -1,0 +1,3 @@
+<word>collect</word>
+<meaning>to get (similar things) and bring them together as a hobby</meaning>
+<example>collect stamps</example>

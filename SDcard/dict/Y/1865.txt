@@ -1,0 +1,3 @@
+<word>male</word>
+<meaning>characteristic of boys or men</meaning>
+<example>a male deer</example>

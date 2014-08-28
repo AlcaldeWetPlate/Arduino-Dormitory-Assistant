@@ -1,0 +1,3 @@
+<word>ungainly</word>
+<meaning>moving in an awkward or clumsy way :not graceful</meaning>
+<example>clumsy and ungainly</example>

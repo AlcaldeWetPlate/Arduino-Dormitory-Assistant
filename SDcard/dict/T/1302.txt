@@ -1,0 +1,3 @@
+<word>prominent</word>
+<meaning>important and well-known</meaning>
+<example>a prominent salesman</example>

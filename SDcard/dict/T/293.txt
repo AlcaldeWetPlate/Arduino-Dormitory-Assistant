@@ -1,0 +1,3 @@
+<word>turnpike</word>
+<meaning>a major road that you must pay to use</meaning>
+<example>drive on the turnpike</example>

@@ -1,0 +1,3 @@
+<word>cylinder</word>
+<meaning>a shape that has straight sides and two circular ends</meaning>
+<example>a tank in the shape of a cylinder</example>

@@ -1,0 +1,3 @@
+<word>bitterly</word>
+<meaning>extremely and sharply</meaning>
+<example>two bitterly disappointed girls</example>

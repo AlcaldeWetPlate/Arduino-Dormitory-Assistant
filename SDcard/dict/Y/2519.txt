@@ -1,0 +1,3 @@
+<word>culprit</word>
+<meaning>a person who has committed a crime or done something wrong</meaning>
+<example>the criminal culprit</example>

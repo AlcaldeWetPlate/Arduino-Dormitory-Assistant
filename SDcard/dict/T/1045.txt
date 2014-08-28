@@ -1,0 +1,3 @@
+<word>saline</word>
+<meaning>containing salt</meaning>
+<example>saline deposits on the ground</example>

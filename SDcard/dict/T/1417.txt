@@ -1,0 +1,3 @@
+<word>rental</word>
+<meaning>the amount of money paid or collected as rent</meaning>
+<example>a cheap rental unit</example>

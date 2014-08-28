@@ -1,0 +1,3 @@
+<word>intact</word>
+<meaning>not broken or damaged :having every part</meaning>
+<example>one intact match</example>

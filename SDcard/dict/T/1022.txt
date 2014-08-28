@@ -1,0 +1,3 @@
+<word>platitude</word>
+<meaning>a statement that expresses an idea that is not new</meaning>
+<example>a common platitude</example>

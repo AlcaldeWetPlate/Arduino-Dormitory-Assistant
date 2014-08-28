@@ -1,0 +1,3 @@
+<word>density</word>
+<meaning>the quality of having parts that are close together</meaning>
+<example>high density housing</example>

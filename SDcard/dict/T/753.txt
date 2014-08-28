@@ -1,0 +1,3 @@
+<word>pregnant</word>
+<meaning>having a baby or babies developing inside the body</meaning>
+<example>a pregnant woman</example>

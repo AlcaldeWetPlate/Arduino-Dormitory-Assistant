@@ -1,0 +1,3 @@
+<word>indented</word>
+<meaning>having the central portion lower than the margin</meaning>
+<example>The first line is indented.</example>

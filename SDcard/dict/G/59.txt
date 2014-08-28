@@ -1,0 +1,3 @@
+<word>confound</word>
+<meaning>to surprise and confuse (someone or something)</meaning>
+<example>Sth. confounds the confused man.</example>

@@ -1,0 +1,3 @@
+<word>extant</word>
+<meaning>in existence :still existing</meaning>
+<example>one of the few extant copies of a book</example>

@@ -1,0 +1,3 @@
+<word>luggage</word>
+<meaning>the bags and suitcases that a person carries when traveling</meaning>
+<example>bring your luggage</example>

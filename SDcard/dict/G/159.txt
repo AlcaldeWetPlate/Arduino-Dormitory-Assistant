@@ -1,0 +1,3 @@
+<word>mishap</word>
+<meaning>a small mistake or amount of bad luck</meaning>
+<example>a mishap with her car</example>

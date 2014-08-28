@@ -1,0 +1,3 @@
+<word>total</word>
+<meaning>complete or absolute</meaning>
+<example>the total price</example>

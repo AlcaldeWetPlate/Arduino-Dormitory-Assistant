@@ -1,0 +1,3 @@
+<word>wide</word>
+<meaning>extending throughout a specified area</meaning>
+<example>a very wide sofa</example>

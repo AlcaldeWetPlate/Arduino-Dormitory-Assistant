@@ -1,0 +1,3 @@
+<word>quilter</word>
+<meaning>a person who makes quilts</meaning>
+<example>a quilter makes a quilt</example>

@@ -1,0 +1,3 @@
+<word>ponderous</word>
+<meaning>slow or awkward because of weight and size</meaning>
+<example>a ponderous beast</example>

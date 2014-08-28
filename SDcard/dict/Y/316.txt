@@ -1,0 +1,3 @@
+<word>thorn</word>
+<meaning>a sharp point on the stem of some plants (such as roses)</meaning>
+<example>plants with thorns</example>

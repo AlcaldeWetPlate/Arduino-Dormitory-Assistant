@@ -1,0 +1,3 @@
+<word>stealth</word>
+<meaning>a secret, quiet, and clever way of moving or behaving</meaning>
+<example>a Japanese ninja's stealth</example>

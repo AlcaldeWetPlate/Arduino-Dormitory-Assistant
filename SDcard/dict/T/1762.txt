@@ -1,0 +1,3 @@
+<word>sunshine</word>
+<meaning>the sun's light or rays :warmth and light from the sun</meaning>
+<example>Enjoy the sunshine!</example>

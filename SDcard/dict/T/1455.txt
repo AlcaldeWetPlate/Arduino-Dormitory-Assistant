@@ -1,0 +1,3 @@
+<word>submerged</word>
+<meaning>under water</meaning>
+<example>submerged view of the sea</example>

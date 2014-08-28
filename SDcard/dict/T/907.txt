@@ -1,0 +1,3 @@
+<word>outlook</word>
+<meaning>the way that a person thinks about things</meaning>
+<example>a positive outlook</example>

@@ -1,0 +1,3 @@
+<word>gather</word>
+<meaning>to bring (things or people) together into a group</meaning>
+<example>gather the tree branches</example>

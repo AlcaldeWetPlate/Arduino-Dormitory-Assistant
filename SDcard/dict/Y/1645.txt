@@ -1,0 +1,3 @@
+<word>shortly</word>
+<meaning>in or within a short time</meaning>
+<example>be back shortly</example>

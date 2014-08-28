@@ -1,0 +1,3 @@
+<word>acquire</word>
+<meaning>to get (something) :to come to own (something)</meaning>
+<example>acquire all the money</example>

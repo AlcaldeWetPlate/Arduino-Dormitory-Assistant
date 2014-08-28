@@ -1,0 +1,3 @@
+<word>lava</word>
+<meaning>melted rock from a volcano</meaning>
+<example>the hot, orange lava</example>

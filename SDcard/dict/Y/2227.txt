@@ -1,0 +1,3 @@
+<word>heavily</word>
+<meaning>to a great degree :very much</meaning>
+<example>Cigarette addiction weighs heavily on her.</example>

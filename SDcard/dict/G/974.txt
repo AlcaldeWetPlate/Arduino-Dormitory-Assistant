@@ -1,0 +1,3 @@
+<word>leery</word>
+<meaning>feeling or showing a lack of trust in someone or something</meaning>
+<example>take off his glasses and be leery of sth.</example>

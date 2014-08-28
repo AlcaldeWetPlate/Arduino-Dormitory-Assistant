@@ -1,0 +1,3 @@
+<word>brood</word>
+<meaning>the children in someone's family</meaning>
+<example>a mother cat's brood</example>

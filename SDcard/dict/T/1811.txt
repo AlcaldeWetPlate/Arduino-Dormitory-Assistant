@@ -1,0 +1,3 @@
+<word>properly</word>
+<meaning>in a way that is acceptable or suitable</meaning>
+<example>They dress properly.</example>

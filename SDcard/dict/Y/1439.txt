@@ -1,0 +1,3 @@
+<word>bough</word>
+<meaning>a main branch of a tree</meaning>
+<example>standing on a tree's bough</example>

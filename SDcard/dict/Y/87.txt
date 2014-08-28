@@ -1,0 +1,3 @@
+<word>chick</word>
+<meaning>a baby chicken</meaning>
+<example>a chick inside an egg</example>

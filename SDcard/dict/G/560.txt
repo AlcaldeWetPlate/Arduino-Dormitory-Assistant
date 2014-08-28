@@ -1,0 +1,3 @@
+<word>coalesce</word>
+<meaning>to come together to form one group or mass</meaning>
+<example>The pieces coalesce into a circle.</example>

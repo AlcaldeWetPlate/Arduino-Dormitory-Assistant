@@ -1,0 +1,3 @@
+<word>stock</word>
+<meaning>a supply of something that is available for use</meaning>
+<example>products in stock</example>

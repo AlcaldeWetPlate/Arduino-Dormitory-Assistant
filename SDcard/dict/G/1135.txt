@@ -1,0 +1,3 @@
+<word>tatty</word>
+<meaning>old and in poor condition</meaning>
+<example>a tatty house</example>

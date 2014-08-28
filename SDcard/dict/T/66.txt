@@ -1,0 +1,3 @@
+<word>competing</word>
+<meaning>being in competition</meaning>
+<example>be competing against each other</example>

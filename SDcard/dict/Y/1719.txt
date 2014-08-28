@@ -1,0 +1,3 @@
+<word>sunset</word>
+<meaning>the time when the sun goes below the horizon in the evening</meaning>
+<example>animals watching the sunset</example>

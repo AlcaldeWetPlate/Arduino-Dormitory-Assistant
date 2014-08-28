@@ -1,0 +1,3 @@
+<word>bumble</word>
+<meaning>to act, move, or speak in an awkward or confusing way</meaning>
+<example>The bee bumbles around.</example>

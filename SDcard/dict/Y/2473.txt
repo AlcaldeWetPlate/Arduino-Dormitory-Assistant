@@ -1,0 +1,3 @@
+<word>fail</word>
+<meaning>to not succeed :to end without success</meaning>
+<example>fail to hit the target</example>

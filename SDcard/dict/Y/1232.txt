@@ -1,0 +1,3 @@
+<word>premature</word>
+<meaning>born before the normal time</meaning>
+<example>a premature baby</example>

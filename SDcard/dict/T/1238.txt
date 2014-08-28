@@ -1,0 +1,3 @@
+<word>jeweler</word>
+<meaning>a person who makes, repairs, or sells jewelry and watches</meaning>
+<example>Jewelers sell gold and diamonds.</example>

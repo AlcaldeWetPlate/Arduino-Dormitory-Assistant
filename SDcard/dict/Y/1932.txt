@@ -1,0 +1,3 @@
+<word>creature</word>
+<meaning>an animal of any type</meaning>
+<example>creatures like dogs and cats</example>

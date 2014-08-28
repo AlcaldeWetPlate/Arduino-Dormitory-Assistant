@@ -1,0 +1,3 @@
+<word>straw</word>
+<meaning>a thin tube used for sucking up a drink</meaning>
+<example>drink through a straw</example>

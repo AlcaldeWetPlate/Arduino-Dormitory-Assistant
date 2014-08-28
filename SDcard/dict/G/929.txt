@@ -1,0 +1,3 @@
+<word>saunter</word>
+<meaning>to walk along in a slow and relaxed manner</meaning>
+<example>saunter along the beach</example>

@@ -1,0 +1,3 @@
+<word>plebeian</word>
+<meaning>a common person</meaning>
+<example>plebeians living in a poor neighborhood</example>

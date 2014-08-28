@@ -1,0 +1,3 @@
+<word>mood</word>
+<meaning>the way someone feels :a person's emotional state</meaning>
+<example>She's in a good mood.</example>

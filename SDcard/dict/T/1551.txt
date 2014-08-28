@@ -1,0 +1,3 @@
+<word>shiny</word>
+<meaning>having a smooth, shining, bright appearance</meaning>
+<example>shiny sky</example>

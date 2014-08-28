@@ -1,0 +1,3 @@
+<word>beloved</word>
+<meaning>very much loved :dearly loved</meaning>
+<example>his beloved wife</example>

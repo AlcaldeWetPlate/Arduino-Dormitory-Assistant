@@ -1,0 +1,3 @@
+<word>critical</word>
+<meaning>relating to or involving a great danger of death</meaning>
+<example>in critical condition</example>

@@ -1,0 +1,3 @@
+<word>abrade</word>
+<meaning>to damage (something) by rubbing, grinding, or scraping</meaning>
+<example>abrade with a tool</example>

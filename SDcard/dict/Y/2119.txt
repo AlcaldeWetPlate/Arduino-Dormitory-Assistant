@@ -1,0 +1,3 @@
+<word>absorbed</word>
+<meaning>wholly absorbed as in thought</meaning>
+<example>be absorbed in a book</example>

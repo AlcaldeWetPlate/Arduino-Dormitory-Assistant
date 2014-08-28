@@ -1,0 +1,3 @@
+<word>stylish</word>
+<meaning>following the popular style</meaning>
+<example>The woman wears a stylish dress.</example>

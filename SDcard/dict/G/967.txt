@@ -1,0 +1,3 @@
+<word>immutable</word>
+<meaning>unable to be changed</meaning>
+<example>E=mc^2 is an immutable truth.</example>

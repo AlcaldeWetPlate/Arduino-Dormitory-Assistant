@@ -1,0 +1,3 @@
+<word>watery</word>
+<meaning>containing or filled with water or a similar liquid</meaning>
+<example>watery soup</example>

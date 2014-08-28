@@ -1,0 +1,3 @@
+<word>oscillate</word>
+<meaning>to move in one direction and then back again many times</meaning>
+<example>The green waveform oscillates.</example>

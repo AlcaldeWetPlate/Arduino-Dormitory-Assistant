@@ -1,0 +1,3 @@
+<word>motorbike</word>
+<meaning>a small motorcycle</meaning>
+<example>a red motorbike</example>

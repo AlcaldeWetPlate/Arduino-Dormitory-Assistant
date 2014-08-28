@@ -1,0 +1,3 @@
+<word>harrow</word>
+<meaning>draw a harrow over</meaning>
+<example>a farmer's harrow</example>

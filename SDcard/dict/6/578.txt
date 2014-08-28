@@ -1,0 +1,3 @@
+<word>virtual</word>
+<meaning>existing or occurring on computers or on the Internet</meaning>
+<example>a virtual photo album</example>

@@ -1,0 +1,3 @@
+<word>paste</word>
+<meaning>a soft, wet mixture of usually a powder and a liquid</meaning>
+<example>blue tooth paste on the toothbrush</example>

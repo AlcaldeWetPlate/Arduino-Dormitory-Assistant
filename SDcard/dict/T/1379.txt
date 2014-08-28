@@ -1,0 +1,3 @@
+<word>aromatic</word>
+<meaning>having a noticeable and pleasant smell</meaning>
+<example>the aromatic candles</example>

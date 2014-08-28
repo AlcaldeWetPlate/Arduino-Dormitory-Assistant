@@ -1,0 +1,3 @@
+<word>hustle</word>
+<meaning>to quickly move or push (someone) often in a rough way</meaning>
+<example>She will hustle the other players.</example>

@@ -1,0 +1,3 @@
+<word>abrogate</word>
+<meaning>to end or cancel (something) in a formal and official way</meaning>
+<example>a stamp to abrogate sb.'s privileges</example>

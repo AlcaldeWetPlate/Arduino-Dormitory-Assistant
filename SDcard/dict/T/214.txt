@@ -1,0 +1,3 @@
+<word>mortal</word>
+<meaning>certain to die</meaning>
+<example>Man is mortal; we all must die.</example>

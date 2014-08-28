@@ -1,0 +1,3 @@
+<word>appetite</word>
+<meaning>a physical desire for food</meaning>
+<example>a huge appetite for food</example>

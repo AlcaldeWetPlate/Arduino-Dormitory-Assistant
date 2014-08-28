@@ -1,0 +1,3 @@
+<word>kindle</word>
+<meaning>to cause (a fire) to start burning</meaning>
+<example>kindle a fire</example>

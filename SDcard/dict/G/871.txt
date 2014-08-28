@@ -1,0 +1,3 @@
+<word>recluse</word>
+<meaning>a person who lives alone and avoids other people</meaning>
+<example>a recluse in the mountains</example>

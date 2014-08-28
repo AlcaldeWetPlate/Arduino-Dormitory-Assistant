@@ -1,0 +1,3 @@
+<word>marvel</word>
+<meaning>to feel great surprise, wonder, or admiration</meaning>
+<example>marvel at the sea creatures</example>

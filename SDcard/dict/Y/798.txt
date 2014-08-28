@@ -1,0 +1,3 @@
+<word>editor</word>
+<meaning>a person whose job is to edit something</meaning>
+<example>a female editor</example>

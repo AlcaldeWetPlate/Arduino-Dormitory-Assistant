@@ -1,0 +1,3 @@
+<word>runic</word>
+<meaning>relating to or consisting of runes</meaning>
+<example>ancient runic symbols</example>

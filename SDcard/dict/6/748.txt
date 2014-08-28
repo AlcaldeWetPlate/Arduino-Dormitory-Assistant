@@ -1,0 +1,3 @@
+<word>intricate</word>
+<meaning>having many parts</meaning>
+<example>intricate pictures on her hand</example>

@@ -1,0 +1,3 @@
+<word>bonhomie</word>
+<meaning>a feeling of friendliness among a group of people</meaning>
+<example>the party's bonhomie</example>

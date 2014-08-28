@@ -1,0 +1,3 @@
+<word>raisin</word>
+<meaning>a dried grape used for food</meaning>
+<example>eat some raisins</example>

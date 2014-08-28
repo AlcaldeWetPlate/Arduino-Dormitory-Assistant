@@ -1,0 +1,3 @@
+<word>whisker</word>
+<meaning>a hair that grows on a man's face</meaning>
+<example>the little cat's whiskers</example>

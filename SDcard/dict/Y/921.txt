@@ -1,0 +1,3 @@
+<word>ashamed</word>
+<meaning>feeling shame or guilt</meaning>
+<example>be ashamed of taking pictures</example>

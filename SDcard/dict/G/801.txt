@@ -1,0 +1,3 @@
+<word>hone</word>
+<meaning>to sharpen (something, such as a knife) with a stone</meaning>
+<example>hone the knife</example>

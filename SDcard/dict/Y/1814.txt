@@ -1,0 +1,3 @@
+<word>maltreat</word>
+<meaning>to treat (someone) in a rough or cruel way</meaning>
+<example>He maltreats his wife.</example>

@@ -1,0 +1,3 @@
+<word>mirth</word>
+<meaning>happiness and laughter</meaning>
+<example>mirth and jokes</example>

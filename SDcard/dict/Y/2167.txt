@@ -1,0 +1,3 @@
+<word>sole</word>
+<meaning>the bottom part of the foot</meaning>
+<example>the soles of my feet</example>

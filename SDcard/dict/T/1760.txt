@@ -1,0 +1,3 @@
+<word>post</word>
+<meaning>to send (a letter or package) by mail</meaning>
+<example>post letters</example>

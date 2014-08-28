@@ -1,0 +1,3 @@
+<word>cyclist</word>
+<meaning>someone who rides a bicycle, or is riding a bicycle.</meaning>
+<example>an athletic cyclist</example>

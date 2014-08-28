@@ -1,0 +1,3 @@
+<word>chunk</word>
+<meaning>a thick piece of something</meaning>
+<example>big chunks of meat</example>

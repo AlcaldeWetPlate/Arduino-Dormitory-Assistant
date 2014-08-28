@@ -1,0 +1,3 @@
+<word>freighter</word>
+<meaning>a large ship that is used to carry goods</meaning>
+<example>a freighter at sea</example>

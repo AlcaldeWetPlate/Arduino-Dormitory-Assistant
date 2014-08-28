@@ -1,0 +1,3 @@
+<word>purity</word>
+<meaning>lack of guilt or evil thoughts</meaning>
+<example>the purity of a white rose</example>

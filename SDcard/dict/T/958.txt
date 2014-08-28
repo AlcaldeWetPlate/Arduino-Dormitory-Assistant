@@ -1,0 +1,3 @@
+<word>eventful</word>
+<meaning>having many important things happening</meaning>
+<example>an eventful night with fireworks</example>

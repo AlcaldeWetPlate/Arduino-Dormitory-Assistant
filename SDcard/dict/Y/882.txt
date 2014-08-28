@@ -1,0 +1,3 @@
+<word>stale</word>
+<meaning>no longer good or appealing :no longer fresh</meaning>
+<example>stale and rotten oranges</example>

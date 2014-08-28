@@ -1,0 +1,3 @@
+<word>stroll</word>
+<meaning>to walk slowly in usually a pleasant and relaxed way</meaning>
+<example>a stroll along the dirt path</example>

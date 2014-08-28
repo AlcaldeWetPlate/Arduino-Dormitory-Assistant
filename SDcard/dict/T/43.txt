@@ -1,0 +1,3 @@
+<word>bouquet</word>
+<meaning>a group of flowers that are picked and often tied together</meaning>
+<example>a bouquet of flowers</example>

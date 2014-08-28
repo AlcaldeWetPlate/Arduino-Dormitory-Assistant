@@ -1,0 +1,3 @@
+<word>fall</word>
+<meaning>to come or go down suddenly from a standing position</meaning>
+<example>almost fall off the cliff</example>

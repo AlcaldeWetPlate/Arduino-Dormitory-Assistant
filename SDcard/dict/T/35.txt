@@ -1,0 +1,3 @@
+<word>bankrupt</word>
+<meaning>unable to pay debts</meaning>
+<example>a bankrupt person</example>

@@ -1,0 +1,3 @@
+<word>stanza</word>
+<meaning>a group of lines in a poem</meaning>
+<example>a stanza of a poem</example>

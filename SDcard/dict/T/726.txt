@@ -1,0 +1,3 @@
+<word>global</word>
+<meaning>involving the entire world</meaning>
+<example>a global network</example>

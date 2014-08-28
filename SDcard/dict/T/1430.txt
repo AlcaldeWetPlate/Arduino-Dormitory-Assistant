@@ -1,0 +1,3 @@
+<word>patriarch</word>
+<meaning>a man who controls a family, group, or government</meaning>
+<example>The grandfather is the patriarch.</example>

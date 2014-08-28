@@ -1,0 +1,3 @@
+<word>antic</word>
+<meaning>very playful, funny, or silly</meaning>
+<example>the cat's antics</example>

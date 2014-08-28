@@ -1,0 +1,3 @@
+<word>yearly</word>
+<meaning>happening, done, or made once each year</meaning>
+<example>a yearly calender</example>

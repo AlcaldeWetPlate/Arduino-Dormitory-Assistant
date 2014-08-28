@@ -1,0 +1,3 @@
+<word>estimate</word>
+<meaning>a statement about how much a job will cost</meaning>
+<example>estimate the cost</example>

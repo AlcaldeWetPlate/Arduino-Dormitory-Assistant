@@ -1,0 +1,3 @@
+<word>accord</word>
+<meaning>a formal or official agreement</meaning>
+<example>The two businessmen reach an accord.</example>

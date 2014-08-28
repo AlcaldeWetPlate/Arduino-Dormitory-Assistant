@@ -1,0 +1,3 @@
+<word>sate</word>
+<meaning>to fill (someone) with food so that no more is wanted</meaning>
+<example>sate your hunger</example>

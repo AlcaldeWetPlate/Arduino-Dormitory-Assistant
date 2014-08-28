@@ -1,0 +1,3 @@
+<word>velocity</word>
+<meaning>quickness of motion</meaning>
+<example>the car's velocity</example>

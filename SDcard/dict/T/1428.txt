@@ -1,0 +1,3 @@
+<word>unravel</word>
+<meaning>to cause the separate threads of something to come apart</meaning>
+<example>The rope unravels.</example>

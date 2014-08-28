@@ -1,0 +1,3 @@
+<word>intrusion</word>
+<meaning>entrance by force or without permission or welcome</meaning>
+<example>a profitable intrusion</example>

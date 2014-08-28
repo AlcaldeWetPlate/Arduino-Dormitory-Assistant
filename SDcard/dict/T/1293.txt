@@ -1,0 +1,3 @@
+<word>rally</word>
+<meaning>a public meeting to support or oppose someone or something</meaning>
+<example>a public rally</example>

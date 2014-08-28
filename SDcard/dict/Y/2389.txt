@@ -1,0 +1,3 @@
+<word>seashell</word>
+<meaning>the hard, empty shell of a small sea creature (such as a clam)</meaning>
+<example>different seashells from the beach</example>

@@ -1,0 +1,3 @@
+<word>ache</word>
+<meaning>a pain that is not sharp but continues for a long time</meaning>
+<example>an ache in the back</example>

@@ -1,0 +1,3 @@
+<word>health</word>
+<meaning>the condition of being well or free from disease</meaning>
+<example>take care of her health</example>

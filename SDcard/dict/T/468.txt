@@ -1,0 +1,3 @@
+<word>impart</word>
+<meaning>to give (something, such as a quality) to a thing</meaning>
+<example>impart a gift</example>

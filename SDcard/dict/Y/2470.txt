@@ -1,0 +1,3 @@
+<word>enjoyable</word>
+<meaning>affording satisfaction or pleasure</meaning>
+<example>an enjoyable time with family</example>

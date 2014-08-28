@@ -1,0 +1,3 @@
+<word>surface</word>
+<meaning>the upper layer of an area of land or water</meaning>
+<example>flowers on the water's surface</example>

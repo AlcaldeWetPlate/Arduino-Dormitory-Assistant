@@ -1,0 +1,3 @@
+<word>jean</word>
+<meaning>pants usually made of jean or denim</meaning>
+<example>wear some blue jeans</example>

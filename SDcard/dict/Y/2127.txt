@@ -1,0 +1,3 @@
+<word>overpass</word>
+<meaning>a bridge that allows a road or railroad to cross over another</meaning>
+<example>a highway overpass</example>

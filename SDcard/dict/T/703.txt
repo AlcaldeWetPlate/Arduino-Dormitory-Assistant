@@ -1,0 +1,3 @@
+<word>perfect</word>
+<meaning>completely correct or accurate</meaning>
+<example>a perfect score</example>

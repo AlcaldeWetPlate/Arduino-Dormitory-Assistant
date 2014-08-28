@@ -1,0 +1,3 @@
+<word>conflate</word>
+<meaning>mix together different elements</meaning>
+<example>conflate Doraemon with Mickey Mouse</example>

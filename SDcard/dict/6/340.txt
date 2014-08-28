@@ -1,0 +1,3 @@
+<word>filth</word>
+<meaning>a large and very unpleasant amount of dirt</meaning>
+<example>filth on the ground</example>

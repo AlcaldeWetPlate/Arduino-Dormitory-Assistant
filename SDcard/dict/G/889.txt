@@ -1,0 +1,3 @@
+<word>cloying</word>
+<meaning>too sweet, pleasant, or emotional</meaning>
+<example>the cake's sweet, cloying taste</example>

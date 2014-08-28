@@ -1,0 +1,3 @@
+<word>response</word>
+<meaning>something that is said or written as a reply to something</meaning>
+<example>The kids give a response.</example>

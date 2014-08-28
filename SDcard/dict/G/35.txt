@@ -1,0 +1,3 @@
+<word>bash</word>
+<meaning>a hard and powerful hit or blow</meaning>
+<example>bash the drums</example>

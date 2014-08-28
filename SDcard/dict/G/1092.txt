@@ -1,0 +1,3 @@
+<word>gossamer</word>
+<meaning>a piece of a spider's web</meaning>
+<example>a spider web's gossamer</example>

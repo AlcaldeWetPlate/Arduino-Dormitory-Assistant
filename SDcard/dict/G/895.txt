@@ -1,0 +1,3 @@
+<word>inter</word>
+<meaning>to bury (a dead body)</meaning>
+<example>inter sb.'s body in the grave</example>

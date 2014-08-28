@@ -1,0 +1,3 @@
+<word>amorphous</word>
+<meaning>having no definite or clear shape or form</meaning>
+<example>the Jellyfish's amorphous body</example>

@@ -1,0 +1,3 @@
+<word>rectify</word>
+<meaning>to correct (something that is wrong)</meaning>
+<example>rectify the mistake</example>

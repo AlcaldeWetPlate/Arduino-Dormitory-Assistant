@@ -1,0 +1,3 @@
+<word>ore</word>
+<meaning>rocks, earth, etc., from which a valuable metal can be taken</meaning>
+<example>search for iron ore</example>

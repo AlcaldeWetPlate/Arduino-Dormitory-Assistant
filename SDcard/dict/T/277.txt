@@ -1,0 +1,3 @@
+<word>volcanic</word>
+<meaning>of, relating to, or produced by a volcano</meaning>
+<example>volcanic eruption</example>

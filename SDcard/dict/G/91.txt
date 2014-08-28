@@ -1,0 +1,3 @@
+<word>evacuate</word>
+<meaning>to remove (someone) from a dangerous place</meaning>
+<example>evacuate the hurt soldiers</example>

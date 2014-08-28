@@ -1,0 +1,3 @@
+<word>dietetics</word>
+<meaning>the scientific study of food preparation and intake</meaning>
+<example>study dietetics and eat well</example>

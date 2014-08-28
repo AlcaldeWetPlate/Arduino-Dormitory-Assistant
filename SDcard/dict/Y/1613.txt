@@ -1,0 +1,3 @@
+<word>attention</word>
+<meaning>notice, interest, or awareness</meaning>
+<example>pay attention to the man</example>

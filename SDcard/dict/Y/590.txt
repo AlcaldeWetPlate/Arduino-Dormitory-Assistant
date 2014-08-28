@@ -1,0 +1,3 @@
+<word>stride</word>
+<meaning>to walk with very long steps</meaning>
+<example>stride towards me</example>

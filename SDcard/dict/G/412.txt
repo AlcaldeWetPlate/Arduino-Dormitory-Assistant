@@ -1,0 +1,3 @@
+<word>intrigue</word>
+<meaning>the activity of making secret plans</meaning>
+<example>a spy involved in intrigue</example>

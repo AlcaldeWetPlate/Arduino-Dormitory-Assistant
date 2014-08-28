@@ -1,0 +1,3 @@
+<word>rapture</word>
+<meaning>a state or feeling of great happiness, pleasure, or love</meaning>
+<example>listen to music in rapture</example>

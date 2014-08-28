@@ -1,0 +1,3 @@
+<word>sonnet</word>
+<meaning>a poem made up of 14 lines that rhyme in a fixed pattern</meaning>
+<example>write a love sonnet</example>

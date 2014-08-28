@@ -1,0 +1,3 @@
+<word>payment</word>
+<meaning>the act of giving money for something :the act of paying</meaning>
+<example>payment by credit card</example>

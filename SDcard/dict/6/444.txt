@@ -1,0 +1,3 @@
+<word>preside</word>
+<meaning>to be in charge of something (such as a trial)</meaning>
+<example>preside over the meeting</example>

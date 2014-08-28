@@ -1,0 +1,3 @@
+<word>snowdrift</word>
+<meaning>a hill of snow that is formed by wind</meaning>
+<example>a car buried in a snowdrift</example>

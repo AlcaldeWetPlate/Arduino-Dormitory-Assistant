@@ -1,0 +1,3 @@
+<word>around</word>
+<meaning>in or to many different places</meaning>
+<example>around the world</example>

@@ -1,0 +1,3 @@
+<word>sour</word>
+<meaning>having an acid taste that is like the taste of a lemon</meaning>
+<example>the sour limes</example>

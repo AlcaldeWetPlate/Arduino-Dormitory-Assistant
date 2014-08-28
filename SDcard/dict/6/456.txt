@@ -1,0 +1,3 @@
+<word>intent</word>
+<meaning>showing concentration or great attention</meaning>
+<example>an intent expression</example>

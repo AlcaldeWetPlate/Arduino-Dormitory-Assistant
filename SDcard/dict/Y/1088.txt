@@ -1,0 +1,3 @@
+<word>slide</word>
+<meaning>to move smoothly along a surface</meaning>
+<example>a water slide</example>

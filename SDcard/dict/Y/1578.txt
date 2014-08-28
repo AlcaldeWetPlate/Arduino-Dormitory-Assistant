@@ -1,0 +1,3 @@
+<word>kiss</word>
+<meaning>to touch (something) with your lips</meaning>
+<example>kiss her ear</example>

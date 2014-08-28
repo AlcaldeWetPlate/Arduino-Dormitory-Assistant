@@ -1,0 +1,3 @@
+<word>urgency</word>
+<meaning>the state of being urgent; an earnest and insistent necessity</meaning>
+<example>The ambulance comes with great urgency.</example>

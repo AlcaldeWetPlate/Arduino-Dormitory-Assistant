@@ -1,0 +1,3 @@
+<word>massacre</word>
+<meaning>the violent killing of many people</meaning>
+<example>leftover skulls from a massacre</example>

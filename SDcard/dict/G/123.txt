@@ -1,0 +1,3 @@
+<word>hale</word>
+<meaning>healthy and strong</meaning>
+<example>a hale, healthy woman</example>

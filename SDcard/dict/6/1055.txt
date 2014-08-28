@@ -1,0 +1,3 @@
+<word>oxidize</word>
+<meaning>to become combined with oxygen</meaning>
+<example>The metal oxidizes.</example>

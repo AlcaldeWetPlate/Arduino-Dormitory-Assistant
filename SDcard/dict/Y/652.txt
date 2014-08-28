@@ -1,0 +1,3 @@
+<word>supreme</word>
+<meaning>highest in rank or authority</meaning>
+<example>The judge has supreme authority.</example>

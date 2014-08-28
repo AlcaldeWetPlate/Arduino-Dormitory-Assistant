@@ -1,0 +1,3 @@
+<word>dessert</word>
+<meaning>sweet food eaten after the main part of a meal</meaning>
+<example>ice cream for dessert</example>

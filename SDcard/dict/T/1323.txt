@@ -1,0 +1,3 @@
+<word>venue</word>
+<meaning>the place where an event takes place</meaning>
+<example>a concert venue</example>

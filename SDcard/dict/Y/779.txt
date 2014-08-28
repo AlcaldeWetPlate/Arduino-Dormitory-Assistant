@@ -1,0 +1,3 @@
+<word>corporate</word>
+<meaning>involving or associated with a corporation</meaning>
+<example>have a corporate job</example>

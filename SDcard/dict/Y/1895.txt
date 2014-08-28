@@ -1,0 +1,3 @@
+<word>alphabet</word>
+<meaning>the letters of a language arranged in their usual order</meaning>
+<example>the English alphabet</example>

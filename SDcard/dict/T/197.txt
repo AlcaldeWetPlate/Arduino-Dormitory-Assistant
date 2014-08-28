@@ -1,0 +1,3 @@
+<word>luminous</word>
+<meaning>filled with light :brightly lit</meaning>
+<example>the luminous stars</example>

@@ -1,0 +1,3 @@
+<word>admission</word>
+<meaning>the cost of entering a theater, sports stadium, museum, etc.</meaning>
+<example>admission into the club</example>

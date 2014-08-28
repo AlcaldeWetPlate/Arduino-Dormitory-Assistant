@@ -1,0 +1,3 @@
+<word>interlock</word>
+<meaning>to connect or lock (two or more things) together</meaning>
+<example>two pieces interlock</example>

@@ -1,0 +1,3 @@
+<word>packet</word>
+<meaning>a small, thin package</meaning>
+<example>a packet of sauce</example>

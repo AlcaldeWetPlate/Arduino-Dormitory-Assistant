@@ -1,0 +1,3 @@
+<word>wisdom</word>
+<meaning>knowledge that is gained by having many experiences in life</meaning>
+<example>wisdom from reading</example>

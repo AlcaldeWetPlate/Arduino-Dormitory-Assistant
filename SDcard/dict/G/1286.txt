@@ -1,0 +1,3 @@
+<word>dissuade</word>
+<meaning>to convince (someone) not to do something</meaning>
+<example>dissuade your colleague from doing sth.</example>

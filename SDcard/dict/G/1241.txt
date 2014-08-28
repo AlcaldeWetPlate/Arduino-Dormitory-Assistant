@@ -1,0 +1,3 @@
+<word>refulgent</word>
+<meaning>radiating or as if radiating light</meaning>
+<example>Her hair is refulgent in the light.</example>

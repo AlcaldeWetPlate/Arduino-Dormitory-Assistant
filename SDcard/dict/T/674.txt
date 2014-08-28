@@ -1,0 +1,3 @@
+<word>vanish</word>
+<meaning>to disappear entirely without a clear explanation</meaning>
+<example>The road vanishes at the end.</example>

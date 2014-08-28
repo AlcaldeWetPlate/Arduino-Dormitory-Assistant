@@ -1,0 +1,3 @@
+<word>stoop</word>
+<meaning>to walk or stand with your head and shoulders bent forward</meaning>
+<example>the businessman stoops</example>

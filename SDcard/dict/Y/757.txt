@@ -1,0 +1,3 @@
+<word>agency</word>
+<meaning>a business that provides a particular service</meaning>
+<example>the travel agency</example>

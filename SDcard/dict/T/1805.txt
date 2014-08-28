@@ -1,0 +1,3 @@
+<word>sick</word>
+<meaning>affected with a disease or illness</meaning>
+<example>The sick girl sneezes.</example>

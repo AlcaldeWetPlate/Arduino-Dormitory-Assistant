@@ -1,0 +1,3 @@
+<word>sparingly</word>
+<meaning>to a meager degree or in a meager manne</meaning>
+<example>spend money sparingly</example>

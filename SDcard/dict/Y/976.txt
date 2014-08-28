@@ -1,0 +1,3 @@
+<word>faith</word>
+<meaning>strong belief or trust in someone or something</meaning>
+<example>faith in God</example>

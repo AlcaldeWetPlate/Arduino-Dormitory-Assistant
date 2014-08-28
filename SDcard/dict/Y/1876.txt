@@ -1,0 +1,3 @@
+<word>pile</word>
+<meaning>to put (something) in a pile</meaning>
+<example>pile of books</example>

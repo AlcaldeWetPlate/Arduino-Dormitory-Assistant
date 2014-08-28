@@ -1,0 +1,3 @@
+<word>chiefly</word>
+<meaning>mainly or mostly</meaning>
+<example>chiefly the result of smoking</example>

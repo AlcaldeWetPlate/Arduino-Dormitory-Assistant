@@ -1,0 +1,3 @@
+<word>celestial</word>
+<meaning>of or relating the sky</meaning>
+<example>the celestial light show</example>

@@ -1,0 +1,3 @@
+<word>gilding</word>
+<meaning>a coating of gold or of something that looks like gold</meaning>
+<example>the gilding of the key</example>

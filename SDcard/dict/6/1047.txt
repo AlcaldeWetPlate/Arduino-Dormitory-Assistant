@@ -1,0 +1,3 @@
+<word>metallic</word>
+<meaning>made of metal or containing metal</meaning>
+<example>a metallic heart</example>

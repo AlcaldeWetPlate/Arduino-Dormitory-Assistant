@@ -1,0 +1,3 @@
+<word>verse</word>
+<meaning>a part of a poem or song</meaning>
+<example>verses of a poem</example>

@@ -1,0 +1,3 @@
+<word>magnetic</word>
+<meaning>of or relating to a magnet or magnetism</meaning>
+<example>magnetic metals</example>

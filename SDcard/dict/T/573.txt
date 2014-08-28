@@ -1,0 +1,3 @@
+<word>framework</word>
+<meaning>the basic structure of something</meaning>
+<example>a framework for cloud computing</example>

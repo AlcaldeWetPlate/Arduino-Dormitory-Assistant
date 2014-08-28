@@ -1,0 +1,3 @@
+<word>lord</word>
+<meaning>used as a name for God or Jesus Christ</meaning>
+<example>the lord Jesus Christ</example>

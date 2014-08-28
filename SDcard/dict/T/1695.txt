@@ -1,0 +1,3 @@
+<word>life span</word>
+<meaning>the amount of time that a person or animal actually lives</meaning>
+<example>a human life span</example>

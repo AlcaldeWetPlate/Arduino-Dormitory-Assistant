@@ -1,0 +1,3 @@
+<word>pretend</word>
+<meaning>to imagine and act out (a particular role, situation, etc.)</meaning>
+<example>pretend to drive</example>

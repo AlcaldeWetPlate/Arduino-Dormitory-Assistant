@@ -1,0 +1,3 @@
+<word>due</word>
+<meaning>expected to be born</meaning>
+<example>baby's due date</example>

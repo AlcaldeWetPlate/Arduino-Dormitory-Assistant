@@ -1,0 +1,3 @@
+<word>biologist</word>
+<meaning>a scientist who studies living organisms</meaning>
+<example>a female biologist at work</example>

@@ -1,0 +1,3 @@
+<word>bruit</word>
+<meaning>tell or spread rumors</meaning>
+<example>do not gossip, bruit, or spread rumors</example>

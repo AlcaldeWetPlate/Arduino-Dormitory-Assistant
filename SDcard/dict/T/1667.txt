@@ -1,0 +1,3 @@
+<word>wear away</word>
+<meaning>diminish, as by friction</meaning>
+<example>wear away the ancient stone</example>

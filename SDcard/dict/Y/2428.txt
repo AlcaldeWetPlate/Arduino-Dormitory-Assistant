@@ -1,0 +1,3 @@
+<word>gut</word>
+<meaning>the internal organs of an animal</meaning>
+<example>five men with large guts</example>

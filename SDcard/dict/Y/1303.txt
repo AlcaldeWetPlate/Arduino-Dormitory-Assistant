@@ -1,0 +1,3 @@
+<word>script</word>
+<meaning>the written form of a play, movie, television show, etc.</meaning>
+<example>practice their script</example>

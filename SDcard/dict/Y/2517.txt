@@ -1,0 +1,3 @@
+<word>scanner</word>
+<meaning>a device that scans things</meaning>
+<example>use a scanner to keep track of the boxes</example>

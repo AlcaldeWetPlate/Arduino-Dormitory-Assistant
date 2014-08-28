@@ -1,0 +1,3 @@
+<word>relapse</word>
+<meaning>the return of an illness after a period of improvement</meaning>
+<example>get sick again and suffer a relapse</example>

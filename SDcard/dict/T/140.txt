@@ -1,0 +1,3 @@
+<word>genesis</word>
+<meaning>the beginning of something</meaning>
+<example>the genesis of humanity</example>

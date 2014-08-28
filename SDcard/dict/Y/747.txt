@@ -1,0 +1,3 @@
+<word>joint</word>
+<meaning>a point where two bones meet in the body</meaning>
+<example>joint pain</example>

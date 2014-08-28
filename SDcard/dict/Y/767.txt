@@ -1,0 +1,3 @@
+<word>upper</word>
+<meaning>located at or near the top</meaning>
+<example>the upper floors of the building</example>

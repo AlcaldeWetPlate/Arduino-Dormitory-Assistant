@@ -1,0 +1,3 @@
+<word>adjective</word>
+<meaning>a word that describes a noun or a pronoun</meaning>
+<example>An adjective describes nouns.</example>

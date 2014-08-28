@@ -1,0 +1,3 @@
+<word>tableland</word>
+<meaning>an area of high flat land</meaning>
+<example>the flat tableland</example>

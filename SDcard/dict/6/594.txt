@@ -1,0 +1,3 @@
+<word>category</word>
+<meaning>a group of people or things that are similar in some way</meaning>
+<example>different letter categories</example>

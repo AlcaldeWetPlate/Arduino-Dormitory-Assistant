@@ -1,0 +1,3 @@
+<word>ingenious</word>
+<meaning>very smart or clever :having or showing ingenuity</meaning>
+<example>an ingenious scientist</example>

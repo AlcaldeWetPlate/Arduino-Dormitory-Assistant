@@ -1,0 +1,3 @@
+<word>pick</word>
+<meaning>to choose or select (someone or something) from a group</meaning>
+<example>pick an apple over pastries</example>

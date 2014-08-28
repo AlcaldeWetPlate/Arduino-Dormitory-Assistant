@@ -1,0 +1,3 @@
+<word>pastel</word>
+<meaning>a pale or light color</meaning>
+<example>pastel colored eggs</example>

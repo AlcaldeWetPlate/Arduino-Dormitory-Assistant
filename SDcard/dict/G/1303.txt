@@ -1,0 +1,3 @@
+<word>inculpate</word>
+<meaning>suggest that someone is guilty</meaning>
+<example>inculpate the criminal</example>

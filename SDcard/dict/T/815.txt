@@ -1,0 +1,3 @@
+<word>prose</word>
+<meaning>writing that is not poetry :ordinary writing</meaning>
+<example>a few lines of prose</example>

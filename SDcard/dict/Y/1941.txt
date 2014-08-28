@@ -1,0 +1,3 @@
+<word>incessant</word>
+<meaning>continuing without stopping :not stopping</meaning>
+<example>the clock's incessant ticking</example>

@@ -1,0 +1,3 @@
+<word>pipe</word>
+<meaning>a long, hollow tube for carrying water, steam, gas, etc.</meaning>
+<example>ten gray pipes</example>

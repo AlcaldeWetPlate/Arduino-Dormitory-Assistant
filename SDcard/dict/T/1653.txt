@@ -1,0 +1,3 @@
+<word>tapering</word>
+<meaning>gradually narrowed toward a point</meaning>
+<example>the fish's tapering tail</example>

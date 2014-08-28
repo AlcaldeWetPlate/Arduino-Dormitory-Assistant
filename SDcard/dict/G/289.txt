@@ -1,0 +1,3 @@
+<word>contort</word>
+<meaning>to twist into an unusual appearance or shape</meaning>
+<example>contort one's body</example>

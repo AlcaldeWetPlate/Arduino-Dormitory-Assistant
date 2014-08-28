@@ -1,0 +1,3 @@
+<word>adopt</word>
+<meaning>to take a child of other parents legally as your own child</meaning>
+<example>adopt an African kid</example>

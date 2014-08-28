@@ -1,0 +1,3 @@
+<word>utilise</word>
+<meaning>to use (something) for a particular purpose</meaning>
+<example>utilise recycled cans</example>

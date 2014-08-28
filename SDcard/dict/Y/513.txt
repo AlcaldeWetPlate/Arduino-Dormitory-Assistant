@@ -1,0 +1,3 @@
+<word>frontier</word>
+<meaning>a border between two countries</meaning>
+<example>guard the frontier</example>

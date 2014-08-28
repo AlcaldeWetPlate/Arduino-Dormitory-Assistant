@@ -1,0 +1,3 @@
+<word>wrath</word>
+<meaning>extreme anger</meaning>
+<example>the angry woman's wrath</example>

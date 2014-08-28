@@ -1,0 +1,3 @@
+<word>dub</word>
+<meaning>to give (someone) the title of a knight</meaning>
+<example>A king dubs the knight Sir Lancelot.</example>

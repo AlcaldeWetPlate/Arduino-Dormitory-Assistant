@@ -1,0 +1,3 @@
+<word>prize</word>
+<meaning>something that is won in a contest or given as an award</meaning>
+<example>win the prize</example>

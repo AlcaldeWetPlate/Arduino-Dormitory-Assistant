@@ -1,0 +1,3 @@
+<word>hearten</word>
+<meaning>to cause (someone) to feel more cheerful or hopeful</meaning>
+<example>hearten the old woman</example>

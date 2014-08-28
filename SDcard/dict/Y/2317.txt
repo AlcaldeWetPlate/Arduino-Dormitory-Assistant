@@ -1,0 +1,3 @@
+<word>supper</word>
+<meaning>a light meal or snack that is eaten late in the evening</meaning>
+<example>eat a sandwich for supper</example>

@@ -1,0 +1,3 @@
+<word>reproof</word>
+<meaning>criticism or blame</meaning>
+<example>the father's reproof</example>

@@ -1,0 +1,3 @@
+<word>formative</word>
+<meaning>helping to develop something</meaning>
+<example>children's formative years</example>

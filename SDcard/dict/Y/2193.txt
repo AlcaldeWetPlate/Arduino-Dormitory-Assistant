@@ -1,0 +1,3 @@
+<word>bring</word>
+<meaning>to come with (something or someone) to a place</meaning>
+<example>bring her a package</example>

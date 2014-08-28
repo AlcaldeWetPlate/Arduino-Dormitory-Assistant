@@ -1,0 +1,3 @@
+<word>dimly</word>
+<meaning>in a dim indistinct manner</meaning>
+<example>a dimly lit room</example>

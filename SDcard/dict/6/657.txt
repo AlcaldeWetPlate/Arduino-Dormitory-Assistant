@@ -1,0 +1,3 @@
+<word>sparkle</word>
+<meaning>to produce small flashes of light</meaning>
+<example>stars shine with a sparkle</example>

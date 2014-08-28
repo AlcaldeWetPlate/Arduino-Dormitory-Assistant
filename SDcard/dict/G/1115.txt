@@ -1,0 +1,3 @@
+<word>uncouth</word>
+<meaning>behaving in a rude way :not polite or socially acceptable</meaning>
+<example>the drunkard's uncouth behavior</example>

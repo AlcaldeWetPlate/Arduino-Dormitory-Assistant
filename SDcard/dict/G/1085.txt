@@ -1,0 +1,3 @@
+<word>boor</word>
+<meaning>a rude and rough person</meaning>
+<example>a stupid boor</example>

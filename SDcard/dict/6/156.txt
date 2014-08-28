@@ -1,0 +1,3 @@
+<word>mess</word>
+<meaning>a situation that is very complicated or difficult to deal with</meaning>
+<example>kids make a mess</example>

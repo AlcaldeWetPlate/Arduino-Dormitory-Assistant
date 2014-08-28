@@ -1,0 +1,3 @@
+<word>Swiss</word>
+<meaning>of, relating to, or characteristic of Switzerland or the Swiss</meaning>
+<example>the Swiss flag</example>

@@ -1,0 +1,3 @@
+<word>stunning</word>
+<meaning>very beautiful or pleasing</meaning>
+<example>the stunning waterfall\r\n</example>

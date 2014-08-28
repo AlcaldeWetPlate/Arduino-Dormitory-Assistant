@@ -1,0 +1,3 @@
+<word>cathedral</word>
+<meaning>the main church of an area that is headed by a bishop</meaning>
+<example>an old cathedral</example>

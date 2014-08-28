@@ -1,0 +1,3 @@
+<word>realize</word>
+<meaning>to understand or become aware of (something)</meaning>
+<example>realize his mistakes</example>

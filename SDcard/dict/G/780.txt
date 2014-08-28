@@ -1,0 +1,3 @@
+<word>drab</word>
+<meaning>not bright or colorful :too plain or dull to be interesting</meaning>
+<example>drab clothing</example>

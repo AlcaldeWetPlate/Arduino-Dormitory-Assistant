@@ -1,0 +1,3 @@
+<word>vigilant</word>
+<meaning>carefully noticing problems or signs of danger</meaning>
+<example>watchful and vigilant dogs</example>

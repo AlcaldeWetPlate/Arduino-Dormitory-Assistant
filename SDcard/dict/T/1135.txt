@@ -1,0 +1,3 @@
+<word>security</word>
+<meaning>the state of being protected or safe from harm</meaning>
+<example>the security software of the  computer</example>

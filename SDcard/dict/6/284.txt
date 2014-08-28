@@ -1,0 +1,3 @@
+<word>diverse</word>
+<meaning>made up of people or things that are different from each other</meaning>
+<example>a diverse group of people</example>

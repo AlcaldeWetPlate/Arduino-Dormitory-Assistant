@@ -1,0 +1,3 @@
+<word>offence</word>
+<meaning>a crime less serious than a felony</meaning>
+<example>a legal offence</example>

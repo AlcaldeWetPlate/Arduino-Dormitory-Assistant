@@ -1,0 +1,3 @@
+<word>amazing</word>
+<meaning>causing great surprise or wonder :causing amazement</meaning>
+<example>an amazing sunrise</example>

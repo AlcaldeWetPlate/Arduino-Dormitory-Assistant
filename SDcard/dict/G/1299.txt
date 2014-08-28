@@ -1,0 +1,3 @@
+<word>stratify</word>
+<meaning>divide society into social classes or castes</meaning>
+<example>stratify the graph's data</example>

@@ -1,0 +1,3 @@
+<word>dot</word>
+<meaning>a small round mark</meaning>
+<example>The paper is covered with dots.</example>

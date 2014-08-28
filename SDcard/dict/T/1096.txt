@@ -1,0 +1,3 @@
+<word>horror</word>
+<meaning>intended to cause feelings of fear or horror</meaning>
+<example>a horror movie</example>

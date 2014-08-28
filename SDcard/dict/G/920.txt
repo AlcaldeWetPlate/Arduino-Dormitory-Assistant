@@ -1,0 +1,3 @@
+<word>placate</word>
+<meaning>to cause (someone) to feel less angry about something</meaning>
+<example>placate with a gift</example>

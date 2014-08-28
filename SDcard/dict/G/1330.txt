@@ -1,0 +1,3 @@
+<word>miff</word>
+<meaning>cause to be annoyed</meaning>
+<example>Her boring husband miffs her.</example>

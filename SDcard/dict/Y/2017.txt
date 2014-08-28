@@ -1,0 +1,3 @@
+<word>statical</word>
+<meaning>exerting force by reason of weight alone without motion</meaning>
+<example>a statical statue</example>

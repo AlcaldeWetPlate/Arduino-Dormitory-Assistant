@@ -1,0 +1,3 @@
+<word>fossilize</word>
+<meaning>to become a fossil or to cause (something) to become a fossil</meaning>
+<example>fossilize over millions of years</example>

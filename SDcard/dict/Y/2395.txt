@@ -1,0 +1,3 @@
+<word>internet</word>
+<meaning>a system that connects computers throughout the world</meaning>
+<example>surf the internet on one's computer</example>

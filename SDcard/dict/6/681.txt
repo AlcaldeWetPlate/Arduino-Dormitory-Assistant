@@ -1,0 +1,3 @@
+<word>correctly</word>
+<meaning>In a correct manner.</meaning>
+<example>choices marked correctly</example>

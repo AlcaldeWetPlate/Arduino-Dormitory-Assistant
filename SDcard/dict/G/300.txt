@@ -1,0 +1,3 @@
+<word>inclement</word>
+<meaning>having rain and storms</meaning>
+<example>inclement weather at sea</example>

@@ -1,0 +1,3 @@
+<word>formal</word>
+<meaning>suitable for a formal occasion</meaning>
+<example>wear formal clothes</example>

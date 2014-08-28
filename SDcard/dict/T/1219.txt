@@ -1,0 +1,3 @@
+<word>rugged</word>
+<meaning>strong and determined</meaning>
+<example>a rugged, outdoors lifestyle</example>

@@ -1,0 +1,3 @@
+<word>linguist</word>
+<meaning>a person who speaks several languages</meaning>
+<example>A linguist studies languages.</example>

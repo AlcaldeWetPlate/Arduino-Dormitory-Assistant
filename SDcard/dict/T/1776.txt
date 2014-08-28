@@ -1,0 +1,3 @@
+<word>minute</word>
+<meaning>a brief period of time</meaning>
+<example>60 minutes is 1 hour</example>

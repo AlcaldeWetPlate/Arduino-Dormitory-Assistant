@@ -1,0 +1,3 @@
+<word>drivel</word>
+<meaning>to talk in a very foolish or silly way</meaning>
+<example>speak meaningless drivel</example>

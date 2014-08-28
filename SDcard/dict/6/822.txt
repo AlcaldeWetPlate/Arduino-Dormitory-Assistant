@@ -1,0 +1,3 @@
+<word>relative</word>
+<meaning>a member of your family</meaning>
+<example>The children are relatives.</example>

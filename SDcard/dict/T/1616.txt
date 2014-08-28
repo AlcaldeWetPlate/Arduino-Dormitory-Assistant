@@ -1,0 +1,3 @@
+<word>pack down</word>
+<meaning>press</meaning>
+<example>pack down her clothing</example>

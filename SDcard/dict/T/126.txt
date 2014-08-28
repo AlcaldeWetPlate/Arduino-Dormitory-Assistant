@@ -1,0 +1,3 @@
+<word>festive</word>
+<meaning>cheerful and exciting :suited to a celebration or holiday</meaning>
+<example>a festive party</example>

@@ -1,0 +1,3 @@
+<word>along</word>
+<meaning>in a line matching the length or direction of (something)</meaning>
+<example>benches along the path</example>

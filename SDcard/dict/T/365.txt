@@ -1,0 +1,3 @@
+<word>restore</word>
+<meaning>to bring (someone) back to an earlier and better condition</meaning>
+<example>restore the youthfulness of her skin</example>

@@ -1,0 +1,3 @@
+<word>gall</word>
+<meaning>extreme confidence expressed in a way that is impolite</meaning>
+<example>the gall to touch the waitress's butt</example>

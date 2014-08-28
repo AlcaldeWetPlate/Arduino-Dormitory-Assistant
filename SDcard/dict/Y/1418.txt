@@ -1,0 +1,3 @@
+<word>electrify</word>
+<meaning>to pass electricity through (something)</meaning>
+<example>electrified appliances</example>

@@ -1,0 +1,3 @@
+<word>walkout</word>
+<meaning>a strike by workers</meaning>
+<example>the workers' walkout</example>

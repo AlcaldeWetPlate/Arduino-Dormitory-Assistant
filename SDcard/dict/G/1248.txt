@@ -1,0 +1,3 @@
+<word>bifurcate</word>
+<meaning>to divide into two parts</meaning>
+<example>The tree bifurcates into two.</example>

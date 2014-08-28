@@ -1,0 +1,3 @@
+<word>dispute</word>
+<meaning>a disagreement or argument</meaning>
+<example>a dispute between husband and wife</example>

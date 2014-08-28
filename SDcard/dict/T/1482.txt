@@ -1,0 +1,3 @@
+<word>unanimity</word>
+<meaning>everyone being of one mind</meaning>
+<example>the team's unanimity</example>

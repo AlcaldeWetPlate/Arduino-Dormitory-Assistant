@@ -1,0 +1,3 @@
+<word>cluster</word>
+<meaning>a group of things or people that are close together</meaning>
+<example>cluster of grapes</example>

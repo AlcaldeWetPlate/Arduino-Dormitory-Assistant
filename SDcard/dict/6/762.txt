@@ -1,0 +1,3 @@
+<word>intake</word>
+<meaning>the act of taking something (such as air) into your body</meaning>
+<example>the boy's oxygen intake</example>

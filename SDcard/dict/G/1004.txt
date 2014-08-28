@@ -1,0 +1,3 @@
+<word>dally</word>
+<meaning>to do something slowly or too slowly</meaning>
+<example>dally around all day</example>

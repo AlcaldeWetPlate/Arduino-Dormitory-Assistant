@@ -1,0 +1,3 @@
+<word>noxious</word>
+<meaning>harmful to living things</meaning>
+<example>noxious smoke</example>

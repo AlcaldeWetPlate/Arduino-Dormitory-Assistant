@@ -1,0 +1,3 @@
+<word>lineage</word>
+<meaning>the people who were in someone's family in past times</meaning>
+<example>the lineage of humans</example>

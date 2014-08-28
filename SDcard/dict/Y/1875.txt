@@ -1,0 +1,3 @@
+<word>instantly</word>
+<meaning>without delay</meaning>
+<example>receive e-mail instantly</example>

@@ -1,0 +1,3 @@
+<word>trigger</word>
+<meaning>a lever on a gun that you pull to fire the gun</meaning>
+<example>the gun's trigger</example>

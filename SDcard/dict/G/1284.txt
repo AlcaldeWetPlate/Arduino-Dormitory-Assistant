@@ -1,0 +1,3 @@
+<word>nonplus</word>
+<meaning>to put at a loss; confound</meaning>
+<example>Sth. nonpluses the confused girl.</example>

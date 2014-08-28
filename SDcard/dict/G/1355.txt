@@ -1,0 +1,3 @@
+<word>skittish</word>
+<meaning>easily frightened or excited</meaning>
+<example>the skittish squirrel</example>

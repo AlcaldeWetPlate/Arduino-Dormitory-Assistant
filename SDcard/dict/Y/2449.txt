@@ -1,0 +1,3 @@
+<word>name</word>
+<meaning>give a name to sb</meaning>
+<example>name for a baby</example>

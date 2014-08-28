@@ -1,0 +1,3 @@
+<word>radiant</word>
+<meaning>bright and shining</meaning>
+<example>the sun's radiant glow</example>

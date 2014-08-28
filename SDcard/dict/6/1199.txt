@@ -1,0 +1,3 @@
+<word>inherent</word>
+<meaning>belonging to the basic nature of someone or something</meaning>
+<example>disguise her inherent femininity</example>

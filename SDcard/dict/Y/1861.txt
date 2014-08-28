@@ -1,0 +1,3 @@
+<word>organic</word>
+<meaning>grown or made without the use of artificial chemicals</meaning>
+<example>organic chemistry</example>

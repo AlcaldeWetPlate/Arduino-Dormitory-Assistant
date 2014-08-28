@@ -1,0 +1,3 @@
+<word>steam</word>
+<meaning>the hot gas that is created when water is boiled</meaning>
+<example>be powered by steam</example>

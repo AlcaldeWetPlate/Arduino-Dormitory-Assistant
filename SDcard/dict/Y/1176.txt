@@ -1,0 +1,3 @@
+<word>wool</word>
+<meaning>cloth or clothing made of wool</meaning>
+<example>the colorful wool</example>

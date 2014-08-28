@@ -1,0 +1,3 @@
+<word>manner</word>
+<meaning>the way that something is done or happens</meaning>
+<example>the doctor's bedside manner</example>

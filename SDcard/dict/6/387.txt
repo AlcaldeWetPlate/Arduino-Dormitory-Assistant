@@ -1,0 +1,3 @@
+<word>prone</word>
+<meaning>likely to do, have, or suffer from something</meaning>
+<example>Dogs are prone to make a mess.</example>

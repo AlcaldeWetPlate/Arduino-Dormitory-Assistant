@@ -1,0 +1,3 @@
+<word>counsel</word>
+<meaning>a lawyer who represents a person or group in a court of law</meaning>
+<example>legal counsel</example>

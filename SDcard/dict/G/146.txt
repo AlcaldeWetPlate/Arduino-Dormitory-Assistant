@@ -1,0 +1,3 @@
+<word>languid</word>
+<meaning>showing or having very little strength, energy, or activity</meaning>
+<example>a languid, tired woman</example>

@@ -1,0 +1,3 @@
+<word>dissipate</word>
+<meaning>to cause (something) to spread out and disappear</meaning>
+<example>the clouds dissipate</example>

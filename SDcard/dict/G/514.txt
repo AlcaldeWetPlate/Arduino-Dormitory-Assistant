@@ -1,0 +1,3 @@
+<word>marginal</word>
+<meaning>very slight or small</meaning>
+<example>a marginal possibility (2.34%)</example>

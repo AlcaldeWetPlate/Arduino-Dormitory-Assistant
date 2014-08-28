@@ -1,0 +1,3 @@
+<word>linen</word>
+<meaning>a smooth, strong cloth made from flax</meaning>
+<example>the linen sheets</example>

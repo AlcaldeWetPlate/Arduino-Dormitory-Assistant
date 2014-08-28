@@ -1,0 +1,3 @@
+<word>slot</word>
+<meaning>a long, thin opening</meaning>
+<example>put the coin into the slot</example>

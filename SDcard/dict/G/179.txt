@@ -1,0 +1,3 @@
+<word>quarry</word>
+<meaning>a place where large amounts of stone are dug out of the ground</meaning>
+<example>a rock quarry</example>

@@ -1,0 +1,3 @@
+<word>recipient</word>
+<meaning>a person who receives something</meaning>
+<example>the recipient of the money</example>

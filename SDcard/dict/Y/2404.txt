@@ -1,0 +1,3 @@
+<word>bit</word>
+<meaning>a small piece of something</meaning>
+<example>a little bit of chocolate</example>

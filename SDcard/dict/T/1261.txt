@@ -1,0 +1,3 @@
+<word>lengthy</word>
+<meaning>lasting for a long time</meaning>
+<example>the lengthy coastline</example>

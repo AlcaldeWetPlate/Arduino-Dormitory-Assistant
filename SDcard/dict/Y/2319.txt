@@ -1,0 +1,3 @@
+<word>people</word>
+<meaning>a group of people who make up a race, tribe, nation, etc.</meaning>
+<example>all the people in the world</example>

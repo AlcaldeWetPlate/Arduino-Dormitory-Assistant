@@ -1,0 +1,3 @@
+<word>firmly</word>
+<meaning>not easily moved or disturbed</meaning>
+<example>hold hands firmly</example>

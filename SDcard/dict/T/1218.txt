@@ -1,0 +1,3 @@
+<word>grandeur</word>
+<meaning>a great and impressive quality</meaning>
+<example>grandeur of the Taj Mahal</example>

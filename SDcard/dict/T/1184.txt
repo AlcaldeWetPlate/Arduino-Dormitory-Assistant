@@ -1,0 +1,3 @@
+<word>rainfall</word>
+<meaning>the amount of rain that falls on a particular area</meaning>
+<example>the heavy rainfall</example>

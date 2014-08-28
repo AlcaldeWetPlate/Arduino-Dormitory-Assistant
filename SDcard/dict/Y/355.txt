@@ -1,0 +1,3 @@
+<word>stipulate</word>
+<meaning>to demand or require (something) as part of an agreement</meaning>
+<example>The contract stipulates that...</example>

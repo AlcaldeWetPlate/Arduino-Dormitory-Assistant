@@ -1,0 +1,3 @@
+<word>intimacy</word>
+<meaning>emotional warmth and closeness</meaning>
+<example>intimacy between spouses</example>

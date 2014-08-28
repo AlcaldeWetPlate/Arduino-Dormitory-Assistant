@@ -1,0 +1,3 @@
+<word>robust</word>
+<meaning>strongly formed or built</meaning>
+<example>robust cars</example>

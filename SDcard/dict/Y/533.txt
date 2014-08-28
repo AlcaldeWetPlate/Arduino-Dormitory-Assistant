@@ -1,0 +1,3 @@
+<word>tyre</word>
+<meaning>city in ancient Phoenicia</meaning>
+<example>car tyres</example>

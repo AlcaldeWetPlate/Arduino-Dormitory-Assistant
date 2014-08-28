@@ -1,0 +1,3 @@
+<word>matchless</word>
+<meaning>having no equal :better than all others</meaning>
+<example>a matchless swimmer</example>

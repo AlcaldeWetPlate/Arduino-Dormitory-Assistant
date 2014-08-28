@@ -1,0 +1,3 @@
+<word>defect</word>
+<meaning>a problem or fault that makes someone or something not perfect</meaning>
+<example>a structural defect</example>

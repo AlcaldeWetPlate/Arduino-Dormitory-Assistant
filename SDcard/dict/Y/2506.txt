@@ -1,0 +1,3 @@
+<word>yoga</word>
+<meaning>a system of exercises for mental and physical health</meaning>
+<example>The old woman does yoga for her health.</example>

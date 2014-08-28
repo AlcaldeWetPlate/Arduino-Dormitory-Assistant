@@ -1,0 +1,3 @@
+<word>goldbrick</word>
+<meaning>a person who loaf on the job</meaning>
+<example>a lazy goldbrick</example>

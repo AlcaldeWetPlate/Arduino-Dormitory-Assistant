@@ -1,0 +1,3 @@
+<word>stimuli</word>
+<meaning>something that encourages activity in people or things.</meaning>
+<example>noxious stimuli like spicy peppers</example>

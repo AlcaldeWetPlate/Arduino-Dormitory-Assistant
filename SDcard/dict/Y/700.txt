@@ -1,0 +1,3 @@
+<word>inform</word>
+<meaning>to give information to (someone)</meaning>
+<example>inform them about a product</example>

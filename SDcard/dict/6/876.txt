@@ -1,0 +1,3 @@
+<word>divorce</word>
+<meaning>the ending of a marriage by a legal process</meaning>
+<example>She divorces her husband.</example>

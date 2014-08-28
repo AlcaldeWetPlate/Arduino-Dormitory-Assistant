@@ -1,0 +1,3 @@
+<word>track</word>
+<meaning>an often circular path or road that is used for racing</meaning>
+<example>run down the track</example>

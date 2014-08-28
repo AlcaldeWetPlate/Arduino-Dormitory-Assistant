@@ -1,0 +1,3 @@
+<word>report</word>
+<meaning>a written or spoken description of a situation, event, etc.</meaning>
+<example>discuss the report\r\n</example>

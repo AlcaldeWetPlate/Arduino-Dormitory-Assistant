@@ -1,0 +1,3 @@
+<word>scrappy</word>
+<meaning>ready or eager to fight</meaning>
+<example>The scrappy little man wants to fight.</example>

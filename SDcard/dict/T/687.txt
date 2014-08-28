@@ -1,0 +1,3 @@
+<word>etiquette</word>
+<meaning>the rules indicating the proper and polite way to behave</meaning>
+<example>common etiquette</example>

@@ -1,0 +1,3 @@
+<word>fictional</word>
+<meaning>formed or conceived by the imagination</meaning>
+<example>the fictional dragons</example>

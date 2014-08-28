@@ -1,0 +1,3 @@
+<word>urban</word>
+<meaning>of or relating to cities and the people who live in them</meaning>
+<example>New York is an urban area.</example>

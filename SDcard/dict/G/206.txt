@@ -1,0 +1,3 @@
+<word>surly</word>
+<meaning>rude and unfriendly</meaning>
+<example>an angry, surly little boy</example>

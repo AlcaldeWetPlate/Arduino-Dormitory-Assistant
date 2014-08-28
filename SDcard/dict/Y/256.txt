@@ -1,0 +1,3 @@
+<word>molten</word>
+<meaning>melted by heat</meaning>
+<example>hot, molten iron</example>

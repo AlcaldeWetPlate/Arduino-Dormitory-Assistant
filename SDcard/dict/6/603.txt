@@ -1,0 +1,3 @@
+<word>restrict</word>
+<meaning>to limit the amount or range of (something)</meaning>
+<example>restrict parking</example>

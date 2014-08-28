@@ -1,0 +1,3 @@
+<word>legion</word>
+<meaning>a large group of soldiers in ancient Rome</meaning>
+<example>a Roman legion</example>

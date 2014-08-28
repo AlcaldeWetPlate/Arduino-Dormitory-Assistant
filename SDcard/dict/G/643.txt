@@ -1,0 +1,3 @@
+<word>stifle</word>
+<meaning>to stop (someone) from doing or expressing something</meaning>
+<example>stifle the worker's productivity</example>

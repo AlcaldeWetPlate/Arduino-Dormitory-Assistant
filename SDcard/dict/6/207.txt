@@ -1,0 +1,3 @@
+<word>exception</word>
+<meaning>a case where a rule does not apply</meaning>
+<example>The brown egg is an exception.</example>

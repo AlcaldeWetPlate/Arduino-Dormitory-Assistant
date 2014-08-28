@@ -1,0 +1,3 @@
+<word>plight</word>
+<meaning>a very bad or difficult situation</meaning>
+<example>the man's sad plight</example>

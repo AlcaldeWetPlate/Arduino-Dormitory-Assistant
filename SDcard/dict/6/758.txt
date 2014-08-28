@@ -1,0 +1,3 @@
+<word>diesel</word>
+<meaning>a vehicle (such as a truck or bus) that has a diesel engine</meaning>
+<example>diesel fuel for a car</example>

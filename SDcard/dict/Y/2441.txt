@@ -1,0 +1,3 @@
+<word>postman</word>
+<meaning>a man who collects and delivers mail</meaning>
+<example>a cartoon postman</example>

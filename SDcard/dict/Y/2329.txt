@@ -1,0 +1,3 @@
+<word>start</word>
+<meaning>to participate in a game or contest at its beginning</meaning>
+<example>ready to start</example>

@@ -1,0 +1,3 @@
+<word>crook</word>
+<meaning>a criminal</meaning>
+<example>a thieving crook</example>

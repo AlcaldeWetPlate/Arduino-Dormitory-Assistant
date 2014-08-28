@@ -1,0 +1,3 @@
+<word>give</word>
+<meaning>to provide someone with (something wanted or needed)</meaning>
+<example>give him the keys</example>

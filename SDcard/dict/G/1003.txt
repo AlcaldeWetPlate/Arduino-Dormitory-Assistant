@@ -1,0 +1,3 @@
+<word>conjure</word>
+<meaning>to make (something) appear or seem to appear by using magic</meaning>
+<example>conjure up a card</example>

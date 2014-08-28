@@ -1,0 +1,3 @@
+<word>rough</word>
+<meaning>having a surface that is not even</meaning>
+<example>rough texture of the paper</example>

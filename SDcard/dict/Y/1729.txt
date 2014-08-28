@@ -1,0 +1,3 @@
+<word>impromptu</word>
+<meaning>not prepared ahead of time :made or done without preparation</meaning>
+<example>an impromptu action</example>

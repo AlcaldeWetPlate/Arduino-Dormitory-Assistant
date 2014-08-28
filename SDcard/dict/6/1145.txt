@@ -1,0 +1,3 @@
+<word>capacitor</word>
+<meaning>a device that is used to store electrical energy</meaning>
+<example>an electrical capacitor</example>

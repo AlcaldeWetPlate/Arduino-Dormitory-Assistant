@@ -1,0 +1,3 @@
+<word>heed</word>
+<meaning>to pay attention to (advice, a warning, etc.)</meaning>
+<example>heed the instructions</example>

@@ -1,0 +1,3 @@
+<word>sorrowful</word>
+<meaning>feeling or showing sadness :full of sorrow</meaning>
+<example>the girl's sorrowful cries</example>

@@ -1,0 +1,3 @@
+<word>densely</word>
+<meaning>in a concentrated manner</meaning>
+<example>densely placed housing</example>

@@ -1,0 +1,3 @@
+<word>stipple</word>
+<meaning>to draw or paint small dots on (something)</meaning>
+<example>stipple a painting</example>

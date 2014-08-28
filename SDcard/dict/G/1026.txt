@@ -1,0 +1,3 @@
+<word>mince</word>
+<meaning>to cut (food) into very small pieces</meaning>
+<example>mince meat</example>

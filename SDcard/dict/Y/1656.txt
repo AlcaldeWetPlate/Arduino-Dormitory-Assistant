@@ -1,0 +1,3 @@
+<word>index</word>
+<meaning>an ordered list</meaning>
+<example>some index cards</example>

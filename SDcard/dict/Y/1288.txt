@@ -1,0 +1,3 @@
+<word>flight</word>
+<meaning>the airplane that is making a journey</meaning>
+<example>hurry to one's flight</example>

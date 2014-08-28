@@ -1,0 +1,3 @@
+<word>melodic</word>
+<meaning>having a pleasant musical sound or melody</meaning>
+<example>a melodic musical instrument</example>

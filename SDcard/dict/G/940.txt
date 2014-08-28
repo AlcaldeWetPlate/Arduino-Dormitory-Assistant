@@ -1,0 +1,3 @@
+<word>gaffe</word>
+<meaning>a mistake made in a social situation</meaning>
+<example>an embarrassing gaffe</example>

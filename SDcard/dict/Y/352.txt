@@ -1,0 +1,3 @@
+<word>elapse</word>
+<meaning>to pass by</meaning>
+<example>time elapses</example>

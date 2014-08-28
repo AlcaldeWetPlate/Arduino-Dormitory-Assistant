@@ -1,0 +1,3 @@
+<word>port</word>
+<meaning>a town or city where ships stop to load and unload cargo</meaning>
+<example>the city's port</example>

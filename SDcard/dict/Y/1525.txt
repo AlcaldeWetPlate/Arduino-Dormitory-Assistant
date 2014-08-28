@@ -1,0 +1,3 @@
+<word>advisable</word>
+<meaning>wise, sensible, or reasonable</meaning>
+<example>It's advisable to eat healthier.</example>

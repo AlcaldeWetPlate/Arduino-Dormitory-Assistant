@@ -1,0 +1,3 @@
+<word>motivate</word>
+<meaning>to give (someone) a reason for doing something</meaning>
+<example>my friends motivate me</example>

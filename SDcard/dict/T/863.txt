@@ -1,0 +1,3 @@
+<word>untouched</word>
+<meaning>not touched</meaning>
+<example>an untouched island</example>

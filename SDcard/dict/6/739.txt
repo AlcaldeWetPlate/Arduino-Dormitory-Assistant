@@ -1,0 +1,3 @@
+<word>grieve</word>
+<meaning>to cause (someone) to feel sad or unhappy</meaning>
+<example>The sad woman grieves.</example>

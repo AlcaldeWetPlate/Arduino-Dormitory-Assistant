@@ -1,0 +1,3 @@
+<word>inventory</word>
+<meaning>a complete list of the things that are in a place</meaning>
+<example>check the inventory</example>

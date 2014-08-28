@@ -1,0 +1,3 @@
+<word>brawl</word>
+<meaning>to fight noisily in usually a public place</meaning>
+<example>a brawl between brothers</example>

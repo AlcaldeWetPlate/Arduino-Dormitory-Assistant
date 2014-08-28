@@ -1,0 +1,3 @@
+<word>rebel</word>
+<meaning>to oppose or fight against a government</meaning>
+<example>a teenage rebel</example>

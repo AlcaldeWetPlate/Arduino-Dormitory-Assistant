@@ -1,0 +1,3 @@
+<word>torpor</word>
+<meaning>a state of not being active and having very little energy</meaning>
+<example>the dog's torpor</example>

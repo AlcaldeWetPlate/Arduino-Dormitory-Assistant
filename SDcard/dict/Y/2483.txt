@@ -1,0 +1,3 @@
+<word>fly</word>
+<meaning>to move through the air with wings</meaning>
+<example>fly above the ocean</example>

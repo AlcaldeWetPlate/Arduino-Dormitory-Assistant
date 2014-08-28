@@ -1,0 +1,3 @@
+<word>triple</word>
+<meaning>to become three times as great or as many</meaning>
+<example>triple sevens</example>

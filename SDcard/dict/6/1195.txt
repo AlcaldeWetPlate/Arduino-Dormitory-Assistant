@@ -1,0 +1,3 @@
+<word>force</word>
+<meaning>strength or power that is not physical</meaning>
+<example>control him using force</example>

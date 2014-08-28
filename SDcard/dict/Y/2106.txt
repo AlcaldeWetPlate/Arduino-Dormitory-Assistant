@@ -1,0 +1,3 @@
+<word>seniority</word>
+<meaning>the state of having a higher rank than another person</meaning>
+<example>the red man's seniority in his company</example>

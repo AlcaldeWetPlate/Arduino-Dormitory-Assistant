@@ -1,0 +1,3 @@
+<word>baboon</word>
+<meaning>a large African or Asian monkey</meaning>
+<example>the cute baboon</example>

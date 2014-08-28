@@ -1,0 +1,3 @@
+<word>hostility</word>
+<meaning>an unfriendly or hostile state, attitude, or action</meaning>
+<example>hostility towards the child</example>

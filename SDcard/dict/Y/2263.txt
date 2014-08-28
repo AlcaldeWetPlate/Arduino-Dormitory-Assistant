@@ -1,0 +1,3 @@
+<word>milk</word>
+<meaning>milk from cows or goats that is used as food by people</meaning>
+<example>glasses of milk</example>

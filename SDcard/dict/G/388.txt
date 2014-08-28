@@ -1,0 +1,3 @@
+<word>overt</word>
+<meaning>easily seen :not secret or hidden</meaning>
+<example>The gold man's appearance is overt.</example>

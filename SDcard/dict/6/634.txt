@@ -1,0 +1,3 @@
+<word>ignite</word>
+<meaning>to set (something) on fire :to cause (something) to burn</meaning>
+<example>ignite the match</example>

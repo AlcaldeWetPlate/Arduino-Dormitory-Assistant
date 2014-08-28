@@ -1,0 +1,3 @@
+<word>absolve</word>
+<meaning>to give forgiveness to (someone who has sinned) or for (a sin)</meaning>
+<example>ask to absolve her sins</example>

@@ -1,0 +1,3 @@
+<word>ruse</word>
+<meaning>a trick or act that is used to fool someone</meaning>
+<example>Her ruse involved hiding her weapon.</example>

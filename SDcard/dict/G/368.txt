@@ -1,0 +1,3 @@
+<word>fluent</word>
+<meaning>able to speak a language easily and very well</meaning>
+<example>be fluent in many languages</example>

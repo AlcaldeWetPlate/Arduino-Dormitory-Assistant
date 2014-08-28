@@ -1,0 +1,3 @@
+<word>beige</word>
+<meaning>a light yellowish-brown color</meaning>
+<example>a beige color</example>

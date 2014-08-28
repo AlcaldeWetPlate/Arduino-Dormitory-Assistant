@@ -1,0 +1,3 @@
+<word>abjure</word>
+<meaning>to reject (something) formally</meaning>
+<example>abjure cigarettes</example>

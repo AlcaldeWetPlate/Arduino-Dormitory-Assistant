@@ -1,0 +1,3 @@
+<word>forum</word>
+<meaning>a meeting at which a subject can be discussed</meaning>
+<example>a forum for discussion</example>

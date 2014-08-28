@@ -1,0 +1,3 @@
+<word>bin</word>
+<meaning>a box that is used for storing things</meaning>
+<example>recycling bins</example>

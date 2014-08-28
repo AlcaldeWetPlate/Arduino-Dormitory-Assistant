@@ -1,0 +1,3 @@
+<word>workload</word>
+<meaning>the amount of work that is expected to be done</meaning>
+<example>the worker's heavy workload</example>

@@ -1,0 +1,3 @@
+<word>chin</word>
+<meaning>the part of the face below the mouth and above the neck</meaning>
+<example>rests on his chin</example>

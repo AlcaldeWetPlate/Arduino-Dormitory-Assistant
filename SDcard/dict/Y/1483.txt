@@ -1,0 +1,3 @@
+<word>upright</word>
+<meaning>positioned to be straight up</meaning>
+<example>stand upright</example>

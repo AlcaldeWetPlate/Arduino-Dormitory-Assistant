@@ -1,0 +1,3 @@
+<word>conqueror</word>
+<meaning>someone who is victorious by force of arms</meaning>
+<example>a conqueror on a horse</example>

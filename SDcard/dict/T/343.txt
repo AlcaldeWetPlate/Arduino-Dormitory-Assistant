@@ -1,0 +1,3 @@
+<word>rarely</word>
+<meaning>not very often</meaning>
+<example>rarely find golden beans</example>

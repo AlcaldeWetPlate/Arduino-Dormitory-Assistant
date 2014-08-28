@@ -1,0 +1,3 @@
+<word>crosscut</word>
+<meaning>a route shorter than the usual one</meaning>
+<example>a crosscut saw</example>

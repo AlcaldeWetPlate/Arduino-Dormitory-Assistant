@@ -1,0 +1,3 @@
+<word>appealing</word>
+<meaning>having qualities that people like :pleasing or attractive</meaning>
+<example>an appealing, beautiful woman</example>

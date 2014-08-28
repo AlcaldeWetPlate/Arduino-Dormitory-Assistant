@@ -1,0 +1,3 @@
+<word>extremely</word>
+<meaning>to an extreme degree</meaning>
+<example>an extremely small dog</example>

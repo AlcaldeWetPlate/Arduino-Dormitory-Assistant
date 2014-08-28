@@ -1,0 +1,3 @@
+<word>useless</word>
+<meaning>not at all useful :not doing or able to do what is needed</meaning>
+<example>a useless computer</example>

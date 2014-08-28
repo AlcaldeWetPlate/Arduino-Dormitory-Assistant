@@ -1,0 +1,3 @@
+<word>turn</word>
+<meaning>a place where a road, path, etc., changes direction</meaning>
+<example>take a sharp turn</example>

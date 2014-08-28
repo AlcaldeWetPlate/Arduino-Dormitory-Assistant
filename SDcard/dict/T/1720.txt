@@ -1,0 +1,3 @@
+<word>bestow</word>
+<meaning>to give (something) as a gift or honor</meaning>
+<example>bestow upon sb. a gift</example>

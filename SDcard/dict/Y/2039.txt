@@ -1,0 +1,3 @@
+<word>various</word>
+<meaning>different from each other</meaning>
+<example>various types of fish</example>

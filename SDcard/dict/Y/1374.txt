@@ -1,0 +1,3 @@
+<word>shady</word>
+<meaning>giving or providing shade</meaning>
+<example>a shady place to rest</example>

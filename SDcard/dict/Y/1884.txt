@@ -1,0 +1,3 @@
+<word>eligible</word>
+<meaning>suitable and desirable for marriage</meaning>
+<example>be eligible to travel abroad</example>

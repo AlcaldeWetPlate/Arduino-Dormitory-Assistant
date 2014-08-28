@@ -1,0 +1,3 @@
+<word>unwitting</word>
+<meaning>not aware of what is really happening</meaning>
+<example>The unwitting young girl fell.</example>

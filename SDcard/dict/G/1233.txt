@@ -1,0 +1,3 @@
+<word>rile</word>
+<meaning>to make (someone) very excited</meaning>
+<example>rile up the bull</example>

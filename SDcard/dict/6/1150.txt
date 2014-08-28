@@ -1,0 +1,3 @@
+<word>frock</word>
+<meaning>a woman's or girl's dress</meaning>
+<example>wear a frock</example>

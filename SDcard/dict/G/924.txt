@@ -1,0 +1,3 @@
+<word>sordid</word>
+<meaning>very dirty</meaning>
+<example>the bathroom's sordid condition</example>

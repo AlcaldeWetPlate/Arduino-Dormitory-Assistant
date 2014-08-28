@@ -1,0 +1,3 @@
+<word>differ</word>
+<meaning>to be different</meaning>
+<example>differ from the white people</example>

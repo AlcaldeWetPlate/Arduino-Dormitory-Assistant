@@ -1,0 +1,3 @@
+<word>ticklish</word>
+<meaning>difficult to deal with :requiring special care</meaning>
+<example>the ticklish baby</example>

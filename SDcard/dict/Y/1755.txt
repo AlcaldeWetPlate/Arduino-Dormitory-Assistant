@@ -1,0 +1,3 @@
+<word>hateful</word>
+<meaning>very bad or evil :causing or deserving hate</meaning>
+<example>hateful words</example>

@@ -1,0 +1,3 @@
+<word>vignette</word>
+<meaning>a picture or engraving in a book</meaning>
+<example>draw a vignette</example>

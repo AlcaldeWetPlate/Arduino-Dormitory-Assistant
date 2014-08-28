@@ -1,0 +1,3 @@
+<word>emaciate</word>
+<meaning>cause to grow thin or weak</meaning>
+<example>starved and emaciated men</example>

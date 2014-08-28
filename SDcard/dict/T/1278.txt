@@ -1,0 +1,3 @@
+<word>unify</word>
+<meaning>to cause (people or things) to be joined or brought together</meaning>
+<example>unify the group with hands together</example>

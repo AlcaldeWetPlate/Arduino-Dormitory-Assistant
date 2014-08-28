@@ -1,0 +1,3 @@
+<word>collapse</word>
+<meaning>to break apart and fall down suddenly</meaning>
+<example>The house collapsed.</example>

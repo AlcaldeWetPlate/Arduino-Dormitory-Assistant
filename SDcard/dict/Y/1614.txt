@@ -1,0 +1,3 @@
+<word>red</word>
+<meaning>having the color of blood</meaning>
+<example>a red apple</example>

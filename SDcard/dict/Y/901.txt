@@ -1,0 +1,3 @@
+<word>atlas</word>
+<meaning>a book of maps</meaning>
+<example>an atlas of the world</example>

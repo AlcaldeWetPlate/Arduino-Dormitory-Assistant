@@ -1,0 +1,3 @@
+<word>requisite</word>
+<meaning>something that is needed for a particular purpose</meaning>
+<example>a computer requisite</example>

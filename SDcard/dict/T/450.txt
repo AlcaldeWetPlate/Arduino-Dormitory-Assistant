@@ -1,0 +1,3 @@
+<word>foul</word>
+<meaning>very unpleasant to taste or smell</meaning>
+<example>foul smell</example>

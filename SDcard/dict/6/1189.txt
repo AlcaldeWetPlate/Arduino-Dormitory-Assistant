@@ -1,0 +1,3 @@
+<word>fowl</word>
+<meaning>a bird (such as a chicken) that is raised for food</meaning>
+<example>Chicken is a kind of fowl.</example>

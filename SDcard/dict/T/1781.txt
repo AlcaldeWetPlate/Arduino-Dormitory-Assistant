@@ -1,0 +1,3 @@
+<word>polished</word>
+<meaning>made smooth and shiny by polishing</meaning>
+<example>polished dress shoes</example>

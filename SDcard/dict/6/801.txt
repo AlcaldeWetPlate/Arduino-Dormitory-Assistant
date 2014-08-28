@@ -1,0 +1,3 @@
+<word>tiresome</word>
+<meaning>causing you to feel bored, annoyed, or impatient</meaning>
+<example>tiresome office work</example>

@@ -1,0 +1,3 @@
+<word>wry</word>
+<meaning>humorous in a clever and often ironic way</meaning>
+<example>a wry expression</example>

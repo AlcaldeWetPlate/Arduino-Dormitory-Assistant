@@ -1,0 +1,3 @@
+<word>chronicle</word>
+<meaning>to describe a series of events in the order that they happened</meaning>
+<example>chronicles of the witch</example>

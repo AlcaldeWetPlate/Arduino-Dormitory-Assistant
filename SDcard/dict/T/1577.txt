@@ -1,0 +1,3 @@
+<word>crude oil</word>
+<meaning>a dark oil consisting mainly of hydrocarbons</meaning>
+<example>turn crude oil into gasoline</example>

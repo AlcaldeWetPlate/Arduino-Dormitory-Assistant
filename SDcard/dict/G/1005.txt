@@ -1,0 +1,3 @@
+<word>diffident</word>
+<meaning>lacking confidence :not feeling comfortable around people</meaning>
+<example>a shy and diffident girl</example>

@@ -1,0 +1,3 @@
+<word>waiter</word>
+<meaning>a man who serves food or drinks to people in a restaurant</meaning>
+<example>The waiter brings us food.</example>

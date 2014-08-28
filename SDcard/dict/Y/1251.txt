@@ -1,0 +1,3 @@
+<word>avoidance</word>
+<meaning>the act of avoiding something</meaning>
+<example>her avoidance of work</example>

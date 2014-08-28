@@ -1,0 +1,3 @@
+<word>downpour</word>
+<meaning>a sudden heavy rain</meaning>
+<example>umbrella for the downpour</example>

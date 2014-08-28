@@ -1,0 +1,3 @@
+<word>local</word>
+<meaning>relating to or occurring in a particular area, city, or town</meaning>
+<example>local people</example>

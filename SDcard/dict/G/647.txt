@@ -1,0 +1,3 @@
+<word>pious</word>
+<meaning>deeply religious :devoted to a particular religion</meaning>
+<example>pray and be pious</example>

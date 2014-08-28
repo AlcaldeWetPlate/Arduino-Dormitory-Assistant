@@ -1,0 +1,3 @@
+<word>scrutable</word>
+<meaning>understandable</meaning>
+<example>his scrutable homework</example>

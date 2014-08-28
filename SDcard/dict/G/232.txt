@@ -1,0 +1,3 @@
+<word>entangle</word>
+<meaning>to cause (something) to get caught</meaning>
+<example>The net entangles the bird.</example>

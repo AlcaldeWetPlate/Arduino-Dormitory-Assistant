@@ -1,0 +1,3 @@
+<word>analytic</word>
+<meaning>using or subjected to a methodology using algebra and calculus</meaning>
+<example>use math and analytic skills</example>

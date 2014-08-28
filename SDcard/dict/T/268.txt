@@ -1,0 +1,3 @@
+<word>tint</word>
+<meaning>a small amount of color</meaning>
+<example>tints of purple</example>

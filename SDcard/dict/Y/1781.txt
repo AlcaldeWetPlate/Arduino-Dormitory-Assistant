@@ -1,0 +1,3 @@
+<word>chapter</word>
+<meaning>one of the main sections of a book</meaning>
+<example>the first chapter</example>

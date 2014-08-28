@@ -1,0 +1,3 @@
+<word>sensory</word>
+<meaning>of or relating to your physical senses</meaning>
+<example>Ears are a sensory organ.</example>

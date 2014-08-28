@@ -1,0 +1,3 @@
+<word>enrage</word>
+<meaning>to make (someone) very angry :to fill (someone) with rage</meaning>
+<example>Your bad behavior enrages me!</example>

@@ -1,0 +1,3 @@
+<word>homemade</word>
+<meaning>made in the home and not in a factory, store, etc.</meaning>
+<example>homemade strawberry jam</example>

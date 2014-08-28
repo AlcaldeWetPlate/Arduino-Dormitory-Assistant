@@ -1,0 +1,3 @@
+<word>rod</word>
+<meaning>a straight, thin stick or bar</meaning>
+<example>fishing rod</example>

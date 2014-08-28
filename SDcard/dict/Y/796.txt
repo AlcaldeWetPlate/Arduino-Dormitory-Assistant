@@ -1,0 +1,3 @@
+<word>mount</word>
+<meaning>to seat yourself on a horse, bicycle, etc.</meaning>
+<example>mount the horse</example>

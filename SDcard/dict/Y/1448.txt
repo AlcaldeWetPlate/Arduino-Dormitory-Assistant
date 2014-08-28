@@ -1,0 +1,3 @@
+<word>helmet</word>
+<meaning>a hard hat that is worn to protect your head</meaning>
+<example>a yellow helmet</example>

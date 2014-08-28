@@ -1,0 +1,3 @@
+<word>palatial</word>
+<meaning>very large and impressive :like a palace</meaning>
+<example>a large, palatial building</example>

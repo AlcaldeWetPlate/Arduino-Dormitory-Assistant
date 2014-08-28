@@ -1,0 +1,3 @@
+<word>ferocious</word>
+<meaning>very fierce or violent</meaning>
+<example>a ferocious lion</example>

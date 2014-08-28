@@ -1,0 +1,3 @@
+<word>trenchant</word>
+<meaning>very strong, clear, and effective</meaning>
+<example>an essay's trenchant arguments</example>

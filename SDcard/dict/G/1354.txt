@@ -1,0 +1,3 @@
+<word>gawky</word>
+<meaning>awkward and clumsy</meaning>
+<example>the gawky penguin</example>

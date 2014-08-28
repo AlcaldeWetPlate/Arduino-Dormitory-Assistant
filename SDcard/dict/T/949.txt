@@ -1,0 +1,3 @@
+<word>congenial</word>
+<meaning>pleasant and enjoyable</meaning>
+<example>a congenial family</example>

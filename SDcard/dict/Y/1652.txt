@@ -1,0 +1,3 @@
+<word>enrol</word>
+<meaning>register formally as a participant or member</meaning>
+<example>enrol for membership</example>

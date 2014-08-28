@@ -1,0 +1,3 @@
+<word>organism</word>
+<meaning>an individual living thing</meaning>
+<example>a small/microscopic organism</example>

@@ -1,0 +1,3 @@
+<word>beggar</word>
+<meaning>a person who lives by begging for money, food, etc.</meaning>
+<example>a beggar on the streets</example>

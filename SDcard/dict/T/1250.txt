@@ -1,0 +1,3 @@
+<word>uproot</word>
+<meaning>to pull (a plant and its root) completely out of the ground</meaning>
+<example>uproot the tree</example>

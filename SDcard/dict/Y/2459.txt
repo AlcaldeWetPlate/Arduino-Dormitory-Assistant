@@ -1,0 +1,3 @@
+<word>letter</word>
+<meaning>a written or printed message to someone</meaning>
+<example>send three letters</example>

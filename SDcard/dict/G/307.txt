@@ -1,0 +1,3 @@
+<word>potentate</word>
+<meaning>a powerful ruler</meaning>
+<example>a powerful potentate</example>

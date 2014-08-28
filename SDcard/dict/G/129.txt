@@ -1,0 +1,3 @@
+<word>immature</word>
+<meaning>not mature</meaning>
+<example>two kids being immature</example>

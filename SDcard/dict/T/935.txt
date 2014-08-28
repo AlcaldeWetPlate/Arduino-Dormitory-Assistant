@@ -1,0 +1,3 @@
+<word>ascend</word>
+<meaning>to slope or lead upward</meaning>
+<example>ascend the ladder</example>

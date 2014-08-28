@@ -1,0 +1,3 @@
+<word>console</word>
+<meaning>to try to make (someone) feel less sadness or disappointment</meaning>
+<example>to console the little boy</example>

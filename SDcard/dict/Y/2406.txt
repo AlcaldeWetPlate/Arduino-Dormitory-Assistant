@@ -1,0 +1,3 @@
+<word>first</word>
+<meaning>the position of the winner in a competition or contest</meaning>
+<example>in first place</example>

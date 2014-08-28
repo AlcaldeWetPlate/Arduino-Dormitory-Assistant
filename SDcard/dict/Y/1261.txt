@@ -1,0 +1,3 @@
+<word>spit</word>
+<meaning>the liquid produced in your mouth</meaning>
+<example>spit when talking</example>

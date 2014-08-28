@@ -1,0 +1,3 @@
+<word>blur</word>
+<meaning>something that you cannot see clearly</meaning>
+<example>blur the image</example>

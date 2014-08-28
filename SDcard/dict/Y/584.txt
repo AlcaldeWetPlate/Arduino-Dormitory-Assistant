@@ -1,0 +1,3 @@
+<word>bent</word>
+<meaning>having a shape that is changed by bending :not straight</meaning>
+<example>old, bent nails</example>

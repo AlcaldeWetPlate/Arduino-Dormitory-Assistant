@@ -1,0 +1,3 @@
+<word>dustbin</word>
+<meaning>a can for trash or garbage :a garbage can or trash can</meaning>
+<example>dustbin full of trash</example>

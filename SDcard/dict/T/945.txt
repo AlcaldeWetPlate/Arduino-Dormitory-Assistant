@@ -1,0 +1,3 @@
+<word>carnival</word>
+<meaning>a festival held before Lent that includes music and dancing</meaning>
+<example>have fun at the carnival</example>

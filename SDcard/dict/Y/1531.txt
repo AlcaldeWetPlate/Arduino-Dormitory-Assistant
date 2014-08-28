@@ -1,0 +1,3 @@
+<word>turning</word>
+<meaning>the act of changing or reversing the direction of the course</meaning>
+<example>turning on the road</example>

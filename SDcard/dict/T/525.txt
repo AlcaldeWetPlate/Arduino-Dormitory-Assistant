@@ -1,0 +1,3 @@
+<word>fatal</word>
+<meaning>causing death</meaning>
+<example>a fatal accident</example>

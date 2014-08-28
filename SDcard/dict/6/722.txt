@@ -1,0 +1,3 @@
+<word>brutal</word>
+<meaning>extremely cruel or harsh</meaning>
+<example>brutal office workers</example>

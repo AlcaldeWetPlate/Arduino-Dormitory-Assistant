@@ -1,0 +1,3 @@
+<word>sere</word>
+<meaning>dried up or withered</meaning>
+<example>sere and dry plant</example>

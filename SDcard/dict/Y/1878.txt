@@ -1,0 +1,3 @@
+<word>racial</word>
+<meaning>existing or happening between people of different races</meaning>
+<example>racial diversity</example>

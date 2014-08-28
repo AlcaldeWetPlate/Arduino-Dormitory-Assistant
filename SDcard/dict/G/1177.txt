@@ -1,0 +1,3 @@
+<word>faze</word>
+<meaning>to cause (someone) to feel afraid or uncertain</meaning>
+<example>The complicated electronics faze her.</example>

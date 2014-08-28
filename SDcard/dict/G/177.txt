@@ -1,0 +1,3 @@
+<word>quail</word>
+<meaning>a kind of small wild bird that is often hunted</meaning>
+<example>A quail is a kind of bird.</example>

@@ -1,0 +1,3 @@
+<word>prolix</word>
+<meaning>using too many words</meaning>
+<example>a boring, prolix speaker</example>

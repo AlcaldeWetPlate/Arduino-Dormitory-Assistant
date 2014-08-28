@@ -1,0 +1,3 @@
+<word>fever</word>
+<meaning>a body temperature that is higher than normal</meaning>
+<example>The dog has a fever.</example>

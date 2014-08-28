@@ -1,0 +1,3 @@
+<word>ravenous</word>
+<meaning>very hungry</meaning>
+<example>the ravenous dog</example>

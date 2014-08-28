@@ -1,0 +1,3 @@
+<word>annoy</word>
+<meaning>to cause (someone) to feel slightly angry</meaning>
+<example>homework annoys her</example>

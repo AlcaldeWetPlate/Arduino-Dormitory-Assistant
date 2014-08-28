@@ -1,0 +1,3 @@
+<word>marriage</word>
+<meaning>the relationship that exists between a husband and a wife</meaning>
+<example>a wonderful marriage</example>

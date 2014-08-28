@@ -1,0 +1,3 @@
+<word>strenuous</word>
+<meaning>requiring or showing great energy and effort</meaning>
+<example>Climbing the mountain is strenuous.</example>

@@ -1,0 +1,3 @@
+<word>imprudent</word>
+<meaning>not wise or sensible :not prudent</meaning>
+<example>Standing on a motorcycle is imprudent.</example>

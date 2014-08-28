@@ -1,0 +1,3 @@
+<word>financial</word>
+<meaning>relating to money</meaning>
+<example>the financial industry</example>

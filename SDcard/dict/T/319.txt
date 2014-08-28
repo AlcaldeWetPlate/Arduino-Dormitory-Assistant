@@ -1,0 +1,3 @@
+<word>depart</word>
+<meaning>to leave a place especially to start a journey</meaning>
+<example>depart for a different city</example>

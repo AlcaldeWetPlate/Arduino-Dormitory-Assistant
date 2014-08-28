@@ -1,0 +1,3 @@
+<word>ominous</word>
+<meaning>suggesting that something bad is going to happen in the future</meaning>
+<example>ominous black clouds</example>

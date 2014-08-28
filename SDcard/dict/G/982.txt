@@ -1,0 +1,3 @@
+<word>don</word>
+<meaning>to put on (a piece of clothing)</meaning>
+<example>The baby dons her pants.</example>

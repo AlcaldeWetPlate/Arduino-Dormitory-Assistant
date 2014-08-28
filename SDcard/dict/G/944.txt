@@ -1,0 +1,3 @@
+<word>limber</word>
+<meaning>bending easily</meaning>
+<example>a limber acrobat</example>

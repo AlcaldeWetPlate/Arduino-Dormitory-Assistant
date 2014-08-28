@@ -1,0 +1,3 @@
+<word>lovely</word>
+<meaning>attractive or beautiful especially in a graceful way</meaning>
+<example>lovely eyes of a baby</example>

@@ -1,0 +1,3 @@
+<word>mobilise</word>
+<meaning>to bring (people) together for action</meaning>
+<example>mobilise many people</example>

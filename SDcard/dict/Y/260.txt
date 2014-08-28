@@ -1,0 +1,3 @@
+<word>mutton</word>
+<meaning>the meat of an adult sheep used as food</meaning>
+<example>eat some mutton</example>

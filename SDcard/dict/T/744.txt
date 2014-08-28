@@ -1,0 +1,3 @@
+<word>tunnel</word>
+<meaning>a passage that goes under the ground, through a hill, etc.</meaning>
+<example>go through the tunnel</example>

@@ -1,0 +1,3 @@
+<word>intrepid</word>
+<meaning>feeling no fear :very bold or brave</meaning>
+<example>an intrepid motorcycle rider</example>

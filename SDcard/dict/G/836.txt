@@ -1,0 +1,3 @@
+<word>unruly</word>
+<meaning>difficult to control</meaning>
+<example>an unruly child's behavior</example>

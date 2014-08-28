@@ -1,0 +1,3 @@
+<word>film</word>
+<meaning>a special material that is used for taking photographs</meaning>
+<example>The audience watches the film.</example>

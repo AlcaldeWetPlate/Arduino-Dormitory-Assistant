@@ -1,0 +1,3 @@
+<word>hull</word>
+<meaning>the outer covering of a fruit, grain, or seed</meaning>
+<example>the nut's hard hull</example>

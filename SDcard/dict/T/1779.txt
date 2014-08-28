@@ -1,0 +1,3 @@
+<word>lift</word>
+<meaning>to move (something or someone) to a higher position</meaning>
+<example>lift the car</example>

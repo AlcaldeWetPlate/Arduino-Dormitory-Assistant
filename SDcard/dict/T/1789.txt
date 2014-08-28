@@ -1,0 +1,3 @@
+<word>employ</word>
+<meaning>to use (something)</meaning>
+<example>employ a new worker</example>

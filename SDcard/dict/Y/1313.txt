@@ -1,0 +1,3 @@
+<word>usage</word>
+<meaning>how often something is used</meaning>
+<example>computer usage</example>

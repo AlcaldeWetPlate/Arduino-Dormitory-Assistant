@@ -1,0 +1,3 @@
+<word>gossip</word>
+<meaning>to talk about the personal lives of other people</meaning>
+<example>Girls always gossip.</example>

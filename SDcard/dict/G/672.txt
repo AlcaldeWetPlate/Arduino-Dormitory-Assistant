@@ -1,0 +1,3 @@
+<word>falter</word>
+<meaning>to begin to walk or move in an unsteady way</meaning>
+<example>falter as he tries to walk</example>

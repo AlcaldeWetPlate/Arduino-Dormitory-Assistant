@@ -1,0 +1,3 @@
+<word>volatile</word>
+<meaning>easily becoming a gas at a fairly low temperature</meaning>
+<example>the volatile bombs</example>

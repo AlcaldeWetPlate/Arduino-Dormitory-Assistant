@@ -1,0 +1,3 @@
+<word>glorious</word>
+<meaning>having or deserving glory, fame, or honor</meaning>
+<example>glorious golden light</example>

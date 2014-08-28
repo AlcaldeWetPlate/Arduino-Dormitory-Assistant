@@ -1,0 +1,3 @@
+<word>sanction</word>
+<meaning>official permission or approval</meaning>
+<example>The doctor sanctions this medicine.</example>

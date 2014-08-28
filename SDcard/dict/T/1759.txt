@@ -1,0 +1,3 @@
+<word>below</word>
+<meaning>in or to a lower place than (something)</meaning>
+<example>people down below</example>

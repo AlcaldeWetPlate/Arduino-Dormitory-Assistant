@@ -1,0 +1,3 @@
+<word>outcome</word>
+<meaning>something that happens as a result of an activity or process</meaning>
+<example>good outcome</example>

@@ -1,0 +1,3 @@
+<word>taxing</word>
+<meaning>requiring a lot of effort, energy, etc.</meaning>
+<example>Moving is a taxing affair.</example>

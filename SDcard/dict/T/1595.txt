@@ -1,0 +1,3 @@
+<word>further</word>
+<meaning>to or at a more distant place or time</meaning>
+<example>go further</example>

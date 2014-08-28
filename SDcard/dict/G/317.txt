@@ -1,0 +1,3 @@
+<word>rue</word>
+<meaning>to feel sorrow or regret for (something)</meaning>
+<example>The businessman rues his mistakes.</example>

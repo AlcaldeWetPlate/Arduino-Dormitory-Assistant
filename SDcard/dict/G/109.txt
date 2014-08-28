@@ -1,0 +1,3 @@
+<word>frosty</word>
+<meaning>cold enough to produce frost</meaning>
+<example>cold, frosty beers</example>

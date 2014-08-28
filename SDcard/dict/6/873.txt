@@ -1,0 +1,3 @@
+<word>glance</word>
+<meaning>to look at someone or something very quickly</meaning>
+<example>The pretty girl glances over at me.</example>

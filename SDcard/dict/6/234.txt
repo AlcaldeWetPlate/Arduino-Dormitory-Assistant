@@ -1,0 +1,3 @@
+<word>output</word>
+<meaning>the amount of something that is produced by a person or thing</meaning>
+<example>the factory's output</example>

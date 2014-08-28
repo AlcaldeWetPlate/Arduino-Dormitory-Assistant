@@ -1,0 +1,3 @@
+<word>worship</word>
+<meaning>to honor or respect (someone or something) as a god</meaning>
+<example>The little boy worships his God.</example>

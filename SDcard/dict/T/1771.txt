@@ -1,0 +1,3 @@
+<word>customer</word>
+<meaning>someone who buys goods or services from a business</meaning>
+<example>a female customer buys shoes</example>

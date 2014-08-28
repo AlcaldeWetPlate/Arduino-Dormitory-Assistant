@@ -1,0 +1,3 @@
+<word>arid</word>
+<meaning>very dry :having very little rain or water</meaning>
+<example>an arid desert</example>

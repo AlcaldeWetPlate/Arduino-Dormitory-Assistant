@@ -1,0 +1,3 @@
+<word>overcrowd</word>
+<meaning>crowd together too much</meaning>
+<example>cars overcrowd the parking lot</example>

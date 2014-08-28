@@ -1,0 +1,3 @@
+<word>newscast</word>
+<meaning>a radio or television program that reports the news</meaning>
+<example>a mouse on a newscast</example>

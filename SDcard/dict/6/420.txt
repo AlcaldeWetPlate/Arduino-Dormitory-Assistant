@@ -1,0 +1,3 @@
+<word>chip</word>
+<meaning>a small piece that has been broken off from something larger</meaning>
+<example>a bunch of wood chips</example>

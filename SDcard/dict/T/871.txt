@@ -1,0 +1,3 @@
+<word>airborne</word>
+<meaning>in the air :moving or being carried through the air</meaning>
+<example>an airborne helicopter</example>

@@ -1,0 +1,3 @@
+<word>slimy</word>
+<meaning>covered with slime</meaning>
+<example>a slimy worm</example>

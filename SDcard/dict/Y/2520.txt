@@ -1,0 +1,3 @@
+<word>shape</word>
+<meaning>the form or outline of an object</meaning>
+<example>cut out different shapes</example>

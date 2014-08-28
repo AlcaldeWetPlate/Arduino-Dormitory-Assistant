@@ -1,0 +1,3 @@
+<word>execrate</word>
+<meaning>to dislike and criticize (someone or something) very strongly</meaning>
+<example>his friends point at and execrate him</example>

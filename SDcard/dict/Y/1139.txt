@@ -1,0 +1,3 @@
+<word>delight</word>
+<meaning>a strong feeling of happiness :great pleasure or satisfaction</meaning>
+<example>smile in delight</example>

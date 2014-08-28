@@ -1,0 +1,3 @@
+<word>currency</word>
+<meaning>the money that a country uses :a specific kind of money</meaning>
+<example>the currency of Japan</example>

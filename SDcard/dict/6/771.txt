@@ -1,0 +1,3 @@
+<word>buffer</word>
+<meaning>to put (something, such as data) in a buffer</meaning>
+<example>wait for the video to buffer</example>

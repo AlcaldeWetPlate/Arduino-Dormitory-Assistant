@@ -1,0 +1,3 @@
+<word>ebb</word>
+<meaning>the time when the tide flows out from the land</meaning>
+<example>The tide ebbs.</example>

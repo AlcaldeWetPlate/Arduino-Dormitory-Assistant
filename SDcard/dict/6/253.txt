@@ -1,0 +1,3 @@
+<word>routine</word>
+<meaning>a regular way of doing things in a particular order</meaning>
+<example>a daily routine</example>

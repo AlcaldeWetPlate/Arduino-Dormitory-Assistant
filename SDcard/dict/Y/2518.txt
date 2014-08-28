@@ -1,0 +1,3 @@
+<word>awaken</word>
+<meaning>to stop sleeping :to wake up</meaning>
+<example>awaken me at eight o'clock</example>

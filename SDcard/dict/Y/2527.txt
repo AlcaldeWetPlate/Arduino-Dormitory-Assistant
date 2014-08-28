@@ -1,0 +1,3 @@
+<word>spoken</word>
+<meaning>using speech and not writing</meaning>
+<example>many different spoken languages</example>

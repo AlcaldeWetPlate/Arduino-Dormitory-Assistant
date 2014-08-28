@@ -1,0 +1,3 @@
+<word>blame</word>
+<meaning>responsibility for something that fails or is wrong</meaning>
+<example>blame him for his mistakes</example>

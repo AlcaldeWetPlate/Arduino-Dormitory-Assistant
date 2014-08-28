@@ -1,0 +1,3 @@
+<word>hobble</word>
+<meaning>to walk with difficulty because of injury or weakness</meaning>
+<example>hobble along using a stick</example>

@@ -1,0 +1,3 @@
+<word>imbibe</word>
+<meaning>to drink alcohol</meaning>
+<example>imbibe a pint of beer</example>

@@ -1,0 +1,3 @@
+<word>fusty</word>
+<meaning>full of dust and unpleasant smells :not fresh</meaning>
+<example>an old, fusty train tunnel</example>

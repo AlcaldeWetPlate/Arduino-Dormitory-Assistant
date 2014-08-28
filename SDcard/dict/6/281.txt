@@ -1,0 +1,3 @@
+<word>scan</word>
+<meaning>the act or process of scanning something</meaning>
+<example>a body scan in the hospital</example>

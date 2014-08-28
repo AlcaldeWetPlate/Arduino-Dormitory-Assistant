@@ -1,0 +1,3 @@
+<word>flare</word>
+<meaning>to shine or burn suddenly and briefly</meaning>
+<example>a fiery flare</example>

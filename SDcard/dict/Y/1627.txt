@@ -1,0 +1,3 @@
+<word>wipe</word>
+<meaning>to clean or dry (something) by using a towel, your hand, etc.</meaning>
+<example>wipe the floor boards</example>

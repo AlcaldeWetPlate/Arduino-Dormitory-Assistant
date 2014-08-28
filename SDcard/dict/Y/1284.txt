@@ -1,0 +1,3 @@
+<word>overflow</word>
+<meaning>to flow over the edge or top of (something)</meaning>
+<example>overflow with water</example>

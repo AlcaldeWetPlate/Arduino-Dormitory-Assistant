@@ -1,0 +1,3 @@
+<word>verbal</word>
+<meaning>spoken rather than written</meaning>
+<example>verbal communication</example>

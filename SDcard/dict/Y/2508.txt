@@ -1,0 +1,3 @@
+<word>pronounce</word>
+<meaning>to make the sound of (a word or letter) with your voice</meaning>
+<example>pronounce the word</example>

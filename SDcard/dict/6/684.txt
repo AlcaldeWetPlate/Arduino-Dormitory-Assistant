@@ -1,0 +1,3 @@
+<word>grain</word>
+<meaning>a single seed of wheat, corn, rice, etc.</meaning>
+<example>a bag of grain</example>

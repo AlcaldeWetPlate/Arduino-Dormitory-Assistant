@@ -1,0 +1,3 @@
+<word>anterior</word>
+<meaning>near or toward the front of something (such as the body)</meaning>
+<example>anterior view of the body</example>

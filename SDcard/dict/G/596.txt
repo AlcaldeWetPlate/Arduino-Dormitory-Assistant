@@ -1,0 +1,3 @@
+<word>incipient</word>
+<meaning>beginning to develop or exist</meaning>
+<example>the incipient stages of mankind</example>

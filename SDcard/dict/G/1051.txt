@@ -1,0 +1,3 @@
+<word>reserved</word>
+<meaning>kept for use only by a particular person or group</meaning>
+<example>reserved parking</example>

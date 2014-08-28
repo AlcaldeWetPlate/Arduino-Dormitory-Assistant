@@ -1,0 +1,3 @@
+<word>orient</word>
+<meaning>to direct (someone) toward a goal</meaning>
+<example>orient oneself with a compass</example>

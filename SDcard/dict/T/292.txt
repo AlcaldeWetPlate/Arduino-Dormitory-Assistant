@@ -1,0 +1,3 @@
+<word>repulse</word>
+<meaning>to cause dislike or disgust in (someone)</meaning>
+<example>Hamburgers repulse her.</example>

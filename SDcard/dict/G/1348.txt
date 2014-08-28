@@ -1,0 +1,3 @@
+<word>wizen</word>
+<meaning>lean and wrinkled by shrinkage as from age or illness</meaning>
+<example>The dying plant wizens.</example>

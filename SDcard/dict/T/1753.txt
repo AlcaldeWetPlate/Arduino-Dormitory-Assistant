@@ -1,0 +1,3 @@
+<word>gyration</word>
+<meaning>the act of rotating in a circle or spiral</meaning>
+<example>orbit in gyration around the Earth</example>

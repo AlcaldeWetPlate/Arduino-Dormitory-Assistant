@@ -1,0 +1,3 @@
+<word>opportune</word>
+<meaning>suitable or right for a particular situation</meaning>
+<example>an opportune time to get married</example>

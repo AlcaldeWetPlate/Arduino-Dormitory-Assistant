@@ -1,0 +1,3 @@
+<word>rite</word>
+<meaning>an act that is part of a usually religious ceremony</meaning>
+<example>ancient rites</example>

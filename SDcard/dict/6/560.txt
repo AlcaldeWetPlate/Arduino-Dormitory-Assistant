@@ -1,0 +1,3 @@
+<word>religious</word>
+<meaning>of or relating to religion</meaning>
+<example>A religious woman prays.</example>

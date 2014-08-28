@@ -1,0 +1,3 @@
+<word>murky</word>
+<meaning>very dark or foggy</meaning>
+<example>murky sky</example>

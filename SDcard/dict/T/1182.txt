@@ -1,0 +1,3 @@
+<word>spinal</word>
+<meaning>of, relating to, or affecting the spine</meaning>
+<example>spinal pain</example>

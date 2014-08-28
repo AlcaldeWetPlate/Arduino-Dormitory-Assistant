@@ -1,0 +1,3 @@
+<word>shameful</word>
+<meaning>very bad :bad enough to make someone ashamed</meaning>
+<example>a shameful act on stage</example>

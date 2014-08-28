@@ -1,0 +1,3 @@
+<word>against</word>
+<meaning>in opposition to (someone or something)</meaning>
+<example>The red man is against him.</example>

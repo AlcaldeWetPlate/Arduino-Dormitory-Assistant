@@ -1,0 +1,3 @@
+<word>debris</word>
+<meaning>the pieces that are left after something has been destroyed</meaning>
+<example>rocks and debris</example>

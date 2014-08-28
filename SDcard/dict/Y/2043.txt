@@ -1,0 +1,3 @@
+<word>woods</word>
+<meaning>the trees and other plants in a large densely wooded area</meaning>
+<example>sunlight in the woods</example>

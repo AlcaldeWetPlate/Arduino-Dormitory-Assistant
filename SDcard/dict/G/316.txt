@@ -1,0 +1,3 @@
+<word>waft</word>
+<meaning>to move lightly through the air</meaning>
+<example>The smoke wafts into the air.</example>

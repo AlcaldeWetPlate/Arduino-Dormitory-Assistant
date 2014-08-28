@@ -1,0 +1,3 @@
+<word>whisper</word>
+<meaning>a very soft and quiet way of speaking</meaning>
+<example>whisper in her ear</example>

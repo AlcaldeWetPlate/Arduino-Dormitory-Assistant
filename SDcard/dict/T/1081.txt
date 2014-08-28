@@ -1,0 +1,3 @@
+<word>formation</word>
+<meaning>an orderly arrangement or group of people, ships, or airplanes</meaning>
+<example>a formation of cheerleaders</example>

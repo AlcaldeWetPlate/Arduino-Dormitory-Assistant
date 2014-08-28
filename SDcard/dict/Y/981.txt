@@ -1,0 +1,3 @@
+<word>lip</word>
+<meaning>either one of the two soft parts that surround the mouth</meaning>
+<example>her sexy lips</example>

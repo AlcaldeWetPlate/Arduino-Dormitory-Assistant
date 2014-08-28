@@ -1,0 +1,3 @@
+<word>egoistic</word>
+<meaning>limited to or caring only about yourself and your own needs</meaning>
+<example>an egoistic girl</example>

@@ -1,0 +1,3 @@
+<word>dingy</word>
+<meaning>dark and dirty :not fresh or clean</meaning>
+<example>the dingy old restaurant</example>

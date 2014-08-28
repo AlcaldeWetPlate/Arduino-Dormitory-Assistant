@@ -1,0 +1,3 @@
+<word>artisan</word>
+<meaning>a person who is skilled at making things by hand</meaning>
+<example>The artisan makes a bowl.</example>

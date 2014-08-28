@@ -1,0 +1,3 @@
+<word>pilot</word>
+<meaning>a person who flies an airplane, helicopter, etc.</meaning>
+<example>the airline pilot</example>

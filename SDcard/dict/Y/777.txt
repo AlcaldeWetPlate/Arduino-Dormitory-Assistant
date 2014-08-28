@@ -1,0 +1,3 @@
+<word>intention</word>
+<meaning>the thing that you plan to do or achieve :an aim or purpose</meaning>
+<example>an intention to quit smoking</example>

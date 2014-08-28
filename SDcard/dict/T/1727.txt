@@ -1,0 +1,3 @@
+<word>dissenter</word>
+<meaning>a person who dissents from some established policy</meaning>
+<example>The dissenters dislike their government.</example>

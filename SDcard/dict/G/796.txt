@@ -1,0 +1,3 @@
+<word>rabble</word>
+<meaning>a large group of loud people who could become violent</meaning>
+<example>the rabble marches and holds signs</example>

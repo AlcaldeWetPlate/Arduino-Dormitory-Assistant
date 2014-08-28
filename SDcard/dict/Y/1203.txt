@@ -1,0 +1,3 @@
+<word>mud</word>
+<meaning>soft, wet dirt</meaning>
+<example>vehicle in the mud</example>

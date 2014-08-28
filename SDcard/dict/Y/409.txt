@@ -1,0 +1,3 @@
+<word>tension</word>
+<meaning>a feeling of nervousness that makes you unable to relax</meaning>
+<example>a lot of tension from work</example>

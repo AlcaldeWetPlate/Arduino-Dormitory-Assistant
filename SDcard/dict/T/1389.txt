@@ -1,0 +1,3 @@
+<word>spherical</word>
+<meaning>having the shape of a sphere</meaning>
+<example>The Earth is spherical.</example>

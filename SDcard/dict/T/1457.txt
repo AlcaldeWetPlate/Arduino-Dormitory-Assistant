@@ -1,0 +1,3 @@
+<word>spinning</word>
+<meaning>creating thread</meaning>
+<example>a colorful spinning pinwheel</example>

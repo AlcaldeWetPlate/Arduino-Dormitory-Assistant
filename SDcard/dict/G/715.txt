@@ -1,0 +1,3 @@
+<word>sumptuous</word>
+<meaning>very expensive, rich, or impressive</meaning>
+<example>a sumptuous meal</example>

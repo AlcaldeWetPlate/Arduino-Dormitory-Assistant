@@ -1,0 +1,3 @@
+<word>drizzle</word>
+<meaning>rain that falls lightly in very small drops</meaning>
+<example>an umbrella for the drizzle</example>

@@ -1,0 +1,3 @@
+<word>cautious</word>
+<meaning>careful about avoiding danger or risk</meaning>
+<example>cautious on the airplane</example>

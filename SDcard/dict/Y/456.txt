@@ -1,0 +1,3 @@
+<word>bother</word>
+<meaning>to cause (someone) to feel troubled, worried, or concerned</meaning>
+<example>bother the man</example>

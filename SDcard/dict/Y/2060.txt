@@ -1,0 +1,3 @@
+<word>kilogram</word>
+<meaning>a unit of weight equal to 1,000 grams</meaning>
+<example>zero kilograms</example>

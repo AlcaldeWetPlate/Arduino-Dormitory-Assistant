@@ -1,0 +1,3 @@
+<word>curiosity</word>
+<meaning>the desire to learn or know more about something or someone</meaning>
+<example>the woman's curiosity</example>

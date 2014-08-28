@@ -1,0 +1,3 @@
+<word>presently</word>
+<meaning>after a short time</meaning>
+<example>It is presently 12 o'clock.</example>

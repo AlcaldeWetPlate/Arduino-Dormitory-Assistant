@@ -1,0 +1,3 @@
+<word>rapport</word>
+<meaning>a friendly relationship</meaning>
+<example>family rapport</example>

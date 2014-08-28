@@ -1,0 +1,3 @@
+<word>vital</word>
+<meaning>extremely important</meaning>
+<example>be vital for health</example>

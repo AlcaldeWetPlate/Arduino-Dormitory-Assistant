@@ -1,0 +1,3 @@
+<word>savage</word>
+<meaning>very cruel or violent</meaning>
+<example>these are savage animals</example>

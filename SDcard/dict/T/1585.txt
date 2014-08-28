@@ -1,0 +1,3 @@
+<word>genuine</word>
+<meaning>actual, real, or true :not false or fake</meaning>
+<example>a genuine product</example>

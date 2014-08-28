@@ -1,0 +1,3 @@
+<word>thief</word>
+<meaning>a person who steals something</meaning>
+<example>a masked thief</example>

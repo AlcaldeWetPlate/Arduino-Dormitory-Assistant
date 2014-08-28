@@ -1,0 +1,3 @@
+<word>detention</word>
+<meaning>the act of keeping someone in a prison or similar place</meaning>
+<example>hold the criminal in detention</example>

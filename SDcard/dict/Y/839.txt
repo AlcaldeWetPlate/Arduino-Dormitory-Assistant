@@ -1,0 +1,3 @@
+<word>resume</word>
+<meaning>to begin again after stopping</meaning>
+<example>resume classes in September</example>

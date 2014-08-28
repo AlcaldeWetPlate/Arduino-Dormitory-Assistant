@@ -1,0 +1,3 @@
+<word>corpse</word>
+<meaning>a dead body</meaning>
+<example>a human corpse's feet</example>

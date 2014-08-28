@@ -1,0 +1,3 @@
+<word>equable</word>
+<meaning>tending to remain calm :free from sudden or harsh changes</meaning>
+<example>an equable climate</example>

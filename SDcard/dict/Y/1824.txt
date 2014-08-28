@@ -1,0 +1,3 @@
+<word>generally</word>
+<meaning>in most cases</meaning>
+<example>generally cloudy with rain</example>

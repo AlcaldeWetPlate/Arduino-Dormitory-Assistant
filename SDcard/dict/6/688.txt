@@ -1,0 +1,3 @@
+<word>notable</word>
+<meaning>very successful or respected</meaning>
+<example>She is a notable star.</example>

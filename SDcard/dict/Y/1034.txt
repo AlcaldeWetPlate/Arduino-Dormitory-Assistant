@@ -1,0 +1,3 @@
+<word>storage</word>
+<meaning>space where you put things when they are not being used</meaning>
+<example>put the products in storage</example>

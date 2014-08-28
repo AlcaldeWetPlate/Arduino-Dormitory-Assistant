@@ -1,0 +1,3 @@
+<word>incite</word>
+<meaning>to cause (someone) to act in an angry, harmful, or violent way</meaning>
+<example>incite the German people to do bad things</example>

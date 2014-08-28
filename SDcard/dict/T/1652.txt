@@ -1,0 +1,3 @@
+<word>symbology</word>
+<meaning>A Theory of Semiotics</meaning>
+<example>symbology of ancient languages</example>

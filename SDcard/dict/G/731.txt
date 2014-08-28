@@ -1,0 +1,3 @@
+<word>pretense</word>
+<meaning>an act or appearance that looks real but is false</meaning>
+<example>the little girl's imaginary pretense</example>

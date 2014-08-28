@@ -1,0 +1,3 @@
+<word>recede</word>
+<meaning>to move away gradually</meaning>
+<example>Water recedes from the shoreline.</example>

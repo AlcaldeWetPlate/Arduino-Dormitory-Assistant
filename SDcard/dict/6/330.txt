@@ -1,0 +1,3 @@
+<word>proximity</word>
+<meaning>the state of being near</meaning>
+<example>in close proximity to each other</example>

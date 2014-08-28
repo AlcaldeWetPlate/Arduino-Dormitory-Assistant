@@ -1,0 +1,3 @@
+<word>graphite</word>
+<meaning>a shiny black substance that is used in pencils</meaning>
+<example>Pencil lead is graphite.</example>

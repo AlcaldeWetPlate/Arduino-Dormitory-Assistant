@@ -1,0 +1,3 @@
+<word>absent</word>
+<meaning>not present at a usual or expected place</meaning>
+<example>be absent from work</example>

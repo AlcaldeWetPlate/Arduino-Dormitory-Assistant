@@ -1,0 +1,3 @@
+<word>possess</word>
+<meaning>to have or own (something)</meaning>
+<example>possess many pairs of shoes</example>

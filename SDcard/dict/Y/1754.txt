@@ -1,0 +1,3 @@
+<word>astronaut</word>
+<meaning>a person who travels in a spacecraft into outer space</meaning>
+<example>an American astronaut</example>

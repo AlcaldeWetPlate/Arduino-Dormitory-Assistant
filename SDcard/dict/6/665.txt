@@ -1,0 +1,3 @@
+<word>proof</word>
+<meaning>something which shows that something else is true or correct</meaning>
+<example>proof that she's sick</example>

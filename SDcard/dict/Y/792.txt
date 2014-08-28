@@ -1,0 +1,3 @@
+<word>operate</word>
+<meaning>to perform surgery</meaning>
+<example>the doctors operate on him</example>

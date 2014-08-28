@@ -1,0 +1,3 @@
+<word>entitled</word>
+<meaning>qualified for by right according to law</meaning>
+<example>entitled to an award</example>

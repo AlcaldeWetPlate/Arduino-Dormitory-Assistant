@@ -1,0 +1,3 @@
+<word>crew</word>
+<meaning>the group of people who operate a ship, airplane, or train</meaning>
+<example>the friendly crew members</example>

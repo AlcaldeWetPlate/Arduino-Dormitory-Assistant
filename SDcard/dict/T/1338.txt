@@ -1,0 +1,3 @@
+<word>wavy</word>
+<meaning>having the curving shape of a wave or of many waves</meaning>
+<example>the colorful wavy lines</example>

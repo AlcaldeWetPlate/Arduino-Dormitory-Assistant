@@ -1,0 +1,3 @@
+<word>flask</word>
+<meaning>a glass bottle used in scientific laboratories</meaning>
+<example>differently shaped glass flasks</example>

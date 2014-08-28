@@ -1,0 +1,3 @@
+<word>gleam</word>
+<meaning>to shine brightly</meaning>
+<example>the light gleams</example>

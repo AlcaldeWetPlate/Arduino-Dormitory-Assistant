@@ -1,0 +1,3 @@
+<word>realm</word>
+<meaning>a country that is ruled by a king or queen</meaning>
+<example>the realm of Mongolia</example>

@@ -1,0 +1,3 @@
+<word>rigmarole</word>
+<meaning>a long, complicated, and annoying process, description, etc.</meaning>
+<example>bored by his rigmarole at a party</example>

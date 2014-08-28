@@ -1,0 +1,3 @@
+<word>airtight</word>
+<meaning>tightly sealed so that no air can get in or out</meaning>
+<example>airtight containers</example>

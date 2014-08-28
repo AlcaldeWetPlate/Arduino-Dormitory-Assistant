@@ -1,0 +1,3 @@
+<word>assess</word>
+<meaning>to make a judgment about (something)</meaning>
+<example>assess the patient's health</example>

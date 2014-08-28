@@ -1,0 +1,3 @@
+<word>press</word>
+<meaning>to push (something) with strong or steady force</meaning>
+<example>press a button</example>

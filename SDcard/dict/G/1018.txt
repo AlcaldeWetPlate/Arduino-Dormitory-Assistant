@@ -1,0 +1,3 @@
+<word>harry</word>
+<meaning>annoy continually or chronically</meaning>
+<example>harry the larger bird</example>

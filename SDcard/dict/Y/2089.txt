@@ -1,0 +1,3 @@
+<word>spend</word>
+<meaning>to use (money) to pay for something</meaning>
+<example>spend money</example>

@@ -1,0 +1,3 @@
+<word>quack</word>
+<meaning>the loud sound that is made by a duck</meaning>
+<example>The ducks quack.</example>

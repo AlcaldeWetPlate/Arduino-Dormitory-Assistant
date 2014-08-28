@@ -1,0 +1,3 @@
+<word>endeavour</word>
+<meaning>attempt by employing effort</meaning>
+<example>a difficult endeavour</example>

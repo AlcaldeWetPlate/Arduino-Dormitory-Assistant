@@ -1,0 +1,3 @@
+<word>bloody</word>
+<meaning>bleeding or covered with blood</meaning>
+<example>a bloody crime</example>

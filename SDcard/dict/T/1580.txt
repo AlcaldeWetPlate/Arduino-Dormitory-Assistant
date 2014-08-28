@@ -1,0 +1,3 @@
+<word>depend on</word>
+<meaning>be contingent on</meaning>
+<example>depend on her husband</example>

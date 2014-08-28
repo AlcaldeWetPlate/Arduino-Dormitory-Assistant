@@ -1,0 +1,3 @@
+<word>favorable</word>
+<meaning>expressing approval :giving or providing what is desired</meaning>
+<example>everybody's favorable opinion</example>

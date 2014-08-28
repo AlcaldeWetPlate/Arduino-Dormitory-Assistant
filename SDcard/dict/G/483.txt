@@ -1,0 +1,3 @@
+<word>withdraw</word>
+<meaning>to remove (money) from a bank account</meaning>
+<example>withdraw money from an ATM</example>

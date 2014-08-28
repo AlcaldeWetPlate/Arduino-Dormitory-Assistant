@@ -1,0 +1,3 @@
+<word>trunk</word>
+<meaning>the long, flexible nose of an elephant</meaning>
+<example>an elephant's trunk</example>

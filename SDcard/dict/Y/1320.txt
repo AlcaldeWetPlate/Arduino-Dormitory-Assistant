@@ -1,0 +1,3 @@
+<word>fond</word>
+<meaning>feeling or showing love or friendship</meaning>
+<example>be fond of his girlfriend</example>

@@ -1,0 +1,3 @@
+<word>excursion</word>
+<meaning>a short trip especially for pleasure</meaning>
+<example>an excursion into the forest</example>

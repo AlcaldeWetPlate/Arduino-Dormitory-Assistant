@@ -1,0 +1,3 @@
+<word>purple</word>
+<meaning>a color that is between red and blue</meaning>
+<example>purple paint</example>

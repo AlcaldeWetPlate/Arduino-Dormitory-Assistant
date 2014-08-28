@@ -1,0 +1,3 @@
+<word>quiver</word>
+<meaning>to shake because of fear, cold, nervousness, etc.</meaning>
+<example>He quivers in fear.</example>

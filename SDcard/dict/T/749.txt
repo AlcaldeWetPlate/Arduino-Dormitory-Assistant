@@ -1,0 +1,3 @@
+<word>identical</word>
+<meaning>exactly the same</meaning>
+<example>two identical twins</example>

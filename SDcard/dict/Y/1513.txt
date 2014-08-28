@@ -1,0 +1,3 @@
+<word>billion</word>
+<meaning>the number 1,000,000,000 :one thousand million</meaning>
+<example>a billion dollars</example>

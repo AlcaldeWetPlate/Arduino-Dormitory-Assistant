@@ -1,0 +1,3 @@
+<word>irk</word>
+<meaning>to bother or annoy (someone)</meaning>
+<example>The two women irk the man.</example>

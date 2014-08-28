@@ -1,0 +1,3 @@
+<word>copper</word>
+<meaning>a reddish-brown color</meaning>
+<example>a copper coin</example>

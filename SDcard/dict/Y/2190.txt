@@ -1,0 +1,3 @@
+<word>pay</word>
+<meaning>to give money for goods or services</meaning>
+<example>pay taxes</example>

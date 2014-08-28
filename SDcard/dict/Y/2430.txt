@@ -1,0 +1,3 @@
+<word>bomber</word>
+<meaning>a military aircraft designed for dropping bombs</meaning>
+<example>bombers flying in the sky</example>

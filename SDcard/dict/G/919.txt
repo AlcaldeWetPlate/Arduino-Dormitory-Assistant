@@ -1,0 +1,3 @@
+<word>palpable</word>
+<meaning>obvious and noticeable</meaning>
+<example>a palpable surface</example>

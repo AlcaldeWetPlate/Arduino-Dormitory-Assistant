@@ -1,0 +1,3 @@
+<word>second</word>
+<meaning>a unit of time that is equal to</meaning>
+<example>35 seconds</example>

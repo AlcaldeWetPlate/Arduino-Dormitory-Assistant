@@ -1,0 +1,3 @@
+<word>taint</word>
+<meaning>to hurt or damage the good condition of (something)</meaning>
+<example>atmosphere tainted with inappropriateness</example>

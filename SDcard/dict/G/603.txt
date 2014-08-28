@@ -1,0 +1,3 @@
+<word>mitigate</word>
+<meaning>to make (something) less severe, harmful, or painful</meaning>
+<example>mitigate the symptoms</example>

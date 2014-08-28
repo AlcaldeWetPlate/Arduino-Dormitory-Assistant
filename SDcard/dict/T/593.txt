@@ -1,0 +1,3 @@
+<word>affect</word>
+<meaning>to act on (someone or something) and cause a change</meaning>
+<example>affect her emotional state</example>

@@ -1,0 +1,3 @@
+<word>pertain</word>
+<meaning>to relate</meaning>
+<example>pertain to adults only</example>

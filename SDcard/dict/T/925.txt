@@ -1,0 +1,3 @@
+<word>fruitful</word>
+<meaning>producing a good result :very productive</meaning>
+<example>a fruitful tree</example>

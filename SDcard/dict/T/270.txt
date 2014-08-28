@@ -1,0 +1,3 @@
+<word>tribal</word>
+<meaning>of or relating to a tribe or tribes</meaning>
+<example>tribal customs</example>

@@ -1,0 +1,3 @@
+<word>fetch</word>
+<meaning>to go after and bring back (someone or something)</meaning>
+<example>fetch the ball</example>

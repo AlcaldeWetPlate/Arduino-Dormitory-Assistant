@@ -1,0 +1,3 @@
+<word>pinnacle</word>
+<meaning>a high mountain top</meaning>
+<example>climbing on a pinnacle</example>

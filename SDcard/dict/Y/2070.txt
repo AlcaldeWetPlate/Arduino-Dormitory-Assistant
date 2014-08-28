@@ -1,0 +1,3 @@
+<word>limit</word>
+<meaning>a point beyond which someone is not allowed to go</meaning>
+<example>speed limit</example>

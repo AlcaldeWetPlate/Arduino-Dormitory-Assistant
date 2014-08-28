@@ -1,0 +1,3 @@
+<word>abridge</word>
+<meaning>to shorten (a book, a play, etc.) by leaving out some parts</meaning>
+<example>abridge the book</example>

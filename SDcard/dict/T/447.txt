@@ -1,0 +1,3 @@
+<word>dissolve</word>
+<meaning>to mix with a liquid and become part of the liquid</meaning>
+<example>dissolve in water</example>

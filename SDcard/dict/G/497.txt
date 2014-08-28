@@ -1,0 +1,3 @@
+<word>profane</word>
+<meaning>having or showing disrespect for religious things</meaning>
+<example>a profane gesture</example>

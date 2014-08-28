@@ -1,0 +1,3 @@
+<word>debacle</word>
+<meaning>a great disaster or complete failure</meaning>
+<example>The earthquake causes a debacle</example>

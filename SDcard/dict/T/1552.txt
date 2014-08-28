@@ -1,0 +1,3 @@
+<word>starfish</word>
+<meaning>a sea animal that has five arms and that looks like a star</meaning>
+<example>A starfish looks like a star.</example>

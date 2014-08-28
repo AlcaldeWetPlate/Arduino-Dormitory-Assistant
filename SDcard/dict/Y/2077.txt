@@ -1,0 +1,3 @@
+<word>wildlife</word>
+<meaning>animals living in nature :wild animals</meaning>
+<example>wildlife in the forest</example>

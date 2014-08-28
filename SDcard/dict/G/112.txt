@@ -1,0 +1,3 @@
+<word>glacial</word>
+<meaning>of or relating to glaciers</meaning>
+<example>glacial melting</example>

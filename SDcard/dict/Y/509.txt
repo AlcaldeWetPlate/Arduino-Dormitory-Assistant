@@ -1,0 +1,3 @@
+<word>literacy</word>
+<meaning>the ability to read and write</meaning>
+<example>Literacy is important for children.</example>

@@ -1,0 +1,3 @@
+<word>phonetics</word>
+<meaning>the study of speech sounds</meaning>
+<example>English phonetics</example>

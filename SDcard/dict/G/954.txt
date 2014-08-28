@@ -1,0 +1,3 @@
+<word>desiccate</word>
+<meaning>lose water or moisture</meaning>
+<example>dry and desiccated</example>

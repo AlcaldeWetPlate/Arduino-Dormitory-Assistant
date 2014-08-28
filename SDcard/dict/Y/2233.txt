@@ -1,0 +1,3 @@
+<word>opium</word>
+<meaning>a powerful illegal drug that is made from a type of poppy</meaning>
+<example>smoke opium in 19th century China</example>

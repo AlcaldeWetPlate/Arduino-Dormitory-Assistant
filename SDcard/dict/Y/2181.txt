@@ -1,0 +1,3 @@
+<word>overview</word>
+<meaning>a general explanation or description of something</meaning>
+<example>overview of the city</example>

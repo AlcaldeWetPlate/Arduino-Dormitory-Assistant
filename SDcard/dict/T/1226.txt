@@ -1,0 +1,3 @@
+<word>anomaly</word>
+<meaning>something that is unusual or unexpected :something anomalous</meaning>
+<example>a genetic anomaly</example>

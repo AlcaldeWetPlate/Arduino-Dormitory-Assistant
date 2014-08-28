@@ -1,0 +1,3 @@
+<word>general</word>
+<meaning>ordinary, normal, or usual</meaning>
+<example>In general, trees are green.</example>

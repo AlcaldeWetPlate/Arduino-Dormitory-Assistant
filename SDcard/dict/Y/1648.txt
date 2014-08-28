@@ -1,0 +1,3 @@
+<word>directly</word>
+<meaning>in a direct way</meaning>
+<example>walk directly through the maze</example>

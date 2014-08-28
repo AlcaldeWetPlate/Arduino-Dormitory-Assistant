@@ -1,0 +1,3 @@
+<word>attitude</word>
+<meaning>a particular way of positioning your body</meaning>
+<example>her rebellious attitude</example>

@@ -1,0 +1,3 @@
+<word>outfit</word>
+<meaning>a set of clothes that are worn together</meaning>
+<example>a little boy's knight outfit</example>

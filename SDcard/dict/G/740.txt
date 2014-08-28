@@ -1,0 +1,3 @@
+<word>committed</word>
+<meaning>willing to give your time, energy, etc., to something</meaning>
+<example>a committed relationship</example>

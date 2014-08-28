@@ -1,0 +1,3 @@
+<word>tropical</word>
+<meaning>of, relating to, occurring in, or used in the tropics</meaning>
+<example>a tropical beach</example>

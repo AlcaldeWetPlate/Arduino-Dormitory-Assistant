@@ -1,0 +1,3 @@
+<word>sore</word>
+<meaning>feeling or affected by pain</meaning>
+<example>a sore neck and head</example>

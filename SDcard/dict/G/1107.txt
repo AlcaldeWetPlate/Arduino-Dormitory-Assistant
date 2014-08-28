@@ -1,0 +1,3 @@
+<word>vaunt</word>
+<meaning>show off</meaning>
+<example>She vaunts her new dress.</example>

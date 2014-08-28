@@ -1,0 +1,3 @@
+<word>grasp</word>
+<meaning>to understand (something that is complicated or difficult)</meaning>
+<example>grasp the bar tightly</example>

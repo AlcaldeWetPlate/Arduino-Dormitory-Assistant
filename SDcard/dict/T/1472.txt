@@ -1,0 +1,3 @@
+<word>cubic</word>
+<meaning>in the shape of a cube</meaning>
+<example>a blue cubic solid</example>

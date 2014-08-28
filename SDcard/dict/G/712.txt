@@ -1,0 +1,3 @@
+<word>speck</word>
+<meaning>a very small piece or spot</meaning>
+<example>specks on the egg</example>

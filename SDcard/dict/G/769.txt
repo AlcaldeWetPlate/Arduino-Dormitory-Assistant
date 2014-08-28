@@ -1,0 +1,3 @@
+<word>strut</word>
+<meaning>to walk in a confident and proud way</meaning>
+<example>The models strut.</example>

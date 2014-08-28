@@ -1,0 +1,3 @@
+<word>sinuous</word>
+<meaning>having many twists and turns</meaning>
+<example>the sinuous staircase</example>

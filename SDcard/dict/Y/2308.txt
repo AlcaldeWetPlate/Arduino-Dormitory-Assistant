@@ -1,0 +1,3 @@
+<word>exhume</word>
+<meaning>to remove (a body) from the place where it is buried</meaning>
+<example>exhume the body from the grave</example>

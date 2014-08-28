@@ -1,0 +1,3 @@
+<word>jog</word>
+<meaning>to run slowly especially for exercise</meaning>
+<example>jog for health</example>

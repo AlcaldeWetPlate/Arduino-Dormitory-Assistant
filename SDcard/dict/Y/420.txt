@@ -1,0 +1,3 @@
+<word>variable</word>
+<meaning>able or likely to change or be changed :not always the same</meaning>
+<example>The charts have many variables.</example>

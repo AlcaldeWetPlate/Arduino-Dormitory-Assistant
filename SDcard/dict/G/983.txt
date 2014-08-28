@@ -1,0 +1,3 @@
+<word>quibble</word>
+<meaning>to argue or complain about small, unimportant things</meaning>
+<example>quibble about his shirt</example>

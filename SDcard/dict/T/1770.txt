@@ -1,0 +1,3 @@
+<word>edge</word>
+<meaning>the line or part where an object or area begins or ends</meaning>
+<example>the edge of the cliff</example>

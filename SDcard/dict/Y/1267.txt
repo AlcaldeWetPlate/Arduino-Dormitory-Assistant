@@ -1,0 +1,3 @@
+<word>hijack</word>
+<meaning>to stop and steal (a moving vehicle)</meaning>
+<example>The thief hijacks the car.</example>

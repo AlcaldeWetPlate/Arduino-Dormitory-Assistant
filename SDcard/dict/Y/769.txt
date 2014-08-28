@@ -1,0 +1,3 @@
+<word>occasion</word>
+<meaning>a special event or time</meaning>
+<example>an occasion to celebrate</example>

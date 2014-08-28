@@ -1,0 +1,3 @@
+<word>married</word>
+<meaning>having a husband or wife</meaning>
+<example>a married couple</example>

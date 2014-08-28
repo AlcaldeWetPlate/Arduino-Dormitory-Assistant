@@ -1,0 +1,3 @@
+<word>deciduous</word>
+<meaning>having leaves that fall off every year</meaning>
+<example>deciduous trees</example>

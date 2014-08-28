@@ -1,0 +1,3 @@
+<word>tempo</word>
+<meaning>the speed at which a musical piece is played or sung</meaning>
+<example>tempo of the song</example>

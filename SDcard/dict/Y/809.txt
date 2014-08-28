@@ -1,0 +1,3 @@
+<word>judgment</word>
+<meaning>an opinion or decision that is based on careful thought</meaning>
+<example>a fair judgment</example>

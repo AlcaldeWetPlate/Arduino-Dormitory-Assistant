@@ -1,0 +1,3 @@
+<word>anomalous</word>
+<meaning>not expected or usual</meaning>
+<example>an anomalous red arrow</example>

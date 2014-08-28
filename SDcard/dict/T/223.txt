@@ -1,0 +1,3 @@
+<word>orbital</word>
+<meaning>relating to an orbit</meaning>
+<example>the satellite's orbital velocity</example>

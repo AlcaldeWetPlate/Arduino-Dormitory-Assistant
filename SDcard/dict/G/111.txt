@@ -1,0 +1,3 @@
+<word>gist</word>
+<meaning>the general or basic meaning of something said or written</meaning>
+<example>get the gist of the presentation</example>

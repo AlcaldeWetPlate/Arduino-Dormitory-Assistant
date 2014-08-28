@@ -1,0 +1,3 @@
+<word>act</word>
+<meaning>something that is done</meaning>
+<example>act in plays</example>

@@ -1,0 +1,3 @@
+<word>headache</word>
+<meaning>an ache or pain in the head</meaning>
+<example>have a bad headache</example>

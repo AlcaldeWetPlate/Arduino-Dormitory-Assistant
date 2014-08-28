@@ -1,0 +1,3 @@
+<word>obstinate</word>
+<meaning>refusing to change your behavior or your ideas</meaning>
+<example>an obstinate boss</example>

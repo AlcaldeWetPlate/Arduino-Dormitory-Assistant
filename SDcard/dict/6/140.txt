@@ -1,0 +1,3 @@
+<word>jug</word>
+<meaning>the amount held by a jug</meaning>
+<example>a jug of milk</example>

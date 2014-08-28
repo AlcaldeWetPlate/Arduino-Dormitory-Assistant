@@ -1,0 +1,3 @@
+<word>hem</word>
+<meaning>the edge of a piece of cloth that is folded back and sewn down</meaning>
+<example>pull down the hem of dress</example>

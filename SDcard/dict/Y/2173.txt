@@ -1,0 +1,3 @@
+<word>mean</word>
+<meaning>not kind to people :cruel or harsh</meaning>
+<example>be mean to the girl</example>

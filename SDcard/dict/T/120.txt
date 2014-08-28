@@ -1,0 +1,3 @@
+<word>expressly</word>
+<meaning>In an express or a definite manner; explicitly</meaning>
+<example>state clearly and expressly</example>

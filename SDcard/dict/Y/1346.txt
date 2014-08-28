@@ -1,0 +1,3 @@
+<word>goat</word>
+<meaning>a small animal that is related to the sheep</meaning>
+<example>a pet goat</example>

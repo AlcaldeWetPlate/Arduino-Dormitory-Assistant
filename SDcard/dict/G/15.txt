@@ -1,0 +1,3 @@
+<word>allay</word>
+<meaning>to make (something) less severe or strong</meaning>
+<example>allay her headache</example>

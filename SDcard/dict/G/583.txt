@@ -1,0 +1,3 @@
+<word>needy</word>
+<meaning>not having enough money, food, etc., to live properly</meaning>
+<example>poor, needy people in Africa</example>

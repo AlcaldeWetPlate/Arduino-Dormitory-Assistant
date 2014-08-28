@@ -1,0 +1,3 @@
+<word>revered</word>
+<meaning>profoundly honored</meaning>
+<example>Jesus was a revered prophet.</example>

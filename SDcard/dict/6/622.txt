@@ -1,0 +1,3 @@
+<word>grave</word>
+<meaning>a hole in the ground for burying a dead body</meaning>
+<example>pay respect at my mother's grave</example>

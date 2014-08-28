@@ -1,0 +1,3 @@
+<word>informed</word>
+<meaning>having information</meaning>
+<example>Reading keeps him informed.</example>

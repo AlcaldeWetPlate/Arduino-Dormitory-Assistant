@@ -1,0 +1,3 @@
+<word>feasible</word>
+<meaning>possible to do</meaning>
+<example>her feasible solution</example>

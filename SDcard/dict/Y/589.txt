@@ -1,0 +1,3 @@
+<word>liquor</word>
+<meaning>an alcoholic drink</meaning>
+<example>pour some liquor</example>

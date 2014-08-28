@@ -1,0 +1,3 @@
+<word>marathon</word>
+<meaning>a running race that is about 26 miles (42 kilometers) long</meaning>
+<example>marathon runners</example>

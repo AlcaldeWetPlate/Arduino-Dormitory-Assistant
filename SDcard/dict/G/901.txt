@@ -1,0 +1,3 @@
+<word>unkempt</word>
+<meaning>not neat or orderly :messy or untidy</meaning>
+<example>unkempt hair</example>

@@ -1,0 +1,3 @@
+<word>deposit</word>
+<meaning>to put (money) in a bank account</meaning>
+<example>deposit her money</example>

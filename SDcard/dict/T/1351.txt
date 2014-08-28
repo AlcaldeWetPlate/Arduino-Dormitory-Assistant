@@ -1,0 +1,3 @@
+<word>cast-iron</word>
+<meaning>not likely to fail or be broken</meaning>
+<example>the cast-iron pot</example>

@@ -1,0 +1,3 @@
+<word>rend</word>
+<meaning>to tear (something) into pieces with force or violence</meaning>
+<example>rend the paper with his hands</example>

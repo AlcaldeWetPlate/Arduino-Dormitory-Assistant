@@ -1,0 +1,3 @@
+<word>dictate</word>
+<meaning>to say or state (something) with authority or power</meaning>
+<example>dictate what the girl eats</example>

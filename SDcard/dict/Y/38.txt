@@ -1,0 +1,3 @@
+<word>ascent</word>
+<meaning>the act or process of rising, moving, or climbing up</meaning>
+<example>ascent of the mountain</example>

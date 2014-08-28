@@ -1,0 +1,3 @@
+<word>premium</word>
+<meaning>of high or higher than normal quality</meaning>
+<example>a premium brand car</example>

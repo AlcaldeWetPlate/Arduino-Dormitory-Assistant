@@ -1,0 +1,3 @@
+<word>momentary</word>
+<meaning>lasting a very short time :lasting only a moment</meaning>
+<example>a momentary explosion of fireworks</example>

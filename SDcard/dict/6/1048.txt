@@ -1,0 +1,3 @@
+<word>prudent</word>
+<meaning>having or showing careful good judgment</meaning>
+<example>be prudent about spending money</example>

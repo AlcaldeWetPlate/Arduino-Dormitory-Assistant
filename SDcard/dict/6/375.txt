@@ -1,0 +1,3 @@
+<word>augment</word>
+<meaning>to increase the size or amount of (something)</meaning>
+<example>augment his arm strength</example>

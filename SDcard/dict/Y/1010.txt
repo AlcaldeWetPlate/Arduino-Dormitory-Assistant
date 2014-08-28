@@ -1,0 +1,3 @@
+<word>regime</word>
+<meaning>a system of management</meaning>
+<example>the ruling regime</example>

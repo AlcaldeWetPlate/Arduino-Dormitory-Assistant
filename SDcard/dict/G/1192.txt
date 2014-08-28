@@ -1,0 +1,3 @@
+<word>stolid</word>
+<meaning>showing little or no emotion :not easily excited or upset</meaning>
+<example>a stolid couple on the couch</example>

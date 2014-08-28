@@ -1,0 +1,3 @@
+<word>foil</word>
+<meaning>a very thin and light sheet of metal</meaning>
+<example>The food is wrapped in foil.</example>

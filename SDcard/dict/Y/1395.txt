@@ -1,0 +1,3 @@
+<word>appear</word>
+<meaning>to become visible :to begin to be seen</meaning>
+<example>briefly appears over the water</example>

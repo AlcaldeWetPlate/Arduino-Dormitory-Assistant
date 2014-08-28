@@ -1,0 +1,3 @@
+<word>terrorist</word>
+<meaning>a person who uses or supports the use of terrorism</meaning>
+<example>terrorist holding a rifle</example>

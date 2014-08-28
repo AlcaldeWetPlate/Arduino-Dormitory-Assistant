@@ -1,0 +1,3 @@
+<word>peck</word>
+<meaning>to strike sharply at something with the beak</meaning>
+<example>The birds peck at food.</example>

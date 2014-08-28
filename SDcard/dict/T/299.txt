@@ -1,0 +1,3 @@
+<word>slothful</word>
+<meaning>disinclined to work or exertion</meaning>
+<example>a slothful, sleepy man</example>

@@ -1,0 +1,3 @@
+<word>pertinent</word>
+<meaning>relating to the thing that is being thought about or discussed</meaning>
+<example>pertinent, relevant criteria</example>

@@ -1,0 +1,3 @@
+<word>snore</word>
+<meaning>to breathe noisily while sleeping</meaning>
+<example>snore while sleeping</example>

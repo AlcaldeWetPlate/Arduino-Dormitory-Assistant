@@ -1,0 +1,3 @@
+<word>military</word>
+<meaning>members of the armed forces :military people</meaning>
+<example>soldiers in the military</example>

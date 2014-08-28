@@ -1,0 +1,3 @@
+<word>obligated</word>
+<meaning>caused by law or conscience to follow a certain course</meaning>
+<example>be obligated to pay taxes</example>

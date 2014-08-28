@@ -1,0 +1,3 @@
+<word>wring</word>
+<meaning>to twist and squeeze (wet cloth, hair, etc.) to remove water</meaning>
+<example>wring out the cloth</example>

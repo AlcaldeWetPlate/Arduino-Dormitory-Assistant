@@ -1,0 +1,3 @@
+<word>virgin</word>
+<meaning>never having had sexual intercourse</meaning>
+<example>An unmarried virgin is praying.</example>

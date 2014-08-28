@@ -1,0 +1,3 @@
+<word>shipshape</word>
+<meaning>clean, neat, and tidy :organized and in good condition</meaning>
+<example>organized, clean, and shipshape</example>

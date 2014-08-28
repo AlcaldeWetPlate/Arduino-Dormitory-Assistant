@@ -1,0 +1,3 @@
+<word>answer</word>
+<meaning>something you say or write when someone asks you a question</meaning>
+<example>know the answer</example>

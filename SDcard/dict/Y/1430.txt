@@ -1,0 +1,3 @@
+<word>female</word>
+<meaning>a woman or a girl :a female person</meaning>
+<example>a female worker</example>

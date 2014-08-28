@@ -1,0 +1,3 @@
+<word>drill</word>
+<meaning>to make a hole in something with a drill</meaning>
+<example>drill a hole</example>

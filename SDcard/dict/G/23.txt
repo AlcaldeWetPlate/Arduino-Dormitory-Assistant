@@ -1,0 +1,3 @@
+<word>archaic</word>
+<meaning>old and no longer used</meaning>
+<example>an archaic radio</example>

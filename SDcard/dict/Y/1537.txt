@@ -1,0 +1,3 @@
+<word>flavor</word>
+<meaning>a particular type of taste</meaning>
+<example>many ice cream flavors</example>

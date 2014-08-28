@@ -1,0 +1,3 @@
+<word>await</word>
+<meaning>to wait for (someone or something)</meaning>
+<example>await their turn</example>

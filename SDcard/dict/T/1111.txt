@@ -1,0 +1,3 @@
+<word>scare</word>
+<meaning>to cause (someone) to become afraid</meaning>
+<example>The ghost scares me!</example>

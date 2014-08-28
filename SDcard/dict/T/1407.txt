@@ -1,0 +1,3 @@
+<word>frugality</word>
+<meaning>prudence in avoiding waste</meaning>
+<example>Frugality is about not spending money.</example>

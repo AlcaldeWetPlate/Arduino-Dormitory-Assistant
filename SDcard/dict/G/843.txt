@@ -1,0 +1,3 @@
+<word>wily</word>
+<meaning>full of clever tricks :very clever</meaning>
+<example>Monkeys are wily and clever!</example>

@@ -1,0 +1,3 @@
+<word>merited</word>
+<meaning>properly deserved</meaning>
+<example>deserve the merited award</example>

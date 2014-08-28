@@ -1,0 +1,3 @@
+<word>sneak</word>
+<meaning>to move quietly and secretly in order to avoid being noticed</meaning>
+<example>sneak around listening to people</example>

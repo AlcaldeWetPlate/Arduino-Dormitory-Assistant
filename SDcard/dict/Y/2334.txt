@@ -1,0 +1,3 @@
+<word>key</word>
+<meaning>a device that is used to open a lock or start an automobile</meaning>
+<example>turn the key</example>

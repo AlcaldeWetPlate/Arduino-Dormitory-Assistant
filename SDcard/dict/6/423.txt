@@ -1,0 +1,3 @@
+<word>optimum</word>
+<meaning>best or most effective</meaning>
+<example>at the optimum speed</example>

@@ -1,0 +1,3 @@
+<word>copious</word>
+<meaning>very large in amount or number</meaning>
+<example>a copious amount of paperwork</example>

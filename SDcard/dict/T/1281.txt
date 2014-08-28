@@ -1,0 +1,3 @@
+<word>wither</word>
+<meaning>to become dry and weak</meaning>
+<example>The tree withers.</example>

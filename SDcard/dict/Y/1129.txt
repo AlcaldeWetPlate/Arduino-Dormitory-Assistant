@@ -1,0 +1,3 @@
+<word>dying</word>
+<meaning>happening as someone dies :relating to someone's death</meaning>
+<example>dying flowers in a pot</example>

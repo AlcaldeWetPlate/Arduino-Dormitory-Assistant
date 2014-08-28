@@ -1,0 +1,3 @@
+<word>fearful</word>
+<meaning>feeling fear</meaning>
+<example>fearful of sleeping</example>

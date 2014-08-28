@@ -1,0 +1,3 @@
+<word>entry</word>
+<meaning>the act of entering something</meaning>
+<example>entry to the room</example>

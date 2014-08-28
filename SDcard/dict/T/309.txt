@@ -1,0 +1,3 @@
+<word>rekindle</word>
+<meaning>kindle anew, as of a fire</meaning>
+<example>rekindle the fire</example>

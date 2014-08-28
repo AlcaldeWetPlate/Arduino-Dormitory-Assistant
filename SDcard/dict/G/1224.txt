@@ -1,0 +1,3 @@
+<word>diocesan</word>
+<meaning>belonging or relating to a diocese.</meaning>
+<example>a diocesan church</example>

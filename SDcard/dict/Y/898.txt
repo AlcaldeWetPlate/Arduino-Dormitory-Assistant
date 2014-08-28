@@ -1,0 +1,3 @@
+<word>trim</word>
+<meaning>an act of trimming something (such as hair)</meaning>
+<example>trim her hair</example>

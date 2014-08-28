@@ -1,0 +1,3 @@
+<word>soda</word>
+<meaning>a drink made of soda water, flavoring, and often ice cream</meaning>
+<example>a glass of cold soda</example>

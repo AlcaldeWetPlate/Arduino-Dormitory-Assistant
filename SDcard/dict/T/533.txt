@@ -1,0 +1,3 @@
+<word>dreary</word>
+<meaning>causing unhappiness or sad feelings :not warm, cheerful, etc.</meaning>
+<example>a dreary day</example>

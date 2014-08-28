@@ -1,0 +1,3 @@
+<word>largely</word>
+<meaning>not completely but mostly</meaning>
+<example>be largely made up of yellow flowers</example>

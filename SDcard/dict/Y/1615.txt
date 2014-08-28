@@ -1,0 +1,3 @@
+<word>normal</word>
+<meaning>mentally and physically healthy</meaning>
+<example>a normal heart beat</example>

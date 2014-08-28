@@ -1,0 +1,3 @@
+<word>actuate</word>
+<meaning>to make (a machine or electrical device) move or operate</meaning>
+<example>actuate the machine</example>

@@ -1,0 +1,3 @@
+<word>regard</word>
+<meaning>a feeling of respect and admiration for someone or something</meaning>
+<example>show regard for the teacher</example>

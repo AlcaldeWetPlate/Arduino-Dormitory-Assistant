@@ -1,0 +1,3 @@
+<word>rhythm</word>
+<meaning>a regular, repeated pattern of sounds or movements</meaning>
+<example>the song's rhythm</example>

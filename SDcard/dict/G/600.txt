@@ -1,0 +1,3 @@
+<word>protract</word>
+<meaning>to lengthen or extend</meaning>
+<example>protract the rubberband</example>

@@ -1,0 +1,3 @@
+<word>invalid</word>
+<meaning>not valid</meaning>
+<example>an invalid math equation</example>

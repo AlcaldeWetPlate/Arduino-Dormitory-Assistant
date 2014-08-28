@@ -1,0 +1,3 @@
+<word>secluded</word>
+<meaning>hidden from view :private and not used or seen by many people</meaning>
+<example>a secluded beach</example>

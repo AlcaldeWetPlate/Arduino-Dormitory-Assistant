@@ -1,0 +1,3 @@
+<word>sprawl</word>
+<meaning>to lie or sit with your arms and legs spread wide apart</meaning>
+<example>A cat sprawls across the floor.</example>

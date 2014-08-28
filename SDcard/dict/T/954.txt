@@ -1,0 +1,3 @@
+<word>debatable</word>
+<meaning>used to say that something may or may not be true or real</meaning>
+<example>a debatable issue</example>

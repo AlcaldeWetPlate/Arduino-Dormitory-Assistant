@@ -1,0 +1,3 @@
+<word>expansive</word>
+<meaning>growing quickly or steadily :marked by expansion</meaning>
+<example>an expansive city</example>

@@ -1,0 +1,3 @@
+<word>belie</word>
+<meaning>to show (something) to be false or wrong</meaning>
+<example>Her talent belied her age.</example>

@@ -1,0 +1,3 @@
+<word>hideous</word>
+<meaning>very ugly or disgusting</meaning>
+<example>a hideous face</example>

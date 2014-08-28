@@ -1,0 +1,3 @@
+<word>ox</word>
+<meaning>a cow or bull</meaning>
+<example>a strong, large ox</example>

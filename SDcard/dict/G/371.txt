@@ -1,0 +1,3 @@
+<word>discern</word>
+<meaning>to see, hear, or notice (something) with difficulty or effort</meaning>
+<example>discern a good campsite</example>

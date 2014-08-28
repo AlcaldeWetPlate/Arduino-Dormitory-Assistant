@@ -1,0 +1,3 @@
+<word>go broke</word>
+<meaning>go bankrupt</meaning>
+<example>go broke with no money</example>

@@ -1,0 +1,3 @@
+<word>fingertip</word>
+<meaning>the very end of a finger</meaning>
+<example>blood from her fingertip</example>

@@ -1,0 +1,3 @@
+<word>insanity</word>
+<meaning>severe mental illness :the condition of being insane</meaning>
+<example>the insanity in her crazy eyes</example>

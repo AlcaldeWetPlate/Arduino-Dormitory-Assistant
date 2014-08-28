@@ -1,0 +1,3 @@
+<word>portfolio</word>
+<meaning>a flat case for carrying documents or drawings</meaning>
+<example>hold black portfolio</example>

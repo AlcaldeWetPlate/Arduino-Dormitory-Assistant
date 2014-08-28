@@ -1,0 +1,3 @@
+<word>speed</word>
+<meaning>the rate at which someone or something moves or travels</meaning>
+<example>a high speed</example>

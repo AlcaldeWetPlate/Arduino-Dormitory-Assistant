@@ -1,0 +1,3 @@
+<word>mushroom</word>
+<meaning>a fungus that is shaped like an umbrella</meaning>
+<example>three delicious mushrooms</example>

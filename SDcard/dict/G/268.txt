@@ -1,0 +1,3 @@
+<word>ironclad</word>
+<meaning>not able to be changed</meaning>
+<example>strong ironclad wall</example>

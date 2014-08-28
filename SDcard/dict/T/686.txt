@@ -1,0 +1,3 @@
+<word>drudgery</word>
+<meaning>boring, difficult, or unpleasant work</meaning>
+<example>drudgery at work</example>

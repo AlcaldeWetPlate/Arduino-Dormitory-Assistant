@@ -1,0 +1,3 @@
+<word>misery</word>
+<meaning>extreme suffering or unhappiness</meaning>
+<example>she crouches in misery</example>

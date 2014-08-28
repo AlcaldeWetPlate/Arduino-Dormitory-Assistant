@@ -1,0 +1,3 @@
+<word>unhappy</word>
+<meaning>sad, depressed, or disappointed :not happy</meaning>
+<example>an unhappy worker</example>

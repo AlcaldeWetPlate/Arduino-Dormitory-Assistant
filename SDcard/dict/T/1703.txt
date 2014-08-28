@@ -1,0 +1,3 @@
+<word>ability</word>
+<meaning>the power or skill to do something</meaning>
+<example>the ability to ride a unicycle</example>

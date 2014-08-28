@@ -1,0 +1,3 @@
+<word>flyspeck</word>
+<meaning>a very small piece of waste matter from a fly</meaning>
+<example>little flyspecks on the ladybug</example>

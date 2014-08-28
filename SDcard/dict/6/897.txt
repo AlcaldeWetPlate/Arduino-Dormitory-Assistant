@@ -1,0 +1,3 @@
+<word>torque</word>
+<meaning>a force that causes something to rotate</meaning>
+<example>engine's torque</example>

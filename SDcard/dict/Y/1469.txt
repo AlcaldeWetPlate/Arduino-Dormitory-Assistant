@@ -1,0 +1,3 @@
+<word>gay</word>
+<meaning>sexually attracted to someone who is the same sex</meaning>
+<example>The gay men hug each other.</example>

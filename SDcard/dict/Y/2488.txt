@@ -1,0 +1,3 @@
+<word>wet</word>
+<meaning>covered or soaked with water or another liquid :not dry</meaning>
+<example>the wet floor</example>

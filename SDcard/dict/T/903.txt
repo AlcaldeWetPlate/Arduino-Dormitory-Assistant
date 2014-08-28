@@ -1,0 +1,3 @@
+<word>handful</word>
+<meaning>a small amount or number</meaning>
+<example>a handful of blueberries</example>

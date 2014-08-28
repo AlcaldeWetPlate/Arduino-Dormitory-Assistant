@@ -1,0 +1,3 @@
+<word>dolorous</word>
+<meaning>showing sorrow</meaning>
+<example>sad and dolorous mood</example>

@@ -1,0 +1,3 @@
+<word>still</word>
+<meaning>not moving</meaning>
+<example>The still baby is asleep.</example>

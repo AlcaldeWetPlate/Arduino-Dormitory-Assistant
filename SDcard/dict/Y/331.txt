@@ -1,0 +1,3 @@
+<word>source</word>
+<meaning>someone or something that provides what is wanted or needed</meaning>
+<example>the source of milk</example>

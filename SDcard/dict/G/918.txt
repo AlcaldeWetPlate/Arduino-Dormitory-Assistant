@@ -1,0 +1,3 @@
+<word>motley</word>
+<meaning>made up of many different people or things</meaning>
+<example>a motley group of balloons</example>

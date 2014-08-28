@@ -1,0 +1,3 @@
+<word>funding</word>
+<meaning>financial resources provided to make some project possible</meaning>
+<example>receive funding to go travelling</example>

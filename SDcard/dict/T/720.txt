@@ -1,0 +1,3 @@
+<word>reject</word>
+<meaning>to refuse to love, care for, or give attention to (someone)</meaning>
+<example>reject the sandwich</example>

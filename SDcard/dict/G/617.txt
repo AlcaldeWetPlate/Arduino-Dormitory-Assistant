@@ -1,0 +1,3 @@
+<word>frigid</word>
+<meaning>very cold</meaning>
+<example>the frigid temperatures</example>

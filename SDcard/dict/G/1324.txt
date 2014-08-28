@@ -1,0 +1,3 @@
+<word>hie</word>
+<meaning>step on it</meaning>
+<example>Hie, ho, run quickly!</example>

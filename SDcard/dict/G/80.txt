@@ -1,0 +1,3 @@
+<word>disprove</word>
+<meaning>to show that (something) is false or wrong</meaning>
+<example>disprove the mathematical theory</example>

@@ -1,0 +1,3 @@
+<word>resultant</word>
+<meaning>coming from or caused by something else</meaning>
+<example>the resultant car crash</example>

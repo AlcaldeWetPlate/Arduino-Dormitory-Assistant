@@ -1,0 +1,3 @@
+<word>maid</word>
+<meaning>a female servant</meaning>
+<example>The maid cleans the windows.</example>

@@ -1,0 +1,3 @@
+<word>somewhat</word>
+<meaning>in a small amount or degree :to some degree</meaning>
+<example>feel somewhat lost</example>

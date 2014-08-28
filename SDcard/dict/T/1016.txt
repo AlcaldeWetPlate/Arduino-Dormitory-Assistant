@@ -1,0 +1,3 @@
+<word>immobile</word>
+<meaning>unable to move</meaning>
+<example>Keep your wrist immobile.</example>

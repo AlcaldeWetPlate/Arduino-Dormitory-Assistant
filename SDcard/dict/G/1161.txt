@@ -1,0 +1,3 @@
+<word>poach</word>
+<meaning>cook in a simmering liquid</meaning>
+<example>poach an egg</example>

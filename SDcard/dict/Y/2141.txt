@@ -1,0 +1,3 @@
+<word>perform</word>
+<meaning>to entertain an audience by singing, acting, etc.</meaning>
+<example>The singer performs.</example>

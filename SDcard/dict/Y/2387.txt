@@ -1,0 +1,3 @@
+<word>retell</word>
+<meaning>to tell (a story) again especially in a different way</meaning>
+<example>retell some folk tales</example>

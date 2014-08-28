@@ -1,0 +1,3 @@
+<word>euphoria</word>
+<meaning>a feeling of great happiness and excitement</meaning>
+<example>feel euphoria after winning</example>

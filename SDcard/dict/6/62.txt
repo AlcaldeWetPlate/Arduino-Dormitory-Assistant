@@ -1,0 +1,3 @@
+<word>courtesy</word>
+<meaning>polite behavior that shows respect for other people</meaning>
+<example>courtesy to the elderly</example>

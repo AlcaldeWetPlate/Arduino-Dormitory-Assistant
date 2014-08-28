@@ -1,0 +1,3 @@
+<word>usher in</word>
+<meaning>be a precursor of</meaning>
+<example>That boy will usher you in.</example>

@@ -1,0 +1,3 @@
+<word>sloping</word>
+<meaning>having an oblique or slanted direction</meaning>
+<example>a sloping wall with windows</example>

@@ -1,0 +1,3 @@
+<word>catalyze</word>
+<meaning>change by catalysis or cause to catalyze</meaning>
+<example>catalyze the chemical reaction</example>

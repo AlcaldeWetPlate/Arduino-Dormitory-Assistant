@@ -1,0 +1,3 @@
+<word>endorse</word>
+<meaning>to write your name on the back of (a check)</meaning>
+<example>endorse the cheque with your signature</example>

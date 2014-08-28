@@ -1,0 +1,3 @@
+<word>pulp</word>
+<meaning>the inner, juicy part of a fruit or vegetable</meaning>
+<example>the fruit's pulp</example>

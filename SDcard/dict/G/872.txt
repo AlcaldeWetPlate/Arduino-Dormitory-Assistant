@@ -1,0 +1,3 @@
+<word>hoard</word>
+<meaning>to collect and hide a large amount of (something valuable)</meaning>
+<example>hoard materials</example>

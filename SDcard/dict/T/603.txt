@@ -1,0 +1,3 @@
+<word>consumer</word>
+<meaning>a person who buys goods and services</meaning>
+<example>a consumer making a decision</example>

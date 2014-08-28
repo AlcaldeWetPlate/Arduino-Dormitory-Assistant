@@ -1,0 +1,3 @@
+<word>assistant</word>
+<meaning>a person whose job is to help another person to do work</meaning>
+<example>the boss's personal assistant</example>

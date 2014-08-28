@@ -1,0 +1,3 @@
+<word>trickle</word>
+<meaning>to flow or fall in drops</meaning>
+<example>trickle out of the faucet</example>

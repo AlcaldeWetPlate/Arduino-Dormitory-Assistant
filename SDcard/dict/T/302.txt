@@ -1,0 +1,3 @@
+<word>girder</word>
+<meaning>a strong beam used to build buildings, bridges, etc.</meaning>
+<example>the long metal girders</example>

@@ -1,0 +1,3 @@
+<word>cacophony</word>
+<meaning>unpleasant loud sounds</meaning>
+<example>The cacophony hurts my ears!</example>

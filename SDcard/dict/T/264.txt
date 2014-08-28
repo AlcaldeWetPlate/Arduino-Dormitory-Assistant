@@ -1,0 +1,3 @@
+<word>supple</word>
+<meaning>able to bend or twist easily</meaning>
+<example>the supple body</example>

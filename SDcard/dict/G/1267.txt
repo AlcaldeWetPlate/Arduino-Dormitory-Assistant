@@ -1,0 +1,3 @@
+<word>truculent</word>
+<meaning>easily annoyed or angered and likely to argue</meaning>
+<example>a truculent boy fighting another boy</example>

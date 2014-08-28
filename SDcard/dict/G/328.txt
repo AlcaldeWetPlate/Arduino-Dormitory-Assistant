@@ -1,0 +1,3 @@
+<word>suffuse</word>
+<meaning>to spread over or fill (something)</meaning>
+<example>suffuse the sky with color</example>

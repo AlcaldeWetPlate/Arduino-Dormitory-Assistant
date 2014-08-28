@@ -1,0 +1,3 @@
+<word>onerous</word>
+<meaning>difficult and unpleasant to do or deal with</meaning>
+<example>a heavy and onerous package</example>

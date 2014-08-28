@@ -1,0 +1,3 @@
+<word>graceful</word>
+<meaning>having a smooth and pleasing shape or style</meaning>
+<example>the graceful swans</example>

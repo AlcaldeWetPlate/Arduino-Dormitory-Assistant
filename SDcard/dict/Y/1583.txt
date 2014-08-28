@@ -1,0 +1,3 @@
+<word>worldwide</word>
+<meaning>happening or existing in all parts of the world</meaning>
+<example>a worldwide company</example>

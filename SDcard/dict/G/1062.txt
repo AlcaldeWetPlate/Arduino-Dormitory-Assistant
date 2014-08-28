@@ -1,0 +1,3 @@
+<word>rickety</word>
+<meaning>not strong or stable and likely to break</meaning>
+<example>rickety old bridge</example>

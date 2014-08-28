@@ -1,0 +1,3 @@
+<word>intrude</word>
+<meaning>to become involved with something private in an annoying way</meaning>
+<example>open the door and intrude on his friend</example>

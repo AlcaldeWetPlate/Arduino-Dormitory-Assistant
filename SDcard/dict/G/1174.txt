@@ -1,0 +1,3 @@
+<word>mercurial</word>
+<meaning>changing moods quickly and often</meaning>
+<example>a strange, mercurial woman</example>

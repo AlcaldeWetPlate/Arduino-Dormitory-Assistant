@@ -1,0 +1,3 @@
+<word>dubious</word>
+<meaning>unsure or uncertain :feeling doubt about something</meaning>
+<example>a man with dubious feelings</example>

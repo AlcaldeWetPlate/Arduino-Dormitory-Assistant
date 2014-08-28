@@ -1,0 +1,3 @@
+<word>malaise</word>
+<meaning>a slight or general feeling of not being healthy or happy</meaning>
+<example>feel sick and suffer from malaise</example>

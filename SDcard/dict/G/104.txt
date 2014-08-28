@@ -1,0 +1,3 @@
+<word>fickle</word>
+<meaning>changing opinions often</meaning>
+<example>a fickle woman can't decide</example>

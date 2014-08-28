@@ -1,0 +1,3 @@
+<word>revolve</word>
+<meaning>to turn around a center point or line</meaning>
+<example>The Earth revolves around the sun.</example>

@@ -1,0 +1,3 @@
+<word>opposing</word>
+<meaning>opposite in direction or position</meaning>
+<example>The opposing forces fight each other.</example>

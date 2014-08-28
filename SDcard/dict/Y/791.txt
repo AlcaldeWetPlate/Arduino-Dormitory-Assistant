@@ -1,0 +1,3 @@
+<word>badly</word>
+<meaning>severely or seriously</meaning>
+<example>a badly damaged town</example>

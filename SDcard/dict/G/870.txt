@@ -1,0 +1,3 @@
+<word>rectitude</word>
+<meaning>the quality of being honest and morally correct</meaning>
+<example>a judge's rectitude</example>

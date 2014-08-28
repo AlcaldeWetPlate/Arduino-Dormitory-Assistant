@@ -1,0 +1,3 @@
+<word>stately</word>
+<meaning>very impressive in appearance, manner, or size</meaning>
+<example>a stately English building</example>

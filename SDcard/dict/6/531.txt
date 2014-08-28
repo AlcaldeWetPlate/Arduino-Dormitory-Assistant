@@ -1,0 +1,3 @@
+<word>plea</word>
+<meaning>a serious and emotional request for something</meaning>
+<example>a plea to stop practicing</example>

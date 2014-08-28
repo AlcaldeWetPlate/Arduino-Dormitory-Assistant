@@ -1,0 +1,3 @@
+<word>contrived</word>
+<meaning>having an unnatural or false appearance or quality</meaning>
+<example>a contrived wedding photo</example>

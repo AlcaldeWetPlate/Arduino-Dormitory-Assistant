@@ -1,0 +1,3 @@
+<word>despatch</word>
+<meaning>send away towards a designated goal</meaning>
+<example>despatch the box</example>

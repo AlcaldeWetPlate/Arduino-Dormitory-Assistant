@@ -1,0 +1,3 @@
+<word>loyalty</word>
+<meaning>the quality or state of being loyal</meaning>
+<example>a dog's loyalty</example>

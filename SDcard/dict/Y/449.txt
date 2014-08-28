@@ -1,0 +1,3 @@
+<word>splendid</word>
+<meaning>very impressive and beautiful</meaning>
+<example>a splendid tail</example>

@@ -1,0 +1,3 @@
+<word>mythical</word>
+<meaning>based on or described in a myth</meaning>
+<example>mythical stories of mermaids</example>

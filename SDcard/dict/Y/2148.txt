@@ -1,0 +1,3 @@
+<word>pure</word>
+<meaning>clean and not harmful in any way</meaning>
+<example>pure water</example>

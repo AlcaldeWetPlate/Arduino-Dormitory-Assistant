@@ -1,0 +1,3 @@
+<word>high</word>
+<meaning>located far above the ground or another surface</meaning>
+<example>fly high into the sky</example>

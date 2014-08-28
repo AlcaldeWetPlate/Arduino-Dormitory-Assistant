@@ -1,0 +1,3 @@
+<word>groan</word>
+<meaning>to complain about something</meaning>
+<example>groan with frustration</example>

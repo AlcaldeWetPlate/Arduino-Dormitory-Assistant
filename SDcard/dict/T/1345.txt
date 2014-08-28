@@ -1,0 +1,3 @@
+<word>larynx</word>
+<meaning>the part of your throat that contains the vocal cords</meaning>
+<example>the larynx in the throat</example>

@@ -1,0 +1,3 @@
+<word>jaunty</word>
+<meaning>lively in manner or appearance</meaning>
+<example>wears her hat at a jaunty angle</example>

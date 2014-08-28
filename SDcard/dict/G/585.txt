@@ -1,0 +1,3 @@
+<word>nocturnal</word>
+<meaning>active mainly during the night</meaning>
+<example>Bats are nocturnal animals.</example>

@@ -1,0 +1,3 @@
+<word>waxy</word>
+<meaning>seeming to be made of or covered in wax</meaning>
+<example>candles made of waxy material</example>

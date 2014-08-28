@@ -1,0 +1,3 @@
+<word>absence</word>
+<meaning>a failure to be present at a usual or expected place</meaning>
+<example>the absence of people</example>

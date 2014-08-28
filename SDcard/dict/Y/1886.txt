@@ -1,0 +1,3 @@
+<word>partially</word>
+<meaning>somewhat but not completely :to some extent or in some degree</meaning>
+<example>partially naked men</example>

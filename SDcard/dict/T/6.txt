@@ -1,0 +1,3 @@
+<word>activate</word>
+<meaning>to cause (a device) to start working</meaning>
+<example>activate the machine and turn it on</example>

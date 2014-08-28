@@ -1,0 +1,3 @@
+<word>fatality</word>
+<meaning>a death that results from a disaster, accident, etc.</meaning>
+<example>fatalities from the car crash</example>

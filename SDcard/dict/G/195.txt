@@ -1,0 +1,3 @@
+<word>sanctify</word>
+<meaning>to make (something) holy</meaning>
+<example>sanctify the marriage in church</example>

@@ -1,0 +1,3 @@
+<word>advert</word>
+<meaning>make a more disguised reference to</meaning>
+<example>a blank white advert</example>

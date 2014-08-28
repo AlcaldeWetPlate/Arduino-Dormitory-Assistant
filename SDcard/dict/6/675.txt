@@ -1,0 +1,3 @@
+<word>heave</word>
+<meaning>to lift or pull (something) with effort</meaning>
+<example>heave up the green ball</example>

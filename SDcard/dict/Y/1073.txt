@@ -1,0 +1,3 @@
+<word>bark</word>
+<meaning>the short, loud sound made by a dog</meaning>
+<example>The dog barks.</example>

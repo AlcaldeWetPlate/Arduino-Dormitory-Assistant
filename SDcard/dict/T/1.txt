@@ -1,0 +1,3 @@
+<word>abandoned</word>
+<meaning>left without needed protection or care</meaning>
+<example>an abandoned building</example>

@@ -1,0 +1,3 @@
+<word>seaweed</word>
+<meaning>a type of plant that grows in the sea</meaning>
+<example>seaweed under water</example>

@@ -1,0 +1,3 @@
+<word>elixir</word>
+<meaning>a magical liquid that can cure illness or extend life</meaning>
+<example>the  magic elixir</example>

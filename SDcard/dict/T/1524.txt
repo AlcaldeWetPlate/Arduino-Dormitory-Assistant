@@ -1,0 +1,3 @@
+<word>acquaint</word>
+<meaning>to cause (someone) to know and become familiar</meaning>
+<example>acquaint themselves with each other</example>

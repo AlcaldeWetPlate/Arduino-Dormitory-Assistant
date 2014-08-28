@@ -1,0 +1,3 @@
+<word>proceed</word>
+<meaning>to go or move in a particular direction</meaning>
+<example>proceed forward when green</example>

@@ -1,0 +1,3 @@
+<word>tacit</word>
+<meaning>expressed or understood without being directly stated</meaning>
+<example>tacit, silent disapproval</example>

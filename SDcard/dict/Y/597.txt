@@ -1,0 +1,3 @@
+<word>blank</word>
+<meaning>without any writing, marks, or pictures</meaning>
+<example>a blank notepad</example>

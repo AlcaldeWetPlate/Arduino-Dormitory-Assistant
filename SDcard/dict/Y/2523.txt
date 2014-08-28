@@ -1,0 +1,3 @@
+<word>sideline</word>
+<meaning>a line that marks the outside edge of a sports field or court</meaning>
+<example>White paint marks the sideline.</example>

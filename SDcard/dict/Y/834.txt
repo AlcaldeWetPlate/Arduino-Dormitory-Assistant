@@ -1,0 +1,3 @@
+<word>banker</word>
+<meaning>a person who owns a bank or who has an important job in a bank</meaning>
+<example>Bankers control money.</example>

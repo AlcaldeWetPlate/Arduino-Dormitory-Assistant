@@ -1,0 +1,3 @@
+<word>augur</word>
+<meaning>to show or suggest something that might happen in the future</meaning>
+<example>see sth. that augurs well for the future</example>

@@ -1,0 +1,3 @@
+<word>blunt</word>
+<meaning>having a thick edge or point :not sharp</meaning>
+<example>blunt weapons</example>

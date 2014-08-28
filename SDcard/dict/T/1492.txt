@@ -1,0 +1,3 @@
+<word>overcast</word>
+<meaning>covered with clouds</meaning>
+<example>overcast sky</example>

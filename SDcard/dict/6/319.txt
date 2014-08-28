@@ -1,0 +1,3 @@
+<word>segment</word>
+<meaning>one of the parts into which something can be divided</meaning>
+<example>a segment of the population</example>

@@ -1,0 +1,3 @@
+<word>take</word>
+<meaning>to carry or move (something) to a place</meaning>
+<example>take the files</example>

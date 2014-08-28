@@ -1,0 +1,3 @@
+<word>rampant</word>
+<meaning>growing quickly and in a way that is difficult to control</meaning>
+<example>Mice are rampant here.</example>

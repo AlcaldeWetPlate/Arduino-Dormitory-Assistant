@@ -1,0 +1,3 @@
+<word>sustained</word>
+<meaning>maintained at length without interruption or weakening</meaning>
+<example>a sustained effort</example>

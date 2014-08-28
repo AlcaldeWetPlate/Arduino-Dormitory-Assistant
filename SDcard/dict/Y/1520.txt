@@ -1,0 +1,3 @@
+<word>reality</word>
+<meaning>the true situation that exists :the real situation</meaning>
+<example>a shadow of reality</example>

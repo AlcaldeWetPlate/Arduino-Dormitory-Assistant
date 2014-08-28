@@ -1,0 +1,3 @@
+<word>sulphur</word>
+<meaning>a yellow chemical which has a strong smell.</meaning>
+<example>yellow, smelly sulphur</example>

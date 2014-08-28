@@ -1,0 +1,3 @@
+<word>sack</word>
+<meaning>the amount that is contained in a sack</meaning>
+<example>the sack of rice</example>

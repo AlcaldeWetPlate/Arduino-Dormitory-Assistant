@@ -1,0 +1,3 @@
+<word>fender</word>
+<meaning>a part of a vehicle that covers a wheel</meaning>
+<example>the truck's fender</example>

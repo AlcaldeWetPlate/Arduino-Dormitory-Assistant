@@ -1,0 +1,3 @@
+<word>middle</word>
+<meaning>in a state or place between two things or people</meaning>
+<example>The older sister is in the middle.</example>

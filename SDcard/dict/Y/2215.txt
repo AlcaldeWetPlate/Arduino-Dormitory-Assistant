@@ -1,0 +1,3 @@
+<word>light</word>
+<meaning>to provide light for (something)</meaning>
+<example>light up the sky</example>

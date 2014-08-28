@@ -1,0 +1,3 @@
+<word>drastic</word>
+<meaning>extreme in effect or action :severe or serious</meaning>
+<example>drastic weather changes</example>

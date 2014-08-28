@@ -1,0 +1,3 @@
+<word>jaw</word>
+<meaning>either one of the two bones of the face where teeth grow</meaning>
+<example>upper and lower jaw</example>

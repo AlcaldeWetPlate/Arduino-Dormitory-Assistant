@@ -1,0 +1,3 @@
+<word>potent</word>
+<meaning>very effective or strong</meaning>
+<example>a potent arm</example>

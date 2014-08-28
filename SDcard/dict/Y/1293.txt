@@ -1,0 +1,3 @@
+<word>crop</word>
+<meaning>a plant or plant product that is grown by farmers</meaning>
+<example>the wheat crop</example>

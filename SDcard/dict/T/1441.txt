@@ -1,0 +1,3 @@
+<word>soy</word>
+<meaning>soybeans and the food products that are made from soybeans</meaning>
+<example>eat a soy bean</example>

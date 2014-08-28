@@ -1,0 +1,3 @@
+<word>arable</word>
+<meaning>suitable for farming :able to produce crops</meaning>
+<example>arable soil</example>

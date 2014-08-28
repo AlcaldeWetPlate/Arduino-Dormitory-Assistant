@@ -1,0 +1,3 @@
+<word>delusion</word>
+<meaning>a belief that is not true :a false idea</meaning>
+<example>scary delusions</example>

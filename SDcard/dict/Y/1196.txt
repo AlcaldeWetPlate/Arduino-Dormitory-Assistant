@@ -1,0 +1,3 @@
+<word>dig</word>
+<meaning>to move soil, sand, snow, etc., in order to create a hole</meaning>
+<example>dig a hole</example>

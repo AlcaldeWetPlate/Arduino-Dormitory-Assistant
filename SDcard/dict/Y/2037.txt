@@ -1,0 +1,3 @@
+<word>typist</word>
+<meaning>a person who uses a typewriter or a computer keyboard</meaning>
+<example>a typist writing a letter</example>

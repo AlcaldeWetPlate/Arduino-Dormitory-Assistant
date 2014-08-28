@@ -1,0 +1,3 @@
+<word>igneous</word>
+<meaning>formed when hot, liquid rock cools and becomes hard</meaning>
+<example>igneous rock</example>

@@ -1,0 +1,3 @@
+<word>incapable</word>
+<meaning>not able to do something :not capable</meaning>
+<example>be incapable of doing his job</example>

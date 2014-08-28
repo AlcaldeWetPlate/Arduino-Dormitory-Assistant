@@ -1,0 +1,3 @@
+<word>garment</word>
+<meaning>a piece of clothing</meaning>
+<example>a garment rack</example>

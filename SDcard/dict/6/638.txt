@@ -1,0 +1,3 @@
+<word>hostile</word>
+<meaning>not friendly :having or showing unfriendly feelings</meaning>
+<example>a hostile, angry man</example>

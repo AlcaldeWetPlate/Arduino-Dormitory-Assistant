@@ -1,0 +1,3 @@
+<word>raze</word>
+<meaning>to destroy (something, such as a building) completely</meaning>
+<example>raze to the ground</example>

@@ -1,0 +1,3 @@
+<word>amazement</word>
+<meaning>a feeling of being very surprised or amazed</meaning>
+<example>her look of amazement</example>

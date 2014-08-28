@@ -1,0 +1,3 @@
+<word>husband</word>
+<meaning>a married man :the man someone is married to</meaning>
+<example>a handsome husband</example>

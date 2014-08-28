@@ -1,0 +1,3 @@
+<word>mollify</word>
+<meaning>to make (someone) less angry :to calm (someone) down</meaning>
+<example>mollify a crying baby</example>

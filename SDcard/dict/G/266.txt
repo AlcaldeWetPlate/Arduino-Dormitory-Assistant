@@ -1,0 +1,3 @@
+<word>gambol</word>
+<meaning>to run or jump in a lively way</meaning>
+<example>gambol about at the beach</example>

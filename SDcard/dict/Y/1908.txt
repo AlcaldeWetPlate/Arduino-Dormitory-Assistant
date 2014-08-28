@@ -1,0 +1,3 @@
+<word>jerk</word>
+<meaning>to push, pull, or twist (something) with a quick movement</meaning>
+<example>She jerks on his necktie.</example>

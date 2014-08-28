@@ -1,0 +1,3 @@
+<word>rage</word>
+<meaning>a strong feeling of anger that is difficult to control</meaning>
+<example>her intense rage</example>

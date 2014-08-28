@@ -1,0 +1,3 @@
+<word>bracelet</word>
+<meaning>a piece of jewelry worn on the wrist</meaning>
+<example>a bracelet around her wrist</example>

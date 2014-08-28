@@ -1,0 +1,3 @@
+<word>coeval</word>
+<meaning>of the same period</meaning>
+<example>a group of coeval friends at school</example>

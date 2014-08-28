@@ -1,0 +1,3 @@
+<word>pliable</word>
+<meaning>able to bend, fold, or twist easily</meaning>
+<example>her pliable body</example>

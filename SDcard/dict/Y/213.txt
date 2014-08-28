@@ -1,0 +1,3 @@
+<word>imaginary</word>
+<meaning>not real :existing only in your mind or imagination</meaning>
+<example>an imaginary fantasy world</example>

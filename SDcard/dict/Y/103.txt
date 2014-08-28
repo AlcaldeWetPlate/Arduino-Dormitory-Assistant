@@ -1,0 +1,3 @@
+<word>composure</word>
+<meaning>calmness especially of mind, manner, or appearance</meaning>
+<example>keeps his composure on the tightrope</example>

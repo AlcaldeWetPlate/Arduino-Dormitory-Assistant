@@ -1,0 +1,3 @@
+<word>stealthy</word>
+<meaning>quiet and secret in order to avoid being noticed</meaning>
+<example>a stealthy thief</example>

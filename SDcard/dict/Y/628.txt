@@ -1,0 +1,3 @@
+<word>eminent</word>
+<meaning>successful, well-known and respected</meaning>
+<example>an eminent authority</example>

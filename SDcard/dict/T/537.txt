@@ -1,0 +1,3 @@
+<word>stagnant</word>
+<meaning>not flowing</meaning>
+<example>the stagnant water</example>

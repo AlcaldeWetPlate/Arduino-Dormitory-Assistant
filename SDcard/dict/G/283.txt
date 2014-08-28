@@ -1,0 +1,3 @@
+<word>carouse</word>
+<meaning>to drink alcohol, make noise, and have fun with other people</meaning>
+<example>carouse around town and drink wine</example>

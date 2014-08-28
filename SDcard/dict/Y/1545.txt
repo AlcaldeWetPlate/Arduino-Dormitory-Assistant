@@ -1,0 +1,3 @@
+<word>victor</word>
+<meaning>a person who defeats an enemy or opponent</meaning>
+<example>the victor gets the prize</example>

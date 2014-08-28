@@ -1,0 +1,3 @@
+<word>entreat</word>
+<meaning>to ask (someone) in a serious and emotional way</meaning>
+<example>entreat her to marry him</example>

@@ -1,0 +1,3 @@
+<word>insane</word>
+<meaning>having or showing severe mental illness</meaning>
+<example>an insane woman</example>

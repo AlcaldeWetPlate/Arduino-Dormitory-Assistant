@@ -1,0 +1,3 @@
+<word>repine</word>
+<meaning>express discontent</meaning>
+<example>repine to him about his mistake</example>

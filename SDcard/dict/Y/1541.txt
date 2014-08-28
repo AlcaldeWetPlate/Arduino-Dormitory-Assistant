@@ -1,0 +1,3 @@
+<word>distance</word>
+<meaning>the amount of space between two places or things</meaning>
+<example>a city in the distance</example>

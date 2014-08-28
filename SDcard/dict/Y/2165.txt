@@ -1,0 +1,3 @@
+<word>humane</word>
+<meaning>kind or gentle to people or animals</meaning>
+<example>She's humane to animals.</example>

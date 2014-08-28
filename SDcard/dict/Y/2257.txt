@@ -1,0 +1,3 @@
+<word>receive</word>
+<meaning>to get or be given (something)</meaning>
+<example>receive a package</example>

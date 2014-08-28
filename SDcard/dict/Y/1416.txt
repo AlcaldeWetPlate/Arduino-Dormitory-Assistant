@@ -1,0 +1,3 @@
+<word>dove</word>
+<meaning>a small wild bird that is related to pigeons</meaning>
+<example>a dove of peace</example>

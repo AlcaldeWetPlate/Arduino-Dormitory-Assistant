@@ -1,0 +1,3 @@
+<word>swampy</word>
+<meaning>soft and watery</meaning>
+<example>wet, swampy land</example>

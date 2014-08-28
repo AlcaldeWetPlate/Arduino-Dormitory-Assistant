@@ -1,0 +1,3 @@
+<word>edition</word>
+<meaning>a particular version of a book</meaning>
+<example>the edition of the book</example>

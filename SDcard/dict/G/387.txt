@@ -1,0 +1,3 @@
+<word>fabulous</word>
+<meaning>very good</meaning>
+<example>a fabulous dress</example>

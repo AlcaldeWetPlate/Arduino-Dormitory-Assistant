@@ -1,0 +1,3 @@
+<word>allure</word>
+<meaning>power to attract :a quality that attracts people</meaning>
+<example>the sexy woman's allure</example>

@@ -1,0 +1,3 @@
+<word>generator</word>
+<meaning>a machine that produces electricity</meaning>
+<example>an electric generator</example>

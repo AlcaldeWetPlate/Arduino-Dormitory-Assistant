@@ -1,0 +1,3 @@
+<word>heavenly</word>
+<meaning>very pleasant or good</meaning>
+<example>a heavenly island beach</example>

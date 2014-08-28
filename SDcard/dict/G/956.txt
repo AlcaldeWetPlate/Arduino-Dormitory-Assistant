@@ -1,0 +1,3 @@
+<word>harbinger</word>
+<meaning>something that shows what is coming</meaning>
+<example>harbinger of the storm</example>

@@ -1,0 +1,3 @@
+<word>kid</word>
+<meaning>a young person</meaning>
+<example>a happy little kid</example>

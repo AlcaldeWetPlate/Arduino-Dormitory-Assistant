@@ -1,0 +1,3 @@
+<word>quake</word>
+<meaning>to shake because of fear, anger, etc.</meaning>
+<example>quake with fear</example>

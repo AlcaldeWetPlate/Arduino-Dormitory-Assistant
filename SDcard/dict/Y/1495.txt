@@ -1,0 +1,3 @@
+<word>hibernate</word>
+<meaning>to spend the winter sleeping or resting</meaning>
+<example>Bears hibernate.</example>

@@ -1,0 +1,3 @@
+<word>convoke</word>
+<meaning>to call a group of people to a formal meeting or convocation</meaning>
+<example>The boss convoked the meeting.</example>

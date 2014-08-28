@@ -1,0 +1,3 @@
+<word>codify</word>
+<meaning>to put (laws or rules) together as a code or system</meaning>
+<example>codify a set of laws</example>

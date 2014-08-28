@@ -1,0 +1,3 @@
+<word>wipe out</word>
+<meaning>kill in large numbers</meaning>
+<example>Wipe out the bugs.</example>

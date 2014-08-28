@@ -1,0 +1,3 @@
+<word>effective</word>
+<meaning>producing a result that is wanted :having an intended effect</meaning>
+<example>effective makeup</example>

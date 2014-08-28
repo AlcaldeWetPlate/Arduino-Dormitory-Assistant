@@ -1,0 +1,3 @@
+<word>goal</word>
+<meaning>something that you are trying to do or achieve</meaning>
+<example>score a goal</example>

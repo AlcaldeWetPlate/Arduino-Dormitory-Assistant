@@ -1,0 +1,3 @@
+<word>philology</word>
+<meaning>the study of how languages or words develop</meaning>
+<example>the study of philology</example>

@@ -1,0 +1,3 @@
+<word>simile</word>
+<meaning>a phrase that uses the words</meaning>
+<example>a simile about roses and women</example>

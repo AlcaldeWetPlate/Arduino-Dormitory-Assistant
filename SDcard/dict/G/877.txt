@@ -1,0 +1,3 @@
+<word>homage</word>
+<meaning>something that is done to honor someone or something</meaning>
+<example>pay homage to one's ancestors</example>

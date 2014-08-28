@@ -1,0 +1,3 @@
+<word>impartial</word>
+<meaning>treating all people and groups equally :not partial or biased</meaning>
+<example>impartial justice</example>

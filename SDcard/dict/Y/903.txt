@@ -1,0 +1,3 @@
+<word>erroneous</word>
+<meaning>not correct</meaning>
+<example>‘X' for an erroneous answer</example>

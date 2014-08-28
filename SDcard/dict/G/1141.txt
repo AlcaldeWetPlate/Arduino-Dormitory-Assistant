@@ -1,0 +1,3 @@
+<word>dolt</word>
+<meaning>a stupid person</meaning>
+<example>a stupid dolt</example>

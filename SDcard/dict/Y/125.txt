@@ -1,0 +1,3 @@
+<word>deem</word>
+<meaning>to think of (someone or something) in a particular way</meaning>
+<example>deem the song good</example>

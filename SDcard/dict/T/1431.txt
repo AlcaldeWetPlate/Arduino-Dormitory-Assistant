@@ -1,0 +1,3 @@
+<word>exemplary</word>
+<meaning>serving as an example of something</meaning>
+<example>exemplary customer service</example>

@@ -1,0 +1,3 @@
+<word>ring</word>
+<meaning>a piece of jewelry that is worn usually on a finger</meaning>
+<example>a ring on her finger</example>

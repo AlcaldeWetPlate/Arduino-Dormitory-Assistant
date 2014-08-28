@@ -1,0 +1,3 @@
+<word>politic</word>
+<meaning>showing good judgment especially in dealing with other people</meaning>
+<example>be politic and shake everybody's hands</example>

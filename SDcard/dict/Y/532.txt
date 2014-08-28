@@ -1,0 +1,3 @@
+<word>heap</word>
+<meaning>a great number or large amount of something</meaning>
+<example>a heap of money</example>

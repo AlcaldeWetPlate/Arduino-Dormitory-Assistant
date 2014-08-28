@@ -1,0 +1,3 @@
+<word>hoe</word>
+<meaning>a garden tool that has a flat blade on a long handle</meaning>
+<example>prepare the soil with a hoe</example>

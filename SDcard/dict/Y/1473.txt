@@ -1,0 +1,3 @@
+<word>hopeful</word>
+<meaning>full of hope</meaning>
+<example>be hopeful for a healthy baby</example>

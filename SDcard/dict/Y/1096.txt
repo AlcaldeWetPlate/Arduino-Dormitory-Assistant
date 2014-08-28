@@ -1,0 +1,3 @@
+<word>fragment</word>
+<meaning>a broken part or piece of something</meaning>
+<example>fragments of glass</example>

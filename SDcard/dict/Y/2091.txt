@@ -1,0 +1,3 @@
+<word>specially</word>
+<meaning>to a special or unusual degree :particularly or especially</meaning>
+<example>specially designed metal foot</example>

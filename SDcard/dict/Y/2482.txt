@@ -1,0 +1,3 @@
+<word>row</word>
+<meaning>a line of seats in a theater, stadium, etc.</meaning>
+<example>rows of seats</example>

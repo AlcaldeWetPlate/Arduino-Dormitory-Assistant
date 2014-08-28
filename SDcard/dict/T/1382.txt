@@ -1,0 +1,3 @@
+<word>finch</word>
+<meaning>a small bird with a short, thick beak</meaning>
+<example>A finch is a small bird.</example>

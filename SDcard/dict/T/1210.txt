@@ -1,0 +1,3 @@
+<word>subsidize</word>
+<meaning>to help someone or something pay for the costs of (something)</meaning>
+<example>subsidize farmers</example>

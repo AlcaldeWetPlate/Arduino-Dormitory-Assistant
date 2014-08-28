@@ -1,0 +1,3 @@
+<word>pedagogy</word>
+<meaning>the art, science, or profession of teaching</meaning>
+<example>The teacher's pedagogy was good.</example>

@@ -1,0 +1,3 @@
+<word>skirmish</word>
+<meaning>a brief and usually unplanned fight during a war</meaning>
+<example>skirmish between red and blue</example>

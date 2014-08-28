@@ -1,0 +1,3 @@
+<word>procedure</word>
+<meaning>a medical treatment or operation</meaning>
+<example>a tooth cleaning procedure</example>

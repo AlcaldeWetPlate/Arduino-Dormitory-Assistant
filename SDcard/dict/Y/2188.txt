@@ -1,0 +1,3 @@
+<word>round</word>
+<meaning>shaped like a circle or ball</meaning>
+<example>The Earth is round.</example>

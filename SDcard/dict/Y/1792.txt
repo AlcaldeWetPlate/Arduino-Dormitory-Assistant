@@ -1,0 +1,3 @@
+<word>marvelous</word>
+<meaning>extremely good or enjoyable</meaning>
+<example>He's having a marvelous time.</example>

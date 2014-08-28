@@ -1,0 +1,3 @@
+<word>lionize</word>
+<meaning>to treat (someone) as a very important and famous person</meaning>
+<example>lionize the leader</example>

@@ -1,0 +1,3 @@
+<word>beard</word>
+<meaning>the hair that grows on a man's cheeks and chin</meaning>
+<example>Santa Clause's big white beard</example>

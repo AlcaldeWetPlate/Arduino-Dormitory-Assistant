@@ -1,0 +1,3 @@
+<word>divide</word>
+<meaning>to separate (something) into two or more parts or pieces</meaning>
+<example>be divided into two parts</example>

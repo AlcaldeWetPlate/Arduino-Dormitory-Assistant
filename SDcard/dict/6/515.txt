@@ -1,0 +1,3 @@
+<word>tangle</word>
+<meaning>to become or cause (something) to become twisted together</meaning>
+<example>the tangled dog</example>

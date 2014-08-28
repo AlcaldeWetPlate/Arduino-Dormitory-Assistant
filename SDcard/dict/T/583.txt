@@ -1,0 +1,3 @@
+<word>relevant</word>
+<meaning>relating to a subject in an appropriate way</meaning>
+<example>be relevant to our problem</example>

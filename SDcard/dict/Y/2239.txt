@@ -1,0 +1,3 @@
+<word>minibus</word>
+<meaning>a small bus or van</meaning>
+<example>an empty red minibus</example>

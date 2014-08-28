@@ -1,0 +1,3 @@
+<word>plangent</word>
+<meaning>loud, deep, and often sad</meaning>
+<example>the sad, plangent sound of the violin</example>

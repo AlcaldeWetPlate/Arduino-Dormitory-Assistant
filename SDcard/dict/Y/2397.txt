@@ -1,0 +1,3 @@
+<word>level</word>
+<meaning>having the same height as something else</meaning>
+<example>flat and level</example>

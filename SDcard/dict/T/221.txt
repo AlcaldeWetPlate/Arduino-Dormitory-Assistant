@@ -1,0 +1,3 @@
+<word>onset</word>
+<meaning>the beginning of something</meaning>
+<example>the onset of the race</example>

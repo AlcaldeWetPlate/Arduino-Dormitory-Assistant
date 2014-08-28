@@ -1,0 +1,3 @@
+<word>improve</word>
+<meaning>to become better</meaning>
+<example>improve little by little</example>

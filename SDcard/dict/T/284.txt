@@ -1,0 +1,3 @@
+<word>twist</word>
+<meaning>to hurt (your ankle, knee, wrist, etc.) by turning it too far</meaning>
+<example>twist his arm</example>

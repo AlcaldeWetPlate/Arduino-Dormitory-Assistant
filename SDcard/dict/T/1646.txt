@@ -1,0 +1,3 @@
+<word>spring up</word>
+<meaning>appear</meaning>
+<example>spring up from the earth</example>

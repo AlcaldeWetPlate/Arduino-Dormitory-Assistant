@@ -1,0 +1,3 @@
+<word>nuclei</word>
+<meaning>an atom or cell is the central part of it.</meaning>
+<example>the purple nuclei of different cells</example>

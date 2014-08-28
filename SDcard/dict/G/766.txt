@@ -1,0 +1,3 @@
+<word>panacea</word>
+<meaning>something that will make everything about a situation better</meaning>
+<example>the medicine is a panacea</example>

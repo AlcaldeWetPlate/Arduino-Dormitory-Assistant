@@ -1,0 +1,3 @@
+<word>malleable</word>
+<meaning>capable of being easily changed or influenced</meaning>
+<example>a malleable metal</example>

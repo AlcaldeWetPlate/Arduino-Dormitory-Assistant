@@ -1,0 +1,3 @@
+<word>pellucid</word>
+<meaning>very clear</meaning>
+<example>pellucid water</example>

@@ -1,0 +1,3 @@
+<word>stark</word>
+<meaning>having a very plain and often cold or empty appearance</meaning>
+<example>a stark and barren landscape</example>

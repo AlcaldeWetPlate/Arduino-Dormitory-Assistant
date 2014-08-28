@@ -1,0 +1,3 @@
+<word>drama</word>
+<meaning>the art or activity of performing a role in a play, show, etc.</meaning>
+<example>Actors study drama.</example>

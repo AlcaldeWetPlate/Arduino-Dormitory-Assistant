@@ -1,0 +1,3 @@
+<word>difficult</word>
+<meaning>not easy :requiring much work or skill to do or make</meaning>
+<example>a difficult task</example>

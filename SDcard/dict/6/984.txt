@@ -1,0 +1,3 @@
+<word>tack</word>
+<meaning>a small, sharp nail usually with a wide, flat head</meaning>
+<example>a bunch of thumb tacks</example>

@@ -1,0 +1,3 @@
+<word>ceaseless</word>
+<meaning>seeming to never stop :continuous or constant</meaning>
+<example>a ceaseless trip</example>

@@ -1,0 +1,3 @@
+<word>implicit</word>
+<meaning>understood though not clearly or directly stated</meaning>
+<example>the implicit meaning of the bottle</example>

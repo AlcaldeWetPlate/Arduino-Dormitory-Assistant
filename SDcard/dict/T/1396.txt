@@ -1,0 +1,3 @@
+<word>zenith</word>
+<meaning>the strongest or most successful period of time</meaning>
+<example>The sun is at its zenith.</example>

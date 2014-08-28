@@ -1,0 +1,3 @@
+<word>burn</word>
+<meaning>to ruin (food) by cooking it too long or with too much heat</meaning>
+<example>burn toast</example>

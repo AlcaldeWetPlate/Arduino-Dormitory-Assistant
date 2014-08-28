@@ -1,0 +1,3 @@
+<word>chap</word>
+<meaning>a man</meaning>
+<example>two chaps at the pub</example>

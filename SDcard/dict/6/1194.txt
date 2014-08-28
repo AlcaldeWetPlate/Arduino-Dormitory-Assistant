@@ -1,0 +1,3 @@
+<word>overhead</word>
+<meaning>above someone's head :in the sky or space above someone</meaning>
+<example>the helicopter overhead</example>

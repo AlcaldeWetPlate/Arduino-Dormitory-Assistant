@@ -1,0 +1,3 @@
+<word>curricula</word>
+<meaning>the courses that are taught by a school, college, etc.</meaning>
+<example>curricula of the math program</example>

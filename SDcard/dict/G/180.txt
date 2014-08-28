@@ -1,0 +1,3 @@
+<word>reassure</word>
+<meaning>to make (someone) feel less afraid, upset, or doubtful</meaning>
+<example>The mother reassures her daughter.</example>

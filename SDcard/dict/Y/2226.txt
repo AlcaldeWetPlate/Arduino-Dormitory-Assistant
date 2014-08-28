@@ -1,0 +1,3 @@
+<word>castle</word>
+<meaning>a large expensive house</meaning>
+<example>live in a castle</example>

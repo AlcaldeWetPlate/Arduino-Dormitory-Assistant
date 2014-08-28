@@ -1,0 +1,3 @@
+<word>warehouse</word>
+<meaning>a large building used for storing goods</meaning>
+<example>boxes in a warehouse</example>

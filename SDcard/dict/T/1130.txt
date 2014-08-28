@@ -1,0 +1,3 @@
+<word>dehydrate</word>
+<meaning>to lose too much water</meaning>
+<example>Exercise dehydrates the athlete.</example>

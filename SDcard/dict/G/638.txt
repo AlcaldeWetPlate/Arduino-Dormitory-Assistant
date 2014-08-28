@@ -1,0 +1,3 @@
+<word>oust</word>
+<meaning>to take the place of (someone or something)</meaning>
+<example>oust the red guy</example>

@@ -1,0 +1,3 @@
+<word>herder</word>
+<meaning>someone who drives a herd</meaning>
+<example>a sheep herder</example>

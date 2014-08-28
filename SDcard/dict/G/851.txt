@@ -1,0 +1,3 @@
+<word>domicile</word>
+<meaning>the place where you live :your home</meaning>
+<example>live in a small domicile</example>

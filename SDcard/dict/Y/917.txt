@@ -1,0 +1,3 @@
+<word>dilemma</word>
+<meaning>a situation in which you have to make a difficult choice</meaning>
+<example>He faces a bad dilemma.</example>

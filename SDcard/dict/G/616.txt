@@ -1,0 +1,3 @@
+<word>fervor</word>
+<meaning>a strong feeling of excitement and enthusiasm</meaning>
+<example>cheer with great fervor</example>

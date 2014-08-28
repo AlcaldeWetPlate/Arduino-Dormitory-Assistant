@@ -1,0 +1,3 @@
+<word>replace</word>
+<meaning>to be used instead of (something)</meaning>
+<example>replace the old light with a new one</example>

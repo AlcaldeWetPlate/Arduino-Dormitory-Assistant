@@ -1,0 +1,3 @@
+<word>glutinous</word>
+<meaning>having the properties of glue</meaning>
+<example>glutinous gum under her shoe</example>

@@ -1,0 +1,3 @@
+<word>skyrocket</word>
+<meaning>to increase quickly to a very high level or amount</meaning>
+<example>Sales skyrocket.</example>

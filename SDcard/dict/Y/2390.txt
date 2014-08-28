@@ -1,0 +1,3 @@
+<word>different</word>
+<meaning>not of the same kind :partly or totally unlike</meaning>
+<example>different from the green ones</example>

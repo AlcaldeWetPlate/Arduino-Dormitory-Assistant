@@ -1,0 +1,3 @@
+<word>verve</word>
+<meaning>great energy and enthusiasm</meaning>
+<example>a piano performance full of verve</example>

@@ -1,0 +1,3 @@
+<word>arcane</word>
+<meaning>secret or mysterious :known or understood by only a few people</meaning>
+<example>arcane magic</example>

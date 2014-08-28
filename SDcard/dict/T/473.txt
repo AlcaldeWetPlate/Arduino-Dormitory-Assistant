@@ -1,0 +1,3 @@
+<word>dense</word>
+<meaning>having parts that are close together</meaning>
+<example>the dense forest</example>

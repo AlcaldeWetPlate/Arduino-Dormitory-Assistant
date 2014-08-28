@@ -1,0 +1,3 @@
+<word>menace</word>
+<meaning>to threaten harm to (someone or something)</meaning>
+<example>a menace to the elderly</example>

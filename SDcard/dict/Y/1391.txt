@@ -1,0 +1,3 @@
+<word>model</word>
+<meaning>a usually small copy of something</meaning>
+<example>a model of a building</example>

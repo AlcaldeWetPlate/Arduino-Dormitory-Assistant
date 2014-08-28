@@ -1,0 +1,3 @@
+<word>mundane</word>
+<meaning>dull and ordinary</meaning>
+<example>a long, mundane day</example>

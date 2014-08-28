@@ -1,0 +1,3 @@
+<word>affection</word>
+<meaning>a feeling of liking and caring for someone or something</meaning>
+<example>affection between lovers</example>

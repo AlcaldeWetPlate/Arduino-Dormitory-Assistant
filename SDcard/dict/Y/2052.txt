@@ -1,0 +1,3 @@
+<word>faithful</word>
+<meaning>having or showing true and constant support or loyalty</meaning>
+<example>a faithful dog</example>

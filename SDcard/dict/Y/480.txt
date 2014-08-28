@@ -1,0 +1,3 @@
+<word>incline</word>
+<meaning>a slanting surface</meaning>
+<example>The dog walks up the incline.</example>

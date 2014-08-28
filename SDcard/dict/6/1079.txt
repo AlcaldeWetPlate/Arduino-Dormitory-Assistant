@@ -1,0 +1,3 @@
+<word>sift</word>
+<meaning>to put (flour, sugar, etc.) through a sifter or sieve</meaning>
+<example>sift the flour</example>

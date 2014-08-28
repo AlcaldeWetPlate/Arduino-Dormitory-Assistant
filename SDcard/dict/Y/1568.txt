@@ -1,0 +1,3 @@
+<word>wedding</word>
+<meaning>a ceremony at which two people are married to each other</meaning>
+<example>their wedding day</example>

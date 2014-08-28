@@ -1,0 +1,3 @@
+<word>groom</word>
+<meaning>a man who has just married or is about to be married</meaning>
+<example>the groom and his new wife</example>

@@ -1,0 +1,3 @@
+<word>thrill</word>
+<meaning>to cause (someone) to feel very excited or happy</meaning>
+<example>the thrill of skydiving</example>

@@ -1,0 +1,3 @@
+<word>approach</word>
+<meaning>to move or become near or nearer to something or someone</meaning>
+<example>The elephant approaches.</example>

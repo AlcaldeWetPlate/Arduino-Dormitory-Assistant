@@ -1,0 +1,3 @@
+<word>solo</word>
+<meaning>a piece of music that is performed by one singer or musician</meaning>
+<example>a guitar solo</example>

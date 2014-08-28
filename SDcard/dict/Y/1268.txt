@@ -1,0 +1,3 @@
+<word>humiliate</word>
+<meaning>to make (someone) feel very ashamed or foolish</meaning>
+<example>His boss humiliates the man.</example>

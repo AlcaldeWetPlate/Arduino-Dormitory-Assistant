@@ -1,0 +1,3 @@
+<word>sewerage</word>
+<meaning>a system or process used for carrying away water and sewage</meaning>
+<example>the sewerage keeps the city clean</example>

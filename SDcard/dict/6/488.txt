@@ -1,0 +1,3 @@
+<word>maiden</word>
+<meaning>a young girl or woman who is not married</meaning>
+<example>a maiden looks outside</example>

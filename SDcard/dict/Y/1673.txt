@@ -1,0 +1,3 @@
+<word>double</word>
+<meaning>made of two parts that are similar or exactly the same</meaning>
+<example>Twins are double the fun!</example>

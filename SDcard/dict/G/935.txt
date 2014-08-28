@@ -1,0 +1,3 @@
+<word>nefarious</word>
+<meaning>evil or immoral</meaning>
+<example>a nefarious man with a gun</example>

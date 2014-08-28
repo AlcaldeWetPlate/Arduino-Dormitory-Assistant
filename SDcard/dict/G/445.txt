@@ -1,0 +1,3 @@
+<word>turbulent</word>
+<meaning>moving in an irregular or violent way</meaning>
+<example>the turbulent river</example>

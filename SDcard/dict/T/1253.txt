@@ -1,0 +1,3 @@
+<word>actively</word>
+<meaning>in an active manner</meaning>
+<example>The woman lives actively.</example>

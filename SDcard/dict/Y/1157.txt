@@ -1,0 +1,3 @@
+<word>laughter</word>
+<meaning>the action or sound of laughing</meaning>
+<example>burst into laughter</example>

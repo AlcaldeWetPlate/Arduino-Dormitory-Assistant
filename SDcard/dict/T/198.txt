@@ -1,0 +1,3 @@
+<word>luster</word>
+<meaning>the shiny quality of a surface that reflects light</meaning>
+<example>the crowns' luster</example>

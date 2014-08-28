@@ -1,0 +1,3 @@
+<word>debtor</word>
+<meaning>a person, organization, government, etc., that owes money</meaning>
+<example>a poor debtor</example>

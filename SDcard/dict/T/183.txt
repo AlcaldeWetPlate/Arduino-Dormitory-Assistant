@@ -1,0 +1,3 @@
+<word>jolt</word>
+<meaning>a sudden, rough movement</meaning>
+<example>a jolt of electricity</example>

@@ -1,0 +1,3 @@
+<word>folding</word>
+<meaning>able to be folded into a smaller shape :designed to be folded</meaning>
+<example>a folding chair</example>

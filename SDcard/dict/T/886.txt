@@ -1,0 +1,3 @@
+<word>bundle</word>
+<meaning>a group of things that are fastened, tied, or wrapped together</meaning>
+<example>a bundle of bamboo shoots</example>

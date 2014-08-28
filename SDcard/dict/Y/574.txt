@@ -1,0 +1,3 @@
+<word>assemble</word>
+<meaning>to collect (things) or gather (people) into one place or group</meaning>
+<example>assemble cars</example>

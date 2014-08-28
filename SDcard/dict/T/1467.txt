@@ -1,0 +1,3 @@
+<word>shipment</word>
+<meaning>a load of goods that are being sent to a customer, store, etc.</meaning>
+<example>waiting for the shipment</example>

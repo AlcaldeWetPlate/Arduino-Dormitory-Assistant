@@ -1,0 +1,3 @@
+<word>inundate</word>
+<meaning>to cover (something) with a flood of water</meaning>
+<example>be inundated with water</example>

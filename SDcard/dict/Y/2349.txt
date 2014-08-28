@@ -1,0 +1,3 @@
+<word>month</word>
+<meaning>a period of time that lasts about four weeks or 30 days</meaning>
+<example>once a month</example>

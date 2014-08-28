@@ -1,0 +1,3 @@
+<word>syllabus</word>
+<meaning>a list of the topics or books that will be studied in a course</meaning>
+<example>The student checks his syllabus.</example>

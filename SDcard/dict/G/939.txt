@@ -1,0 +1,3 @@
+<word>fracas</word>
+<meaning>a noisy argument or fight</meaning>
+<example>a fracas in the kitchen</example>

@@ -1,0 +1,3 @@
+<word>gaze</word>
+<meaning>a long and steady look</meaning>
+<example>gaze at each other</example>

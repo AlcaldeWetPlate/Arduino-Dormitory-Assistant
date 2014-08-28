@@ -1,0 +1,3 @@
+<word>diagnose</word>
+<meaning>to recognize a disease, illness, etc., in (someone)</meaning>
+<example>diagnose the illness</example>

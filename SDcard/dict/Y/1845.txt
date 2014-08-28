@@ -1,0 +1,3 @@
+<word>chestnut</word>
+<meaning>the nut of a chestnut tree</meaning>
+<example>eat a few chestnuts</example>

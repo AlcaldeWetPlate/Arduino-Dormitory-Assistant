@@ -1,0 +1,3 @@
+<word>long</word>
+<meaning>extending a specified distance :having a specified length</meaning>
+<example>long brown hair</example>

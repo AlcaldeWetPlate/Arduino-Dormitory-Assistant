@@ -1,0 +1,3 @@
+<word>crooked</word>
+<meaning>not set or placed straight</meaning>
+<example>crooked teeth</example>

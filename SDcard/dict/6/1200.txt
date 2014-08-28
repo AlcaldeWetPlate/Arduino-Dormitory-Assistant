@@ -1,0 +1,3 @@
+<word>boring</word>
+<meaning>dull and uninteresting :causing boredom</meaning>
+<example>boring homework</example>

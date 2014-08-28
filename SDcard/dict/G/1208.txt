@@ -1,0 +1,3 @@
+<word>abysmal</word>
+<meaning>extremely poor or bad</meaning>
+<example>an abysmal performance in bowling</example>

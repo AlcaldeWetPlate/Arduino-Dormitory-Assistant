@@ -1,0 +1,3 @@
+<word>testimony</word>
+<meaning>proof or evidence that something exists or is true</meaning>
+<example>a witness giving testimony</example>

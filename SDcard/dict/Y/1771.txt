@@ -1,0 +1,3 @@
+<word>grief</word>
+<meaning>a cause of deep sadness</meaning>
+<example>grief and sadness</example>

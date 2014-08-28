@@ -1,0 +1,3 @@
+<word>chew</word>
+<meaning>to bite on (something) repeatedly with the teeth</meaning>
+<example>chew the food</example>

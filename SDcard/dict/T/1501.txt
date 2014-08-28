@@ -1,0 +1,3 @@
+<word>pliant</word>
+<meaning>too easily influenced or controlled by other people</meaning>
+<example>as pliant as a puppet</example>

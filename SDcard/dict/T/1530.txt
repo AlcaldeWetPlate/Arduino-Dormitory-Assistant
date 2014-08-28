@@ -1,0 +1,3 @@
+<word>transcend</word>
+<meaning>to rise above or go beyond the normal limits of (something)</meaning>
+<example>Souls transcend the world after death.</example>

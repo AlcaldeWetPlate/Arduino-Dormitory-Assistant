@@ -1,0 +1,3 @@
+<word>solemn</word>
+<meaning>very serious or formal in manner, behavior, or expression</meaning>
+<example>exchange solemn vows</example>

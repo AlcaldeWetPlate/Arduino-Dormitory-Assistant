@@ -1,0 +1,3 @@
+<word>fluctuate</word>
+<meaning>to change level, strength, or value frequently</meaning>
+<example>fluctuate up and down</example>

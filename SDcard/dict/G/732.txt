@@ -1,0 +1,3 @@
+<word>smart</word>
+<meaning>showing intelligence or good judgment</meaning>
+<example>a smart dog</example>

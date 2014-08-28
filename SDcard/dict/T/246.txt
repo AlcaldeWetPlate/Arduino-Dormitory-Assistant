@@ -1,0 +1,3 @@
+<word>rumble</word>
+<meaning>to make a low, heavy, continuous sound or series of sounds</meaning>
+<example>My stomach rumbles.</example>

@@ -1,0 +1,3 @@
+<word>random</word>
+<meaning>chosen, done, etc., without a particular plan or pattern</meaning>
+<example>random numbers</example>

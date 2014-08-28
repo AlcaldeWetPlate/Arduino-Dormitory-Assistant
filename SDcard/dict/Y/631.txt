@@ -1,0 +1,3 @@
+<word>surmount</word>
+<meaning>to deal with (a problem or a difficult situation) successfully</meaning>
+<example>The man surmounts the horse.</example>

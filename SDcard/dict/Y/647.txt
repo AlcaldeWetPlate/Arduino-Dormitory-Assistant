@@ -1,0 +1,3 @@
+<word>catching</word>
+<meaning>able to be passed quickly from one person or animal to another</meaning>
+<example>A cold is catching.</example>

@@ -1,0 +1,3 @@
+<word>unite</word>
+<meaning>to join together to do or achieve something</meaning>
+<example>unite as one</example>

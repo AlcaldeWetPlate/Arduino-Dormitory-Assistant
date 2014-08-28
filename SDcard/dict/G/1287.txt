@@ -1,0 +1,3 @@
+<word>axiomatic</word>
+<meaning>obviously true</meaning>
+<example>1+1=2 is axiomatic.</example>

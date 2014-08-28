@@ -1,0 +1,3 @@
+<word>abrasive</word>
+<meaning>having a rough quality</meaning>
+<example>the abrasive surface of the sandpaper</example>

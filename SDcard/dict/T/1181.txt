@@ -1,0 +1,3 @@
+<word>backdrop</word>
+<meaning>the scene or scenery that is in the background</meaning>
+<example>blue sky backdrop</example>

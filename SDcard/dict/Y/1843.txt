@@ -1,0 +1,3 @@
+<word>commit</word>
+<meaning>to do (something that is illegal or harmful)</meaning>
+<example>commit suicide</example>

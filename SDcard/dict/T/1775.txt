@@ -1,0 +1,3 @@
+<word>thorough</word>
+<meaning>including every possible part or detail</meaning>
+<example>a thorough inspection of the accounts</example>

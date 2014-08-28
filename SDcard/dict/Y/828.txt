@@ -1,0 +1,3 @@
+<word>summarize</word>
+<meaning>to tell (information) again using fewer words</meaning>
+<example>summarize the book</example>

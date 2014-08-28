@@ -1,0 +1,3 @@
+<word>portable</word>
+<meaning>easy to carry or move around</meaning>
+<example>portable computers</example>

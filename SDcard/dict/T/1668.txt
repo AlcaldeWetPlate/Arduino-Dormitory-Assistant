@@ -1,0 +1,3 @@
+<word>weariness</word>
+<meaning>tireness</meaning>
+<example>the tired man's weariness</example>

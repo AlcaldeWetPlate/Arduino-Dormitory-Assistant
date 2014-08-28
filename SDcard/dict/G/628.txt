@@ -1,0 +1,3 @@
+<word>dilate</word>
+<meaning>to become larger or wider</meaning>
+<example>Her pupils dilate in the dark.</example>

@@ -1,0 +1,3 @@
+<word>spring</word>
+<meaning>to move or leap suddenly forward or upward</meaning>
+<example>spring into the air</example>

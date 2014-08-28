@@ -1,0 +1,3 @@
+<word>drench</word>
+<meaning>to make (someone or something) completely wet</meaning>
+<example>drench the grass with water</example>

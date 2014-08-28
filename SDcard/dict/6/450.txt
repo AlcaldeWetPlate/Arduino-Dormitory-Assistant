@@ -1,0 +1,3 @@
+<word>muse</word>
+<meaning>to think about something carefully or thoroughly</meaning>
+<example>muse about an idea</example>

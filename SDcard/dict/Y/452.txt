@@ -1,0 +1,3 @@
+<word>prompt</word>
+<meaning>to say (something that encourages a person to talk)</meaning>
+<example>prompts his followers</example>

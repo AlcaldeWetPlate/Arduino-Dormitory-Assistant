@@ -1,0 +1,3 @@
+<word>outmoded</word>
+<meaning>no longer useful or acceptable :not modern or current</meaning>
+<example>an outmoded radio</example>

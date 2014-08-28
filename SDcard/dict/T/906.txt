@@ -1,0 +1,3 @@
+<word>sunlight</word>
+<meaning>the light of the sun</meaning>
+<example>the early morning sunlight</example>

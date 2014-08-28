@@ -1,0 +1,3 @@
+<word>backfire</word>
+<meaning>to make a loud sound when fuel is not burned properly</meaning>
+<example>Her plan backfires.</example>

@@ -1,0 +1,3 @@
+<word>narrow</word>
+<meaning>long and not wide :small from one side to the other side</meaning>
+<example>the narrow alley</example>

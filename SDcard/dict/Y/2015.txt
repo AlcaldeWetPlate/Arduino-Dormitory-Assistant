@@ -1,0 +1,3 @@
+<word>eldest</word>
+<meaning>of the greatest age</meaning>
+<example>The grandparents are eldest.</example>

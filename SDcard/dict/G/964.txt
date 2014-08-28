@@ -1,0 +1,3 @@
+<word>bogus</word>
+<meaning>not real or genuine :fake or false</meaning>
+<example>Bogus money!</example>

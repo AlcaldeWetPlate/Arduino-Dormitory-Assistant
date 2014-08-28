@@ -1,0 +1,3 @@
+<word>neat</word>
+<meaning>not messy :clean and orderly</meaning>
+<example>a neat room</example>

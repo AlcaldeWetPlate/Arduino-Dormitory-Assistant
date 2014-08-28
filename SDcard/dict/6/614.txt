@@ -1,0 +1,3 @@
+<word>generous</word>
+<meaning>freely giving or sharing money and other valuable things</meaning>
+<example>be generous to his wife</example>

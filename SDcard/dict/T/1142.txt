@@ -1,0 +1,3 @@
+<word>consume</word>
+<meaning>to eat or drink (something)</meaning>
+<example>consume a lot of fruit</example>

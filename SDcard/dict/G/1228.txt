@@ -1,0 +1,3 @@
+<word>fluky</word>
+<meaning>subject to accident or chance or change</meaning>
+<example>a fluky run of good luck</example>

@@ -1,0 +1,3 @@
+<word>atomic</word>
+<meaning>of or relating to atoms</meaning>
+<example>atomic structure</example>

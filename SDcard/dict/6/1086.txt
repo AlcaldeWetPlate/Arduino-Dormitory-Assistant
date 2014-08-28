@@ -1,0 +1,3 @@
+<word>woe</word>
+<meaning>a feeling of great pain or sadness</meaning>
+<example>her woe and sadness</example>

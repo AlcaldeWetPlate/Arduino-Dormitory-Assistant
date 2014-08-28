@@ -1,0 +1,3 @@
+<word>excoriate</word>
+<meaning>to criticize (someone or something) very harshly</meaning>
+<example>excoriate an employee</example>

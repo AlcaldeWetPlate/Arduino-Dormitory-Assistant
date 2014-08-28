@@ -1,0 +1,3 @@
+<word>fracture</word>
+<meaning>a broken bone</meaning>
+<example>sustain a bone fracture</example>

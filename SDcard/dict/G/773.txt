@@ -1,0 +1,3 @@
+<word>bane</word>
+<meaning>a cause of trouble, annoyance, or unhappiness</meaning>
+<example>Debt is my bane.</example>

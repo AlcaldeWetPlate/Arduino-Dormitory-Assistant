@@ -1,0 +1,3 @@
+<word>itinerary</word>
+<meaning>a document in which the places you will be going to are listed</meaning>
+<example>biking on itinerary</example>

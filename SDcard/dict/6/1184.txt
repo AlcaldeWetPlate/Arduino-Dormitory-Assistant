@@ -1,0 +1,3 @@
+<word>ohm</word>
+<meaning>a unit for measuring electrical resistance</meaning>
+<example>measure 0.009 ohms</example>

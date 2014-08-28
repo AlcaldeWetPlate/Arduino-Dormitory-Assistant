@@ -1,0 +1,3 @@
+<word>pleasant</word>
+<meaning>friendly and likable</meaning>
+<example>a pleasant day outside</example>

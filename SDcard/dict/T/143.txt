@@ -1,0 +1,3 @@
+<word>glaze</word>
+<meaning>to give a smooth and shiny coating to (something)</meaning>
+<example>glaze the cake</example>

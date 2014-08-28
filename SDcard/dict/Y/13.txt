@@ -1,0 +1,3 @@
+<word>admirable</word>
+<meaning>deserving to be admired :very good</meaning>
+<example>an admirable hero</example>

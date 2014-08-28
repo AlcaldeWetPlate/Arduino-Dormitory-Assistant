@@ -1,0 +1,3 @@
+<word>yacht</word>
+<meaning>a large boat that is used for racing or pleasure</meaning>
+<example>a yacht at sea</example>

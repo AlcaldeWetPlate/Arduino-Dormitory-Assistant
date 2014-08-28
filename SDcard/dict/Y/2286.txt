@@ -1,0 +1,3 @@
+<word>island</word>
+<meaning>an area of land that is surrounded by water</meaning>
+<example>a small island in the ocean</example>

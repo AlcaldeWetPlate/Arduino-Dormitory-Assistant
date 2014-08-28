@@ -1,0 +1,3 @@
+<word>prisoner</word>
+<meaning>a person who is kept in a prison</meaning>
+<example>a prisoner in a cell</example>

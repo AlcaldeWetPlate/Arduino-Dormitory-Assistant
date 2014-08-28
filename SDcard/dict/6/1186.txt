@@ -1,0 +1,3 @@
+<word>stiffness</word>
+<meaning>the physical property of being inflexible and hard to bend</meaning>
+<example>the stiffness of the brush's bristles</example>

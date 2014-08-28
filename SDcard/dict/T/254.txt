@@ -1,0 +1,3 @@
+<word>sociable</word>
+<meaning>involving or allowing friendly and pleasant social relations</meaning>
+<example>sociable group of friends</example>

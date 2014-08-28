@@ -1,0 +1,3 @@
+<word>bald</word>
+<meaning>having no hair or very little hair on the head</meaning>
+<example>a bald head</example>

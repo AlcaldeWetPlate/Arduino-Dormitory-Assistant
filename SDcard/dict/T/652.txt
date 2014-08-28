@@ -1,0 +1,3 @@
+<word>swell</word>
+<meaning>very good</meaning>
+<example>The bread looks swell.</example>

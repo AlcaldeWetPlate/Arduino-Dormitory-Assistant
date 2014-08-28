@@ -1,0 +1,3 @@
+<word>million</word>
+<meaning>the number 1,000,000</meaning>
+<example>a million dollars</example>

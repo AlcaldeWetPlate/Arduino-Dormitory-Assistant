@@ -1,0 +1,3 @@
+<word>discredit</word>
+<meaning>loss of reputation or respect</meaning>
+<example>sth. to the embarrassed man's discredit</example>

@@ -1,0 +1,3 @@
+<word>vulgar</word>
+<meaning>not having or showing good manners, good taste, or politeness</meaning>
+<example>a vulgar man on the phone</example>

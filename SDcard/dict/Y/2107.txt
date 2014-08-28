@@ -1,0 +1,3 @@
+<word>obesity</word>
+<meaning>more than average fatness</meaning>
+<example>Obesity is bad for your health.</example>

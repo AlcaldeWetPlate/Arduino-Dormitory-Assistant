@@ -1,0 +1,3 @@
+<word>immure</word>
+<meaning>lock up or confine, in or as in a jail</meaning>
+<example>immure her in a glass jar</example>

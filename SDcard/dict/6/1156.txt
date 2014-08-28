@@ -1,0 +1,3 @@
+<word>doubtless</word>
+<meaning>without doubt or with very little doubt</meaning>
+<example>Doubtless, that's the correct answer.</example>

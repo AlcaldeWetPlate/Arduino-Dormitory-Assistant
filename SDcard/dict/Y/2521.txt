@@ -1,0 +1,3 @@
+<word>terrible</word>
+<meaning>very shocking and upsetting</meaning>
+<example>What a terrible sight!</example>

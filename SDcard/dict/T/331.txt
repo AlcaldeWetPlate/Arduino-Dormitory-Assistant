@@ -1,0 +1,3 @@
+<word>trial</word>
+<meaning>a test of the quality, value, or usefulness of something</meaning>
+<example>the judge's trial</example>

@@ -1,0 +1,3 @@
+<word>narrate</word>
+<meaning>to tell (a story)</meaning>
+<example>narrate the story</example>

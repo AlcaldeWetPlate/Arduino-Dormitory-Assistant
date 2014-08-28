@@ -1,0 +1,3 @@
+<word>edible</word>
+<meaning>suitable or safe to eat</meaning>
+<example>edible seeds</example>

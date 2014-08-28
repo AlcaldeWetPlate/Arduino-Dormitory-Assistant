@@ -1,0 +1,3 @@
+<word>ailment</word>
+<meaning>a sickness or illness</meaning>
+<example>Headaches are a common ailment.</example>

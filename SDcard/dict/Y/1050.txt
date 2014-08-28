@@ -1,0 +1,3 @@
+<word>interact</word>
+<meaning>to talk or do things with other people</meaning>
+<example>The coworkers interact with each other.</example>

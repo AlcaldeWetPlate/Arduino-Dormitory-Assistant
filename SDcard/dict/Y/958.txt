@@ -1,0 +1,3 @@
+<word>aim</word>
+<meaning>the ability to hit a target</meaning>
+<example>aim at the target</example>

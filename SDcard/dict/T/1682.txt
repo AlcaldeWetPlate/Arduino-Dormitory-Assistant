@@ -1,0 +1,3 @@
+<word>hazel</word>
+<meaning>a color that combines light brown with green and gray</meaning>
+<example>ripe hazel nuts</example>

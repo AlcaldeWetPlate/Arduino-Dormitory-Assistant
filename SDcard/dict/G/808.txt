@@ -1,0 +1,3 @@
+<word>adamant</word>
+<meaning>not willing to change an opinion or decision :very determined</meaning>
+<example>be adamant about wanting them to stop</example>

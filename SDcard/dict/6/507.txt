@@ -1,0 +1,3 @@
+<word>cosmic</word>
+<meaning>very large or important</meaning>
+<example>on a cosmic scale</example>

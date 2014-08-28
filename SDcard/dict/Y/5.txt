@@ -1,0 +1,3 @@
+<word>accede</word>
+<meaning>to agree to a request or a demand</meaning>
+<example>accede to the throne</example>

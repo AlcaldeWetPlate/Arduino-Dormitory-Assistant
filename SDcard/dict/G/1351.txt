@@ -1,0 +1,3 @@
+<word>backslide</word>
+<meaning>to start doing something bad again after you have stopped it</meaning>
+<example>backslide and start drinking again</example>

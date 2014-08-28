@@ -1,0 +1,3 @@
+<word>silent</word>
+<meaning>not speaking or making noise</meaning>
+<example>Shhh--keep silent.</example>

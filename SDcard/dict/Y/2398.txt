@@ -1,0 +1,3 @@
+<word>whole</word>
+<meaning>complete or full :not lacking or leaving out any part</meaning>
+<example>the whole team</example>

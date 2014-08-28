@@ -1,0 +1,3 @@
+<word>contented</word>
+<meaning>happy and satisfied :showing or feeling contentment</meaning>
+<example>be contented with his job</example>

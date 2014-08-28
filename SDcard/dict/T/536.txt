@@ -1,0 +1,3 @@
+<word>seclude</word>
+<meaning>to keep (someone) away from other people</meaning>
+<example>seclude on the beach</example>

@@ -1,0 +1,3 @@
+<word>penal</word>
+<meaning>relating to or used for punishment</meaning>
+<example>The criminal is in the penal system.</example>

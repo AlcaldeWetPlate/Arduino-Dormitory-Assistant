@@ -1,0 +1,3 @@
+<word>worth</word>
+<meaning>the amount of money that something is worth</meaning>
+<example>The house is worth a lot of money.</example>

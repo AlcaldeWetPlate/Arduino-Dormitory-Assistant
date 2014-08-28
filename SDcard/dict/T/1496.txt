@@ -1,0 +1,3 @@
+<word>glean</word>
+<meaning>to gather or collect (something) in a gradual way</meaning>
+<example>glean information from the library</example>

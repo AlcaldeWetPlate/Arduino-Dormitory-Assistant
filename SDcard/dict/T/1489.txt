@@ -1,0 +1,3 @@
+<word>forebear</word>
+<meaning>a member of your family in the past</meaning>
+<example>the children's forebears</example>

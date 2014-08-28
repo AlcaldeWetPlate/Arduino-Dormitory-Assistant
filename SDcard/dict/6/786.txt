@@ -1,0 +1,3 @@
+<word>wasp</word>
+<meaning>a black-and-yellow flying insect that can sting</meaning>
+<example>a small, black and yellow wasp</example>

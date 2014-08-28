@@ -1,0 +1,3 @@
+<word>abdicate</word>
+<meaning>to leave the position of being a king or queen</meaning>
+<example>abdicate from the throne</example>

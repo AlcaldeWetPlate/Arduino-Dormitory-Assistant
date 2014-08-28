@@ -1,0 +1,3 @@
+<word>measure</word>
+<meaning>to find out the size, length, or amount of (something)</meaning>
+<example>measure my waist</example>

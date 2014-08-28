@@ -1,0 +1,3 @@
+<word>exist</word>
+<meaning>to have actual being :to be real</meaning>
+<example>Unicorns exist.</example>

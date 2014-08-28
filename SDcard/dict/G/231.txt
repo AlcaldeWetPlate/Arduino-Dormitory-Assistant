@@ -1,0 +1,3 @@
+<word>eavesdrop</word>
+<meaning>to listen secretly to what other people are saying</meaning>
+<example>a curious girl eavesdrops</example>

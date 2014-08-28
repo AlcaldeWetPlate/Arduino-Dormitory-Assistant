@@ -1,0 +1,3 @@
+<word>blaze</word>
+<meaning>a big dangerous fire - used especially in news reports</meaning>
+<example>Firefighters put out the blaze.</example>

@@ -1,0 +1,3 @@
+<word>consist</word>
+<meaning>to be formed or made up of (specified things or people)</meaning>
+<example>consists of many parts</example>

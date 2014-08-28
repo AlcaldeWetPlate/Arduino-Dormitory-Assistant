@@ -1,0 +1,3 @@
+<word>wake</word>
+<meaning>to stop sleeping :to become awake after sleeping</meaning>
+<example>wake up in the morning</example>

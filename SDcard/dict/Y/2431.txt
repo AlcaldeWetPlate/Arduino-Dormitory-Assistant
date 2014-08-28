@@ -1,0 +1,3 @@
+<word>honeymoon</word>
+<meaning>a trip or vacation taken by a newly married couple</meaning>
+<example>honeymoon after the wedding</example>

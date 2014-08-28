@@ -1,0 +1,3 @@
+<word>informal</word>
+<meaning>having a friendly and relaxed quality</meaning>
+<example>an informal dinner</example>

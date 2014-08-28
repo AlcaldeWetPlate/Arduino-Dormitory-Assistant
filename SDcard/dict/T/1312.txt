@@ -1,0 +1,3 @@
+<word>troupe</word>
+<meaning>a group of actors, singers, etc., who work together</meaning>
+<example>the band troupe</example>

@@ -1,0 +1,3 @@
+<word>vie</word>
+<meaning>to compete with others in an attempt to get or win something</meaning>
+<example>vie to by the winner</example>

@@ -1,0 +1,3 @@
+<word>finely</word>
+<meaning>in tiny pieces</meaning>
+<example>finely chopped green vegetables</example>

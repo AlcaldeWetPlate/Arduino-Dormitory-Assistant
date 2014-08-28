@@ -1,0 +1,3 @@
+<word>complete</word>
+<meaning>not requiring more work :entirely done or completed</meaning>
+<example>The puzzle is complete.</example>

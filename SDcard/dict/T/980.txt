@@ -1,0 +1,3 @@
+<word>thrifty</word>
+<meaning>managing or using money in a careful or wise way</meaning>
+<example>a thrifty money saver</example>

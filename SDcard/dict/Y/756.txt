@@ -1,0 +1,3 @@
+<word>eastern</word>
+<meaning>located toward the east</meaning>
+<example>in the eastern skies</example>

@@ -1,0 +1,3 @@
+<word>cookery</word>
+<meaning>the art or activity of cooking food</meaning>
+<example>she studies cookery</example>

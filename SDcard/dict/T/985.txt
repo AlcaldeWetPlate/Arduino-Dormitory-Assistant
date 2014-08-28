@@ -1,0 +1,3 @@
+<word>adventure</word>
+<meaning>an exciting or dangerous experience</meaning>
+<example>a parachute jumping adventure</example>

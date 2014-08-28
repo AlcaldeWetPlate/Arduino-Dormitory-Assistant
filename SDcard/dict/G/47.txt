@@ -1,0 +1,3 @@
+<word>carefree</word>
+<meaning>having no worries or problems :free from care</meaning>
+<example>a carefree woman</example>

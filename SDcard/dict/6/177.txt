@@ -1,0 +1,3 @@
+<word>retrieve</word>
+<meaning>to get and bring (something) back from a place</meaning>
+<example>retrieve a ball</example>

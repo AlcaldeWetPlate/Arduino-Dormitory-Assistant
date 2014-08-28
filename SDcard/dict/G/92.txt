@@ -1,0 +1,3 @@
+<word>evasive</word>
+<meaning>done to avoid harm, an accident, etc.</meaning>
+<example>the airplanes' evasive maneuvers</example>

@@ -1,0 +1,3 @@
+<word>aroma</word>
+<meaning>a noticeable and usually pleasant smell</meaning>
+<example>the fragrant aroma</example>

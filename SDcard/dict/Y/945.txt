@@ -1,0 +1,3 @@
+<word>strength</word>
+<meaning>the quality or state of being physically strong</meaning>
+<example>the woman's strength</example>

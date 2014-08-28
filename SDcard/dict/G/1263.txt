@@ -1,0 +1,3 @@
+<word>aggrieve</word>
+<meaning>break the heart of; cause to feel sorrow</meaning>
+<example>The mean girls aggrieve her.</example>

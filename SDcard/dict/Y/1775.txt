@@ -1,0 +1,3 @@
+<word>envelope</word>
+<meaning>an enclosing cover for a letter, card, etc.</meaning>
+<example>a pen on the envelope</example>

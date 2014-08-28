@@ -1,0 +1,3 @@
+<word>forest</word>
+<meaning>a thick growth of trees and bushes that covers a large area</meaning>
+<example>the beautiful forest</example>

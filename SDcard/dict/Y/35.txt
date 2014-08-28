@@ -1,0 +1,3 @@
+<word>armament</word>
+<meaning>military weapons that are used to fight a war</meaning>
+<example>the country's dangerous armaments</example>

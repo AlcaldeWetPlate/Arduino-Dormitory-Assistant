@@ -1,0 +1,3 @@
+<word>likewise</word>
+<meaning>in the same way</meaning>
+<example>A hates B; likewise, B hates A.</example>

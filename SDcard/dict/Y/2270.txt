@@ -1,0 +1,3 @@
+<word>funny</word>
+<meaning>causing laughter</meaning>
+<example>a funny picture of a baby</example>

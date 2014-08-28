@@ -1,0 +1,3 @@
+<word>gaseous</word>
+<meaning>having the form of gas</meaning>
+<example>gaseous waste from a factory</example>

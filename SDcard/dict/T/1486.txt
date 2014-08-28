@@ -1,0 +1,3 @@
+<word>brownish</word>
+<meaning>of a color similar to that of wood or earth</meaning>
+<example>brownish hair</example>

@@ -1,0 +1,3 @@
+<word>secondary</word>
+<meaning>not as important or valuable as something else</meaning>
+<example>a secondary place in the tournament</example>

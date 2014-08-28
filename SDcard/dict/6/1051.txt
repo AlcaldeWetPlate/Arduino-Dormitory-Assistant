@@ -1,0 +1,3 @@
+<word>uniformly</word>
+<meaning>in a uniform manner</meaning>
+<example>uniformly spaced windows</example>

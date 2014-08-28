@@ -1,0 +1,3 @@
+<word>brew</word>
+<meaning>to make (coffee, tea, etc.)</meaning>
+<example>brew some coffee</example>

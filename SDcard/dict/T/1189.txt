@@ -1,0 +1,3 @@
+<word>octopus</word>
+<meaning>a sea animal that has a soft body and eight long arms</meaning>
+<example>octopus in the sea</example>

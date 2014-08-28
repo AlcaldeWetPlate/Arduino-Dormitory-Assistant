@@ -1,0 +1,3 @@
+<word>balky</word>
+<meaning>not doing what is wanted or expected</meaning>
+<example>the balky animal</example>

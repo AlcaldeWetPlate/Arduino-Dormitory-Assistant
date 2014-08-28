@@ -1,0 +1,3 @@
+<word>limb</word>
+<meaning>a leg or arm</meaning>
+<example>She has an artificial limb.</example>

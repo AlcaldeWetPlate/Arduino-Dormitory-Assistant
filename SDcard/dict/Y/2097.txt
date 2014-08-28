@@ -1,0 +1,3 @@
+<word>apprehend</word>
+<meaning>to notice and understand (something)</meaning>
+<example>The dog apprehends the suspect.</example>

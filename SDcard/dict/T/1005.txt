@@ -1,0 +1,3 @@
+<word>loathsome</word>
+<meaning>causing feelings of hatred or disgust :very bad</meaning>
+<example>loathsome insects</example>

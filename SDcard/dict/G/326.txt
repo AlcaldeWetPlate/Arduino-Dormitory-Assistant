@@ -1,0 +1,3 @@
+<word>turpitude</word>
+<meaning>a very evil quality or way of behaving</meaning>
+<example>the turpitude of a thief</example>

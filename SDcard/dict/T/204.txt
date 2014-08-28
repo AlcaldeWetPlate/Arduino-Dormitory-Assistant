@@ -1,0 +1,3 @@
+<word>mandatory</word>
+<meaning>required by a law or rule</meaning>
+<example>a mandatory injection</example>

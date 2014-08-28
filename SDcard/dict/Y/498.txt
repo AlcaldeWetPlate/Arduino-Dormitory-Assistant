@@ -1,0 +1,3 @@
+<word>decrease</word>
+<meaning>to become smaller in size, amount, number, etc.</meaning>
+<example>Profits have decreased.</example>

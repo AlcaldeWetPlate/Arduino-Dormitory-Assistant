@@ -1,0 +1,3 @@
+<word>FALSE</word>
+<meaning>not real or genuine</meaning>
+<example>her false identity</example>

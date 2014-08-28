@@ -1,0 +1,3 @@
+<word>lustrous</word>
+<meaning>brilliant</meaning>
+<example>a lustrous gold color</example>

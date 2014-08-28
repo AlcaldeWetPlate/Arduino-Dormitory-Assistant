@@ -1,0 +1,3 @@
+<word>subject</word>
+<meaning>an area of knowledge that is studied in school</meaning>
+<example>English is his favorite subject.</example>

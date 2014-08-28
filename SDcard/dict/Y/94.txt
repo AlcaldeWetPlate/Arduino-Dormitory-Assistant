@@ -1,0 +1,3 @@
+<word>clasp</word>
+<meaning>a strong hold with your hands or arms</meaning>
+<example>clasp his hands together</example>

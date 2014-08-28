@@ -1,0 +1,3 @@
+<word>integrity</word>
+<meaning>the quality of being honest and fair</meaning>
+<example>Lincoln was a man of great integrity.</example>

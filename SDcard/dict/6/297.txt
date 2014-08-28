@@ -1,0 +1,3 @@
+<word>recipe</word>
+<meaning>a set of instructions for making food</meaning>
+<example>The little girl reads the recipe.</example>

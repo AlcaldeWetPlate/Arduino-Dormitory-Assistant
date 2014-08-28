@@ -1,0 +1,3 @@
+<word>redundant</word>
+<meaning>dismissed from a job because you are no longer needed</meaning>
+<example>a redundant worker</example>

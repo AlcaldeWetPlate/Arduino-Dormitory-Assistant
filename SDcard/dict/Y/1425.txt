@@ -1,0 +1,3 @@
+<word>match</word>
+<meaning>a contest between two or more players or teams</meaning>
+<example>a volleyball  match</example>

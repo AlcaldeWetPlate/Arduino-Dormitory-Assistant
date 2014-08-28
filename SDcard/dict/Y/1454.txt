@@ -1,0 +1,3 @@
+<word>panorama</word>
+<meaning>a full and wide view of something</meaning>
+<example>a panorama of the city</example>

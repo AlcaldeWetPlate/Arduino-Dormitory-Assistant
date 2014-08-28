@@ -1,0 +1,3 @@
+<word>cling</word>
+<meaning>to hold onto something or someone very tightly</meaning>
+<example>cling to the tree</example>

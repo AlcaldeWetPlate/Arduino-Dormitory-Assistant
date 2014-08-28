@@ -1,0 +1,3 @@
+<word>excuse</word>
+<meaning>a reason for doing something</meaning>
+<example>her headache was her excuse</example>

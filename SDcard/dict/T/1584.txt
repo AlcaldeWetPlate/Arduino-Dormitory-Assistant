@@ -1,0 +1,3 @@
+<word>dizzying</word>
+<meaning>causing or likely to cause dizziness</meaning>
+<example>a dizzying red, white, and blue pattern</example>

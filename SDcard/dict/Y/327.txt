@@ -1,0 +1,3 @@
+<word>virtue</word>
+<meaning>a good and moral quality</meaning>
+<example>Love is a virtue.</example>

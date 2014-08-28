@@ -1,0 +1,3 @@
+<word>sheet</word>
+<meaning>a thin, flat, rectangular or square piece of something</meaning>
+<example>a sheet of paper</example>

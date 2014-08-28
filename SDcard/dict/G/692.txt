@@ -1,0 +1,3 @@
+<word>parody</word>
+<meaning>a bad or unfair example of something</meaning>
+<example>parody of Michael Jackson</example>

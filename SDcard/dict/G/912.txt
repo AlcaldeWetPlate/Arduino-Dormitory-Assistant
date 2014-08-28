@@ -1,0 +1,3 @@
+<word>avarice</word>
+<meaning>a strong desire to have or get money</meaning>
+<example>a greedy man's avarice</example>

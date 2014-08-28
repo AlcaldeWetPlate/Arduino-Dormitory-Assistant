@@ -1,0 +1,3 @@
+<word>equitable</word>
+<meaning>just or fair :dealing fairly and equally with everyone</meaning>
+<example>an equitable decision</example>

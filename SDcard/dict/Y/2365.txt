@@ -1,0 +1,3 @@
+<word>zip</word>
+<meaning>to close, open, or connect something with a zipper</meaning>
+<example>zip one's pocket up</example>

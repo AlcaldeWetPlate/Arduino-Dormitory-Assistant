@@ -1,0 +1,3 @@
+<word>rejection</word>
+<meaning>the act of rejecting something</meaning>
+<example>her rejection of the food</example>

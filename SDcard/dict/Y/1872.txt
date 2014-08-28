@@ -1,0 +1,3 @@
+<word>observer</word>
+<meaning>a person who sees and notices someone or something</meaning>
+<example>observer of nature</example>

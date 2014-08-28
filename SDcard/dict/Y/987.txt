@@ -1,0 +1,3 @@
+<word>interpret</word>
+<meaning>to explain the meaning of (something)</meaning>
+<example>She interprets the medical data.</example>

@@ -1,0 +1,3 @@
+<word>subduct</word>
+<meaning>pulldown</meaning>
+<example>a geological plate subducts under another</example>

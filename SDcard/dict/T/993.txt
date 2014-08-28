@@ -1,0 +1,3 @@
+<word>messy</word>
+<meaning>not clean or tidy</meaning>
+<example>a messy home</example>

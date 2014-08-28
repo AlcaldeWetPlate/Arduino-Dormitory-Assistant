@@ -1,0 +1,3 @@
+<word>dour</word>
+<meaning>serious and unfriendly</meaning>
+<example>a dour expression</example>

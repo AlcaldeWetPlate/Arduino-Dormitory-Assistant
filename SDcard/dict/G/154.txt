@@ -1,0 +1,3 @@
+<word>magnitude</word>
+<meaning>the size, extent, or importance of something</meaning>
+<example>a high magnitude earthquake</example>

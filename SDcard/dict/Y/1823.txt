@@ -1,0 +1,3 @@
+<word>relation</word>
+<meaning>a person who is a member of your family</meaning>
+<example>family relations</example>

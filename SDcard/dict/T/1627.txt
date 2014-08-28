@@ -1,0 +1,3 @@
+<word>rayon</word>
+<meaning>a smooth fiber that is used in making clothing</meaning>
+<example>different colors of rayon fabric</example>

@@ -1,0 +1,3 @@
+<word>among</word>
+<meaning>in or through (a group of people or things)</meaning>
+<example>a red piece among the gray pieces</example>

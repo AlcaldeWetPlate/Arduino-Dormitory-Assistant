@@ -1,0 +1,3 @@
+<word>death</word>
+<meaning>the ending of a particular person's life</meaning>
+<example>the death of her friend</example>

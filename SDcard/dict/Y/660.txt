@@ -1,0 +1,3 @@
+<word>liable</word>
+<meaning>legally responsible for something</meaning>
+<example>be liable for his crimes</example>

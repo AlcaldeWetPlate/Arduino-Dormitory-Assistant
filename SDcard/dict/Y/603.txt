@@ -1,0 +1,3 @@
+<word>obvious</word>
+<meaning>easy to see or notice</meaning>
+<example>an obvious truth</example>

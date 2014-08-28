@@ -1,0 +1,3 @@
+<word>securely</word>
+<meaning>not loosely :so as not to move or be removed</meaning>
+<example>securely store your money</example>

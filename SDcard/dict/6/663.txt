@@ -1,0 +1,3 @@
+<word>poetry</word>
+<meaning>the writings of a poet :poems</meaning>
+<example>a translation of English poetry</example>

@@ -1,0 +1,3 @@
+<word>avowal</word>
+<meaning>an open and public statement</meaning>
+<example>an avowal of his love for her</example>

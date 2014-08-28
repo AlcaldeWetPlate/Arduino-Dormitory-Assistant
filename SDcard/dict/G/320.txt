@@ -1,0 +1,3 @@
+<word>glower</word>
+<meaning>to look at someone or something in an angry way</meaning>
+<example>The woman glowers in anger.</example>

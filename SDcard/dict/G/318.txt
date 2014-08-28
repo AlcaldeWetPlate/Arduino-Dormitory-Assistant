@@ -1,0 +1,3 @@
+<word>natty</word>
+<meaning>very neat and clean</meaning>
+<example>a natty, well-dressed man</example>

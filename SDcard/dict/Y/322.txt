@@ -1,0 +1,3 @@
+<word>undue</word>
+<meaning>more than is reasonable or necessary</meaning>
+<example>undue violence towards the man</example>

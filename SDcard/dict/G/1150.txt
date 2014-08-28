@@ -1,0 +1,3 @@
+<word>churl</word>
+<meaning>a crude uncouth ill-bred person lacking culture or refinement</meaning>
+<example>an ignorant churl</example>

@@ -1,0 +1,3 @@
+<word>emulate</word>
+<meaning>to try to be like (someone or something you admire)</meaning>
+<example>emulate her mother</example>

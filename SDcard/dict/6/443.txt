@@ -1,0 +1,3 @@
+<word>therefore</word>
+<meaning>for that reason :because of that</meaning>
+<example>a criminal, therefore a prisoner</example>

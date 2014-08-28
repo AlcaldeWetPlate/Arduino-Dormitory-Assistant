@@ -1,0 +1,3 @@
+<word>stodgy</word>
+<meaning>having very old-fashioned opinions, attitudes, etc.</meaning>
+<example>a stodgy old businessman</example>

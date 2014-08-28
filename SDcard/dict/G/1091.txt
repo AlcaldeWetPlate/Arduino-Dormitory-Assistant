@@ -1,0 +1,3 @@
+<word>gobble</word>
+<meaning>to swallow or eat (something) quickly</meaning>
+<example>gobble down food</example>

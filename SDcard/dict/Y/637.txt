@@ -1,0 +1,3 @@
+<word>pursuit</word>
+<meaning>the act of following or chasing someone or something</meaning>
+<example>in pursuit of her sister</example>

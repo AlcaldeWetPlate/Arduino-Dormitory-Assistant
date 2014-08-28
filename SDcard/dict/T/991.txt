@@ -1,0 +1,3 @@
+<word>plumage</word>
+<meaning>the feathers that cover the body of a bird</meaning>
+<example>show off his colorful plumage</example>

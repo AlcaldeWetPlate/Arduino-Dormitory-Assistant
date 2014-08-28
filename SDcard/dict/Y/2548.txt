@@ -1,0 +1,3 @@
+<word>notebook</word>
+<meaning>a book with blank pages that is used for writing notes</meaning>
+<example>write in a notebook</example>

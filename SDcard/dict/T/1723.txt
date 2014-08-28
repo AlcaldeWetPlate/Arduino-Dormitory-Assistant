@@ -1,0 +1,3 @@
+<word>inelastic</word>
+<meaning>not elastic</meaning>
+<example>an inelastic bar</example>

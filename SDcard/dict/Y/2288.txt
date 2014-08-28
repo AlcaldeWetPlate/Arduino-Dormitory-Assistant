@@ -1,0 +1,3 @@
+<word>rich</word>
+<meaning>having a lot of money and possessions</meaning>
+<example>the rich old couple on a boat</example>

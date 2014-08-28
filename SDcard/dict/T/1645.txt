@@ -1,0 +1,3 @@
+<word>spotless</word>
+<meaning>perfectly clean</meaning>
+<example>her spotless teeth</example>

@@ -1,0 +1,3 @@
+<word>recurrent</word>
+<meaning>happening or appearing again and again</meaning>
+<example>The sunrise is recurrent.</example>

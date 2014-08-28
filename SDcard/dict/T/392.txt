@@ -1,0 +1,3 @@
+<word>boom</word>
+<meaning>a deep and loud sound or cry</meaning>
+<example>the bombs went "BOOM"!</example>

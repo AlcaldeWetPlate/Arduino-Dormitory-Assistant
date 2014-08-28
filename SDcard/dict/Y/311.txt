@@ -1,0 +1,3 @@
+<word>swamp</word>
+<meaning>land that is always wet and often partly covered with water</meaning>
+<example>a swamp animal</example>

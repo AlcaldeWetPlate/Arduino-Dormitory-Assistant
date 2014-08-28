@@ -1,0 +1,3 @@
+<word>exculpate</word>
+<meaning>to prove that someone is not guilty of doing something wrong</meaning>
+<example>exculpate the clown in court</example>

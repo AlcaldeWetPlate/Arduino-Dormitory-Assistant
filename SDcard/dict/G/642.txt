@@ -1,0 +1,3 @@
+<word>squander</word>
+<meaning>to use (something) in a foolish or wasteful way</meaning>
+<example>squander money</example>

@@ -1,0 +1,3 @@
+<word>vex</word>
+<meaning>to annoy or worry (someone)</meaning>
+<example>Sth. vexes the annoyed woman.</example>

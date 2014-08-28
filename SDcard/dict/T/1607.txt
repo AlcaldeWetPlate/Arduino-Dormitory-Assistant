@@ -1,0 +1,3 @@
+<word>nonhuman</word>
+<meaning>not a man, woman, or child :not a human being</meaning>
+<example>a nonhuman primate</example>

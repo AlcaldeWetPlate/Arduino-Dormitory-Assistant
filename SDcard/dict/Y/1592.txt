@@ -1,0 +1,3 @@
+<word>actor</word>
+<meaning>a person who acts in a play, movie, etc.</meaning>
+<example>This actor wears two masks.</example>

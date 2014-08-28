@@ -1,0 +1,3 @@
+<word>threshold</word>
+<meaning>the point or level at which something begins or changes</meaning>
+<example>step over the threshold</example>

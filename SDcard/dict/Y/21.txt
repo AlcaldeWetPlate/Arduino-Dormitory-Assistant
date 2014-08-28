@@ -1,0 +1,3 @@
+<word>agreeable</word>
+<meaning>ready or willing to agree :willing to do or allow something</meaning>
+<example>an agreeable shop assistant</example>

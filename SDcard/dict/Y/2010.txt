@@ -1,0 +1,3 @@
+<word>apologise</word>
+<meaning>to make an apology</meaning>
+<example>The bug apologises to us.</example>

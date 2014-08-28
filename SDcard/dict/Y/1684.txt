@@ -1,0 +1,3 @@
+<word>hole</word>
+<meaning>a hollow place in the ground</meaning>
+<example>a golf hole</example>

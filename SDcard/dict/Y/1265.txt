@@ -1,0 +1,3 @@
+<word>withhold</word>
+<meaning>to refuse to provide (something)</meaning>
+<example>withhold an opinion</example>

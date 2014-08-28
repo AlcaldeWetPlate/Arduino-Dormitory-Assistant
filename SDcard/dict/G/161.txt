@@ -1,0 +1,3 @@
+<word>nautical</word>
+<meaning>relating to ships and sailing</meaning>
+<example>one nautical mile on the sea</example>

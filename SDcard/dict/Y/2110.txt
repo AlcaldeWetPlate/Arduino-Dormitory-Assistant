@@ -1,0 +1,3 @@
+<word>literal</word>
+<meaning>involving the ordinary or usual meaning of a word</meaning>
+<example>a literal translation of a document</example>

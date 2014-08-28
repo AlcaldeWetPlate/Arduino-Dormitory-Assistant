@@ -1,0 +1,3 @@
+<word>pace</word>
+<meaning>the speed at which someone or something moves</meaning>
+<example>The horse walks at a fast pace.</example>

@@ -1,0 +1,3 @@
+<word>hardship</word>
+<meaning>pain and suffering</meaning>
+<example>the hardships of poor children</example>

@@ -1,0 +1,3 @@
+<word>hazard</word>
+<meaning>a source of danger</meaning>
+<example>a traffic hazard</example>

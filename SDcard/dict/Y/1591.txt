@@ -1,0 +1,3 @@
+<word>romantic</word>
+<meaning>making someone think of love :suitable for romance</meaning>
+<example>a romantic trip to the beach</example>

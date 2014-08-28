@@ -1,0 +1,3 @@
+<word>vigour</word>
+<meaning>active strength of body or mind</meaning>
+<example>the girl's vigour and strength</example>

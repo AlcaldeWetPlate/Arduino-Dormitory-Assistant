@@ -1,0 +1,3 @@
+<word>wastrel</word>
+<meaning>a person who wastes time, money, etc.</meaning>
+<example>The wastrel loses his money.</example>

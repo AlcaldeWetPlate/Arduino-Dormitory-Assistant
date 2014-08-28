@@ -1,0 +1,3 @@
+<word>open</word>
+<meaning>not yet taken :available for someone to take or fill</meaning>
+<example>open books</example>

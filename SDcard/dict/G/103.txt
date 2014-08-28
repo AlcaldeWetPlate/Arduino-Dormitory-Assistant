@@ -1,0 +1,3 @@
+<word>fervent</word>
+<meaning>felt very strongly</meaning>
+<example>fervent love</example>

@@ -1,0 +1,3 @@
+<word>rig</word>
+<meaning>equipment or machinery that is used for a particular purpose</meaning>
+<example>an oil rig</example>

@@ -1,0 +1,3 @@
+<word>ecosystem</word>
+<meaning>everything that exists in a particular environment</meaning>
+<example>an ocean ecosystem</example>

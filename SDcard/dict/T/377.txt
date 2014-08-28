@@ -1,0 +1,3 @@
+<word>inhabit</word>
+<meaning>to live in (a place) :to have a home in (a place)</meaning>
+<example>They inhabit dirty buildings.</example>

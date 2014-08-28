@@ -1,0 +1,3 @@
+<word>depute</word>
+<meaning>to give (someone) a job or responsibility</meaning>
+<example>depute to an assistant</example>

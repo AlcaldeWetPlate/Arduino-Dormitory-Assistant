@@ -1,0 +1,3 @@
+<word>abundant</word>
+<meaning>existing or occurring in large amounts</meaning>
+<example>an abundant supply of tulips</example>

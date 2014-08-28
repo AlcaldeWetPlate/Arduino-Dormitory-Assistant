@@ -1,0 +1,3 @@
+<word>plump</word>
+<meaning>having a full, rounded shape</meaning>
+<example>a big, plump woman</example>

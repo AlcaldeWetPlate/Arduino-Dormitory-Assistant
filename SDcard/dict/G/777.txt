@@ -1,0 +1,3 @@
+<word>crest</word>
+<meaning>a group of decorative feathers at the top of a bird's head</meaning>
+<example>mountain's crest</example>

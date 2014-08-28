@@ -1,0 +1,3 @@
+<word>dynasty</word>
+<meaning>the period of time when a particular dynasty is in power</meaning>
+<example>an Egyptian dynasty</example>

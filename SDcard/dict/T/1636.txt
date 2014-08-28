@@ -1,0 +1,3 @@
+<word>sectional</word>
+<meaning>concerned only with one part of a group or community</meaning>
+<example>sectional view of pepper</example>

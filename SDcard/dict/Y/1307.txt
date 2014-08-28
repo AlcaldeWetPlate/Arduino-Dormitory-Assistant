@@ -1,0 +1,3 @@
+<word>painter</word>
+<meaning>an artist who paints pictures</meaning>
+<example>a well-known painter</example>

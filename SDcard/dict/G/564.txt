@@ -1,0 +1,3 @@
+<word>deter</word>
+<meaning>to prevent (something) from happening</meaning>
+<example>deter drivers from entering</example>

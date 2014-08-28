@@ -1,0 +1,3 @@
+<word>askew</word>
+<meaning>not straight :at an angle</meaning>
+<example>The businessman's tie is askew.</example>

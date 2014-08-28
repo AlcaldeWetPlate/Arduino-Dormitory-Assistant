@@ -1,0 +1,3 @@
+<word>horizon</word>
+<meaning>the line where the earth or sea seems to meet the sky</meaning>
+<example>the horizon behind the hills</example>

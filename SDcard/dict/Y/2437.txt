@@ -1,0 +1,3 @@
+<word>animal</word>
+<meaning>a living thing that is not a human being or plant</meaning>
+<example>animals on a boat</example>

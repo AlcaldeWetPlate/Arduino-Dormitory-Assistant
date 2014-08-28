@@ -1,0 +1,3 @@
+<word>shred</word>
+<meaning>a long, thin piece cut or torn off of something</meaning>
+<example>shred the papers</example>

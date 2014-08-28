@@ -1,0 +1,3 @@
+<word>expend</word>
+<meaning>to use or spend (something)</meaning>
+<example>expend money</example>

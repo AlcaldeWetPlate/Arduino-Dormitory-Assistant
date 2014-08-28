@@ -1,0 +1,3 @@
+<word>transient</word>
+<meaning>staying somewhere only a short time</meaning>
+<example>a transient visitor</example>

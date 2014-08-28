@@ -1,0 +1,3 @@
+<word>fester</word>
+<meaning>to become painful and infected</meaning>
+<example>the wound fester on the knees</example>

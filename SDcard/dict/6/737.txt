@@ -1,0 +1,3 @@
+<word>refrain</word>
+<meaning>a phrase or verse that is repeated regularly in a poem or song</meaning>
+<example>refrain from cellphone use</example>

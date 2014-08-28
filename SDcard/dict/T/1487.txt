@@ -1,0 +1,3 @@
+<word>floral</word>
+<meaning>of or relating to flowers</meaning>
+<example>beautiful floral decorations</example>

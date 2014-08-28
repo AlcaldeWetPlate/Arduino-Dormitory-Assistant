@@ -1,0 +1,3 @@
+<word>academic</word>
+<meaning>of or relating to schools and education</meaning>
+<example>academic workers at the university</example>

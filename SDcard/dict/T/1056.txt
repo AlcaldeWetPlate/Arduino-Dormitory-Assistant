@@ -1,0 +1,3 @@
+<word>neutral</word>
+<meaning>not supporting either side of an argument, fight, war, etc.</meaning>
+<example>The referee has to be neutral.</example>

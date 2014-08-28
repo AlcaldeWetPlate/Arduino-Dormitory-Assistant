@@ -1,0 +1,3 @@
+<word>reshuffle</word>
+<meaning>to shuffle (cards) again</meaning>
+<example>reshuffle the cards</example>

@@ -1,0 +1,3 @@
+<word>hoodwink</word>
+<meaning>to deceive or trick (someone)</meaning>
+<example>hoodwinked by a trick</example>

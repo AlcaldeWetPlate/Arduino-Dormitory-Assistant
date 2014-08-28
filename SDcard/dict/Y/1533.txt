@@ -1,0 +1,3 @@
+<word>mad</word>
+<meaning>unable to think in a clear or sensible way</meaning>
+<example>a mad scientist</example>

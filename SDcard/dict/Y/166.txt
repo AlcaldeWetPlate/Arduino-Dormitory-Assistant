@@ -1,0 +1,3 @@
+<word>exploit</word>
+<meaning>to use (someone or something) in a way that helps you unfairly</meaning>
+<example>exploit the children</example>

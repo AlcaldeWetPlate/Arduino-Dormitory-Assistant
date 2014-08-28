@@ -1,0 +1,3 @@
+<word>puddle</word>
+<meaning>a small amount of water, mud, etc., on the ground</meaning>
+<example>step in the puddles</example>

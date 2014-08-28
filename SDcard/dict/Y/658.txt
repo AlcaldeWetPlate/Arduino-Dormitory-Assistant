@@ -1,0 +1,3 @@
+<word>fulfil</word>
+<meaning>fill or meet a want or need</meaning>
+<example>fulfil their graduation requirements</example>

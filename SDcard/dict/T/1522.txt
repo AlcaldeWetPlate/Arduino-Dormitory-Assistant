@@ -1,0 +1,3 @@
+<word>feed on</word>
+<meaning>be sustained by</meaning>
+<example>The dog feeds on dog food.</example>

@@ -1,0 +1,3 @@
+<word>untold</word>
+<meaning>too many to count or too much to measure</meaning>
+<example>an untold number of stars</example>

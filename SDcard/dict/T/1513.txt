@@ -1,0 +1,3 @@
+<word>genre</word>
+<meaning>a particular type or category of literature or art</meaning>
+<example>different movie genres</example>

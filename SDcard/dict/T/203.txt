@@ -1,0 +1,3 @@
+<word>mandate</word>
+<meaning>the power to act that voters give to their elected leaders</meaning>
+<example>a government mandate</example>

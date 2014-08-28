@@ -1,0 +1,3 @@
+<word>virtuoso</word>
+<meaning>a very skillful musician</meaning>
+<example>a violin virtuoso</example>

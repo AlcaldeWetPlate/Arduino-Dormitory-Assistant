@@ -1,0 +1,3 @@
+<word>gradual</word>
+<meaning>not steep</meaning>
+<example>show gradual growth</example>

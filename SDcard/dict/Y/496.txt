@@ -1,0 +1,3 @@
+<word>cupboard</word>
+<meaning>a small room with shelves where you keep cups, dishes, or food</meaning>
+<example>a cupboard for keeping plates</example>

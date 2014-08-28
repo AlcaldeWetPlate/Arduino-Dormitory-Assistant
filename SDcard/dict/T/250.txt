@@ -1,0 +1,3 @@
+<word>shining</word>
+<meaning>producing or reflecting a bright, steady light</meaning>
+<example>the shining sun</example>

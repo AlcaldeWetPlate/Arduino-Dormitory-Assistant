@@ -1,0 +1,3 @@
+<word>timorous</word>
+<meaning>easily frightened</meaning>
+<example>the timorous, scared man</example>

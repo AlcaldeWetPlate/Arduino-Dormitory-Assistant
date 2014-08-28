@@ -1,0 +1,3 @@
+<word>minatory</word>
+<meaning>. threatening or foreshadowing evil or tragic developments</meaning>
+<example>make a minatory gesture with one's hands</example>

@@ -1,0 +1,3 @@
+<word>cold</word>
+<meaning>having a very low temperature</meaning>
+<example>the cold winter</example>

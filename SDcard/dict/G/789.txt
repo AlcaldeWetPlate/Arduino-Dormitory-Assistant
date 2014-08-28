@@ -1,0 +1,3 @@
+<word>captious</word>
+<meaning>tending to find and call attention to faults</meaning>
+<example>a captious boss</example>

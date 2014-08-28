@@ -1,0 +1,3 @@
+<word>datum</word>
+<meaning>a single piece of information</meaning>
+<example>a datum from the charts</example>

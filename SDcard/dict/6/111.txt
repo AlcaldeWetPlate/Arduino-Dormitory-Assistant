@@ -1,0 +1,3 @@
+<word>gloom</word>
+<meaning>a feeling of sadness</meaning>
+<example>She experiences gloom and sadness.</example>

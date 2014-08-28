@@ -1,0 +1,3 @@
+<word>raise</word>
+<meaning>to lift or move (something or someone) to a higher position</meaning>
+<example>raise the white flag</example>

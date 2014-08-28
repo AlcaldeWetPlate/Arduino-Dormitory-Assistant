@@ -1,0 +1,3 @@
+<word>extreme</word>
+<meaning>unusual and dangerous</meaning>
+<example>extreme turns on the roller coaster</example>

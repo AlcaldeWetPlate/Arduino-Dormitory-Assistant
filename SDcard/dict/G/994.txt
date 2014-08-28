@@ -1,0 +1,3 @@
+<word>obliging</word>
+<meaning>willing to help :helpful in a friendly way</meaning>
+<example>be obliging toward the old man</example>

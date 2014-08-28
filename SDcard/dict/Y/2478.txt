@@ -1,0 +1,3 @@
+<word>touch</word>
+<meaning>to put your hand, fingers, etc., on someone or something</meaning>
+<example>touch his wife's stomach</example>

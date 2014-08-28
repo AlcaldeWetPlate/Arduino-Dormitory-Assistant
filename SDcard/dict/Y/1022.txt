@@ -1,0 +1,3 @@
+<word>gap</word>
+<meaning>a space between two people or things</meaning>
+<example>leap across the narrow gap</example>

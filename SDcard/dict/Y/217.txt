@@ -1,0 +1,3 @@
+<word>inborn</word>
+<meaning>existing from the time someone is born :natural or instinctive</meaning>
+<example>a tiger's inborn ferocity</example>

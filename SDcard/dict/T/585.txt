@@ -1,0 +1,3 @@
+<word>studio</word>
+<meaning>a place where music is recorded</meaning>
+<example>the recording studio</example>

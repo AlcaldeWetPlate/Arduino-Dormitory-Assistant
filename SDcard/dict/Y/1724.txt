@@ -1,0 +1,3 @@
+<word>vase</word>
+<meaning>a container that is used for holding flowers or for decoration</meaning>
+<example>a dotted vase</example>

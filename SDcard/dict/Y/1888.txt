@@ -1,0 +1,3 @@
+<word>forehead</word>
+<meaning>the part of the face above the eyes</meaning>
+<example>She touches her forehead.</example>

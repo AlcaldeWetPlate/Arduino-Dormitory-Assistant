@@ -1,0 +1,3 @@
+<word>talent</word>
+<meaning>a special ability that allows someone to do something well</meaning>
+<example>artistic talent</example>

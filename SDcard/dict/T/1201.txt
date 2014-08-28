@@ -1,0 +1,3 @@
+<word>sharpen</word>
+<meaning>to make (something) sharp or sharper</meaning>
+<example>sharpen your pencil</example>

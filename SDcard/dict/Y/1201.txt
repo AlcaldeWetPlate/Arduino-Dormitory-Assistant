@@ -1,0 +1,3 @@
+<word>salary</word>
+<meaning>an amount of money that an employee is paid each year</meaning>
+<example>her weekly salary of $70</example>

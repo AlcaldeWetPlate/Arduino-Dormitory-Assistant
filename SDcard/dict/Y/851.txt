@@ -1,0 +1,3 @@
+<word>indoor</word>
+<meaning>done, living, located, or used inside a building</meaning>
+<example>simple indoor furniture</example>

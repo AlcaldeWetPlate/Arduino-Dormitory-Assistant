@@ -1,0 +1,3 @@
+<word>thigh</word>
+<meaning>the part of your leg that is above the knee</meaning>
+<example>the fat on her thigh</example>

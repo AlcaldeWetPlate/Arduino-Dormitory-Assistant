@@ -1,0 +1,3 @@
+<word>positive</word>
+<meaning>showing or expressing support, approval, or agreement</meaning>
+<example>a positive attitude</example>

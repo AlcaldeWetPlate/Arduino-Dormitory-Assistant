@@ -1,0 +1,3 @@
+<word>tip</word>
+<meaning>the end of something that is usually long and thin</meaning>
+<example>the tip of a pen</example>

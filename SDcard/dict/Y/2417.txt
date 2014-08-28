@@ -1,0 +1,3 @@
+<word>heavy</word>
+<meaning>having great weight :difficult to lift or move</meaning>
+<example>heavy cargo containers</example>

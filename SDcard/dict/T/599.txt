@@ -1,0 +1,3 @@
+<word>objective</word>
+<meaning>something you are trying to do or achieve :a goal or purpose</meaning>
+<example>meet their objective of making money</example>

@@ -1,0 +1,3 @@
+<word>outnumber</word>
+<meaning>to be more than (someone or something) in number</meaning>
+<example>My chess pieces outnumber yours.</example>

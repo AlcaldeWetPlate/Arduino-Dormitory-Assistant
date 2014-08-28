@@ -1,0 +1,3 @@
+<word>hydraulic</word>
+<meaning>operated by the pressure of a fluid</meaning>
+<example>hydraulic power from the river</example>

@@ -1,0 +1,3 @@
+<word>batch</word>
+<meaning>an amount of something that is made at one time</meaning>
+<example>a batch of cookies</example>

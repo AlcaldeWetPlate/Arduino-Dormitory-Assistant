@@ -1,0 +1,3 @@
+<word>leisure</word>
+<meaning>enjoyable activities that you do when you are not working</meaning>
+<example>go to the beach for leisure time</example>

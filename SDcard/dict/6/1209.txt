@@ -1,0 +1,3 @@
+<word>pajamas</word>
+<meaning>clothing that people wear in bed or while relaxing at home</meaning>
+<example>wear pajamas to bed</example>

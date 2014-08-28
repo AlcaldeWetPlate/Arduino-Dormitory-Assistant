@@ -1,0 +1,3 @@
+<word>tardy</word>
+<meaning>slow in moving, acting, or happening</meaning>
+<example>be tardy for work</example>

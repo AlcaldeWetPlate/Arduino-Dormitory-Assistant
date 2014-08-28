@@ -1,0 +1,3 @@
+<word>seabed</word>
+<meaning>the ground that is at the bottom of the sea</meaning>
+<example>the sandy ocean seabed</example>

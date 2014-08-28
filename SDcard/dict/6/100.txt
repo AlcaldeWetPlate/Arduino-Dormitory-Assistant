@@ -1,0 +1,3 @@
+<word>flip</word>
+<meaning>to cause (something) to turn or turn over quickly</meaning>
+<example>a flip of a coin</example>

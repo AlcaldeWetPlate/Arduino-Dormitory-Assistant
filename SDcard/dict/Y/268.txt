@@ -1,0 +1,3 @@
+<word>orphan</word>
+<meaning>a child whose parents are dead</meaning>
+<example>young Indian orphans</example>

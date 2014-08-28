@@ -1,0 +1,3 @@
+<word>motile</word>
+<meaning>(of spores or microorganisms) capable of movement</meaning>
+<example>the cell's motile tail</example>

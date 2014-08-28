@@ -1,0 +1,3 @@
+<word>clarify</word>
+<meaning>to make (something) clear or clearer</meaning>
+<example>He clarifies what he wrote.</example>

@@ -1,0 +1,3 @@
+<word>curtail</word>
+<meaning>to reduce or limit (something)</meaning>
+<example>curtail wasteful spending</example>

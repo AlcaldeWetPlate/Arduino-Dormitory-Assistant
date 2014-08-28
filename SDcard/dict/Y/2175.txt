@@ -1,0 +1,3 @@
+<word>impunity</word>
+<meaning>freedom from punishment, harm, or loss</meaning>
+<example>He can kill with impunity.</example>

@@ -1,0 +1,3 @@
+<word>pulverize</word>
+<meaning>to crush, beat, or grind (something) into powder or dust</meaning>
+<example>pulverize the car</example>

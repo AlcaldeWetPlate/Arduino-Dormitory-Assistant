@@ -1,0 +1,3 @@
+<word>revenue</word>
+<meaning>money that is made by or paid to a business or an organization</meaning>
+<example>revenues have increased</example>

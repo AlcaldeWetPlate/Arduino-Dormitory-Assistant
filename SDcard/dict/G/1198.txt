@@ -1,0 +1,3 @@
+<word>spent</word>
+<meaning>tired and drained of energy</meaning>
+<example>feel spent after working all day</example>

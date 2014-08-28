@@ -1,0 +1,3 @@
+<word>dominance</word>
+<meaning>the fact or state of being dominant</meaning>
+<example>dogs fight to establish dominance</example>

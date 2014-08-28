@@ -1,0 +1,3 @@
+<word>testy</word>
+<meaning>becoming angry or annoyed easily</meaning>
+<example>The angry, testy little girl.</example>

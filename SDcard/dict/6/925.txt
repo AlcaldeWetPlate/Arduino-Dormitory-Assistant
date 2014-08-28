@@ -1,0 +1,3 @@
+<word>puppy</word>
+<meaning>a young dog</meaning>
+<example>a small, cute puppy</example>

@@ -1,0 +1,3 @@
+<word>channel</word>
+<meaning>a television or radio station</meaning>
+<example>change the channel</example>

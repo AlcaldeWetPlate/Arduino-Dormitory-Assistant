@@ -1,0 +1,3 @@
+<word>unlimited</word>
+<meaning>without any limits or restrictions</meaning>
+<example>unlimited number value</example>

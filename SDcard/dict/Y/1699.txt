@@ -1,0 +1,3 @@
+<word>teenager</word>
+<meaning>someone who is between 13 and 19 years old</meaning>
+<example>a young teenager</example>

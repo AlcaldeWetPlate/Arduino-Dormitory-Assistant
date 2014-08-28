@@ -1,0 +1,3 @@
+<word>avert</word>
+<meaning>to turn (your eyes, gaze, etc.) away or aside</meaning>
+<example>avert eye contact</example>

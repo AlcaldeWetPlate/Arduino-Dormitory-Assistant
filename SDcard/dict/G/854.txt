@@ -1,0 +1,3 @@
+<word>esoteric</word>
+<meaning>only taught to or understood by members of a special group</meaning>
+<example>The pictures' meanings are esoteric.</example>

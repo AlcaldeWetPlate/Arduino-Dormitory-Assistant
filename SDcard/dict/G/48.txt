@@ -1,0 +1,3 @@
+<word>cascade</word>
+<meaning>a small, steep waterfall</meaning>
+<example>a cascade of water</example>

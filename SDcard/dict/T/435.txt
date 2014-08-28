@@ -1,0 +1,3 @@
+<word>immigrant</word>
+<meaning>a person who comes to a country to live there</meaning>
+<example>an immigrant in a new country</example>

@@ -1,0 +1,3 @@
+<word>fill</word>
+<meaning>to make (something) full</meaning>
+<example>fill up your car</example>

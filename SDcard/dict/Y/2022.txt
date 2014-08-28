@@ -1,0 +1,3 @@
+<word>tortoise</word>
+<meaning>a kind of turtle that lives on land</meaning>
+<example>a slow, old tortoise</example>

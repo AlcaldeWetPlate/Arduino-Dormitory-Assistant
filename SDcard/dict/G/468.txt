@@ -1,0 +1,3 @@
+<word>decrepit</word>
+<meaning>old and in bad condition or poor health</meaning>
+<example>The abandoned buildings are decrepit.</example>

@@ -1,0 +1,3 @@
+<word>cognizant</word>
+<meaning>aware of something</meaning>
+<example>be cognizant of sth. in a book</example>

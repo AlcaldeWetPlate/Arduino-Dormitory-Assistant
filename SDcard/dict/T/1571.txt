@@ -1,0 +1,3 @@
+<word>cellist</word>
+<meaning>a person who plays the cello</meaning>
+<example>a handsome cellist playing music</example>

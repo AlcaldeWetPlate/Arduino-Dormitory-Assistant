@@ -1,0 +1,3 @@
+<word>fabricate</word>
+<meaning>to make or build (something)</meaning>
+<example>fabricate machine parts</example>

@@ -1,0 +1,3 @@
+<word>foodstuff</word>
+<meaning>a substance that is used as food</meaning>
+<example>foodstuffs in a wooden box</example>

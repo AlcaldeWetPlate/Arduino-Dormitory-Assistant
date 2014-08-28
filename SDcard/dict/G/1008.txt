@@ -1,0 +1,3 @@
+<word>embezzle</word>
+<meaning>to steal money that you have been trusted with</meaning>
+<example>embezzle money</example>

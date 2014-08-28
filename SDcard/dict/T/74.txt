@@ -1,0 +1,3 @@
+<word>creditor</word>
+<meaning>a person, bank, or company that lends money to someone</meaning>
+<example>pay your creditor</example>

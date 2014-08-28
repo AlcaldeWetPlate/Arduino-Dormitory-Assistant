@@ -1,0 +1,3 @@
+<word>sloop</word>
+<meaning>a small sailboat with one mast</meaning>
+<example>a sloop at sea</example>

@@ -1,0 +1,3 @@
+<word>epoch</word>
+<meaning>a period of time that is very important in history</meaning>
+<example>the epoch of the dinosaurs</example>

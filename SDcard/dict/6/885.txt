@@ -1,0 +1,3 @@
+<word>readily</word>
+<meaning>quickly and easily</meaning>
+<example>The dog readily runs ahead.</example>

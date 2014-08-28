@@ -1,0 +1,3 @@
+<word>stocking</word>
+<meaning>a close-fitting usually long covering for the foot and leg</meaning>
+<example>wear stockings</example>

@@ -1,0 +1,3 @@
+<word>kilowatt</word>
+<meaning>a unit of electrical power equal to 1,000 watts</meaning>
+<example>kilowatts per hour (KPH)</example>

@@ -1,0 +1,3 @@
+<word>despoil</word>
+<meaning>to forcefully take what is valuable from (a place)</meaning>
+<example>The soldiers despoil the countryside.</example>

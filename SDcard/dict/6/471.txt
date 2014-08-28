@@ -1,0 +1,3 @@
+<word>earnings</word>
+<meaning>money received as wages or gained as profit</meaning>
+<example>earnings from growing plants</example>

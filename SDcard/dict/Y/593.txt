@@ -1,0 +1,3 @@
+<word>taboo</word>
+<meaning>not acceptable to talk about or do</meaning>
+<example>a taboo against bullying</example>

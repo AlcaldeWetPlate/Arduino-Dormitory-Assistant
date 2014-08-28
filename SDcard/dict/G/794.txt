@@ -1,0 +1,3 @@
+<word>voluble</word>
+<meaning>talking a lot in an energetic and rapid way</meaning>
+<example>a voluble child</example>

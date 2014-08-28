@@ -1,0 +1,3 @@
+<word>confine</word>
+<meaning>to keep (a person or animal) in a place (such as a prison)</meaning>
+<example>confine the man to a jail cell</example>

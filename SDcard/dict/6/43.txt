@@ -1,0 +1,3 @@
+<word>clarity</word>
+<meaning>the quality of being clear</meaning>
+<example>the clarity of the water</example>

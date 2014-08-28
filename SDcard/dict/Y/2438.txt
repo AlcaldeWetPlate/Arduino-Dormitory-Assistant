@@ -1,0 +1,3 @@
+<word>neither</word>
+<meaning>also not</meaning>
+<example>Neither he nor she likes it.</example>

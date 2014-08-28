@@ -1,0 +1,3 @@
+<word>item</word>
+<meaning>an individual thing :a separate part or thing</meaning>
+<example>different items of furniture</example>

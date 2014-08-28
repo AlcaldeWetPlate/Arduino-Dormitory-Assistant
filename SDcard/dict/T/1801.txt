@@ -1,0 +1,3 @@
+<word>keyboard</word>
+<meaning>the set of keys that are used for a computer or typewriter</meaning>
+<example>type on the keyboard</example>

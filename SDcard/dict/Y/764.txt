@@ -1,0 +1,3 @@
+<word>desire</word>
+<meaning>a strong wish</meaning>
+<example>sexual desire</example>

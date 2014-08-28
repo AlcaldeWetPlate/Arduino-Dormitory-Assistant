@@ -1,0 +1,3 @@
+<word>retention</word>
+<meaning>the act of keeping extra liquid, heat, etc., inside the body</meaning>
+<example>the plant's water retention</example>

@@ -1,0 +1,3 @@
+<word>teeter</word>
+<meaning>to move in an unsteady way back and forth or from side to side</meaning>
+<example>teeter on the edge of the cliff</example>

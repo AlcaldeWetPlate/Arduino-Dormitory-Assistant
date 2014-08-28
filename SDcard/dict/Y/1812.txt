@@ -1,0 +1,3 @@
+<word>hike</word>
+<meaning>a usually long walk especially for pleasure or exercise</meaning>
+<example>a hike up the mountain</example>

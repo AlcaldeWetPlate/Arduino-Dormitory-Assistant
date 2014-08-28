@@ -1,0 +1,3 @@
+<word>frightful</word>
+<meaning>causing fear</meaning>
+<example>frightful ghosts</example>

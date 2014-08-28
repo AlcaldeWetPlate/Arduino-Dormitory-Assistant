@@ -1,0 +1,3 @@
+<word>coarse</word>
+<meaning>having a rough quality</meaning>
+<example>a coarse man</example>

@@ -1,0 +1,3 @@
+<word>feed</word>
+<meaning>to give (something) as food to someone or something</meaning>
+<example>feed the baby</example>

@@ -1,0 +1,3 @@
+<word>norm</word>
+<meaning>standards of proper or acceptable behavior</meaning>
+<example>traffic norms</example>

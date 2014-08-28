@@ -1,0 +1,3 @@
+<word>physical</word>
+<meaning>relating to the body of a person instead of the mind</meaning>
+<example>physical fitness</example>

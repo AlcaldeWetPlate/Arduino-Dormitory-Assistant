@@ -1,0 +1,3 @@
+<word>fluster</word>
+<meaning>to make (someone) nervous and confused</meaning>
+<example>Sth. embarrassing flusters her.</example>

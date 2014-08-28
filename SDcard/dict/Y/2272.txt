@@ -1,0 +1,3 @@
+<word>stream</word>
+<meaning>a natural flow of water that is smaller than a river</meaning>
+<example>a stream in a forest</example>

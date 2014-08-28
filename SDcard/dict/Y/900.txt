@@ -1,0 +1,3 @@
+<word>lunar</word>
+<meaning>of or relating to the moon</meaning>
+<example>a lunar cycle</example>

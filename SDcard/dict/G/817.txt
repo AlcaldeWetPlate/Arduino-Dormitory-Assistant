@@ -1,0 +1,3 @@
+<word>convex</word>
+<meaning>having a shape like the outside of a bowl :curving outward</meaning>
+<example>the convex shape of a lens</example>

@@ -1,0 +1,3 @@
+<word>auger</word>
+<meaning>a sharp tool that is used chiefly for making holes</meaning>
+<example>The auger makes a hole in the wood.</example>

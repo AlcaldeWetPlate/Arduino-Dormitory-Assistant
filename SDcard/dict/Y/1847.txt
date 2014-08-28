@@ -1,0 +1,3 @@
+<word>bat</word>
+<meaning>an animal that has wings and a furry body like a mouse</meaning>
+<example>the flying black bats</example>

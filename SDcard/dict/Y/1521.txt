@@ -1,0 +1,3 @@
+<word>condition</word>
+<meaning>a sickness or disease that a person has for a long time</meaning>
+<example>a heart condition</example>

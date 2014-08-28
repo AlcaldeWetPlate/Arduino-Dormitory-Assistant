@@ -1,0 +1,3 @@
+<word>straight</word>
+<meaning>not having curves, bends, or angles</meaning>
+<example>a straight road</example>

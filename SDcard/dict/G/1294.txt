@@ -1,0 +1,3 @@
+<word>provisory</word>
+<meaning>subject to a proviso</meaning>
+<example>sign a provisory form</example>

@@ -1,0 +1,3 @@
+<word>deceive</word>
+<meaning>to make (someone) believe something that is not true</meaning>
+<example>deceive the old man</example>

@@ -1,0 +1,3 @@
+<word>nightmare</word>
+<meaning>a dream that frightens a sleeping person :a very bad dream</meaning>
+<example>She wakes up from a nightmare.</example>

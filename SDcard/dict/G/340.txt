@@ -1,0 +1,3 @@
+<word>compose</word>
+<meaning>to create and write (a piece of music or writing)</meaning>
+<example>compose new songs on a keyboard</example>

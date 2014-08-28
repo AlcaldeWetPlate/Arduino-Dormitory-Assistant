@@ -1,0 +1,3 @@
+<word>orderly</word>
+<meaning>arranged or organized in a logical or regular way</meaning>
+<example>binders in an orderly sequence</example>

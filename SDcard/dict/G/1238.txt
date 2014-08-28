@@ -1,0 +1,3 @@
+<word>zesty</word>
+<meaning>having a strong, pleasant, and somewhat spicy flavor</meaning>
+<example>the zesty taste of lemons</example>

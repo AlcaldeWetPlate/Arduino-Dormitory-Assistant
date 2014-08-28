@@ -1,0 +1,3 @@
+<word>sweet</word>
+<meaning>containing a lot of sugar</meaning>
+<example>sweet food</example>

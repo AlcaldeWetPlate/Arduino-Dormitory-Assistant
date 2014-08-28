@@ -1,0 +1,3 @@
+<word>effete</word>
+<meaning>lacking strength, courage, or spirit</meaning>
+<example>a rich, effete woman</example>

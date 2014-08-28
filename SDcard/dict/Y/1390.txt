@@ -1,0 +1,3 @@
+<word>support</word>
+<meaning>to give help or assistance to (someone or something)</meaning>
+<example>He supports his son.</example>

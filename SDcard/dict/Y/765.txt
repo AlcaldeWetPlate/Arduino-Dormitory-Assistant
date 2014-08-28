@@ -1,0 +1,3 @@
+<word>learned</word>
+<meaning>having or showing a lot of learning, education, or knowledge</meaning>
+<example>a learned dog</example>

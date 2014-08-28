@@ -1,0 +1,3 @@
+<word>embark</word>
+<meaning>to begin a journey especially on a ship or airplane</meaning>
+<example>embark on a sea journey</example>

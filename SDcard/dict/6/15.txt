@@ -1,0 +1,3 @@
+<word>apt</word>
+<meaning>likely to do something :having a tendency to do something</meaning>
+<example>be apt to play  guitar</example>

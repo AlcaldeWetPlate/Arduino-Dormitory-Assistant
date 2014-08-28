@@ -1,0 +1,3 @@
+<word>efface</word>
+<meaning>to cause (something) to fade or disappear</meaning>
+<example>efface the image on the coin</example>

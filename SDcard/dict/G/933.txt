@@ -1,0 +1,3 @@
+<word>fetid</word>
+<meaning>having a strong, unpleasant smell</meaning>
+<example>the smelly, fetid old food</example>

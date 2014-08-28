@@ -1,0 +1,3 @@
+<word>boulder</word>
+<meaning>a very large stone or rounded piece of rock</meaning>
+<example>giant stone boulders</example>

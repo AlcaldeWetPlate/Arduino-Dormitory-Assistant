@@ -1,0 +1,3 @@
+<word>holy</word>
+<meaning>connected to a god or a religion</meaning>
+<example>a holy book</example>

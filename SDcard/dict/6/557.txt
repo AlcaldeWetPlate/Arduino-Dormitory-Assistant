@@ -1,0 +1,3 @@
+<word>domestic</word>
+<meaning>of, relating to, or made in your own country</meaning>
+<example>domestic duties, like cooking</example>

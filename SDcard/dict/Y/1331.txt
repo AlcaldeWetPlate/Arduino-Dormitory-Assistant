@@ -1,0 +1,3 @@
+<word>resistant</word>
+<meaning>not affected or harmed by something</meaning>
+<example>fire resistant clothing</example>

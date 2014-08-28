@@ -1,0 +1,3 @@
+<word>fellow</word>
+<meaning>a male person :a boy or man</meaning>
+<example>teamwork with one's fellow man</example>

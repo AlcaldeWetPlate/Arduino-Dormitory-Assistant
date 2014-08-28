@@ -1,0 +1,3 @@
+<word>sparse</word>
+<meaning>present only in small amounts :less than necessary or normal</meaning>
+<example>the sparse vegetation</example>

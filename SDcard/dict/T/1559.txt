@@ -1,0 +1,3 @@
+<word>notably</word>
+<meaning>in a way that attracts or deserves attention</meaning>
+<example>a notably high rank</example>

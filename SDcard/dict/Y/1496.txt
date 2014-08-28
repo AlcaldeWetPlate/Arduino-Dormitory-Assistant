@@ -1,0 +1,3 @@
+<word>signify</word>
+<meaning>to be a sign of (something) :to mean (something)</meaning>
+<example>The signs signify traffic rules.</example>

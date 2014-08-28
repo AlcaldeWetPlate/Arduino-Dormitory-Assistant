@@ -1,0 +1,3 @@
+<word>disclose</word>
+<meaning>to make (something) known to the public</meaning>
+<example>disclose his wrongdoings</example>

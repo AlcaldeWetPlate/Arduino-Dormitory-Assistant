@@ -1,0 +1,3 @@
+<word>protrude</word>
+<meaning>to stick out</meaning>
+<example>protrude from her mouth</example>

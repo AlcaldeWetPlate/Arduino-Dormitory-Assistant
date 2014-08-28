@@ -1,0 +1,3 @@
+<word>broad</word>
+<meaning>large from one side to the other side</meaning>
+<example>wear a broad brimmed hat</example>

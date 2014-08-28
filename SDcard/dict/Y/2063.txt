@@ -1,0 +1,3 @@
+<word>fume</word>
+<meaning>to say (something) in an angry way</meaning>
+<example>fume with anger</example>

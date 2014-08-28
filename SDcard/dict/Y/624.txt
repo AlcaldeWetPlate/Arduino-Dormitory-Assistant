@@ -1,0 +1,3 @@
+<word>idle</word>
+<meaning>not having much activity</meaning>
+<example>an idle worker</example>

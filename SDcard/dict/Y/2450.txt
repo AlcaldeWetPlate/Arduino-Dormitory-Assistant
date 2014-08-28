@@ -1,0 +1,3 @@
+<word>cent</word>
+<meaning>a unit of money that is equal to</meaning>
+<example>be worth one cent</example>

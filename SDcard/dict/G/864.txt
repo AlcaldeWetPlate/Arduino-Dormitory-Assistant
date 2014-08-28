@@ -1,0 +1,3 @@
+<word>delineate</word>
+<meaning>to clearly show or describe (something)</meaning>
+<example>delineate and explain sth.</example>

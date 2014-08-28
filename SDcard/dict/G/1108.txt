@@ -1,0 +1,3 @@
+<word>vim</word>
+<meaning>energy and enthusiasm</meaning>
+<example>the excited boy's vim</example>

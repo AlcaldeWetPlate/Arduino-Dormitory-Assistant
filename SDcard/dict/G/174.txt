@@ -1,0 +1,3 @@
+<word>procure</word>
+<meaning>to get (something) by some action or effort</meaning>
+<example>procure clothes at the mall</example>

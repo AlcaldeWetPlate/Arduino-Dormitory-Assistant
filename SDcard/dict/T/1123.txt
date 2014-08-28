@@ -1,0 +1,3 @@
+<word>acidity</word>
+<meaning>the property of being acidic</meaning>
+<example>lemon's acidity</example>

@@ -1,0 +1,3 @@
+<word>cool</word>
+<meaning>somewhat cold :not warm or hot</meaning>
+<example>use water to  keep cool</example>

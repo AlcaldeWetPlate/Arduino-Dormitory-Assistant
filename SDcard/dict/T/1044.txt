@@ -1,0 +1,3 @@
+<word>defrost</word>
+<meaning>to warm something that is frozen until it is no longer frozen</meaning>
+<example>defrost the windshield</example>

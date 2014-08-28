@@ -1,0 +1,3 @@
+<word>shadowy</word>
+<meaning>not clearly seen or understood</meaning>
+<example>a shadowy figure on the beach</example>

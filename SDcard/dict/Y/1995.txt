@@ -1,0 +1,3 @@
+<word>pebble</word>
+<meaning>a small, round stone</meaning>
+<example>pebbles on the beach</example>

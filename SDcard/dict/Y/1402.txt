@@ -1,0 +1,3 @@
+<word>hollow</word>
+<meaning>having nothing inside :not solid</meaning>
+<example>the hollow tree</example>

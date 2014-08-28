@@ -1,0 +1,3 @@
+<word>quaff</word>
+<meaning>to drink a large amount of (something) quickly</meaning>
+<example>quaff the milk</example>

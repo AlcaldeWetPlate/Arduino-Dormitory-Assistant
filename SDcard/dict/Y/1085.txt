@@ -1,0 +1,3 @@
+<word>pour</word>
+<meaning>to fill a cup or glass with a drink for someone</meaning>
+<example>pour some wine</example>

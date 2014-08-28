@@ -1,0 +1,3 @@
+<word>mouthful</word>
+<meaning>as much as a mouth will hold</meaning>
+<example>a mouthful of food</example>

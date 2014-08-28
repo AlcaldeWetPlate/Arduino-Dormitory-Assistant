@@ -1,0 +1,3 @@
+<word>fame</word>
+<meaning>the condition of being known or recognized by many people</meaning>
+<example>a celebrity's fame</example>

@@ -1,0 +1,3 @@
+<word>interior</word>
+<meaning>an inner part, area, or surface</meaning>
+<example>interior furnishing</example>

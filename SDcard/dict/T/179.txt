@@ -1,0 +1,3 @@
+<word>intruder</word>
+<meaning>a person who enters a place illegally</meaning>
+<example>a female intruder</example>

@@ -1,0 +1,3 @@
+<word>exclusive</word>
+<meaning>only allowing in people from a high social class</meaning>
+<example>exclusive rights</example>

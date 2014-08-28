@@ -1,0 +1,3 @@
+<word>jet</word>
+<meaning>a fast airplane that has one or more jet engines</meaning>
+<example>a jet plane</example>

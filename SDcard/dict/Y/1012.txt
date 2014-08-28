@@ -1,0 +1,3 @@
+<word>mirror</word>
+<meaning>a piece of glass that reflects images</meaning>
+<example>look in the mirror</example>

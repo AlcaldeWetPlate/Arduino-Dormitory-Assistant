@@ -1,0 +1,3 @@
+<word>encircle</word>
+<meaning>to form a circle around (someone or something)</meaning>
+<example>Angels encircle the devil.</example>

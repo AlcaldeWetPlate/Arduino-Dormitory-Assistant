@@ -1,0 +1,3 @@
+<word>miner</word>
+<meaning>a person who works in a mine</meaning>
+<example>a gold miner</example>

@@ -1,0 +1,3 @@
+<word>scads</word>
+<meaning>a large amount of something</meaning>
+<example>scads of wood</example>

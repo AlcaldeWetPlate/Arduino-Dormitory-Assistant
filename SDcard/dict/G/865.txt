@@ -1,0 +1,3 @@
+<word>sanguine</word>
+<meaning>confident and hopeful</meaning>
+<example>She is happy and sanguine about sth.</example>

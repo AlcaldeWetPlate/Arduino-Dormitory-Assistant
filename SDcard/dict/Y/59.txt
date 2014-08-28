@@ -1,0 +1,3 @@
+<word>blast</word>
+<meaning>a powerful explosion</meaning>
+<example>a big, explosive blast</example>

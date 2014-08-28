@@ -1,0 +1,3 @@
+<word>groove</word>
+<meaning>a long, narrow cut or low area in a surface</meaning>
+<example>the record's grooves</example>

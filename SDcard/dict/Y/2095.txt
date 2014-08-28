@@ -1,0 +1,3 @@
+<word>lost</word>
+<meaning>unable to be found</meaning>
+<example>be lost in the forest</example>

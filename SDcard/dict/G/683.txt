@@ -1,0 +1,3 @@
+<word>cipher</word>
+<meaning>a way of changing a message to keep it secret</meaning>
+<example>the cipher for the lock</example>

@@ -1,0 +1,3 @@
+<word>lullaby</word>
+<meaning>a song used to help a child fall asleep</meaning>
+<example>sing a lullaby</example>

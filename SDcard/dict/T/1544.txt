@@ -1,0 +1,3 @@
+<word>smoothly</word>
+<meaning>without any problems or difficulties</meaning>
+<example>The air show goes smoothly.</example>

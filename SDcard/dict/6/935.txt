@@ -1,0 +1,3 @@
+<word>serpent</word>
+<meaning>a usually large snake</meaning>
+<example>a long, poisonous serpent</example>

@@ -1,0 +1,3 @@
+<word>departure</word>
+<meaning>the act of leaving a place especially to start a journey</meaning>
+<example>departure from this country</example>

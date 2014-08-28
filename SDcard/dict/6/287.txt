@@ -1,0 +1,3 @@
+<word>embassy</word>
+<meaning>the building where an ambassador lives and works</meaning>
+<example>the French embassy</example>

@@ -1,0 +1,3 @@
+<word>gripe</word>
+<meaning>to complain about something</meaning>
+<example>gripe about how you hate sb.</example>

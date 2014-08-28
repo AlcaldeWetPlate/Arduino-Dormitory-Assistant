@@ -1,0 +1,3 @@
+<word>romance</word>
+<meaning>the feeling of being in love</meaning>
+<example>romance between the young couple</example>

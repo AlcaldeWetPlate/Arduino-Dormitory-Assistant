@@ -1,0 +1,3 @@
+<word>mislead</word>
+<meaning>to cause (someone) to believe something that is not true</meaning>
+<example>A magician misleads the audience.</example>

@@ -1,0 +1,3 @@
+<word>gorgeous</word>
+<meaning>very beautiful or attractive</meaning>
+<example>the gorgeous cherry blossoms</example>

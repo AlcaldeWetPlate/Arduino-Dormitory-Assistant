@@ -1,0 +1,3 @@
+<word>sparsely</word>
+<meaning>in a sparse manner</meaning>
+<example>a sparsely populated region</example>

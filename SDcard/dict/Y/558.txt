@@ -1,0 +1,3 @@
+<word>unanimous</word>
+<meaning>having the same opinion</meaning>
+<example>unanimous agreement</example>

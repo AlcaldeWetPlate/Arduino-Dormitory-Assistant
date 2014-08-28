@@ -1,0 +1,3 @@
+<word>mug</word>
+<meaning>a large drinking cup with a handle</meaning>
+<example>a hot mug of coffee</example>

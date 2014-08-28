@@ -1,0 +1,3 @@
+<word>adversely</word>
+<meaning>in an adverse manner</meaning>
+<example>adversely affect her health</example>

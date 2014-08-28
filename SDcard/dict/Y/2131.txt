@@ -1,0 +1,3 @@
+<word>Latin</word>
+<meaning>any dialect of the language of ancient Rome</meaning>
+<example>the ancient Latin language</example>

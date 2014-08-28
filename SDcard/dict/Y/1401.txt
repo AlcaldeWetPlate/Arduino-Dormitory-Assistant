@@ -1,0 +1,3 @@
+<word>flash</word>
+<meaning>a sudden bright light</meaning>
+<example>a flash of light</example>

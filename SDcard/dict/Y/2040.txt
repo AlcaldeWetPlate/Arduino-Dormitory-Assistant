@@ -1,0 +1,3 @@
+<word>awfully</word>
+<meaning>in a very bad or unpleasant way</meaning>
+<example>an awfully violent man</example>

@@ -1,0 +1,3 @@
+<word>prior</word>
+<meaning>existing earlier in time</meaning>
+<example>prior to today</example>

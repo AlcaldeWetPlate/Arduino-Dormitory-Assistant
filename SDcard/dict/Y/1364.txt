@@ -1,0 +1,3 @@
+<word>humorous</word>
+<meaning>causing laughter</meaning>
+<example>a humorous comedian</example>

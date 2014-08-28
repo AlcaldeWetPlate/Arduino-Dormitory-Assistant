@@ -1,0 +1,3 @@
+<word>package</word>
+<meaning>a wrapper or container that covers or holds something</meaning>
+<example>three brown packages</example>

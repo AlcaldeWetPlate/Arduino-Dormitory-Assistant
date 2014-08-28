@@ -1,0 +1,3 @@
+<word>probable</word>
+<meaning>likely but not certain to be or become true or real</meaning>
+<example>be probable to win</example>

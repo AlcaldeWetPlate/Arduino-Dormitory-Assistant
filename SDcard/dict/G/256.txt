@@ -1,0 +1,3 @@
+<word>nauseate</word>
+<meaning>to cause (someone) to feel like vomiting</meaning>
+<example>Sth. nauseates the young woman.</example>

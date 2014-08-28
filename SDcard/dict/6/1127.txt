@@ -1,0 +1,3 @@
+<word>expanding</word>
+<meaning>increasing in area or volume or bulk or range</meaning>
+<example>an expanding business</example>

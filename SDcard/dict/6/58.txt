@@ -1,0 +1,3 @@
+<word>constrain</word>
+<meaning>to limit or restrict (something or someone)</meaning>
+<example>be constrained by his friends</example>

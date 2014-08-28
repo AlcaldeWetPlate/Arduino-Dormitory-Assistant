@@ -1,0 +1,3 @@
+<word>maelstrom</word>
+<meaning>a dangerous area of water that moves very fast in a circle</meaning>
+<example>an ocean maelstrom</example>

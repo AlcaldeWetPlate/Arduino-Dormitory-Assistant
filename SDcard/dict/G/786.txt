@@ -1,0 +1,3 @@
+<word>fretful</word>
+<meaning>upset and worried</meaning>
+<example>a fretful businessman</example>

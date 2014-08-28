@@ -1,0 +1,3 @@
+<word>shepherd</word>
+<meaning>a person whose job is to take care of sheep</meaning>
+<example>The shepherd watches the sheep.</example>

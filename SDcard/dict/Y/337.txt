@@ -1,0 +1,3 @@
+<word>excessive</word>
+<meaning>going beyond what is usual, normal, or proper</meaning>
+<example>excessive force</example>

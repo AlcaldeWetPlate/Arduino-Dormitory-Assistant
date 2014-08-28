@@ -1,0 +1,3 @@
+<word>imagery</word>
+<meaning>pictures or photographs</meaning>
+<example>fantastic, crazy imagery</example>

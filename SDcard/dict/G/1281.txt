@@ -1,0 +1,3 @@
+<word>sybarite</word>
+<meaning>a person addicted to luxury and pleasures of the senses</meaning>
+<example>the drunk sybarites</example>

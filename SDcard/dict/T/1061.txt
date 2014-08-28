@@ -1,0 +1,3 @@
+<word>uncharted</word>
+<meaning>not recorded or located on a map, chart, or plan</meaning>
+<example>explore uncharted territory</example>

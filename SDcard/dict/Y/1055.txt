@@ -1,0 +1,3 @@
+<word>passion</word>
+<meaning>a strong sexual or romantic feeling for someone</meaning>
+<example>passion between two lovers</example>

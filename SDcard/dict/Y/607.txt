@@ -1,0 +1,3 @@
+<word>striking</word>
+<meaning>unusual or extreme in a way that attracts attention</meaning>
+<example>the blond woman's striking appearance</example>

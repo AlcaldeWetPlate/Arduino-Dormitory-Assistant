@@ -1,0 +1,3 @@
+<word>annoyance</word>
+<meaning>slight anger :the feeling of being annoyed</meaning>
+<example>He thinks fights are an annoyance.</example>

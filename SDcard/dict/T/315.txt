@@ -1,0 +1,3 @@
+<word>available</word>
+<meaning>not being used or occupied by someone or something else</meaning>
+<example>be available for rent</example>

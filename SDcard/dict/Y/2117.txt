@@ -1,0 +1,3 @@
+<word>workman</word>
+<meaning>a skilled worker (such as an electrician or carpenter)</meaning>
+<example>A workman concentrates on his job.</example>

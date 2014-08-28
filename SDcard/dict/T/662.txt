@@ -1,0 +1,3 @@
+<word>scheme</word>
+<meaning>a clever and often dishonest plan to do or get something</meaning>
+<example>This scheme shows how to play.</example>

@@ -1,0 +1,3 @@
+<word>hesitance</word>
+<meaning>a feeling of diffidence about doing something</meaning>
+<example>his hesitance to choos</example>

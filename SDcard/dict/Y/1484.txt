@@ -1,0 +1,3 @@
+<word>trail</word>
+<meaning>a path through a forest, field, etc.</meaning>
+<example>a trail through the field</example>

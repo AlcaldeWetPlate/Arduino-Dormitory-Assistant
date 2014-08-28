@@ -1,0 +1,3 @@
+<word>aggravate</word>
+<meaning>to make (someone) angry :to annoy or bother (someone)</meaning>
+<example>My boyfriend aggravates me.</example>

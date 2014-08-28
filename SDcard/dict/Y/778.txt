@@ -1,0 +1,3 @@
+<word>valley</word>
+<meaning>an area of low land between hills or mountains</meaning>
+<example>see the entire valley</example>

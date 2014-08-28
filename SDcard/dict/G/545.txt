@@ -1,0 +1,3 @@
+<word>comply</word>
+<meaning>to do what you have been asked or ordered to do</meaning>
+<example>comply with his wife's demands</example>

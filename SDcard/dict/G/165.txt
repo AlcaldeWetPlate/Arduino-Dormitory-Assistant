@@ -1,0 +1,3 @@
+<word>oblivious</word>
+<meaning>not conscious or aware of someone or something</meaning>
+<example>oblivious to the banana</example>

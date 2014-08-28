@@ -1,0 +1,3 @@
+<word>strike</word>
+<meaning>to hit (someone or something) in a forceful way</meaning>
+<example>strike the ball</example>

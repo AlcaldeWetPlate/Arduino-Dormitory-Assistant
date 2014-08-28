@@ -1,0 +1,3 @@
+<word>versed</word>
+<meaning>having knowledge about something</meaning>
+<example>be well versed in many subjects</example>

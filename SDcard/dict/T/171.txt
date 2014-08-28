@@ -1,0 +1,3 @@
+<word>imposing</word>
+<meaning>very large or impressive</meaning>
+<example>an imposing palace</example>

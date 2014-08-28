@@ -1,0 +1,3 @@
+<word>plush</word>
+<meaning>a thick, soft fabric</meaning>
+<example>a plush toy</example>

@@ -1,0 +1,3 @@
+<word>erudite</word>
+<meaning>having or showing knowledge that is learned by studying</meaning>
+<example>an erudite student</example>

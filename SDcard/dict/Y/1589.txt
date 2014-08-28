@@ -1,0 +1,3 @@
+<word>petrol</word>
+<meaning>a liquid which is used as a fuel for motor vehicles.</meaning>
+<example>petrol for the car</example>

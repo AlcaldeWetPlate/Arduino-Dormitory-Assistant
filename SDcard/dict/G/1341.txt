@@ -1,0 +1,3 @@
+<word>seemly</word>
+<meaning>proper or appropriate for the situation</meaning>
+<example>be seemly and polite</example>

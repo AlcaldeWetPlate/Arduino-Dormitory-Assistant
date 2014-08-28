@@ -1,0 +1,3 @@
+<word>trifle</word>
+<meaning>something that does not have much value or importance</meaning>
+<example>So little money is a trifle.</example>

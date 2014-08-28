@@ -1,0 +1,3 @@
+<word>forbid</word>
+<meaning>to say that (something) is not allowed</meaning>
+<example>This restaurant forbids smoking.</example>

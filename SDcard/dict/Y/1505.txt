@@ -1,0 +1,3 @@
+<word>oral</word>
+<meaning>of or relating to the mouth</meaning>
+<example>her good oral health</example>

@@ -1,0 +1,3 @@
+<word>stout</word>
+<meaning>brave and strong</meaning>
+<example>a stout old man</example>

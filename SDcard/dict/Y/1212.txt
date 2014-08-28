@@ -1,0 +1,3 @@
+<word>luxury</word>
+<meaning>something that is expensive and not necessary</meaning>
+<example>a life of luxury</example>

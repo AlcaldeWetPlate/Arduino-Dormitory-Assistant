@@ -1,0 +1,3 @@
+<word>volition</word>
+<meaning>the power to make your own choices or decisions</meaning>
+<example>choose of his own volition</example>

@@ -1,0 +1,3 @@
+<word>seasonal</word>
+<meaning>happening or needed during a particular time of the year</meaning>
+<example>the seasonal falling of the leaves</example>

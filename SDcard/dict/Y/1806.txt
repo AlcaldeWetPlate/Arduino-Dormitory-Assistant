@@ -1,0 +1,3 @@
+<word>strive</word>
+<meaning>to try very hard to do or achieve something</meaning>
+<example>strive to win the running race</example>

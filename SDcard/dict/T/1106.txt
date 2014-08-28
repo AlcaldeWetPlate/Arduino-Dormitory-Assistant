@@ -1,0 +1,3 @@
+<word>catch on</word>
+<meaning>become popular</meaning>
+<example>catch on to an idea</example>

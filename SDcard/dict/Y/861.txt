@@ -1,0 +1,3 @@
+<word>brake</word>
+<meaning>to use the brake on a vehicle</meaning>
+<example>Brake your car for the cows.</example>

@@ -1,0 +1,3 @@
+<word>solid</word>
+<meaning>firm or hard :not having the form of a gas or liquid</meaning>
+<example>a solid safe</example>

@@ -1,0 +1,3 @@
+<word>grocery</word>
+<meaning>food sold by a grocer :food bought at a store</meaning>
+<example>buy groceries to eat</example>

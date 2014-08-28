@@ -1,0 +1,3 @@
+<word>combine</word>
+<meaning>to mix (two or more things) together to form a single thing</meaning>
+<example>combine many different kinds of food</example>

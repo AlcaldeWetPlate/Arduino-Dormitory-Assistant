@@ -1,0 +1,3 @@
+<word>thrive</word>
+<meaning>to grow or develop successfully :to flourish or succeed</meaning>
+<example>The plant thrives.</example>

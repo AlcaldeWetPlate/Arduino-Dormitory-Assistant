@@ -1,0 +1,3 @@
+<word>tiny</word>
+<meaning>very small</meaning>
+<example>tiny dogs</example>

@@ -1,0 +1,3 @@
+<word>admire</word>
+<meaning>to look at (something or someone) with enjoyment</meaning>
+<example>admire the gingerbread house</example>

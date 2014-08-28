@@ -1,0 +1,3 @@
+<word>sandy</word>
+<meaning>full of or covered with sand</meaning>
+<example>the sandy beach</example>

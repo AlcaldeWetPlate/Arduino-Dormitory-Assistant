@@ -1,0 +1,3 @@
+<word>improper</word>
+<meaning>not proper, right, or suitable</meaning>
+<example>improper behavior at work</example>

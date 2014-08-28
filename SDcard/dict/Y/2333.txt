@@ -1,0 +1,3 @@
+<word>hold</word>
+<meaning>to put your arms around (someone) :to embrace or hug (someone)</meaning>
+<example>hold hands</example>

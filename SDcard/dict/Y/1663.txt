@@ -1,0 +1,3 @@
+<word>publish</word>
+<meaning>to prepare and produce (a book, magazine, etc.) for sale</meaning>
+<example>publish an e-book</example>

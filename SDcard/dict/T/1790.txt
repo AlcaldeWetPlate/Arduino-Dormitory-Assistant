@@ -1,0 +1,3 @@
+<word>menu</word>
+<meaning>a list of the foods that may be ordered at a restaurant</meaning>
+<example>the restaurant's menu</example>

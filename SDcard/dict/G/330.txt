@@ -1,0 +1,3 @@
+<word>renege</word>
+<meaning>to refuse to do something that you promised or agreed to do</meaning>
+<example>renege on her marriage vows</example>

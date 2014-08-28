@@ -1,0 +1,3 @@
+<word>homeless</word>
+<meaning>having no place to live</meaning>
+<example>a homeless man</example>

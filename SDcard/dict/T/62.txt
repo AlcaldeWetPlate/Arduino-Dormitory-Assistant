@@ -1,0 +1,3 @@
+<word>coexist</word>
+<meaning>to live in peace with each other</meaning>
+<example>The animals coexist in the jungle.</example>

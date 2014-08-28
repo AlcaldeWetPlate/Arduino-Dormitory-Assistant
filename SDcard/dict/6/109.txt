@@ -1,0 +1,3 @@
+<word>glare</word>
+<meaning>a harsh, bright light</meaning>
+<example>the glare of the sun</example>

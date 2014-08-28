@@ -1,0 +1,3 @@
+<word>inimical</word>
+<meaning>likely to cause damage or have a bad effect</meaning>
+<example>Smoking is inimical to your health.</example>

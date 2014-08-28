@@ -1,0 +1,3 @@
+<word>wrangle</word>
+<meaning>to argue angrily with someone</meaning>
+<example>She wrangles the gift from sb.</example>

@@ -1,0 +1,3 @@
+<word>juvenile</word>
+<meaning>relating to or meant for young people</meaning>
+<example>juveniles on the beach</example>

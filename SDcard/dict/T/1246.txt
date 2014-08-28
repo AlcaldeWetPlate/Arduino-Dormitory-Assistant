@@ -1,0 +1,3 @@
+<word>populous</word>
+<meaning>having a large population</meaning>
+<example>a populous area</example>

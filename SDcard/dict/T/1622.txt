@@ -1,0 +1,3 @@
+<word>pry open</word>
+<meaning>use a special tool to open</meaning>
+<example>pry open the beer bottle</example>

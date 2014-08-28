@@ -1,0 +1,3 @@
+<word>myriad</word>
+<meaning>a very large number</meaning>
+<example>a myriad of colored bars</example>

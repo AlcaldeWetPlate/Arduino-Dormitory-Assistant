@@ -1,0 +1,3 @@
+<word>interval</word>
+<meaning>a period of time between events</meaning>
+<example>fifteen second intervals</example>

@@ -1,0 +1,3 @@
+<word>bustle</word>
+<meaning>noisy or busy activity</meaning>
+<example>bustle of the weekend street market</example>

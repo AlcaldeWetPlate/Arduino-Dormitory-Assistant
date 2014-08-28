@@ -1,0 +1,3 @@
+<word>vary</word>
+<meaning>to be different or to become different</meaning>
+<example>Dogs vary in color.</example>

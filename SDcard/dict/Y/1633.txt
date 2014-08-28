@@ -1,0 +1,3 @@
+<word>sweat</word>
+<meaning>excrete perspiration through the pores in the skin</meaning>
+<example>wipe his sweat off</example>

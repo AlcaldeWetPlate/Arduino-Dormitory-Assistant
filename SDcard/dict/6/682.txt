@@ -1,0 +1,3 @@
+<word>gathering</word>
+<meaning>an occasion when people come together as a group</meaning>
+<example>a gathering of people</example>

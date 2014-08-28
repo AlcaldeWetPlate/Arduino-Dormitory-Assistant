@@ -1,0 +1,3 @@
+<word>brisk</word>
+<meaning>done with quickness and energy</meaning>
+<example>a brisk pace on the machine</example>

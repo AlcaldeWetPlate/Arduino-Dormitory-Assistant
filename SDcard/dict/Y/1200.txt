@@ -1,0 +1,3 @@
+<word>alarm</word>
+<meaning>a device that makes a loud sound as a warning or signal</meaning>
+<example>an alarm clock</example>

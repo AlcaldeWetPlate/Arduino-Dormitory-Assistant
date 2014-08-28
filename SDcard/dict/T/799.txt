@@ -1,0 +1,3 @@
+<word>outdated</word>
+<meaning>no longer useful or acceptable :not modern or current</meaning>
+<example>an outdated television</example>

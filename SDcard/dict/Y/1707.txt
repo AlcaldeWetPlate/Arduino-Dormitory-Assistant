@@ -1,0 +1,3 @@
+<word>headline</word>
+<meaning>the title written in large letters over a story in a newspaper</meaning>
+<example>the news headline</example>

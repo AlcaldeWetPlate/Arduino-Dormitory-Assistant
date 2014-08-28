@@ -1,0 +1,3 @@
+<word>December</word>
+<meaning>the 12th month of the year</meaning>
+<example>Christmas is in December.</example>

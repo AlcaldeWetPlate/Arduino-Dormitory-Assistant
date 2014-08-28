@@ -1,0 +1,3 @@
+<word>subdue</word>
+<meaning>to get control of (something, such as a strong emotion)</meaning>
+<example>His wife has subdued him.</example>

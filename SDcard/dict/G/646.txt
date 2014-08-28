@@ -1,0 +1,3 @@
+<word>vault</word>
+<meaning>a locked room where money or valuable things are kept</meaning>
+<example>vault full of gold</example>

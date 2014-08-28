@@ -1,0 +1,3 @@
+<word>detach</word>
+<meaning>to separate (yourself)</meaning>
+<example>detach her head</example>

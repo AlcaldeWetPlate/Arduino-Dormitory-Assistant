@@ -1,0 +1,3 @@
+<word>vagary</word>
+<meaning>an unexpected and inexplicable change in something</meaning>
+<example>the crazy man's vagaries</example>

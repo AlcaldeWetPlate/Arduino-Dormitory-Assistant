@@ -1,0 +1,3 @@
+<word>errand</word>
+<meaning>a short journey that you take to do or get something</meaning>
+<example>a list of errands to do</example>

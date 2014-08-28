@@ -1,0 +1,3 @@
+<word>exude</word>
+<meaning>to produce a liquid or smell that flows out slowly</meaning>
+<example>The tree exudes sap.</example>

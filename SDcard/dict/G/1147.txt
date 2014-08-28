@@ -1,0 +1,3 @@
+<word>bracing</word>
+<meaning>pleasantly cool or cold</meaning>
+<example>He thinks rain is bracing.</example>

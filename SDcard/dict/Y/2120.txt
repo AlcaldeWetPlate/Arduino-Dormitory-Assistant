@@ -1,0 +1,3 @@
+<word>easily</word>
+<meaning>in an easy manner :without difficulty</meaning>
+<example>solve the problem easily</example>

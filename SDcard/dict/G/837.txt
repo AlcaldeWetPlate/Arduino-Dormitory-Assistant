@@ -1,0 +1,3 @@
+<word>bask</word>
+<meaning>to enjoy the attention and good feelings expressed by others</meaning>
+<example>bask in the sun</example>

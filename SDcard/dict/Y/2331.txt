@@ -1,0 +1,3 @@
+<word>strong</word>
+<meaning>not sick or injured</meaning>
+<example>a strong man</example>

@@ -1,0 +1,3 @@
+<word>extricate</word>
+<meaning>to free or remove (someone or something)</meaning>
+<example>extricate the poor woman</example>

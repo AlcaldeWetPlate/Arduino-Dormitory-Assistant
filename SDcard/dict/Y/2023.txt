@@ -1,0 +1,3 @@
+<word>royal</word>
+<meaning>a member of a royal family</meaning>
+<example>a royal crown</example>

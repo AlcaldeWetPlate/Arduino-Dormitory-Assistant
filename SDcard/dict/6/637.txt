@@ -1,0 +1,3 @@
+<word>yearn</word>
+<meaning>to feel a strong desire or wish</meaning>
+<example>yearn for her attention</example>

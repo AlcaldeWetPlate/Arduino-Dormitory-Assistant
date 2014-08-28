@@ -1,0 +1,3 @@
+<word>velvet</word>
+<meaning>a soft type of cloth that has short raised fibers on one side</meaning>
+<example>a red velvet blanket</example>

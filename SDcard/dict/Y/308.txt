@@ -1,0 +1,3 @@
+<word>stony</word>
+<meaning>full of stones</meaning>
+<example>a stony mountain</example>

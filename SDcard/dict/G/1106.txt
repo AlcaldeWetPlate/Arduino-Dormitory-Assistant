@@ -1,0 +1,3 @@
+<word>vacillate</word>
+<meaning>to repeatedly change your opinions or desires</meaning>
+<example>vacillate instead of deciding</example>

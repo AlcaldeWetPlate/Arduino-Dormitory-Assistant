@@ -1,0 +1,3 @@
+<word>invisible</word>
+<meaning>impossible to see :not visible</meaning>
+<example>His chest is invisible.</example>

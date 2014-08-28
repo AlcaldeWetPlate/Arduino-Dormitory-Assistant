@@ -1,0 +1,3 @@
+<word>bronze</word>
+<meaning>a yellowish-brown color</meaning>
+<example>a  bronze sculpture</example>

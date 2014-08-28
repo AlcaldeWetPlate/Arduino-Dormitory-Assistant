@@ -1,0 +1,3 @@
+<word>nuclear</word>
+<meaning>having or involving nuclear weapons</meaning>
+<example>nuclear power</example>

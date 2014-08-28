@@ -1,0 +1,3 @@
+<word>contain</word>
+<meaning>to have or include (something)</meaning>
+<example>the bottle contains poison</example>

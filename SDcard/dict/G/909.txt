@@ -1,0 +1,3 @@
+<word>coerce</word>
+<meaning>to make (someone) do something by using force or threats</meaning>
+<example>coerce with the carrot or stick</example>

@@ -1,0 +1,3 @@
+<word>slight</word>
+<meaning>very small in degree or amount</meaning>
+<example>a slight rainfall</example>

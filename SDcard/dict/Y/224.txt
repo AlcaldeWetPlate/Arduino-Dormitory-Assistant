@@ -1,0 +1,3 @@
+<word>jolly</word>
+<meaning>full of happiness and joy :happy and cheerful</meaning>
+<example>a jolly little baby</example>

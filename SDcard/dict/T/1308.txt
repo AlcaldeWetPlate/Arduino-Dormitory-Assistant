@@ -1,0 +1,3 @@
+<word>narrator</word>
+<meaning>someone who tells a story</meaning>
+<example>narrator of the story</example>

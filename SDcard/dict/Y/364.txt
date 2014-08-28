@@ -1,0 +1,3 @@
+<word>hop</word>
+<meaning>to jump over (something)</meaning>
+<example>The young people hop.</example>

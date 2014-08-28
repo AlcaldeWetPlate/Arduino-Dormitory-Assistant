@@ -1,0 +1,3 @@
+<word>madcap</word>
+<meaning>very foolish or silly</meaning>
+<example>a madcap mountain climber</example>

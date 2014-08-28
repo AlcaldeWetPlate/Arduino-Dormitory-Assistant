@@ -1,0 +1,3 @@
+<word>spawn</word>
+<meaning>the eggs of a fish or frog</meaning>
+<example>the female fish's spawn</example>

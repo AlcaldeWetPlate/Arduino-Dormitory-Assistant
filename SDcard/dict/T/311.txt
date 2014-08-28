@@ -1,0 +1,3 @@
+<word>apportion</word>
+<meaning>to divide (something)</meaning>
+<example>apportion the food</example>

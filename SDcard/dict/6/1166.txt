@@ -1,0 +1,3 @@
+<word>unpaid</word>
+<meaning>needing to be paid</meaning>
+<example>her unpaid fines</example>

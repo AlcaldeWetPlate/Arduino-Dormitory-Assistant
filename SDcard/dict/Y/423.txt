@@ -1,0 +1,3 @@
+<word>export</word>
+<meaning>to send a product to be sold in another country</meaning>
+<example>export products</example>

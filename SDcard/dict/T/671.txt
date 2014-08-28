@@ -1,0 +1,3 @@
+<word>mask</word>
+<meaning>a covering used to hide or disguise your face</meaning>
+<example>take his mask off</example>

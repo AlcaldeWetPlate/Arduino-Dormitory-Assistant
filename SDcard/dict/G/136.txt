@@ -1,0 +1,3 @@
+<word>inept</word>
+<meaning>lacking skill or ability</meaning>
+<example>inept at fixing things</example>

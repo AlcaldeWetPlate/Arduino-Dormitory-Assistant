@@ -1,0 +1,3 @@
+<word>excellent</word>
+<meaning>very good :extremely good</meaning>
+<example>Excellent shot!</example>

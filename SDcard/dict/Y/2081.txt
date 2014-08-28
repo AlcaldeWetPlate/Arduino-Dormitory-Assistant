@@ -1,0 +1,3 @@
+<word>urbane</word>
+<meaning>polite and confident</meaning>
+<example>an urbane conversation</example>

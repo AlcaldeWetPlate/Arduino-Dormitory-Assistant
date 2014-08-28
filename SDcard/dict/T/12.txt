@@ -1,0 +1,3 @@
+<word>affected</word>
+<meaning>acted upon; influenced</meaning>
+<example>cry in an affected way</example>

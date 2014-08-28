@@ -1,0 +1,3 @@
+<word>advanced</word>
+<meaning>beyond the basic level</meaning>
+<example>The math is too advanced for the boy.</example>

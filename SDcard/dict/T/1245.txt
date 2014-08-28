@@ -1,0 +1,3 @@
+<word>pensive</word>
+<meaning>quietly sad or thoughtful</meaning>
+<example>a pensive old woman</example>

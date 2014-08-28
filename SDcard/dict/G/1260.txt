@@ -1,0 +1,3 @@
+<word>canard</word>
+<meaning>a false report or story :a belief or rumor that is not true</meaning>
+<example>tell a canard to her friend</example>

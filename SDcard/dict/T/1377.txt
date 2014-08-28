@@ -1,0 +1,3 @@
+<word>Hispanic</word>
+<meaning>related to a Spanish-speaking people or culture</meaning>
+<example>the Hispanic men</example>

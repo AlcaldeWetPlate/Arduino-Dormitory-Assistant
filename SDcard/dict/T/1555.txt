@@ -1,0 +1,3 @@
+<word>condenser</word>
+<meaning>a device used for changing a gas into a liquid</meaning>
+<example>still's condenser</example>

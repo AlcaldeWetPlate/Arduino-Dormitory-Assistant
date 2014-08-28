@@ -1,0 +1,3 @@
+<word>scenario</word>
+<meaning>a description of what could possibly happen</meaning>
+<example>Chess is a win-lose scenario.</example>

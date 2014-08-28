@@ -1,0 +1,3 @@
+<word>virtually</word>
+<meaning>very nearly :almost entirely</meaning>
+<example>virtually real</example>

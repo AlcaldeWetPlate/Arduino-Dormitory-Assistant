@@ -1,0 +1,3 @@
+<word>hurry</word>
+<meaning>a need to do something more quickly than usual</meaning>
+<example>people in a hurry</example>

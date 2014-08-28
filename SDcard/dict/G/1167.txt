@@ -1,0 +1,3 @@
+<word>indelible</word>
+<meaning>impossible to remove or forget</meaning>
+<example>an indelible face tattoo</example>

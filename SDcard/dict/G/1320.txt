@@ -1,0 +1,3 @@
+<word>careworn</word>
+<meaning>looking sad, tired, or worried</meaning>
+<example>her careworn, worried face</example>

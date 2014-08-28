@@ -1,0 +1,3 @@
+<word>ensue</word>
+<meaning>to come at a later time :to happen as a result</meaning>
+<example>Havoc ensues upon this house.</example>

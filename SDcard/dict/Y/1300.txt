@@ -1,0 +1,3 @@
+<word>behalf</word>
+<meaning>as a representative of someone</meaning>
+<example>sign on her son's behalf</example>

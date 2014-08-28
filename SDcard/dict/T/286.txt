@@ -1,0 +1,3 @@
+<word>polygon</word>
+<meaning>a flat shape that has three or more straight lines and angles</meaning>
+<example>a many-sided 3d polygon</example>

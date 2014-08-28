@@ -1,0 +1,3 @@
+<word>pictorial</word>
+<meaning>having or using pictures</meaning>
+<example>a pictorial representation of an idea</example>

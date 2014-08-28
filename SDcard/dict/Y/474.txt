@@ -1,0 +1,3 @@
+<word>moderate</word>
+<meaning>average in size or amount :neither too much nor too little</meaning>
+<example>moderate size</example>

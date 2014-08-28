@@ -1,0 +1,3 @@
+<word>negotiate</word>
+<meaning>to discuss something formally in order to make an agreement</meaning>
+<example>negotiate about the price</example>

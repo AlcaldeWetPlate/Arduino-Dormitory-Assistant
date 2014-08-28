@@ -1,0 +1,3 @@
+<word>dirge</word>
+<meaning>a slow song that expresses sadness or sorrow</meaning>
+<example>listen to a sad dirge</example>

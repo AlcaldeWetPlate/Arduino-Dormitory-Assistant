@@ -1,0 +1,3 @@
+<word>duration</word>
+<meaning>the length of time that something exists or lasts</meaning>
+<example>a duration of one hour</example>

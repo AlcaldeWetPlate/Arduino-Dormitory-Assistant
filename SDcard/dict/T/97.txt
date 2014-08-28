@@ -1,0 +1,3 @@
+<word>digestive</word>
+<meaning>having the power to cause or help digestion</meaning>
+<example>the body's digestive system</example>

@@ -1,0 +1,3 @@
+<word>module</word>
+<meaning>a part of a space vehicle that can work alone</meaning>
+<example>space station module</example>

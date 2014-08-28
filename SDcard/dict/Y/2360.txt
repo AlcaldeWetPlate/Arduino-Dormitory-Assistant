@@ -1,0 +1,3 @@
+<word>deep</word>
+<meaning>far into or below the surface of something</meaning>
+<example>deep in the sea</example>

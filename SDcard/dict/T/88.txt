@@ -1,0 +1,3 @@
+<word>definite</word>
+<meaning>not likely to change :already set or decided</meaning>
+<example>a definite end</example>

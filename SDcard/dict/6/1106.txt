@@ -1,0 +1,3 @@
+<word>clearing</word>
+<meaning>an open area of land in which there are no trees</meaning>
+<example>a deer in the forest clearing</example>

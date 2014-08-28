@@ -1,0 +1,3 @@
+<word>torrid</word>
+<meaning>very hot and usually dry</meaning>
+<example>hot, torrid weather</example>

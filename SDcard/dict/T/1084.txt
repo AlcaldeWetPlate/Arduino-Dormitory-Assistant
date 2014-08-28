@@ -1,0 +1,3 @@
+<word>pane</word>
+<meaning>a sheet of glass in a window or door</meaning>
+<example>two glass panes</example>

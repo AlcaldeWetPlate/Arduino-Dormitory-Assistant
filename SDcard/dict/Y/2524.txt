@@ -1,0 +1,3 @@
+<word>shove</word>
+<meaning>to push (something) with force</meaning>
+<example>shove the brick wall</example>

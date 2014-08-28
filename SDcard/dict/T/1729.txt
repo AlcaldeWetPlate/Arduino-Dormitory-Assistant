@@ -1,0 +1,3 @@
+<word>aloof</word>
+<meaning>not involved with or friendly toward other people</meaning>
+<example>an aloof old woman</example>

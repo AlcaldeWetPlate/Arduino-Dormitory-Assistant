@@ -1,0 +1,3 @@
+<word>whim</word>
+<meaning>a sudden wish, desire, decision, etc.</meaning>
+<example>a child's whims</example>

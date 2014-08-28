@@ -1,0 +1,3 @@
+<word>querulous</word>
+<meaning>complaining in an annoyed way</meaning>
+<example>the querulous, complaining old man</example>

@@ -1,0 +1,3 @@
+<word>intimate</word>
+<meaning>having a very close relationship :very warm and friendly</meaning>
+<example>The couple are intimate with each other.</example>

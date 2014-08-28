@@ -1,0 +1,3 @@
+<word>salesman</word>
+<meaning>a person (especially a man) whose job is to sell things</meaning>
+<example>a fast-talking salesman</example>

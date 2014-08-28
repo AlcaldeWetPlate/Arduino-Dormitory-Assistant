@@ -1,0 +1,3 @@
+<word>therapy</word>
+<meaning>the treatment of physical or mental illnesses</meaning>
+<example>back massage therapy</example>

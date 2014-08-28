@@ -1,0 +1,3 @@
+<word>hasty</word>
+<meaning>done or made very quickly</meaning>
+<example>a hasty run</example>

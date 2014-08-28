@@ -1,0 +1,3 @@
+<word>chilly</word>
+<meaning>noticeably cold</meaning>
+<example>snow makes me feel chilly</example>

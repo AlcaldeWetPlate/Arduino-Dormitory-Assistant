@@ -1,0 +1,3 @@
+<word>goods</word>
+<meaning>things that are made to be sold</meaning>
+<example>delivery of goods</example>

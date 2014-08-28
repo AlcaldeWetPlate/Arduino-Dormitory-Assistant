@@ -1,0 +1,3 @@
+<word>commence</word>
+<meaning>to begin</meaning>
+<example>commence the race</example>

@@ -1,0 +1,3 @@
+<word>thorny</word>
+<meaning>having a lot of thorns</meaning>
+<example>the thorny cactus</example>

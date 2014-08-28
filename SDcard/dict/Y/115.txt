@@ -1,0 +1,3 @@
+<word>cordial</word>
+<meaning>politely pleasant and friendly</meaning>
+<example>a cordial handshake</example>

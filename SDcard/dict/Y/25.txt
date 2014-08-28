@@ -1,0 +1,3 @@
+<word>analyst</word>
+<meaning>a person who studies or analyzes something</meaning>
+<example>The analyst looks at his computer.</example>

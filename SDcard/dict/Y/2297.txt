@@ -1,0 +1,3 @@
+<word>eve</word>
+<meaning>the evening or the day before a special day</meaning>
+<example>fireworks during New Year's Eve</example>

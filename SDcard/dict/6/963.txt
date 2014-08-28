@@ -1,0 +1,3 @@
+<word>ripple</word>
+<meaning>to move in small waves</meaning>
+<example>ripples in the water</example>

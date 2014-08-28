@@ -1,0 +1,3 @@
+<word>solicit</word>
+<meaning>to ask (a person or group) for money, help, etc.</meaning>
+<example>solicit help</example>

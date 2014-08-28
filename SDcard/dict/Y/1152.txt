@@ -1,0 +1,3 @@
+<word>dirt</word>
+<meaning>loose earth or soil</meaning>
+<example>dirt on her hands</example>

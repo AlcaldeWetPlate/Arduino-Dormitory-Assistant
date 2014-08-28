@@ -1,0 +1,3 @@
+<word>doldrums</word>
+<meaning>a state or period of sadness or depression</meaning>
+<example>The blue man has the doldrums.</example>

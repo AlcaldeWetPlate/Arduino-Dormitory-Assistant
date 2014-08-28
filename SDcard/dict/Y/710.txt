@@ -1,0 +1,3 @@
+<word>value</word>
+<meaning>to think that (someone or something) is important or useful</meaning>
+<example>value the economy or the environment</example>

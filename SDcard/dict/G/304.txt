@@ -1,0 +1,3 @@
+<word>outgrowth</word>
+<meaning>something that grows out of something else</meaning>
+<example>the plant's outgrowth</example>

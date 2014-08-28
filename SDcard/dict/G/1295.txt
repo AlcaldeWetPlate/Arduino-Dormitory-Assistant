@@ -1,0 +1,3 @@
+<word>deject</word>
+<meaning>affected or marked by low spirits</meaning>
+<example>deject the sad girl</example>

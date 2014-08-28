@@ -1,0 +1,3 @@
+<word>lateral</word>
+<meaning>toward, on, or coming from the side</meaning>
+<example>a lateral view of her</example>

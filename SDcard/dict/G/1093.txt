@@ -1,0 +1,3 @@
+<word>invidious</word>
+<meaning>unpleasant and likely to cause bad feelings in other people</meaning>
+<example>invidious accusations against each other</example>

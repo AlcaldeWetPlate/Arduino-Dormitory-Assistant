@@ -1,0 +1,3 @@
+<word>matching</word>
+<meaning>intentionally matched</meaning>
+<example>a matching red rose</example>

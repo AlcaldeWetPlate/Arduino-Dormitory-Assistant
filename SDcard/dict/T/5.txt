@@ -1,0 +1,3 @@
+<word>abundance</word>
+<meaning>a large amount of something :an abundant amount of something</meaning>
+<example>an abundance of food</example>

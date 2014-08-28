@@ -1,0 +1,3 @@
+<word>cherished</word>
+<meaning>characterized by feeling or showing fond affection for</meaning>
+<example>a cherished golden pocketwatch</example>

@@ -1,0 +1,3 @@
+<word>water</word>
+<meaning>to pour water on (something, such as a plant)</meaning>
+<example>water the plants</example>

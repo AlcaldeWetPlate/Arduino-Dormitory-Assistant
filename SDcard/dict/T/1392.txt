@@ -1,0 +1,3 @@
+<word>gospel</word>
+<meaning>the teachings of the Christian religion</meaning>
+<example>read the gospel</example>

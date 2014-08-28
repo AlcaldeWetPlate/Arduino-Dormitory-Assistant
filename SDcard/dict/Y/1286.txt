@@ -1,0 +1,3 @@
+<word>firm</word>
+<meaning>a business organization</meaning>
+<example>work at a law firm</example>

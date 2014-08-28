@@ -1,0 +1,3 @@
+<word>author</word>
+<meaning>a person who has written something</meaning>
+<example>the author writes</example>

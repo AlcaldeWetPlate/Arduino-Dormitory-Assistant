@@ -1,0 +1,3 @@
+<word>freeway</word>
+<meaning>a wide highway that is built for fast travel</meaning>
+<example>drive on the freeway</example>

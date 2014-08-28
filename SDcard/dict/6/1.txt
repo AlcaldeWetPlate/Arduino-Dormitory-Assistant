@@ -1,0 +1,3 @@
+<word>abide</word>
+<meaning>to accept or bear (someone or something bad, unpleasant, etc.)</meaning>
+<example>abide by the workers' rules</example>

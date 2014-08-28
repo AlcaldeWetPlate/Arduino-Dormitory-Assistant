@@ -1,0 +1,3 @@
+<word>uncover</word>
+<meaning>to remove a cover from (something)</meaning>
+<example>uncover the food</example>

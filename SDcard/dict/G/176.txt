@@ -1,0 +1,3 @@
+<word>profusion</word>
+<meaning>a large amount of something</meaning>
+<example>a profusion of vegetables</example>

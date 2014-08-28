@@ -1,0 +1,3 @@
+<word>jellyfish</word>
+<meaning>a sea animal that has a very soft body and that can sting</meaning>
+<example>jellyfish under the sea</example>

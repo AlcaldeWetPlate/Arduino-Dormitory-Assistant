@@ -1,0 +1,3 @@
+<word>pickle</word>
+<meaning>a cucumber that is preserved in salt water or vinegar</meaning>
+<example>eat some green pickles</example>

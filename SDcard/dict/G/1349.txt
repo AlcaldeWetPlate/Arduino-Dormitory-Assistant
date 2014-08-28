@@ -1,0 +1,3 @@
+<word>xenophobe</word>
+<meaning>Fight against racism and xenophobia</meaning>
+<example>Hitler was a xenophobe.</example>

@@ -1,0 +1,3 @@
+<word>charity</word>
+<meaning>an organization that helps people who are poor, sick, etc.</meaning>
+<example>give money to charity</example>

@@ -1,0 +1,3 @@
+<word>vessel</word>
+<meaning>a ship or large boat</meaning>
+<example>the oceanic vessel</example>

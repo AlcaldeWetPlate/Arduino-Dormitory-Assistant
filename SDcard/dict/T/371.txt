@@ -1,0 +1,3 @@
+<word>shell</word>
+<meaning>the hard outer covering of an egg</meaning>
+<example>an egg shell</example>

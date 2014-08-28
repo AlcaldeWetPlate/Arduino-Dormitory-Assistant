@@ -1,0 +1,3 @@
+<word>abet</word>
+<meaning>to help, encourage, or support someone in a criminal act</meaning>
+<example>abet her boyfriend and hold a gun</example>

@@ -1,0 +1,3 @@
+<word>evil</word>
+<meaning>morally bad</meaning>
+<example>an evil blond woman</example>

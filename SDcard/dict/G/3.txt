@@ -1,0 +1,3 @@
+<word>abhor</word>
+<meaning>to dislike (someone or something) very much</meaning>
+<example>She abhors cigarettes.</example>

@@ -1,0 +1,3 @@
+<word>immediate</word>
+<meaning>happening or done without delay</meaning>
+<example>immediate delivery</example>

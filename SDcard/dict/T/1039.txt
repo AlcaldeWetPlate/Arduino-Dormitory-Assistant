@@ -1,0 +1,3 @@
+<word>recompose</word>
+<meaning>separate (substances) into constituent elements or parts</meaning>
+<example>recompose colored light into white light</example>

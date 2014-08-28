@@ -1,0 +1,3 @@
+<word>steamer</word>
+<meaning>a boat or ship that is powered by steam</meaning>
+<example>a giant steamer on the ocean</example>

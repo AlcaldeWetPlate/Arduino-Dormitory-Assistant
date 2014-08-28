@@ -1,0 +1,3 @@
+<word>boon</word>
+<meaning>something pleasant or helpful :a benefit or advantage</meaning>
+<example>a boon for the little girl</example>

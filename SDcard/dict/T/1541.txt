@@ -1,0 +1,3 @@
+<word>isolated</word>
+<meaning>separate from others</meaning>
+<example>feel isolated from  her parents</example>

@@ -1,0 +1,3 @@
+<word>note</word>
+<meaning>an informal written record of things that are said and done</meaning>
+<example>study my notes</example>

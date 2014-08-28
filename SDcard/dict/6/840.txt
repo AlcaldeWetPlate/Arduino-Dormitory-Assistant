@@ -1,0 +1,3 @@
+<word>mourn</word>
+<meaning>to feel or show great sadness because someone has died</meaning>
+<example>mourn the dead</example>

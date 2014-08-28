@@ -1,0 +1,3 @@
+<word>frantic</word>
+<meaning>feeling or showing a lot of fear and worry</meaning>
+<example>his frantic shouting</example>

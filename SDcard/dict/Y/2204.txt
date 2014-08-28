@@ -1,0 +1,3 @@
+<word>elder</word>
+<meaning>a person who has authority because of age and experience</meaning>
+<example>a respected elder</example>

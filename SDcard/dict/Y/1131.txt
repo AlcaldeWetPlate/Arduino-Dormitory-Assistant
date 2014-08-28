@@ -1,0 +1,3 @@
+<word>locate</word>
+<meaning>to put (something or someone) in a particular place</meaning>
+<example>be located on the map</example>

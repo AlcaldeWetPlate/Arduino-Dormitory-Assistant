@@ -1,0 +1,3 @@
+<word>cherubic</word>
+<meaning>cute</meaning>
+<example>a cherubic, cute little baby</example>

@@ -1,0 +1,3 @@
+<word>villain</word>
+<meaning>a person who does bad things</meaning>
+<example>a villain wears black</example>

@@ -1,0 +1,3 @@
+<word>vacuum</word>
+<meaning>to clean (something) with a vacuum cleaner</meaning>
+<example>vacuum cleaner</example>

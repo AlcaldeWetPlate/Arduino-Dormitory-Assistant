@@ -1,0 +1,3 @@
+<word>magician</word>
+<meaning>a performer who does tricks that seem to be impossible</meaning>
+<example>the magician performs</example>

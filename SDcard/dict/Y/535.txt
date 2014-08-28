@@ -1,0 +1,3 @@
+<word>locality</word>
+<meaning>a particular place or area</meaning>
+<example>a charming locality</example>

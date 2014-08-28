@@ -1,0 +1,3 @@
+<word>furry</word>
+<meaning>covered with fur</meaning>
+<example>a furry dog</example>

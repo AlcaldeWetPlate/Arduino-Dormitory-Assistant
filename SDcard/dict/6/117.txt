@@ -1,0 +1,3 @@
+<word>grove</word>
+<meaning>a small group of trees</meaning>
+<example>a grove of trees</example>

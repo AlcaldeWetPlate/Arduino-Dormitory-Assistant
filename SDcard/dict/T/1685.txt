@@ -1,0 +1,3 @@
+<word>homespun</word>
+<meaning>plain and simple</meaning>
+<example>make homespun cloth</example>

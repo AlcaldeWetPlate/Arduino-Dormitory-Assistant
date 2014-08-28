@@ -1,0 +1,3 @@
+<word>cider</word>
+<meaning>a drink made from apples</meaning>
+<example>apple cider</example>

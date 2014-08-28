@@ -1,0 +1,3 @@
+<word>Mars</word>
+<meaning>a planet</meaning>
+<example>Nobody lives on Mars.</example>

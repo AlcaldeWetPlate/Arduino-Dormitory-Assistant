@@ -1,0 +1,3 @@
+<word>scarcity</word>
+<meaning>a very small supply :the state of being scarce</meaning>
+<example>scarcity of water</example>

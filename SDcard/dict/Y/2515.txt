@@ -1,0 +1,3 @@
+<word>quite</word>
+<meaning>completely or entirely</meaning>
+<example>quite a difference in height</example>

@@ -1,0 +1,3 @@
+<word>mediocre</word>
+<meaning>not very good</meaning>
+<example>not good, not bad, but mediocre</example>

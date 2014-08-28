@@ -1,0 +1,3 @@
+<word>taper</word>
+<meaning>to become gradually smaller toward one end</meaning>
+<example>the pyramid tapers to a point</example>

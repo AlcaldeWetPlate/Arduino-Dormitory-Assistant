@@ -1,0 +1,3 @@
+<word>slim</word>
+<meaning>thin in an attractive way</meaning>
+<example>slim lady</example>

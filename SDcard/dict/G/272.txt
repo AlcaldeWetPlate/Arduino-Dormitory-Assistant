@@ -1,0 +1,3 @@
+<word>leaven</word>
+<meaning>to add leaven to (bread, dough, etc.)</meaning>
+<example>leaven and fluffy bread</example>

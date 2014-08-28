@@ -1,0 +1,3 @@
+<word>sand</word>
+<meaning>the beach or desert</meaning>
+<example>sand at the beach</example>

@@ -1,0 +1,3 @@
+<word>chatter</word>
+<meaning>casual talk that is usually not important or interesting</meaning>
+<example>The girls chatter in each other's ears.</example>

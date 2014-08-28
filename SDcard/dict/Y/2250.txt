@@ -1,0 +1,3 @@
+<word>idea</word>
+<meaning>a thought, plan, or suggestion about what to do</meaning>
+<example>bright ideas</example>

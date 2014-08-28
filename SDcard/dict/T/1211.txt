@@ -1,0 +1,3 @@
+<word>symbolize</word>
+<meaning>to be a symbol of (something)</meaning>
+<example>symbolize poison</example>

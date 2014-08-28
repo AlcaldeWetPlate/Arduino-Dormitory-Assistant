@@ -1,0 +1,3 @@
+<word>country</word>
+<meaning>an area of land that is controlled by its own government</meaning>
+<example>The USA is a powerful country.</example>

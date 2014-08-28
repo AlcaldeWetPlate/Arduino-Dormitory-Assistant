@@ -1,0 +1,3 @@
+<word>yield</word>
+<meaning>to produce or provide (something, such as a plant or crop)</meaning>
+<example>yield many carrots</example>

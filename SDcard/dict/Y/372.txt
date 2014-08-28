@@ -1,0 +1,3 @@
+<word>defence</word>
+<meaning>the act of defending someone or something from attack</meaning>
+<example>learn self defence</example>

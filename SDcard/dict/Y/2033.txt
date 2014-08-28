@@ -1,0 +1,3 @@
+<word>traverse</word>
+<meaning>to move across (an area)</meaning>
+<example>traverse the dangerous bridge</example>

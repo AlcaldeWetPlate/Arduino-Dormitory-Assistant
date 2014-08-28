@@ -1,0 +1,3 @@
+<word>ambience</word>
+<meaning>a particular environment or surrounding influence</meaning>
+<example>the peaceful ambience of the forest</example>

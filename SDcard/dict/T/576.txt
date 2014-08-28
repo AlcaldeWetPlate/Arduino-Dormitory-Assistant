@@ -1,0 +1,3 @@
+<word>leading</word>
+<meaning>having great importance, influence, or success</meaning>
+<example>a leading cyclist</example>

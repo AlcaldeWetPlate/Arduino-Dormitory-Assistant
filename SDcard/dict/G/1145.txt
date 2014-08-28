@@ -1,0 +1,3 @@
+<word>implode</word>
+<meaning>to collapse inward in a very sudden and violent way</meaning>
+<example>implode and collapse</example>

@@ -1,0 +1,3 @@
+<word>amount</word>
+<meaning>a quantity of something</meaning>
+<example>a huge amount of money</example>

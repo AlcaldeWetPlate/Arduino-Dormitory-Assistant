@@ -1,0 +1,3 @@
+<word>pull</word>
+<meaning>to remove (something) by gripping it and using force</meaning>
+<example>pull on the rope</example>

@@ -1,0 +1,3 @@
+<word>fanatic</word>
+<meaning>a person who is very enthusiastic about something</meaning>
+<example>fanatic about football</example>

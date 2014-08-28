@@ -1,0 +1,3 @@
+<word>advance</word>
+<meaning>to rise to a higher rank or position</meaning>
+<example>red advances more quickly</example>

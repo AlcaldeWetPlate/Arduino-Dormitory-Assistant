@@ -1,0 +1,3 @@
+<word>winsome</word>
+<meaning>cheerful, pleasant, and appealing</meaning>
+<example>A winsome and cute child.</example>

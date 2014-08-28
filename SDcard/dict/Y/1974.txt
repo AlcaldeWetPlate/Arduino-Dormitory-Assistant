@@ -1,0 +1,3 @@
+<word>humanist</word>
+<meaning>a classical scholar or student of the liberal arts</meaning>
+<example>Humanists love everyone.</example>

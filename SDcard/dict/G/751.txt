@@ -1,0 +1,3 @@
+<word>meteoric</word>
+<meaning>very sudden or fast</meaning>
+<example>a meteoric light in the sky</example>

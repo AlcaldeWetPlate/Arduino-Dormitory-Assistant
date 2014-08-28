@@ -1,0 +1,3 @@
+<word>immunity</word>
+<meaning>the power to keep yourself from being affected by a disease</meaning>
+<example>This injection give immunity to sth.</example>

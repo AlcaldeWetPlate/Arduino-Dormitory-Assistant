@@ -1,0 +1,3 @@
+<word>fantastic</word>
+<meaning>very strange, unusual, or unlikely</meaning>
+<example>the fantastic  moon</example>

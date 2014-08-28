@@ -1,0 +1,3 @@
+<word>mighty</word>
+<meaning>having or showing great strength or power</meaning>
+<example>a mighty ant</example>

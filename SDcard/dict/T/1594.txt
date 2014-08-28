@@ -1,0 +1,3 @@
+<word>engage in</word>
+<meaning>be participated in</meaning>
+<example>engage in an argument</example>

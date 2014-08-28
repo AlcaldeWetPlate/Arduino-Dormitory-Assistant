@@ -1,0 +1,3 @@
+<word>recycle</word>
+<meaning>to use (something) again</meaning>
+<example>recycle plastic bottles</example>

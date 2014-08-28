@@ -1,0 +1,3 @@
+<word>reactor</word>
+<meaning>a large device that produces nuclear energy</meaning>
+<example>a nuclear reactor</example>

@@ -1,0 +1,3 @@
+<word>in common</word>
+<meaning>sharing equally with another or others</meaning>
+<example>a love of music in common</example>

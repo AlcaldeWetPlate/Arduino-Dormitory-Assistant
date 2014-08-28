@@ -1,0 +1,3 @@
+<word>pedal</word>
+<meaning>to push the pedals of (something, such as a bicycle)</meaning>
+<example>foot on the pedal</example>

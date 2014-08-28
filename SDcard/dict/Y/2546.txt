@@ -1,0 +1,3 @@
+<word>low</word>
+<meaning>less than usual in amount, number, or degree</meaning>
+<example>Low temperatures are cold.</example>

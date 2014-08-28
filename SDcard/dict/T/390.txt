@@ -1,0 +1,3 @@
+<word>rigid</word>
+<meaning>not able to be bent easily</meaning>
+<example>a rigid hat</example>

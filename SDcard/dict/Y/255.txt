@@ -1,0 +1,3 @@
+<word>mole</word>
+<meaning>a small, brown spot on a person's skin</meaning>
+<example>a mole on her face</example>

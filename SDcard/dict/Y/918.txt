@@ -1,0 +1,3 @@
+<word>signature</word>
+<meaning>a person's name written in that person's handwriting</meaning>
+<example>signature on the line</example>

@@ -1,0 +1,3 @@
+<word>update</word>
+<meaning>to change (something) by including the most recent information</meaning>
+<example>update your software</example>

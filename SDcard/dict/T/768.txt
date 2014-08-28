@@ -1,0 +1,3 @@
+<word>prolific</word>
+<meaning>producing a large amount of something</meaning>
+<example>a very prolific husband and wife</example>

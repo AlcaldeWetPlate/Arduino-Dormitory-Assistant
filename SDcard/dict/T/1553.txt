@@ -1,0 +1,3 @@
+<word>anxiously</word>
+<meaning>with anxiety or apprehension</meaning>
+<example>wait sb. anxiously</example>

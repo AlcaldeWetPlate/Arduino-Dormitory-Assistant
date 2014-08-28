@@ -1,0 +1,3 @@
+<word>chilli</word>
+<meaning>very hot and finely tapering pepper of special pungency</meaning>
+<example>spicy chilli</example>

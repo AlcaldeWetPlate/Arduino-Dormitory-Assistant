@@ -1,0 +1,3 @@
+<word>satisfy</word>
+<meaning>to cause (someone) to believe that something is true</meaning>
+<example>satisfy his hunger</example>

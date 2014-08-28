@@ -1,0 +1,3 @@
+<word>lament</word>
+<meaning>to express sorrow, regret, or unhappiness about something</meaning>
+<example>lament in sorrow</example>

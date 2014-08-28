@@ -1,0 +1,3 @@
+<word>atrocious</word>
+<meaning>very evil or cruel</meaning>
+<example>the old lady's atrocious appearance</example>

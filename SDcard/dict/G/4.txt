@@ -1,0 +1,3 @@
+<word>abiding</word>
+<meaning>continuing for a long time :not changing</meaning>
+<example>abiding beauty of diamonds</example>

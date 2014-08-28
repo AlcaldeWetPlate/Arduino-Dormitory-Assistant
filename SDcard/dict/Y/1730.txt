@@ -1,0 +1,3 @@
+<word>lark</word>
+<meaning>any one of several birds that usually have pleasant songs</meaning>
+<example>A single lark on the rock.</example>

@@ -1,0 +1,3 @@
+<word>stash</word>
+<meaning>to put (something) in a secret or hidden place</meaning>
+<example>stash all the money</example>

@@ -1,0 +1,3 @@
+<word>hump</word>
+<meaning>a lump on the back of an animal (such as a camel)</meaning>
+<example>the camel's two humps</example>

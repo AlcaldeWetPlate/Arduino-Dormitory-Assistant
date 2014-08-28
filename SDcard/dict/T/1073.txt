@@ -1,0 +1,3 @@
+<word>cab</word>
+<meaning>the part of a truck, tractor, etc., in which the driver sits</meaning>
+<example>drive a cab</example>

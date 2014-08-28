@@ -1,0 +1,3 @@
+<word>offbeat</word>
+<meaning>different from the ordinary, usual, or expected</meaning>
+<example>a weird, offbeat style</example>

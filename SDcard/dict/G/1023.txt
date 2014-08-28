@@ -1,0 +1,3 @@
+<word>insipid</word>
+<meaning>not interesting or exciting :dull or boring</meaning>
+<example>an insipid beverage</example>

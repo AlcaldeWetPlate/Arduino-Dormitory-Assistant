@@ -1,0 +1,3 @@
+<word>powder</word>
+<meaning>a dry substance made up of very tiny pieces of something</meaning>
+<example>crush into powder</example>

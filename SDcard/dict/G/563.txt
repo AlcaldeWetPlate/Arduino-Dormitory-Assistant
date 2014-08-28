@@ -1,0 +1,3 @@
+<word>forage</word>
+<meaning>to search</meaning>
+<example>forage for nuts</example>

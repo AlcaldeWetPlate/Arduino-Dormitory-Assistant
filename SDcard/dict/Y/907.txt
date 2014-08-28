@@ -1,0 +1,3 @@
+<word>section</word>
+<meaning>a part of a newspaper, play, book, etc.</meaning>
+<example>circle the section</example>

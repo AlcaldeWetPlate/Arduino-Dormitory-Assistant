@@ -1,0 +1,3 @@
+<word>odium</word>
+<meaning>hate coupled with disgust</meaning>
+<example>odium in the relationship</example>

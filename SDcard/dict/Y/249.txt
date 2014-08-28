@@ -1,0 +1,3 @@
+<word>midst</word>
+<meaning>the middle area or part of something</meaning>
+<example>in the midst of the other lightbulbs</example>

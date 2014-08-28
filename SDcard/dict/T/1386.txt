@@ -1,0 +1,3 @@
+<word>slime</word>
+<meaning>a thick, slippery liquid</meaning>
+<example>the green slime</example>

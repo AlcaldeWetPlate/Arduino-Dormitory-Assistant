@@ -1,0 +1,3 @@
+<word>mobile</word>
+<meaning>able to move from one place to another</meaning>
+<example>a mobile phone</example>

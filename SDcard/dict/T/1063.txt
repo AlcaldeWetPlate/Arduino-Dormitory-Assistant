@@ -1,0 +1,3 @@
+<word>fir</word>
+<meaning>a tall evergreen tree</meaning>
+<example>fir trees</example>

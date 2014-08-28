@@ -1,0 +1,3 @@
+<word>enlist</word>
+<meaning>to sign up (a person) for duty in the army, navy, etc.</meaning>
+<example>enlist into the army</example>

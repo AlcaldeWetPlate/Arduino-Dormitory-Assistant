@@ -1,0 +1,3 @@
+<word>abound</word>
+<meaning>to be present in large numbers or in great quantity</meaning>
+<example>The field abounds with grapes.</example>

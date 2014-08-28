@@ -1,0 +1,3 @@
+<word>wear</word>
+<meaning>to use or have (something) on your body</meaning>
+<example>wear a coat</example>

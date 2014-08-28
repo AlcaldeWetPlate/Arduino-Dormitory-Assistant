@@ -1,0 +1,3 @@
+<word>knotty</word>
+<meaning>difficult or complicated</meaning>
+<example>a knotty problem</example>

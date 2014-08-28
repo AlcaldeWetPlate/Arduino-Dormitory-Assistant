@@ -1,0 +1,3 @@
+<word>animus</word>
+<meaning>a strong feeling of dislike or hatred</meaning>
+<example>animus against each other</example>

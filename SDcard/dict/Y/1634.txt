@@ -1,0 +1,3 @@
+<word>pint</word>
+<meaning>a unit for measuring liquids that is equal to 0.473 liters</meaning>
+<example>a pint of beer</example>

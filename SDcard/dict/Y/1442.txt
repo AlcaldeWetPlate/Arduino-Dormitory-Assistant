@@ -1,0 +1,3 @@
+<word>store</word>
+<meaning>a building or room where things are sold</meaning>
+<example>the grocery store</example>

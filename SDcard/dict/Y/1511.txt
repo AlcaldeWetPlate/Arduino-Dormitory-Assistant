@@ -1,0 +1,3 @@
+<word>earn</word>
+<meaning>to get (money, a salary, etc.) for work that you have done</meaning>
+<example>earn some money</example>

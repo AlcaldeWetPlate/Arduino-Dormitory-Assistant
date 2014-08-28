@@ -1,0 +1,3 @@
+<word>simple</word>
+<meaning>not hard to understand or do</meaning>
+<example>a simple problem</example>

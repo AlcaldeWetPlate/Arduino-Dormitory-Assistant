@@ -1,0 +1,3 @@
+<word>intercity</word>
+<meaning>traveling or occurring between cities</meaning>
+<example>the intercity train</example>

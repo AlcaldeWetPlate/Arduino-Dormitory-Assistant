@@ -1,0 +1,3 @@
+<word>Catholic</word>
+<meaning>free from provincial prejudices or attachments</meaning>
+<example>a happy Catholic nun</example>

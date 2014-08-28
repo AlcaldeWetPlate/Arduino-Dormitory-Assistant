@@ -1,0 +1,3 @@
+<word>ballad</word>
+<meaning>a slow popular song that is typically about love</meaning>
+<example>a finely played ballad</example>

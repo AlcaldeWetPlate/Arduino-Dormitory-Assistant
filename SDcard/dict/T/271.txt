@@ -1,0 +1,3 @@
+<word>twig</word>
+<meaning>a small branch of a tree or bush</meaning>
+<example>birds on a twig</example>

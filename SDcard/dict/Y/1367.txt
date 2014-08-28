@@ -1,0 +1,3 @@
+<word>gym</word>
+<meaning>sports and exercise taught as a subject in school</meaning>
+<example>exercise at the gym</example>

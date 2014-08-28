@@ -1,0 +1,3 @@
+<word>irradiate</word>
+<meaning>to expose (someone or something) to radiation</meaning>
+<example>irradiate the environment</example>

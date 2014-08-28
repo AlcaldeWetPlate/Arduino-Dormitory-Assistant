@@ -1,0 +1,3 @@
+<word>command</word>
+<meaning>an order given to a person or animal to do something</meaning>
+<example>obey my commands</example>

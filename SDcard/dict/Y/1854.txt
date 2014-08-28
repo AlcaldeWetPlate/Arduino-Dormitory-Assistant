@@ -1,0 +1,3 @@
+<word>paperback</word>
+<meaning>a book with a flexible paper binding</meaning>
+<example>a paperback book</example>

@@ -1,0 +1,3 @@
+<word>envisage</word>
+<meaning>to picture (something) in your mind</meaning>
+<example>envisage a better future</example>

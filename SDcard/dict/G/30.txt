@@ -1,0 +1,3 @@
+<word>avid</word>
+<meaning>very eager</meaning>
+<example>an avid collector</example>

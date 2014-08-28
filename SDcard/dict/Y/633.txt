@@ -1,0 +1,3 @@
+<word>harsh</word>
+<meaning>unpleasant and difficult to accept or experience</meaning>
+<example>His voice sounds harsh.</example>

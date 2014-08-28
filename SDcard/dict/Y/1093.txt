@@ -1,0 +1,3 @@
+<word>peculiar</word>
+<meaning>not well :somewhat ill</meaning>
+<example>a peculiar dog</example>

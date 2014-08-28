@@ -1,0 +1,3 @@
+<word>juicy</word>
+<meaning>containing a lot of juice</meaning>
+<example>juicy oranges</example>

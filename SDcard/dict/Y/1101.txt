@@ -1,0 +1,3 @@
+<word>swift</word>
+<meaning>moving or able to move very fast</meaning>
+<example>the swift cheetah</example>

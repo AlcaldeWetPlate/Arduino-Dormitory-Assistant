@@ -1,0 +1,3 @@
+<word>mental</word>
+<meaning>relating to or affected by an illness of the mind</meaning>
+<example>mental health problems</example>

@@ -1,0 +1,3 @@
+<word>vitalist</word>
+<meaning>one who believes in vitalism</meaning>
+<example>A vitalist touches the robot.</example>

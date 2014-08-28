@@ -1,0 +1,3 @@
+<word>pariah</word>
+<meaning>a person who is hated and rejected by other people</meaning>
+<example>an outcast and a pariah</example>

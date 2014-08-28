@@ -1,0 +1,3 @@
+<word>arbitrary</word>
+<meaning>not planned or chosen for a particular reason</meaning>
+<example>an arbitrary outcome</example>

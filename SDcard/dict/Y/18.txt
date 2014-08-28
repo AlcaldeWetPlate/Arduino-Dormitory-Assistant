@@ -1,0 +1,3 @@
+<word>aerial</word>
+<meaning>performed in the air</meaning>
+<example>aerial view of the city</example>

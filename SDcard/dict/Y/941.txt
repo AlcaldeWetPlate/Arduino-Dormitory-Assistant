@@ -1,0 +1,3 @@
+<word>expire</word>
+<meaning>to end :to no longer be valid after a period of time</meaning>
+<example>The card expires this year.</example>

@@ -1,0 +1,3 @@
+<word>survive</word>
+<meaning>to remain alive :to continue to live</meaning>
+<example>survive in the desert</example>

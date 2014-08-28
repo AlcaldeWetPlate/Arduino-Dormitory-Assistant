@@ -1,0 +1,3 @@
+<word>mawkish</word>
+<meaning>sad or romantic in a foolish or exaggerated way</meaning>
+<example>a stupid, mawkish heart cartoon</example>

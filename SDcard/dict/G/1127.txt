@@ -1,0 +1,3 @@
+<word>disinfect</word>
+<meaning>to remove a virus from (a computer) by using a special program</meaning>
+<example>disinfect the toilet</example>

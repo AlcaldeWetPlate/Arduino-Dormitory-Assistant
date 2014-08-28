@@ -1,0 +1,3 @@
+<word>fragrant</word>
+<meaning>having a pleasant and usually sweet smell</meaning>
+<example>a fragrant smell</example>

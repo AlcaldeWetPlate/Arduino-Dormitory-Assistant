@@ -1,0 +1,3 @@
+<word>modesty</word>
+<meaning>the quality of being modest</meaning>
+<example>bow with modesty</example>

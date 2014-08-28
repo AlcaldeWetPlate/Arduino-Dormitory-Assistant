@@ -1,0 +1,3 @@
+<word>elevate</word>
+<meaning>to lift (something) up</meaning>
+<example>elevate the kite</example>

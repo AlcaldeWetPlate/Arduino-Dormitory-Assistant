@@ -1,0 +1,3 @@
+<word>curt</word>
+<meaning>said or done in a quick and impolite way</meaning>
+<example>be curt and say "No way!"</example>

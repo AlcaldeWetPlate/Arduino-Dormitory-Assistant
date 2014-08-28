@@ -1,0 +1,3 @@
+<word>autonomy</word>
+<meaning>the power or right of a country, group, etc., to govern itself</meaning>
+<example>the disabled man's autonomy</example>

@@ -1,0 +1,3 @@
+<word>director</word>
+<meaning>a person who directs a play, movie, etc.</meaning>
+<example>an angry director</example>

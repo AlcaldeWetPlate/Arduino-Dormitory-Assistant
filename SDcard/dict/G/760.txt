@@ -1,0 +1,3 @@
+<word>tactile</word>
+<meaning>relating to the sense of touch</meaning>
+<example>a tactile sensation</example>

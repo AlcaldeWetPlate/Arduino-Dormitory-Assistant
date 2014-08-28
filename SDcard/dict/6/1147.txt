@@ -1,0 +1,3 @@
+<word>enchant</word>
+<meaning>to put a magic spell on (someone or something)</meaning>
+<example>enchant the ball with magic</example>

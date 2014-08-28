@@ -1,0 +1,3 @@
+<word>improvise</word>
+<meaning>to speak or perform without preparation</meaning>
+<example>He improvises when he plays music.</example>

@@ -1,0 +1,3 @@
+<word>voter</word>
+<meaning>a person who votes or who has the legal right to vote</meaning>
+<example>The voters choose the president.</example>

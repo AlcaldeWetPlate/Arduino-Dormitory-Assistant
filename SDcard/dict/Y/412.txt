@@ -1,0 +1,3 @@
+<word>alongside</word>
+<meaning>next to (someone or something)</meaning>
+<example>alongside each other at the bowling alley</example>

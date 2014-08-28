@@ -1,0 +1,3 @@
+<word>Pope</word>
+<meaning>the head of the Roman Catholic Church</meaning>
+<example>Pope of the church.</example>

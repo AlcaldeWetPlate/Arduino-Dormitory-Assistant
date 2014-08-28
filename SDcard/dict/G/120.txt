@@ -1,0 +1,3 @@
+<word>grueling</word>
+<meaning>very difficult :requiring great effort</meaning>
+<example>a grueling bicycle trip</example>

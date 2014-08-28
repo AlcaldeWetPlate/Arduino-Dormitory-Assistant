@@ -1,0 +1,3 @@
+<word>chronic</word>
+<meaning>continuing or occurring again and again for a long time</meaning>
+<example>chronic pain</example>

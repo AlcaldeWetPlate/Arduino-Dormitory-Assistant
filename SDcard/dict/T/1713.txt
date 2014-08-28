@@ -1,0 +1,3 @@
+<word>prosper</word>
+<meaning>to become very successful usually by making a lot of money</meaning>
+<example>prosper by making money</example>

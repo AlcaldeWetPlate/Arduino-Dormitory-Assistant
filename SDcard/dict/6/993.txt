@@ -1,0 +1,3 @@
+<word>tutor</word>
+<meaning>a teacher who works with one student</meaning>
+<example>the little girl's tutor</example>

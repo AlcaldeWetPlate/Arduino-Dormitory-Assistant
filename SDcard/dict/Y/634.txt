@@ -1,0 +1,3 @@
+<word>cure</word>
+<meaning>to make (someone) healthy again after an illness</meaning>
+<example>a cure for your illness</example>

@@ -1,0 +1,3 @@
+<word>pervade</word>
+<meaning>to spread through all parts of (something)</meaning>
+<example>Fireworks pervade the sky.</example>

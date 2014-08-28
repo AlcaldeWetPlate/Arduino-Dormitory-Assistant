@@ -1,0 +1,3 @@
+<word>engaging</word>
+<meaning>very attractive or pleasing in a way that holds your attention</meaning>
+<example>an engaging book</example>

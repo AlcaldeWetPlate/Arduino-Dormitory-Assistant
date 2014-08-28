@@ -1,0 +1,3 @@
+<word>idyllic</word>
+<meaning>very peaceful, happy, and enjoyable</meaning>
+<example>an idyllic setting in the woods</example>

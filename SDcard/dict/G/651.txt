@@ -1,0 +1,3 @@
+<word>amble</word>
+<meaning>to walk slowly in a free and relaxed way</meaning>
+<example>amble along the road</example>

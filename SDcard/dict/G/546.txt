@@ -1,0 +1,3 @@
+<word>utter</word>
+<meaning>to say (something)</meaning>
+<example>utter a word</example>

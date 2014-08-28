@@ -1,0 +1,3 @@
+<word>analgesic</word>
+<meaning>a drug that relieves pain</meaning>
+<example>an analgesic for pain</example>

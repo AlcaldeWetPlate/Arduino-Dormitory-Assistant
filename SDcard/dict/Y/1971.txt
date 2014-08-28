@@ -1,0 +1,3 @@
+<word>theater</word>
+<meaning>a building where plays, shows, etc., are performed on a stage</meaning>
+<example>an empty theater</example>

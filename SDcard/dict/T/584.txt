@@ -1,0 +1,3 @@
+<word>brown</word>
+<meaning>having a color like coffee or chocolate</meaning>
+<example>brown hair</example>

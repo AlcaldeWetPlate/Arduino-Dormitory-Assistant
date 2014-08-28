@@ -1,0 +1,3 @@
+<word>combat</word>
+<meaning>active fighting especially in a war</meaning>
+<example>two armies in combat</example>

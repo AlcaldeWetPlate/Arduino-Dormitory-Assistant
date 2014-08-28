@@ -1,0 +1,3 @@
+<word>pupil</word>
+<meaning>a child or young person who is being taught</meaning>
+<example>teach a pupil</example>

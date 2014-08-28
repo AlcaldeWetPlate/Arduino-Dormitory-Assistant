@@ -1,0 +1,3 @@
+<word>favorite</word>
+<meaning>most liked</meaning>
+<example>Apples are my favorite fruit.</example>

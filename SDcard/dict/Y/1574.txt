@@ -1,0 +1,3 @@
+<word>blind</word>
+<meaning>unable to see</meaning>
+<example>Blind people cannot see.</example>

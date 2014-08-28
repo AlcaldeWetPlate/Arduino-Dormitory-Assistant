@@ -1,0 +1,3 @@
+<word>olfactory</word>
+<meaning>of, relating to, or connected with the sense of smell</meaning>
+<example>a strong olfactory sense</example>

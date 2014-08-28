@@ -1,0 +1,3 @@
+<word>symposium</word>
+<meaning>a formal meeting at which experts discuss a particular topic</meaning>
+<example>talk at a symposium</example>

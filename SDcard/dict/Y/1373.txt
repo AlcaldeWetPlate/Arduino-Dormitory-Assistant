@@ -1,0 +1,3 @@
+<word>physicist</word>
+<meaning>a scientist who studies or is a specialist in physics</meaning>
+<example>Einstein was a great physicist.</example>

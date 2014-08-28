@@ -1,0 +1,3 @@
+<word>refuge</word>
+<meaning>shelter or protection from danger or trouble</meaning>
+<example>refuge for animals</example>

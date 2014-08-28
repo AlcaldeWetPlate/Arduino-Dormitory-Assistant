@@ -1,0 +1,3 @@
+<word>sideways</word>
+<meaning>to or toward the right or left side</meaning>
+<example>a sideways view</example>

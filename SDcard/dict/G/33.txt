@@ -1,0 +1,3 @@
+<word>baffle</word>
+<meaning>to confuse (someone) completely</meaning>
+<example>Sth. baffles the confused man.</example>

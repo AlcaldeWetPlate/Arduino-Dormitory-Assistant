@@ -1,0 +1,3 @@
+<word>suggest</word>
+<meaning>to say (something) in an indirect way</meaning>
+<example>suggest some bad ideas to her</example>

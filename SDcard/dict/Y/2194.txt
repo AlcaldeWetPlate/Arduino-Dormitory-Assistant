@@ -1,0 +1,3 @@
+<word>manager</word>
+<meaning>someone who is in charge of a business, department, etc.</meaning>
+<example>a female manager</example>

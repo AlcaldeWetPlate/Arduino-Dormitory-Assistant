@@ -1,0 +1,3 @@
+<word>immanent</word>
+<meaning>of a mental act performed entirely within the mind</meaning>
+<example>God is immanent inside our minds.</example>

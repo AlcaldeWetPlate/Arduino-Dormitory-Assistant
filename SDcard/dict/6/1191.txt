@@ -1,0 +1,3 @@
+<word>forsake</word>
+<meaning>to give up or leave (someone or something) entirely</meaning>
+<example>forsake his wife</example>

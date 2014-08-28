@@ -1,0 +1,3 @@
+<word>visual</word>
+<meaning>relating to seeing or to the eyes</meaning>
+<example>A movie is a visual experience.</example>

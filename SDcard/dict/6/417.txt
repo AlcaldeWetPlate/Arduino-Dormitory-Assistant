@@ -1,0 +1,3 @@
+<word>sensible</word>
+<meaning>having or showing good sense or judgment</meaning>
+<example>be sensible and avoid drinking/smoking</example>

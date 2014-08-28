@@ -1,0 +1,3 @@
+<word>paralyse</word>
+<meaning>make powerless and unable to function</meaning>
+<example>The old man's disease paralysed him.</example>

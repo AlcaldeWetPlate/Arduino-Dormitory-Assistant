@@ -1,0 +1,3 @@
+<word>backup</word>
+<meaning>a copy of information stored on a computer</meaning>
+<example>a backup of the computer</example>

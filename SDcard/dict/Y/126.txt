@@ -1,0 +1,3 @@
+<word>deepen</word>
+<meaning>to become or to cause (something) to become deep or deeper</meaning>
+<example>deepen the hole</example>

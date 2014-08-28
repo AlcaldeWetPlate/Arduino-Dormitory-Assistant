@@ -1,0 +1,3 @@
+<word>hail</word>
+<meaning>pieces of ice that fall from clouds like rain</meaning>
+<example>rain and hail</example>

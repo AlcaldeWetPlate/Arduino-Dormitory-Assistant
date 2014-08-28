@@ -1,0 +1,3 @@
+<word>delivery</word>
+<meaning>the act of taking something to a person or place</meaning>
+<example>a delivery for her</example>

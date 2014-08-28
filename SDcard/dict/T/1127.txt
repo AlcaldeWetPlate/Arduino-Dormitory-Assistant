@@ -1,0 +1,3 @@
+<word>anecdotal</word>
+<meaning>characterized by or given to telling anecdotes</meaning>
+<example>The Noah's Ark story is just anecdotal.</example>

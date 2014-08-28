@@ -1,0 +1,3 @@
+<word>jack</word>
+<meaning>a device used for lifting something heavy (such as a car)</meaning>
+<example>raise the car with a jack</example>

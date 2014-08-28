@@ -1,0 +1,3 @@
+<word>handy</word>
+<meaning>clever or skillful in using your hands, doing small jobs, etc.</meaning>
+<example>handy with tools</example>

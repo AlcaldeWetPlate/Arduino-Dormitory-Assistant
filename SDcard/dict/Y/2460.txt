@@ -1,0 +1,3 @@
+<word>teacher</word>
+<meaning>a person whose job is to teach students about certain subjects</meaning>
+<example>a teacher and her students</example>

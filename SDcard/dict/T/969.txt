@@ -1,0 +1,3 @@
+<word>universal</word>
+<meaning>done or experienced by everyone</meaning>
+<example>Love is universal.</example>

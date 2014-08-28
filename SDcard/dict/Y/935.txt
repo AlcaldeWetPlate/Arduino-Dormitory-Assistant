@@ -1,0 +1,3 @@
+<word>barber</word>
+<meaning>a person whose job is to cut men's hair</meaning>
+<example>a barber cutting hair</example>

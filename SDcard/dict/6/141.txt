@@ -1,0 +1,3 @@
+<word>kerosene</word>
+<meaning>a type of oil that is burned as a fuel</meaning>
+<example>a kerosene lamp</example>

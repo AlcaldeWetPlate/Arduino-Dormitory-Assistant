@@ -1,0 +1,3 @@
+<word>sugarcane</word>
+<meaning>a tall grass that is grown in warm places as a source of sugar</meaning>
+<example>a sugarcane plant</example>

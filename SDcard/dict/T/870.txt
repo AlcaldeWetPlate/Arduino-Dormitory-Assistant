@@ -1,0 +1,3 @@
+<word>slab</word>
+<meaning>a thick, flat piece of a hard material (such as stone or wood)</meaning>
+<example>a slab of marble</example>

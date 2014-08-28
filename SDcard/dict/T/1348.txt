@@ -1,0 +1,3 @@
+<word>magnetize</word>
+<meaning>to cause (something) to become magnetic</meaning>
+<example>You can magnetize the nails.</example>

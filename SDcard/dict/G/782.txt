@@ -1,0 +1,3 @@
+<word>fallow</word>
+<meaning>not used for growing crops :not planted</meaning>
+<example>an empty, fallow field</example>

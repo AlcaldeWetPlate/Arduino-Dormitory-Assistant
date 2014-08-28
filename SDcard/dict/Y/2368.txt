@@ -1,0 +1,3 @@
+<word>think</word>
+<meaning>to have an opinion about someone or something</meaning>
+<example>think about a question</example>

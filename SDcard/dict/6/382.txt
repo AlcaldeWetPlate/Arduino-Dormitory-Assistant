@@ -1,0 +1,3 @@
+<word>gross</word>
+<meaning>including everything</meaning>
+<example>gross costs</example>

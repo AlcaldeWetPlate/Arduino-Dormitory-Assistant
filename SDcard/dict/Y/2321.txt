@@ -1,0 +1,3 @@
+<word>wind</word>
+<meaning>a natural movement of air outside</meaning>
+<example>the wind's direction</example>

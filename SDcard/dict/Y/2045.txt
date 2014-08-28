@@ -1,0 +1,3 @@
+<word>chill</word>
+<meaning>a feeling of being cold</meaning>
+<example>feel a chill</example>

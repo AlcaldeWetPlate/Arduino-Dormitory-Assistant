@@ -1,0 +1,3 @@
+<word>truncate</word>
+<meaning>to make (something) shorter</meaning>
+<example>truncate the cube's corners</example>

@@ -1,0 +1,3 @@
+<word>ventilate</word>
+<meaning>to express or discuss (something) openly or publicly</meaning>
+<example>ventilate the building</example>

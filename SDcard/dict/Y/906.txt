@@ -1,0 +1,3 @@
+<word>hum</word>
+<meaning>to make a low continuous sound</meaning>
+<example>the fly hums</example>

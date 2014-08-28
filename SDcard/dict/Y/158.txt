@@ -1,0 +1,3 @@
+<word>esteem</word>
+<meaning>respect and affection</meaning>
+<example>hold you in high esteem and bow</example>

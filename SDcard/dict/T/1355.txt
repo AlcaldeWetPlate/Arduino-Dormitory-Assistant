@@ -1,0 +1,3 @@
+<word>customs</word>
+<meaning>accepted or habitual practice</meaning>
+<example>customs at the airport</example>

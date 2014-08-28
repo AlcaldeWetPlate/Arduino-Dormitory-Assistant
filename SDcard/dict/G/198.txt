@@ -1,0 +1,3 @@
+<word>sincere</word>
+<meaning>genuine or real :not false, fake, or pretended</meaning>
+<example>her sincere prayer</example>

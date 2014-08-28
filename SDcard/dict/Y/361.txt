@@ -1,0 +1,3 @@
+<word>heal</word>
+<meaning>to make (someone or something) healthy or well again</meaning>
+<example>heal his shoulder pain</example>

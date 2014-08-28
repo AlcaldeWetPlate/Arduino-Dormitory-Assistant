@@ -1,0 +1,3 @@
+<word>truth</word>
+<meaning>the real facts about something :the things that are true</meaning>
+<example>learn the truth in court</example>

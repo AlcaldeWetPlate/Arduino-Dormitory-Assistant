@@ -1,0 +1,3 @@
+<word>stuffy</word>
+<meaning>lacking fresh air</meaning>
+<example>a hot and stuffy room</example>

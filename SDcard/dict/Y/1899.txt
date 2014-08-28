@@ -1,0 +1,3 @@
+<word>shampoo</word>
+<meaning>a special liquid that is used for cleaning your hair</meaning>
+<example>shampoo one's hair</example>

@@ -1,0 +1,3 @@
+<word>fervid</word>
+<meaning>having or showing feelings that are very strong or too strong</meaning>
+<example>fervid German football fans</example>

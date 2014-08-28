@@ -1,0 +1,3 @@
+<word>diurnal</word>
+<meaning>happening every day</meaning>
+<example>a diurnal animal</example>

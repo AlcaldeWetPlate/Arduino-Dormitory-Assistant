@@ -1,0 +1,3 @@
+<word>scorch</word>
+<meaning>to be burned on the surface</meaning>
+<example>Fire scorches the matchstick.</example>

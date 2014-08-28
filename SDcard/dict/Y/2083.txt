@@ -1,0 +1,3 @@
+<word>imprison</word>
+<meaning>to put (someone) in prison</meaning>
+<example>imprison the criminal</example>

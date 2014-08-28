@@ -1,0 +1,3 @@
+<word>agility</word>
+<meaning>the quality of being adaptable or variable</meaning>
+<example>a dancer's agility</example>

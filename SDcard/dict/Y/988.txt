@@ -1,0 +1,3 @@
+<word>inflation</word>
+<meaning>a continual increase in the price of goods and services</meaning>
+<example>Inflation makes money less valuable.</example>

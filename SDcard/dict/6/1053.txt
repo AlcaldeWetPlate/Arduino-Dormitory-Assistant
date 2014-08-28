@@ -1,0 +1,3 @@
+<word>dynamo</word>
+<meaning>a machine that produces electricity</meaning>
+<example>electricity from a dynamo</example>

@@ -1,0 +1,3 @@
+<word>sway</word>
+<meaning>to move slowly back and forth</meaning>
+<example>The plants sway in the wind.</example>

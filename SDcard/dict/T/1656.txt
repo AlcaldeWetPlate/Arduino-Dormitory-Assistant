@@ -1,0 +1,3 @@
+<word>troubling</word>
+<meaning>causing feelings of worry :disturbing or upsetting</meaning>
+<example>The girl heard some troubling news.</example>

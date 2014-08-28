@@ -1,0 +1,3 @@
+<word>sentiment</word>
+<meaning>feelings of love, sympathy, kindness, etc.</meaning>
+<example>loving sentiments</example>

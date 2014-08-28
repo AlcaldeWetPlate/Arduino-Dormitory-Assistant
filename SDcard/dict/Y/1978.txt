@@ -1,0 +1,3 @@
+<word>alternate</word>
+<meaning>occurring in or forming a repeated series</meaning>
+<example>the alternate white and pink stripes</example>

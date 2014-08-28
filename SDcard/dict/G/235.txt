@@ -1,0 +1,3 @@
+<word>extol</word>
+<meaning>to praise (someone or something) highly</meaning>
+<example>extol his good performance</example>

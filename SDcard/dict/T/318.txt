@@ -1,0 +1,3 @@
+<word>sort</word>
+<meaning>to separate and put (people or things) in a particular order</meaning>
+<example>sort garbage into different bins</example>

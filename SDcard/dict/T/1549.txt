@@ -1,0 +1,3 @@
+<word>dentistry</word>
+<meaning>the work that a dentist does</meaning>
+<example>profession of dentistry</example>

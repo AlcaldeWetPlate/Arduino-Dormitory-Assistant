@@ -1,0 +1,3 @@
+<word>scent</word>
+<meaning>a pleasant smell that is produced by something</meaning>
+<example>the scent of perfume</example>

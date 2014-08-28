@@ -1,0 +1,3 @@
+<word>Atlantic</word>
+<meaning>atlantic ocean</meaning>
+<example>the Atlantic Ocean</example>

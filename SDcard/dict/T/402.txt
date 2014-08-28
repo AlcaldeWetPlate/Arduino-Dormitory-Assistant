@@ -1,0 +1,3 @@
+<word>sphere</word>
+<meaning>a three-dimensional shape that looks like a ball</meaning>
+<example>The earth is a sphere.</example>

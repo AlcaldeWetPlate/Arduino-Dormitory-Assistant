@@ -1,0 +1,3 @@
+<word>miscreant</word>
+<meaning>a person who does something that is illegal or morally wrong</meaning>
+<example>a miscreant with his gun</example>

@@ -1,0 +1,3 @@
+<word>liquid</word>
+<meaning>a substance that is able to flow freely</meaning>
+<example>water is a liquid</example>

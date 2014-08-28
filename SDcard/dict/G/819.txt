@@ -1,0 +1,3 @@
+<word>skimp</word>
+<meaning>to spend less time, money, etc., on something than is needed</meaning>
+<example>skimp on food</example>

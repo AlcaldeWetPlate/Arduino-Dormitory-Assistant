@@ -1,0 +1,3 @@
+<word>vibrant</word>
+<meaning>having or showing great life, activity, and energy</meaning>
+<example>The flowers have vibrant colors.</example>

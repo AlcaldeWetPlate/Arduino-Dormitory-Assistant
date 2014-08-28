@@ -1,0 +1,3 @@
+<word>zigzag</word>
+<meaning>a line that has a series of short, sharp turns or angles</meaning>
+<example>a red zigzag</example>

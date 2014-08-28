@@ -1,0 +1,3 @@
+<word>arrival</word>
+<meaning>the act of coming to or reaching a place :the act of arriving</meaning>
+<example>arrival at the airport</example>

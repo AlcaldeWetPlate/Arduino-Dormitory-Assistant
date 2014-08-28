@@ -1,0 +1,3 @@
+<word>will</word>
+<meaning>a strong desire or determination to do something</meaning>
+<example>He will get the job.</example>

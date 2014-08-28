@@ -1,0 +1,3 @@
+<word>tawdry</word>
+<meaning>having a cheap and ugly appearance</meaning>
+<example>the girl's cheap, tawdry jewelry</example>

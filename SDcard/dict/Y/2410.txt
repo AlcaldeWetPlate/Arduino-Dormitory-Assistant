@@ -1,0 +1,3 @@
+<word>same</word>
+<meaning>not different</meaning>
+<example>the same clothes</example>

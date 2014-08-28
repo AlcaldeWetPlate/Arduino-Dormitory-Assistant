@@ -1,0 +1,3 @@
+<word>stringent</word>
+<meaning>very strict or severe</meaning>
+<example>her stringent requirements</example>

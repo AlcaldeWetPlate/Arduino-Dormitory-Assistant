@@ -1,0 +1,3 @@
+<word>espouse</word>
+<meaning>to express support for (a cause, belief, etc.)</meaning>
+<example>espouse an opinion</example>

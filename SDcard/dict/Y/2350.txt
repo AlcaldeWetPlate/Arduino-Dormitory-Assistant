@@ -1,0 +1,3 @@
+<word>success</word>
+<meaning>the correct or desired result of an attempt</meaning>
+<example>She had great success.</example>

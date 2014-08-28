@@ -1,0 +1,3 @@
+<word>remaining</word>
+<meaning>being the remaining one or ones of severa</meaning>
+<example>remaining battery life</example>

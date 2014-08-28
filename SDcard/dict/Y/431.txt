@@ -1,0 +1,3 @@
+<word>raw</word>
+<meaning>not cooked</meaning>
+<example>knead raw dough</example>

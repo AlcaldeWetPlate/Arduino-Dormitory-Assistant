@@ -1,0 +1,3 @@
+<word>dampen</word>
+<meaning>to make (something) less strong or active</meaning>
+<example>The rain will dampen the grass.</example>

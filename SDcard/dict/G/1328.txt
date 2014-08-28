@@ -1,0 +1,3 @@
+<word>lissome</word>
+<meaning>thin and graceful</meaning>
+<example>the lissome gymnast</example>

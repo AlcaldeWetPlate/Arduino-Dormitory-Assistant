@@ -1,0 +1,3 @@
+<word>wear out</word>
+<meaning>exhaust or tire through overuse or great strain or stress</meaning>
+<example>wear out the shoes</example>

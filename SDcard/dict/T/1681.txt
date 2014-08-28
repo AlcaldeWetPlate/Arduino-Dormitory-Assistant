@@ -1,0 +1,3 @@
+<word>harshness</word>
+<meaning>the roughness of a substance that causes abrasions</meaning>
+<example>the harshness of her voice</example>

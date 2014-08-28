@@ -1,0 +1,3 @@
+<word>subtle</word>
+<meaning>hard to notice or see :not obvious</meaning>
+<example>subtle makeup</example>

@@ -1,0 +1,3 @@
+<word>sickness</word>
+<meaning>unhealthy condition of body or mind :the state of being sick</meaning>
+<example>her sickness makes her nose bleed</example>

@@ -1,0 +1,3 @@
+<word>satiate</word>
+<meaning>to satisfy (a need, desire, etc.) fully</meaning>
+<example>satiate thirst with water</example>

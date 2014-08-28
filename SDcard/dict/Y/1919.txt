@@ -1,0 +1,3 @@
+<word>botanical</word>
+<meaning>of or relating to plants or the study of plants</meaning>
+<example>a botanical garden</example>

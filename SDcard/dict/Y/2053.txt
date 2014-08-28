@@ -1,0 +1,3 @@
+<word>former</word>
+<meaning>existing in the past</meaning>
+<example>four former presidents</example>

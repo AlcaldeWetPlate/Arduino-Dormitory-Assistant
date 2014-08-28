@@ -1,0 +1,3 @@
+<word>shirk</word>
+<meaning>to avoid doing something that you are supposed to do</meaning>
+<example>shirk one's work</example>

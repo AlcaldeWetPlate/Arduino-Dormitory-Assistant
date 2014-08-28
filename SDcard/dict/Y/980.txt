@@ -1,0 +1,3 @@
+<word>stuff</word>
+<meaning>materials, supplies, or equipment</meaning>
+<example>lots of baby stuff</example>

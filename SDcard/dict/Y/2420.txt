@@ -1,0 +1,3 @@
+<word>message</word>
+<meaning>a piece of information that is sent or given to someone</meaning>
+<example>send a text message with one's phone</example>

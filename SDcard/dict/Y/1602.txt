@@ -1,0 +1,3 @@
+<word>dialogue</word>
+<meaning>a conversation between two or more people</meaning>
+<example>a dialogue between women</example>

@@ -1,0 +1,3 @@
+<word>connive</word>
+<meaning>to secretly help someone do something dishonest or illegal</meaning>
+<example>The little girls connive a plan.</example>

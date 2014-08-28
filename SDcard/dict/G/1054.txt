@@ -1,0 +1,3 @@
+<word>snarl</word>
+<meaning>to growl and show the teeth</meaning>
+<example>a tiger snarls</example>

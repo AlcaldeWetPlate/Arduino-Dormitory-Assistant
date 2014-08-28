@@ -1,0 +1,3 @@
+<word>harmonic</word>
+<meaning>of or relating to musical harmony rather than melody or rhythm</meaning>
+<example>a harmonic orchestra</example>

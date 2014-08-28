@@ -1,0 +1,3 @@
+<word>toxic</word>
+<meaning>containing poisonous substances</meaning>
+<example>toxic smoke</example>

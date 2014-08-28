@@ -1,0 +1,3 @@
+<word>opening</word>
+<meaning>a hole or empty space that you can go through</meaning>
+<example>a small opening in the wall</example>

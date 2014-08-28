@@ -1,0 +1,3 @@
+<word>lunch</word>
+<meaning>a light meal eaten in the middle of the day</meaning>
+<example>eat lunch</example>

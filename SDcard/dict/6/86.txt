@@ -1,0 +1,3 @@
+<word>eruption</word>
+<meaning>The act or process of erupting</meaning>
+<example>volcanic eruption</example>

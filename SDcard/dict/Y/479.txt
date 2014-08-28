@@ -1,0 +1,3 @@
+<word>palm</word>
+<meaning>the inside part of the hand between the wrist and the fingers</meaning>
+<example>palm of the hand</example>

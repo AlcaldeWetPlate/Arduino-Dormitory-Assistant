@@ -1,0 +1,3 @@
+<word>rendition</word>
+<meaning>a performance of something</meaning>
+<example>a rendition of a song</example>

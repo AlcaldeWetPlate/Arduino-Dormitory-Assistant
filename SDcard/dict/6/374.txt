@@ -1,0 +1,3 @@
+<word>tumble</word>
+<meaning>to fall down suddenly and quickly</meaning>
+<example>tumble off the bike</example>

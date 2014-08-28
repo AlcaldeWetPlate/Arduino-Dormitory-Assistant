@@ -1,0 +1,3 @@
+<word>highlight</word>
+<meaning>to mark (something, such as text) with a bright color</meaning>
+<example>highlight the text</example>

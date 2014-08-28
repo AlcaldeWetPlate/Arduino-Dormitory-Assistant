@@ -1,0 +1,3 @@
+<word>verge</word>
+<meaning>an area along the edge of a road, path, etc.</meaning>
+<example>on the verge of falling</example>

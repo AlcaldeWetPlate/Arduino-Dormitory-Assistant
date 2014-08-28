@@ -1,0 +1,3 @@
+<word>hawk</word>
+<meaning>a bird that kills other birds and animals for food</meaning>
+<example>The hawk flies.</example>

@@ -1,0 +1,3 @@
+<word>envy</word>
+<meaning>the feeling of wanting to have what someone else has</meaning>
+<example>stare at them in envy</example>

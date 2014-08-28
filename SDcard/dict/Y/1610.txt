@@ -1,0 +1,3 @@
+<word>expect</word>
+<meaning>to think that something will probably or certainly happen</meaning>
+<example>expect the baby</example>

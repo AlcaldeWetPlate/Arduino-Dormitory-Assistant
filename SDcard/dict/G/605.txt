@@ -1,0 +1,3 @@
+<word>gaudy</word>
+<meaning>too bright and heavily decorated</meaning>
+<example>her gaudy looking hat</example>

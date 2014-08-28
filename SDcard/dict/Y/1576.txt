@@ -1,0 +1,3 @@
+<word>load</word>
+<meaning>to put an amount of something in or on (something)</meaning>
+<example>load the package onto the airplane</example>

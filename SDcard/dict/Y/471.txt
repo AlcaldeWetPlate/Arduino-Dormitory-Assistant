@@ -1,0 +1,3 @@
+<word>breeze</word>
+<meaning>a gentle wind</meaning>
+<example>a gentle breeze</example>

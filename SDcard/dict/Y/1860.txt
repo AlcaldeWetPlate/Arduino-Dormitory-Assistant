@@ -1,0 +1,3 @@
+<word>guide</word>
+<meaning>a person who leads or directs other people on a journey</meaning>
+<example>take her guide's hand</example>

@@ -1,0 +1,3 @@
+<word>hasten</word>
+<meaning>to move or act quickly</meaning>
+<example>hasten towards work</example>

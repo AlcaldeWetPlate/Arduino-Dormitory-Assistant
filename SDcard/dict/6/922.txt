@@ -1,0 +1,3 @@
+<word>stalk</word>
+<meaning>a thick or tall stem of a plant</meaning>
+<example>plant stalks</example>

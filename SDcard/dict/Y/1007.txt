@@ -1,0 +1,3 @@
+<word>gradually</word>
+<meaning>in a gradual manner</meaning>
+<example>change gradually</example>

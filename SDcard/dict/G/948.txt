@@ -1,0 +1,3 @@
+<word>surfeit</word>
+<meaning>an amount that is too much or more than you need</meaning>
+<example>a surfeit of food</example>

@@ -1,0 +1,3 @@
+<word>workmate</word>
+<meaning>a person who works with you</meaning>
+<example>work with one's workmates</example>

@@ -1,0 +1,3 @@
+<word>stimulate</word>
+<meaning>to make (something) more active</meaning>
+<example>stimulate the neck</example>

@@ -1,0 +1,3 @@
+<word>resemble</word>
+<meaning>to look or be like (someone or something)</meaning>
+<example>The twin brothers resemble each other.</example>

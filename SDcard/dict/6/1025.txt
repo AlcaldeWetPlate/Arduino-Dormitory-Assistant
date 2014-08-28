@@ -1,0 +1,3 @@
+<word>unlock</word>
+<meaning>to open the lock on (something)</meaning>
+<example>unlock the door</example>

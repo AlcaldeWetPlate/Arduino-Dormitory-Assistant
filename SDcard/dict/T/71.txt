@@ -1,0 +1,3 @@
+<word>convinced</word>
+<meaning>believing strongly in something</meaning>
+<example>be convinced by his presentation</example>

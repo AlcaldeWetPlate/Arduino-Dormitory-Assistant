@@ -1,0 +1,3 @@
+<word>handle</word>
+<meaning>a part of something that is designed to be held by your hand</meaning>
+<example>the door handle</example>

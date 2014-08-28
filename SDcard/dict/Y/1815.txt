@@ -1,0 +1,3 @@
+<word>moustache</word>
+<meaning>an unshaved growth of hair on the upper lip</meaning>
+<example>a moustache, glasses and hat</example>

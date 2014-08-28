@@ -1,0 +1,3 @@
+<word>pallid</word>
+<meaning>very pale in a way that suggests poor health</meaning>
+<example>pallid, white skin</example>

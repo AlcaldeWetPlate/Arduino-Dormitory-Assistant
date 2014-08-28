@@ -1,0 +1,3 @@
+<word>descent</word>
+<meaning>a way of going down something :a downward slope, path, etc.</meaning>
+<example>descent down the mountain</example>

@@ -1,0 +1,3 @@
+<word>draconian</word>
+<meaning>very severe or cruel</meaning>
+<example>a draconian punishment</example>

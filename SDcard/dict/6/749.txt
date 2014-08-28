@@ -1,0 +1,3 @@
+<word>audible</word>
+<meaning>heard or able to be heard</meaning>
+<example>audible music</example>

@@ -1,0 +1,3 @@
+<word>insist</word>
+<meaning>to demand that something happen or that someone do something</meaning>
+<example>insist on shouting</example>

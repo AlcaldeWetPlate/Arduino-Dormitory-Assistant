@@ -1,0 +1,3 @@
+<word>stricture</word>
+<meaning>a strong criticism</meaning>
+<example>the policeman's strictures</example>

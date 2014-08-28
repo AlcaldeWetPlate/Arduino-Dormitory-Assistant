@@ -1,0 +1,3 @@
+<word>war</word>
+<meaning>a state or period of fighting between countries or groups</meaning>
+<example>fight in the war</example>

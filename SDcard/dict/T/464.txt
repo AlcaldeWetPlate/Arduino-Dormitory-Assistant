@@ -1,0 +1,3 @@
+<word>exert</word>
+<meaning>to use (strength, ability, etc.)</meaning>
+<example>exert oneself</example>

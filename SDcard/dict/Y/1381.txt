@@ -1,0 +1,3 @@
+<word>eastward</word>
+<meaning>toward the east</meaning>
+<example>looking eastward into the sunset</example>

@@ -1,0 +1,3 @@
+<word>vendor</word>
+<meaning>a business that sells a particular type of product</meaning>
+<example>The vendor sells clothes.</example>

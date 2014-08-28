@@ -1,0 +1,3 @@
+<word>destine</word>
+<meaning>decree or designate beforehand</meaning>
+<example>The stars destine us to do sth.</example>

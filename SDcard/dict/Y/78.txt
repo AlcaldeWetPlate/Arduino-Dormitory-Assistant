@@ -1,0 +1,3 @@
+<word>candid</word>
+<meaning>expressing opinions and feelings in an honest and sincere way</meaning>
+<example>his candid opinion of the object</example>

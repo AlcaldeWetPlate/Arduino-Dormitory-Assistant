@@ -1,0 +1,3 @@
+<word>flock to</word>
+<meaning>as a large crowd</meaning>
+<example>flock to the festival</example>

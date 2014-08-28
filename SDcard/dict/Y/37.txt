@@ -1,0 +1,3 @@
+<word>artistic</word>
+<meaning>having or showing the skill of an artist</meaning>
+<example>artistic expression by painting</example>

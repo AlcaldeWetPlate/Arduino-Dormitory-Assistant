@@ -1,0 +1,3 @@
+<word>idleness</word>
+<meaning>having no employment</meaning>
+<example>idleness of one of the pigs</example>

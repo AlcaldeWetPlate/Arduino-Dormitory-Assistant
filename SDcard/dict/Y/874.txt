@@ -1,0 +1,3 @@
+<word>tug</word>
+<meaning>an act of pulling on something :a quick pull</meaning>
+<example>they tug from both sides</example>

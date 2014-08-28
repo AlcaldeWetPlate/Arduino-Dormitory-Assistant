@@ -1,0 +1,3 @@
+<word>silence</word>
+<meaning>a lack of sound or noise</meaning>
+<example>keep in silence</example>

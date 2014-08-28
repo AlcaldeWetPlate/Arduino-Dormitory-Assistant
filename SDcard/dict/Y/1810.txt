@@ -1,0 +1,3 @@
+<word>emigrate</word>
+<meaning>to leave a country or region to live elsewhere</meaning>
+<example>emigrate from the country</example>

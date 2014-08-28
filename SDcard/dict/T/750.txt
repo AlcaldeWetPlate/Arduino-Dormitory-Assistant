@@ -1,0 +1,3 @@
+<word>chart</word>
+<meaning>information in the form of a table, diagram, etc.</meaning>
+<example>a chart about making a website</example>

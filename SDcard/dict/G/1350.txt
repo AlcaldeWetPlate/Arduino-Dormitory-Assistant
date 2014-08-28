@@ -1,0 +1,3 @@
+<word>behoove</word>
+<meaning>to be necessary or proper for (someone)</meaning>
+<example>It behooves us to follow the law.</example>

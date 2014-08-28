@@ -1,0 +1,3 @@
+<word>seamen</word>
+<meaning>a person works on the sea</meaning>
+<example>seamen on a ship</example>

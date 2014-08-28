@@ -1,0 +1,3 @@
+<word>incorrect</word>
+<meaning>not correct</meaning>
+<example>the incorrect answer</example>

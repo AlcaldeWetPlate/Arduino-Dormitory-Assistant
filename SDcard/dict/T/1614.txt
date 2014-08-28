@@ -1,0 +1,3 @@
+<word>overtaxed</word>
+<meaning>it is making them pay more tax than you think they should pay.</meaning>
+<example>the overtaxed citizen</example>

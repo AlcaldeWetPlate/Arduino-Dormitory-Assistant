@@ -1,0 +1,3 @@
+<word>acme</word>
+<meaning>the highest point of something</meaning>
+<example>the acme of the group</example>

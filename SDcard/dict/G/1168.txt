@@ -1,0 +1,3 @@
+<word>prudish</word>
+<meaning>exaggeratedly proper</meaning>
+<example>a prudish, plain-dressed woman</example>

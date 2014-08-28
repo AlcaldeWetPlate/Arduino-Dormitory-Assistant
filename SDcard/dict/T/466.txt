@@ -1,0 +1,3 @@
+<word>scout</word>
+<meaning>to explore (an area) in order to find information about it</meaning>
+<example>scout with a pair of binoculars</example>

@@ -1,0 +1,3 @@
+<word>incubate</word>
+<meaning>to sit on eggs so that they will be kept warm and will hatch</meaning>
+<example>incubate the eggs</example>

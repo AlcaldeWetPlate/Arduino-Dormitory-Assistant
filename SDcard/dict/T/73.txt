@@ -1,0 +1,3 @@
+<word>craze</word>
+<meaning>something that is very popular for a period of time</meaning>
+<example>a craze at the concert</example>

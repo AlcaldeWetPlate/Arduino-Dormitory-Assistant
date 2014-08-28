@@ -1,0 +1,3 @@
+<word>deity</word>
+<meaning>a god or goddess</meaning>
+<example>a religious deity</example>

@@ -1,0 +1,3 @@
+<word>burning</word>
+<meaning>on fire :producing or having a flame</meaning>
+<example>a burning forest</example>

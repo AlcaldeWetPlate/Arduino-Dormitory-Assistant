@@ -1,0 +1,3 @@
+<word>army</word>
+<meaning>a large group of soldiers organized to fight battles on land</meaning>
+<example>three soldiers in the army</example>

@@ -1,0 +1,3 @@
+<word>charming</word>
+<meaning>very pleasing or appealing :full of charm</meaning>
+<example>a charming princess</example>

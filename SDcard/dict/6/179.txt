@@ -1,0 +1,3 @@
+<word>ruthless</word>
+<meaning>having no pity :cruel or merciless</meaning>
+<example>a ruthless, evil man</example>

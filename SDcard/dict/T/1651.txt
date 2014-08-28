@@ -1,0 +1,3 @@
+<word>swiftness</word>
+<meaning>a rate (usually rapid) at which something happens</meaning>
+<example>the dog's swiftness</example>

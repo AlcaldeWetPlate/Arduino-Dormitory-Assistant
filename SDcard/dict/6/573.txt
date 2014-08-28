@@ -1,0 +1,3 @@
+<word>severe</word>
+<meaning>very bad, serious, or unpleasant</meaning>
+<example>the severe thunderstorms</example>

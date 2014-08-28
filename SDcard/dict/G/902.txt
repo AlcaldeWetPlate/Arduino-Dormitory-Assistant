@@ -1,0 +1,3 @@
+<word>adversary</word>
+<meaning>an enemy or opponent</meaning>
+<example>a strong adversary</example>

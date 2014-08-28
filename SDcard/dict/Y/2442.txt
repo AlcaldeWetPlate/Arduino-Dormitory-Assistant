@@ -1,0 +1,3 @@
+<word>way</word>
+<meaning>a road, path, etc.</meaning>
+<example>the way you choose</example>

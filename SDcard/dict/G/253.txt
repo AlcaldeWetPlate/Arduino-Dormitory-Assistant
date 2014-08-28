@@ -1,0 +1,3 @@
+<word>aseptic</word>
+<meaning>free from germs that cause disease</meaning>
+<example>an aseptic bathroom</example>

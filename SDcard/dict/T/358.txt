@@ -1,0 +1,3 @@
+<word>surge</word>
+<meaning>to move very quickly and suddenly in a particular direction</meaning>
+<example>the water surges</example>

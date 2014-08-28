@@ -1,0 +1,3 @@
+<word>stainless</word>
+<meaning>of reputation</meaning>
+<example>stainless steel</example>

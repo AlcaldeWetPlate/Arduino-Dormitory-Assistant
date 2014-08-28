@@ -1,0 +1,3 @@
+<word>bony</word>
+<meaning>very thin</meaning>
+<example>her bony hip</example>

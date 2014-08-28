@@ -1,0 +1,3 @@
+<word>tale</word>
+<meaning>a story about imaginary events :an exciting or dramatic story</meaning>
+<example>read a tale</example>

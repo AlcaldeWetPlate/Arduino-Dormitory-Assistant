@@ -1,0 +1,3 @@
+<word>plentiful</word>
+<meaning>present in large amounts</meaning>
+<example>The fruit is plentiful at the market.</example>

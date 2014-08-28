@@ -1,0 +1,3 @@
+<word>jejune</word>
+<meaning>not interesting</meaning>
+<example>sleep through a jejune presentation</example>

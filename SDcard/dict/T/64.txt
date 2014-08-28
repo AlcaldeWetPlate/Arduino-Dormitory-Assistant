@@ -1,0 +1,3 @@
+<word>cohesion</word>
+<meaning>a condition in which people or things are closely united</meaning>
+<example>family cohesion</example>

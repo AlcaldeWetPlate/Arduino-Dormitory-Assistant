@@ -1,0 +1,3 @@
+<word>smell</word>
+<meaning>the quality of a thing that you can sense with your nose</meaning>
+<example>the smell of the flowers</example>

@@ -1,0 +1,3 @@
+<word>hot</word>
+<meaning>having a high temperature</meaning>
+<example>a hot cup of coffee</example>

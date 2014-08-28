@@ -1,0 +1,3 @@
+<word>variance</word>
+<meaning>an amount of difference or change</meaning>
+<example>variance of a data set</example>

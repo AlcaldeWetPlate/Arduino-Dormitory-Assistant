@@ -1,0 +1,3 @@
+<word>abject</word>
+<meaning>extremely bad or severe</meaning>
+<example>an abject failure</example>

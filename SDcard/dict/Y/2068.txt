@@ -1,0 +1,3 @@
+<word>develop</word>
+<meaning>to grow or become bigger or more advanced</meaning>
+<example>The plant develops.</example>

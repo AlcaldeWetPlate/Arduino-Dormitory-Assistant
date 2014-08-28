@@ -1,0 +1,3 @@
+<word>fallible</word>
+<meaning>capable of making mistakes or being wrong</meaning>
+<example>People are fallible and make mistakes.</example>

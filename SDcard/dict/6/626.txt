@@ -1,0 +1,3 @@
+<word>versatile</word>
+<meaning>having many different uses</meaning>
+<example>a versatile army knife</example>

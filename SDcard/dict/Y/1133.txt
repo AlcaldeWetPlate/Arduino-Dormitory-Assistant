@@ -1,0 +1,3 @@
+<word>permit</word>
+<meaning>to allow (someone) to do or have something</meaning>
+<example>permit sb. to take the car out</example>

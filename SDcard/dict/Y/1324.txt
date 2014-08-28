@@ -1,0 +1,3 @@
+<word>evenly</word>
+<meaning>in equal amounts or shares; in a balanced or impartial way</meaning>
+<example>The weight is evenly distributed.</example>

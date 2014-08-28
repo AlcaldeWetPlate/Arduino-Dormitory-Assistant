@@ -1,0 +1,3 @@
+<word>order</word>
+<meaning>a request for food or drinks made at a restaurant</meaning>
+<example>order some wine</example>

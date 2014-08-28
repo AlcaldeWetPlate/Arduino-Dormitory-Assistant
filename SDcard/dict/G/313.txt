@@ -1,0 +1,3 @@
+<word>remodel</word>
+<meaning>to change the structure, shape, or appearance of (something)</meaning>
+<example>remodel the house</example>

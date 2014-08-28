@@ -1,0 +1,3 @@
+<word>probably</word>
+<meaning>very likely :almost certainly</meaning>
+<example>probably be sunny on Sunday</example>

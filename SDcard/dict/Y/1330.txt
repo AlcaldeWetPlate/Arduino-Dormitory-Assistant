@@ -1,0 +1,3 @@
+<word>downward</word>
+<meaning>from a higher place or level to a lower place or level</meaning>
+<example>people falling downward</example>

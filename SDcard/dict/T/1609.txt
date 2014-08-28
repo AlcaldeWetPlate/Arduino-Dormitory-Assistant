@@ -1,0 +1,3 @@
+<word>object to</word>
+<meaning>be opposite of</meaning>
+<example>object to war in Afghanistan</example>

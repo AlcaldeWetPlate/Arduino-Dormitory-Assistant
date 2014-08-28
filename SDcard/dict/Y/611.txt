@@ -1,0 +1,3 @@
+<word>convert</word>
+<meaning>to change from one form or use to another</meaning>
+<example>convert dollars to euros</example>

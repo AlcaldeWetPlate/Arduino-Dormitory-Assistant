@@ -1,0 +1,3 @@
+<word>astound</word>
+<meaning>to cause a feeling of great surprise or wonder in (someone)</meaning>
+<example>Sth. astounds the woman.</example>

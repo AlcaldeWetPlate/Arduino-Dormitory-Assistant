@@ -1,0 +1,3 @@
+<word>shilling</word>
+<meaning>a British coin used before 1971 that was equal to</meaning>
+<example>a few British shillings</example>

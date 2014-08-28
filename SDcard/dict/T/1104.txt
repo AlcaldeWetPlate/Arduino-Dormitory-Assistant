@@ -1,0 +1,3 @@
+<word>benefit</word>
+<meaning>to be useful or helpful to (someone or something)</meaning>
+<example>benefit from money</example>

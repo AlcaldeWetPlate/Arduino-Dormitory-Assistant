@@ -1,0 +1,3 @@
+<word>librarian</word>
+<meaning>a person who works in a library</meaning>
+<example>a helpful librarian</example>

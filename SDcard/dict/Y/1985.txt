@@ -1,0 +1,3 @@
+<word>vacancy</word>
+<meaning>a job or position that is available to be taken</meaning>
+<example>a job vacancy</example>

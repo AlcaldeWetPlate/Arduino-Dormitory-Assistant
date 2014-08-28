@@ -1,0 +1,3 @@
+<word>furnace</word>
+<meaning>one for melting metals</meaning>
+<example>a large burning furnace</example>

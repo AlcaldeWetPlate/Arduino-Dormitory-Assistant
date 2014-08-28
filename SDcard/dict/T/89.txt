@@ -1,0 +1,3 @@
+<word>denote</word>
+<meaning>to have (something) as a meaning :to mean (something)</meaning>
+<example>Red denotes mistakes.</example>

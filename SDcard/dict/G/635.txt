@@ -1,0 +1,3 @@
+<word>morbid</word>
+<meaning>relating to unpleasant subjects (such as death)</meaning>
+<example>a morbid joke</example>

@@ -1,0 +1,3 @@
+<word>bedrock</word>
+<meaning>the solid rock that lies under the surface of the ground</meaning>
+<example>cut into the bedrock</example>

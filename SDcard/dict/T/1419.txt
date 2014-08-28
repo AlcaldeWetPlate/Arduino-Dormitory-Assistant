@@ -1,0 +1,3 @@
+<word>dismal</word>
+<meaning>very bad or poor</meaning>
+<example>her dismal day at work</example>

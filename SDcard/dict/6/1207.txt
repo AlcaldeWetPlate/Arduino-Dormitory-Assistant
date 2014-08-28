@@ -1,0 +1,3 @@
+<word>electric</word>
+<meaning>operated by electricity</meaning>
+<example>an electric razor</example>

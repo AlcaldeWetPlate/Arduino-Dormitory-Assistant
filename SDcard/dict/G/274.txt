@@ -1,0 +1,3 @@
+<word>maladroit</word>
+<meaning>very awkward :not skillful or adroit</meaning>
+<example>a maladroit carpenter</example>

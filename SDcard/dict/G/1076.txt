@@ -1,0 +1,3 @@
+<word>awry</word>
+<meaning>not working correctly or happening in the expected way</meaning>
+<example>The experiment goes awry.</example>

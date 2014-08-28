@@ -1,0 +1,3 @@
+<word>void</word>
+<meaning>a large empty space</meaning>
+<example>the black void</example>

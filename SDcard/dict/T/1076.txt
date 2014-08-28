@@ -1,0 +1,3 @@
+<word>empty</word>
+<meaning>not having any people :not occupied</meaning>
+<example>an empty room</example>

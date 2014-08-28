@@ -1,0 +1,3 @@
+<word>superman</word>
+<meaning>a person with great powers and abilities</meaning>
+<example>The little boy is Superman!</example>

@@ -1,0 +1,3 @@
+<word>tariff</word>
+<meaning>a tax on goods coming into or leaving a country</meaning>
+<example>customs tariffs</example>

@@ -1,0 +1,3 @@
+<word>perforate</word>
+<meaning>to make a hole or a series of holes in (something)</meaning>
+<example>perforate the toilet paper</example>

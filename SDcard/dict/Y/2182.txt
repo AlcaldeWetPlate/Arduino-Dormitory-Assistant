@@ -1,0 +1,3 @@
+<word>solemnity</word>
+<meaning>formal ceremonies</meaning>
+<example>the solemnity of the church</example>

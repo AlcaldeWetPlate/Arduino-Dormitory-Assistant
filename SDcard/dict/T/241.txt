@@ -1,0 +1,3 @@
+<word>repel</word>
+<meaning>to keep (something) out or away</meaning>
+<example>The woman repels a creepy man.</example>

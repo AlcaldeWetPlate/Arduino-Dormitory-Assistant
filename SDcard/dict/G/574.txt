@@ -1,0 +1,3 @@
+<word>pungent</word>
+<meaning>having a strong, sharp taste or smell</meaning>
+<example>pungent onions</example>

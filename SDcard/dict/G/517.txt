@@ -1,0 +1,3 @@
+<word>wicked</word>
+<meaning>morally bad</meaning>
+<example>a wicked witch</example>

@@ -1,0 +1,3 @@
+<word>votary</word>
+<meaning>a devoted follower of or believer in a religion, a cause, etc.</meaning>
+<example>votaries praying to Buddha</example>

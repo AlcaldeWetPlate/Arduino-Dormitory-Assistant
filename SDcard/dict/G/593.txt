@@ -1,0 +1,3 @@
+<word>emboss</word>
+<meaning>to decorate a surface with a raised pattern or design</meaning>
+<example>emboss a word</example>

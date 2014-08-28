@@ -1,0 +1,3 @@
+<word>disgorge</word>
+<meaning>to empty whatever is in the stomach through the mouth</meaning>
+<example>disgorge the night's drinks</example>

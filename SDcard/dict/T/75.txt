@@ -1,0 +1,3 @@
+<word>creep</word>
+<meaning>to move slowly with the body close to the ground</meaning>
+<example>creep along the floor</example>

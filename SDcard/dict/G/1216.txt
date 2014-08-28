@@ -1,0 +1,3 @@
+<word>impious</word>
+<meaning>feeling or showing a lack of respect for God :not pious</meaning>
+<example>an impious Christian</example>

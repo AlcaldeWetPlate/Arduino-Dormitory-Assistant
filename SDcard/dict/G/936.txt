@@ -1,0 +1,3 @@
+<word>soporific</word>
+<meaning>causing a person to become tired and ready to fall asleep</meaning>
+<example>The baby finds airplanes to be soporific.</example>

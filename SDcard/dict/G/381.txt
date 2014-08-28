@@ -1,0 +1,3 @@
+<word>distend</word>
+<meaning>to become larger and rounder because of pressure from inside</meaning>
+<example>distend his tail</example>

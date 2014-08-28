@@ -1,0 +1,3 @@
+<word>talented</word>
+<meaning>having a special ability to do something well :having talent</meaning>
+<example>be talented at painting</example>

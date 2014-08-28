@@ -1,0 +1,3 @@
+<word>stabilize</word>
+<meaning>to become stable or to make (something) stable</meaning>
+<example>stabilize himself on the rope</example>

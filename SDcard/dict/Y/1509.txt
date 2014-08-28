@@ -1,0 +1,3 @@
+<word>artist</word>
+<meaning>a person who creates art</meaning>
+<example>an artist at work</example>

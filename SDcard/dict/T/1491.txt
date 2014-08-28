@@ -1,0 +1,3 @@
+<word>angular</word>
+<meaning>having one or more angles</meaning>
+<example>angular sides of tower</example>

@@ -1,0 +1,3 @@
+<word>simulate</word>
+<meaning>to look, feel, or behave like (something)</meaning>
+<example>simulate the cat's movements</example>

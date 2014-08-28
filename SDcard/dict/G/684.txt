@@ -1,0 +1,3 @@
+<word>cramped</word>
+<meaning>not having enough space inside :too small and crowded</meaning>
+<example>a cramped office space</example>

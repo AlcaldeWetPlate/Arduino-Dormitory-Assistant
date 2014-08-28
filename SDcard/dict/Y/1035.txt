@@ -1,0 +1,3 @@
+<word>visible</word>
+<meaning>able to be seen</meaning>
+<example>be visible to the man</example>

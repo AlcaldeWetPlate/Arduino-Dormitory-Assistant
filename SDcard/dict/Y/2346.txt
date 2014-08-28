@@ -1,0 +1,3 @@
+<word>armchair</word>
+<meaning>a chair with supports for your arms</meaning>
+<example>a comfortable armchair</example>

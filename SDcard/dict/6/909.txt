@@ -1,0 +1,3 @@
+<word>unity</word>
+<meaning>the state of being in full agreement</meaning>
+<example>a circle of unity</example>

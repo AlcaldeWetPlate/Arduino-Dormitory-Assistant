@@ -1,0 +1,3 @@
+<word>herald</word>
+<meaning>an official messenger in the past</meaning>
+<example>the King's heralds</example>

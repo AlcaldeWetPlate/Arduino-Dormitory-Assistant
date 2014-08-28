@@ -1,0 +1,3 @@
+<word>original</word>
+<meaning>able to think of or make new and creative things</meaning>
+<example>an original thinker</example>

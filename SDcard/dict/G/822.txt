@@ -1,0 +1,3 @@
+<word>dwindle</word>
+<meaning>to gradually become smaller</meaning>
+<example>the profits dwindle</example>

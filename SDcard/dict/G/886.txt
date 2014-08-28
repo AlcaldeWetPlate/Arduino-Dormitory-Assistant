@@ -1,0 +1,3 @@
+<word>tenuous</word>
+<meaning>not certain, definite, or strong :flimsy, weak, or uncertain</meaning>
+<example>a tenuous grasp on the cliff</example>

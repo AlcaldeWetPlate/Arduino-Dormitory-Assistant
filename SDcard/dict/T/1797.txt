@@ -1,0 +1,3 @@
+<word>harmless</word>
+<meaning>not causing harm :unable to cause harm :not dangerous</meaning>
+<example>harmless as a lamb</example>

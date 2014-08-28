@@ -1,0 +1,3 @@
+<word>snowstorm</word>
+<meaning>a storm with a large amount of falling snow</meaning>
+<example>A snowstorm covers the street with snow.</example>

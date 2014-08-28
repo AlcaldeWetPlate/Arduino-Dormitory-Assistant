@@ -1,0 +1,3 @@
+<word>circulate</word>
+<meaning>to move without stopping though a system, place, etc.</meaning>
+<example>the air circulates</example>

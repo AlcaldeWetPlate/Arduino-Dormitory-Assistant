@@ -1,0 +1,3 @@
+<word>veteran</word>
+<meaning>someone who fought in a war as a soldier, sailor, etc.</meaning>
+<example>a war veteran</example>

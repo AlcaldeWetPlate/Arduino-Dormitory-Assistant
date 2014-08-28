@@ -1,0 +1,3 @@
+<word>gang</word>
+<meaning>a group of people who are friends and who do things together</meaning>
+<example>a gang of young men</example>

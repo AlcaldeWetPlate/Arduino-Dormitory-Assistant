@@ -1,0 +1,3 @@
+<word>newly</word>
+<meaning>a short time ago</meaning>
+<example>a newly born baby</example>

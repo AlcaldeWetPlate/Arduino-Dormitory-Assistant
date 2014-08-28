@@ -1,0 +1,3 @@
+<word>fulfill</word>
+<meaning>to succeed in doing or providing (something)</meaning>
+<example>fulfill her dreams</example>

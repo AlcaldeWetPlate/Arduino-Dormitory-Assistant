@@ -1,0 +1,3 @@
+<word>recoil</word>
+<meaning>to move back suddenly when fired</meaning>
+<example>Guns sometimes recoil.</example>

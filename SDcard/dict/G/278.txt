@@ -1,0 +1,3 @@
+<word>revelry</word>
+<meaning>a wild and noisy celebration</meaning>
+<example>revelry and partying</example>

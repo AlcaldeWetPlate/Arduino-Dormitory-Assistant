@@ -1,0 +1,3 @@
+<word>teeming</word>
+<meaning>abundantly filled with especially living things</meaning>
+<example>teeming with fish</example>

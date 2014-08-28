@@ -1,0 +1,3 @@
+<word>feckless</word>
+<meaning>having or resulting from a weak character or nature</meaning>
+<example>a feckless future mother</example>

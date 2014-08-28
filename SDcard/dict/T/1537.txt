@@ -1,0 +1,3 @@
+<word>blazing</word>
+<meaning>very hot, fast, or powerful</meaning>
+<example>a blazing bird</example>

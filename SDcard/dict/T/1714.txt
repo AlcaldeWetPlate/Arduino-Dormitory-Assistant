@@ -1,0 +1,3 @@
+<word>salient</word>
+<meaning>very important or noticeable</meaning>
+<example>The blue piece is salient.</example>

@@ -1,0 +1,3 @@
+<word>add</word>
+<meaning>to put (something) with another thing or group of things</meaning>
+<example>add some milk</example>

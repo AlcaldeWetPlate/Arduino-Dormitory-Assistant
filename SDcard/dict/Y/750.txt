@@ -1,0 +1,3 @@
+<word>finding</word>
+<meaning>the results of an investigation</meaning>
+<example>make a new finding</example>

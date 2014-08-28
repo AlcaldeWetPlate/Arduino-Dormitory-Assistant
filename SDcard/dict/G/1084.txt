@@ -1,0 +1,3 @@
+<word>barbarous</word>
+<meaning>not polite or proper :very rude or offensive</meaning>
+<example>a barbarous caveman</example>

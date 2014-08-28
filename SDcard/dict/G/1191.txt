@@ -1,0 +1,3 @@
+<word>flippancy</word>
+<meaning>inappropriate levity</meaning>
+<example>the flippancy of the family photo</example>

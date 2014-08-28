@@ -1,0 +1,3 @@
+<word>inhale</word>
+<meaning>to breathe in</meaning>
+<example>She inhales some oxygen.</example>

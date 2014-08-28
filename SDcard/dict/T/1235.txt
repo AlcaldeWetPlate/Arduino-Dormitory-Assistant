@@ -1,0 +1,3 @@
+<word>iceberg</word>
+<meaning>a very large piece of ice floating in the ocean</meaning>
+<example>an iceberg in the ocean</example>

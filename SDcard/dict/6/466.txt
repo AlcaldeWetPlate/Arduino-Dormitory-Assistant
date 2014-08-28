@@ -1,0 +1,3 @@
+<word>guy</word>
+<meaning>a man</meaning>
+<example>a strong guy</example>

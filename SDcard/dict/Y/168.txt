@@ -1,0 +1,3 @@
+<word>external</word>
+<meaning>coming from outside</meaning>
+<example>an external hard-drive</example>

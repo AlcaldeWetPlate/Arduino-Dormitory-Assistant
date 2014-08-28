@@ -1,0 +1,3 @@
+<word>alike</word>
+<meaning>similar in appearance, nature, or form</meaning>
+<example>The dogs look alike.</example>

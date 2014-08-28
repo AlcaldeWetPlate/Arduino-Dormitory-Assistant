@@ -1,0 +1,3 @@
+<word>tranquil</word>
+<meaning>quiet and peaceful</meaning>
+<example>a tranquil place</example>

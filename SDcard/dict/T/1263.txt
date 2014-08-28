@@ -1,0 +1,3 @@
+<word>emit</word>
+<meaning>to send (light, energy, etc.) out from a source</meaning>
+<example>emit light</example>

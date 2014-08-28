@@ -1,0 +1,3 @@
+<word>emotion</word>
+<meaning>a strong feeling (such as love, anger, joy, hate, or fear)</meaning>
+<example>The girls are overcome with emotion.</example>

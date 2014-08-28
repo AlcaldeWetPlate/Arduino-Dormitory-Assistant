@@ -1,0 +1,3 @@
+<word>unearth</word>
+<meaning>to find (something) that was buried in the earth</meaning>
+<example>unearth some old bones</example>

@@ -1,0 +1,3 @@
+<word>eventual</word>
+<meaning>coming or happening at a later time</meaning>
+<example>the eventual setting of the sun</example>

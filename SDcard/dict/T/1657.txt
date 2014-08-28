@@ -1,0 +1,3 @@
+<word>unspoiled</word>
+<meaning>still wild and not changed by people :not spoiled</meaning>
+<example>the unspoiled African savanna</example>

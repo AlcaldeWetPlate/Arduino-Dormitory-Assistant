@@ -1,0 +1,3 @@
+<word>grand</word>
+<meaning>impressive because of size, importance, etc.</meaning>
+<example>the Grand Canyon</example>

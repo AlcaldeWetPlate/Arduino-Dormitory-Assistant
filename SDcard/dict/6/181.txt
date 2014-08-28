@@ -1,0 +1,3 @@
+<word>scar</word>
+<meaning>a mark that is left on your skin after a wound heals</meaning>
+<example>a scar on his skin</example>

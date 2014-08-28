@@ -1,0 +1,3 @@
+<word>cease</word>
+<meaning>to stop happening :to end</meaning>
+<example>She wants you to cease talking.</example>

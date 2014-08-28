@@ -1,0 +1,3 @@
+<word>fruitless</word>
+<meaning>producing no good results :not successful</meaning>
+<example>his fruitless endeavours</example>

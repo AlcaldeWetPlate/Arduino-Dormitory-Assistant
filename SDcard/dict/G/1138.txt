@@ -1,0 +1,3 @@
+<word>comely</word>
+<meaning>pleasing in appearance :pretty or attractive</meaning>
+<example>a comely young woman</example>

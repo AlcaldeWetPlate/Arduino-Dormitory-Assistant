@@ -1,0 +1,3 @@
+<word>feeble</word>
+<meaning>very weak</meaning>
+<example>a feeble boxer</example>

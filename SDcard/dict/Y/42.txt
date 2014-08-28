@@ -1,0 +1,3 @@
+<word>aural</word>
+<meaning>relating to the ear or sense of hearing</meaning>
+<example>aural magnificence of Beijing Opera</example>

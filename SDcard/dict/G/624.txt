@@ -1,0 +1,3 @@
+<word>deadlock</word>
+<meaning>a situation in which players, teams, etc., have the same score</meaning>
+<example>two sides in a deadlock</example>

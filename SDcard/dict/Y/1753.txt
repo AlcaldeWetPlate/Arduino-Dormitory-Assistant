@@ -1,0 +1,3 @@
+<word>clap</word>
+<meaning>to hit the palms of your hands together usually more than once</meaning>
+<example>clap their hands</example>

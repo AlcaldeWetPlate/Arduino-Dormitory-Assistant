@@ -1,0 +1,3 @@
+<word>wreck</word>
+<meaning>a ruined or destroyed ship</meaning>
+<example>ship wreck</example>

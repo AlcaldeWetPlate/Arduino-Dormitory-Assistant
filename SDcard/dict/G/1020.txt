@@ -1,0 +1,3 @@
+<word>hive</word>
+<meaning>a nest for bees</meaning>
+<example>a bee's hive</example>

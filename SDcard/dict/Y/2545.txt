@@ -1,0 +1,3 @@
+<word>cheap</word>
+<meaning>not costing a lot of money</meaning>
+<example>cheap cup of instant noodles</example>

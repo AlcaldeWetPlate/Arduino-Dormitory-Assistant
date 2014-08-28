@@ -1,0 +1,3 @@
+<word>majestic</word>
+<meaning>large and impressively beautiful</meaning>
+<example>the majestic lion</example>

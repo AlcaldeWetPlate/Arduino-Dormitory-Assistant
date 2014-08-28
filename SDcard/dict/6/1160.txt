@@ -1,0 +1,3 @@
+<word>queer</word>
+<meaning>odd or unusual</meaning>
+<example>a queer looking lobster</example>

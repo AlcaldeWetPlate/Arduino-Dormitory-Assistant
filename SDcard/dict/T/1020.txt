@@ -1,0 +1,3 @@
+<word>outlying</word>
+<meaning>far away from the center of a place</meaning>
+<example>the outlying islands</example>

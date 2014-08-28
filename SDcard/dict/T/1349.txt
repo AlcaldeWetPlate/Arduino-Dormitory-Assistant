@@ -1,0 +1,3 @@
+<word>tedium</word>
+<meaning>the quality or state of being tedious or boring</meaning>
+<example>the tedium of homework</example>

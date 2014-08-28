@@ -1,0 +1,3 @@
+<word>overload</word>
+<meaning>to put too great a load on or in (something)</meaning>
+<example>overload me with work</example>

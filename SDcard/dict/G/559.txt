@@ -1,0 +1,3 @@
+<word>infinite</word>
+<meaning>having no limits</meaning>
+<example>infinite space</example>

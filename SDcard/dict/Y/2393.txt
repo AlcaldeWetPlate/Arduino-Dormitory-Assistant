@@ -1,0 +1,3 @@
+<word>dumpling</word>
+<meaning>a small lump of dough that is boiled or steamed</meaning>
+<example>eat some Chinese dumplings</example>

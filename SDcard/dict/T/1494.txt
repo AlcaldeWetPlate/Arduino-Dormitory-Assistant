@@ -1,0 +1,3 @@
+<word>vigilance</word>
+<meaning>the process of paying close and continuous attention</meaning>
+<example>vigilance of the security guard</example>

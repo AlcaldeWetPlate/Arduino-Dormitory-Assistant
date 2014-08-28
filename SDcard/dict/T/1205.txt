@@ -1,0 +1,3 @@
+<word>spinach</word>
+<meaning>a plant with dark green leaves that are eaten as a vegetable</meaning>
+<example>Spinach is a green vegetable.</example>

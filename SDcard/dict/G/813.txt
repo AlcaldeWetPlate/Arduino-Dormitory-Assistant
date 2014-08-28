@@ -1,0 +1,3 @@
+<word>plausible</word>
+<meaning>possibly true :believable or realistic</meaning>
+<example>a plausible explanation</example>

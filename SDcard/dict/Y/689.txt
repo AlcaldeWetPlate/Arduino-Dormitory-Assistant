@@ -1,0 +1,3 @@
+<word>coil</word>
+<meaning>a wire wound into circles that carries electricity</meaning>
+<example>a coil of metal wire</example>

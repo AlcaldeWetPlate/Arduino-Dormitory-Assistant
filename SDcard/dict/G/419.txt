@@ -1,0 +1,3 @@
+<word>loath</word>
+<meaning>not wanting or willing</meaning>
+<example>loath to do his homework</example>

@@ -1,0 +1,3 @@
+<word>rivulet</word>
+<meaning>a small stream of water or liquid</meaning>
+<example>a small rivulet in the countryside</example>

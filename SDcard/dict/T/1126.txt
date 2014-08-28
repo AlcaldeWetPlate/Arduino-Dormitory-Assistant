@@ -1,0 +1,3 @@
+<word>coinage</word>
+<meaning>money in the form of coins</meaning>
+<example>foreign coinage</example>

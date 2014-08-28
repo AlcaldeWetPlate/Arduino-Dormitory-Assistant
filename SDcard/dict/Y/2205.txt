@@ -1,0 +1,3 @@
+<word>breath</word>
+<meaning>an amount of air that you take into your lungs</meaning>
+<example>take a few deep breaths</example>

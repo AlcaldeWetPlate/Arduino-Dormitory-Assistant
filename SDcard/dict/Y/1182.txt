@@ -1,0 +1,3 @@
+<word>backward</word>
+<meaning>directed or turned toward the back</meaning>
+<example>bend his body backward</example>

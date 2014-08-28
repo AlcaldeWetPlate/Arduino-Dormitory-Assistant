@@ -1,0 +1,3 @@
+<word>shuttle</word>
+<meaning>a vehicle that travels back and forth between places</meaning>
+<example>a shuttle to the airport</example>

@@ -1,0 +1,3 @@
+<word>rinse</word>
+<meaning>to wash (something) with clean water and without soap</meaning>
+<example>rinse the dishes</example>

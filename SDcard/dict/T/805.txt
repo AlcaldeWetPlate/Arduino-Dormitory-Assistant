@@ -1,0 +1,3 @@
+<word>evident</word>
+<meaning>clear to the sight or mind</meaning>
+<example>The needle in the haystack is evident.</example>

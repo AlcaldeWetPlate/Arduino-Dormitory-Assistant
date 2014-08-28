@@ -1,0 +1,3 @@
+<word>halcyon</word>
+<meaning>very happy and successful</meaning>
+<example>halcyon summer days</example>

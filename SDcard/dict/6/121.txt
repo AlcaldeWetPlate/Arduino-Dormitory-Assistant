@@ -1,0 +1,3 @@
+<word>haul</word>
+<meaning>to pull or drag (something) with effort</meaning>
+<example>haul her husband</example>

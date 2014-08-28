@@ -1,0 +1,3 @@
+<word>bodyguard</word>
+<meaning>a person or group of people whose job is to protect someone</meaning>
+<example>bodyguard with a gun</example>

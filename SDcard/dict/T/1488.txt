@@ -1,0 +1,3 @@
+<word>pedagogic</word>
+<meaning>of or relating to pedagogy</meaning>
+<example>teacher's pedagogic techniques</example>

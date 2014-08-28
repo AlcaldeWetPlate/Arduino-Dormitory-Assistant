@@ -1,0 +1,3 @@
+<word>across</word>
+<meaning>from one side to the other side of (something)</meaning>
+<example>get across the stream</example>

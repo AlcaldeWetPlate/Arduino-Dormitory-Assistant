@@ -1,0 +1,3 @@
+<word>wade</word>
+<meaning>to walk through water</meaning>
+<example>wade the river on a horse</example>

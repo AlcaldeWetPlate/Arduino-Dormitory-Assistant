@@ -1,0 +1,3 @@
+<word>fixed</word>
+<meaning>placed or attached in a way that does not move easily</meaning>
+<example>the fixed wheel lock</example>

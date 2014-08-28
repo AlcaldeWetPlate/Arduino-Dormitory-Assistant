@@ -1,0 +1,3 @@
+<word>swill</word>
+<meaning>to drink (something) quickly in large amounts</meaning>
+<example>swill the beer</example>

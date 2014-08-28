@@ -1,0 +1,3 @@
+<word>shift</word>
+<meaning>to change the gear you are using in a vehicle</meaning>
+<example>shift the gear</example>

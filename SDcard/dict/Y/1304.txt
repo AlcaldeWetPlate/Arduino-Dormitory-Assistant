@@ -1,0 +1,3 @@
+<word>fusion</word>
+<meaning>a process in which the nuclei of atoms are joined</meaning>
+<example>fusion of atoms</example>

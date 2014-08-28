@@ -1,0 +1,3 @@
+<word>sodden</word>
+<meaning>very heavy and wet</meaning>
+<example>be sodden and wet</example>

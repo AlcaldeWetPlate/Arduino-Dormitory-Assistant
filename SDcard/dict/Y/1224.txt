@@ -1,0 +1,3 @@
+<word>torch</word>
+<meaning>a long stick with material at one end that burns brightly</meaning>
+<example>a torch burns brightly</example>

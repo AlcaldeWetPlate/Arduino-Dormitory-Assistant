@@ -1,0 +1,3 @@
+<word>blond</word>
+<meaning>of a yellow or very light brown color</meaning>
+<example>the pretty woman's blond hair</example>

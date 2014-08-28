@@ -1,0 +1,3 @@
+<word>drop in</word>
+<meaning>visit informally and spontaneously</meaning>
+<example>She opens the door and drops in.</example>

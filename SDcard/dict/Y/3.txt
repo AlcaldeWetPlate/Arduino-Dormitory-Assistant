@@ -1,0 +1,3 @@
+<word>abstain</word>
+<meaning>to choose not to do or have something</meaning>
+<example>abstain from smoking</example>

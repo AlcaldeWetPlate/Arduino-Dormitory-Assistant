@@ -1,0 +1,3 @@
+<word>repose</word>
+<meaning>a state of resting or not being active</meaning>
+<example>a baby in repose</example>

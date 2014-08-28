@@ -1,0 +1,3 @@
+<word>staircase</word>
+<meaning>a set of stairs and its supporting structures</meaning>
+<example>walk down the staircase</example>

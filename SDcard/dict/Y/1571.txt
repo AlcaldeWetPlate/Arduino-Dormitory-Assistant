@@ -1,0 +1,3 @@
+<word>saving</word>
+<meaning>an amount of something that is not spent or used</meaning>
+<example>Don't spend your savings!</example>

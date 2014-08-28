@@ -1,0 +1,3 @@
+<word>muscular</word>
+<meaning>having large and strong muscles</meaning>
+<example>a muscular body</example>

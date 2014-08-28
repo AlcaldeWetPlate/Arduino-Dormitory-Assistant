@@ -1,0 +1,3 @@
+<word>scuba</word>
+<meaning>used in scuba diving</meaning>
+<example>the scuba diver</example>

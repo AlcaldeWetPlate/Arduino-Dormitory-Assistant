@@ -1,0 +1,3 @@
+<word>quarter</word>
+<meaning>one of four equal parts of something</meaning>
+<example>a quarter of the circle</example>

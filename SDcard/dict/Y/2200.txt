@@ -1,0 +1,3 @@
+<word>sight</word>
+<meaning>someone or something that is seen</meaning>
+<example>in the dog's sight</example>

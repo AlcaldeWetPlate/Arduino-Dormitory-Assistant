@@ -1,0 +1,3 @@
+<word>ferrous</word>
+<meaning>of, relating to, or containing iron</meaning>
+<example>Trains are made of ferrous metals.</example>

@@ -1,0 +1,3 @@
+<word>dental</word>
+<meaning>of or relating to teeth or to the work dentists do</meaning>
+<example>The woman goes to her dental check-up.</example>

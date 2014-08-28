@@ -1,0 +1,3 @@
+<word>furious</word>
+<meaning>very angry</meaning>
+<example>a furious couple</example>

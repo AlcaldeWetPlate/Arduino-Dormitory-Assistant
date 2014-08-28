@@ -1,0 +1,3 @@
+<word>originate</word>
+<meaning>to begin to exist :to be produced or created</meaning>
+<example>originate from monkeys</example>

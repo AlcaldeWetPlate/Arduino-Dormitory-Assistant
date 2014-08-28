@@ -1,0 +1,3 @@
+<word>stardom</word>
+<meaning>the state of being a very famous performer</meaning>
+<example>the celebrity's stardom</example>

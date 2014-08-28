@@ -1,0 +1,3 @@
+<word>offense</word>
+<meaning>something that causes a person to be hurt, angry, or upset</meaning>
+<example>take offense at her boyfriend's rude words</example>

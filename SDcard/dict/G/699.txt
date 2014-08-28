@@ -1,0 +1,3 @@
+<word>lug</word>
+<meaning>to pull or carry (something) with great effort</meaning>
+<example>lug the luggage</example>

@@ -1,0 +1,3 @@
+<word>genial</word>
+<meaning>cheerful and pleasant</meaning>
+<example>a genial, friendly businessman</example>

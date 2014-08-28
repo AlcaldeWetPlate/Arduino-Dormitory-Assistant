@@ -1,0 +1,3 @@
+<word>cohesive</word>
+<meaning>closely united</meaning>
+<example>a cohesive group</example>

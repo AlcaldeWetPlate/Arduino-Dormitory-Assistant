@@ -1,0 +1,3 @@
+<word>disperse</word>
+<meaning>to go or move in different directions :to spread apart</meaning>
+<example>disperse the crowd</example>

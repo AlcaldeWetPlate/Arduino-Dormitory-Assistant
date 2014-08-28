@@ -1,0 +1,3 @@
+<word>formula</word>
+<meaning>a general fact or rule expressed in letters and symbols</meaning>
+<example>math and science formulas</example>

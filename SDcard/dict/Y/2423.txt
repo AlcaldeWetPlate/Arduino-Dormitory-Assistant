@@ -1,0 +1,3 @@
+<word>ice</word>
+<meaning>frozen water</meaning>
+<example>ice cubes</example>

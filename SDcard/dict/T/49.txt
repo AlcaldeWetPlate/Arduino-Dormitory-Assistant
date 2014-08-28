@@ -1,0 +1,3 @@
+<word>bulky</word>
+<meaning>large and fat or muscular</meaning>
+<example>a bulky sumo wrestler</example>

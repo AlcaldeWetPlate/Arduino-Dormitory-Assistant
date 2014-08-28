@@ -1,0 +1,3 @@
+<word>windy</word>
+<meaning>having a lot of wind</meaning>
+<example>windy weather</example>

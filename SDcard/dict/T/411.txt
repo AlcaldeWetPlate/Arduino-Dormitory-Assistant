@@ -1,0 +1,3 @@
+<word>enclose</word>
+<meaning>to surround (something)</meaning>
+<example>be enclosed in a cage</example>

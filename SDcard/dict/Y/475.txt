@@ -1,0 +1,3 @@
+<word>ridge</word>
+<meaning>a long area of land that is on top of a mountain or hill</meaning>
+<example>the ridge of the mountain</example>

@@ -1,0 +1,3 @@
+<word>hangdog</word>
+<meaning>sad or depressed</meaning>
+<example>the dog's hangdog expression</example>

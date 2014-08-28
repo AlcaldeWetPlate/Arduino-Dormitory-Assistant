@@ -1,0 +1,3 @@
+<word>lane</word>
+<meaning>a narrow road or path</meaning>
+<example>a small dirt lane</example>

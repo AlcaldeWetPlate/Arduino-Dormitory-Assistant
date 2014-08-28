@@ -1,0 +1,3 @@
+<word>summon</word>
+<meaning>to order (someone) to come to a place</meaning>
+<example>summon help with a bell</example>

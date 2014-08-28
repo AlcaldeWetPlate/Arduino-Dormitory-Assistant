@@ -1,0 +1,3 @@
+<word>chary</word>
+<meaning>cautious about doing something</meaning>
+<example>be chary about the hammer</example>

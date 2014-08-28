@@ -1,0 +1,3 @@
+<word>holly</word>
+<meaning>a tree or bush with dark green leaves and bright red berries</meaning>
+<example>decorate with holly</example>

@@ -1,0 +1,3 @@
+<word>allotment</word>
+<meaning>an amount of something given to someone to use or have</meaning>
+<example>allotment of farmland</example>

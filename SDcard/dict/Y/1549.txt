@@ -1,0 +1,3 @@
+<word>rare</word>
+<meaning>having only a few of its kind in existence</meaning>
+<example>the rare pandas</example>

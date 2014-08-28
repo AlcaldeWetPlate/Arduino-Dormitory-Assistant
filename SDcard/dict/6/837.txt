@@ -1,0 +1,3 @@
+<word>horrible</word>
+<meaning>causing horror :very shocking and upsetting</meaning>
+<example>horrible, bad-tasting food</example>

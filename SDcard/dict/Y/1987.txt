@@ -1,0 +1,3 @@
+<word>means</word>
+<meaning>a way of doing something or of achieving a desired result</meaning>
+<example>by means of technology</example>

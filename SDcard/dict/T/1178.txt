@@ -1,0 +1,3 @@
+<word>chaotic</word>
+<meaning>in a state of complete confusion or disorder</meaning>
+<example>chaotic mess</example>

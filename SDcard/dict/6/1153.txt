@@ -1,0 +1,3 @@
+<word>suffice</word>
+<meaning>to be or provide as much as is needed :to be sufficient</meaning>
+<example>This many apples will suffice.</example>

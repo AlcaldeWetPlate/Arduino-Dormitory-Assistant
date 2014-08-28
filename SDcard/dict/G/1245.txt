@@ -1,0 +1,3 @@
+<word>stint</word>
+<meaning>a period of time spent doing a certain job or activity</meaning>
+<example>a stint as a volunteer</example>

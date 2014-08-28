@@ -1,0 +1,3 @@
+<word>limpid</word>
+<meaning>perfectly clear</meaning>
+<example>the limpid waters</example>

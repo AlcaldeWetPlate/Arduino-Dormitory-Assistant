@@ -1,0 +1,3 @@
+<word>flame</word>
+<meaning>the hot, glowing gas that can be seen when a fire is burning</meaning>
+<example>a bright burning flame</example>

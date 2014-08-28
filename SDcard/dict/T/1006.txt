@@ -1,0 +1,3 @@
+<word>locomote</word>
+<meaning>change location; move, travel, or proceed</meaning>
+<example>locomote across the country</example>

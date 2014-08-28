@@ -1,0 +1,3 @@
+<word>spite</word>
+<meaning>to deliberately annoy, upset, or hurt (someone)</meaning>
+<example>He kisses a girl to spite his girlfriend.</example>

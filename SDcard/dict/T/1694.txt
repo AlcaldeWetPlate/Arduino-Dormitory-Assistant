@@ -1,0 +1,3 @@
+<word>liberally</word>
+<meaning>freely in a nonliteral manner</meaning>
+<example>give bonuses liberally</example>

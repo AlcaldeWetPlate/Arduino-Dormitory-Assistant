@@ -1,0 +1,3 @@
+<word>hunt</word>
+<meaning>to chase and kill (wild animals) for food or pleasure</meaning>
+<example>hunt wild animals</example>

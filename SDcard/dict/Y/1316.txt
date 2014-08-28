@@ -1,0 +1,3 @@
+<word>pronoun</word>
+<meaning>a word</meaning>
+<example>pronouns like "he", "she", or "it"</example>

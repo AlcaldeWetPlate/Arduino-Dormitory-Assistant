@@ -1,0 +1,3 @@
+<word>sinew</word>
+<meaning>strong tissue that connects muscles to bones</meaning>
+<example>muscles and sinews</example>

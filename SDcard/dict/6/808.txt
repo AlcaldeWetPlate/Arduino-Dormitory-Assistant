@@ -1,0 +1,3 @@
+<word>motorway</word>
+<meaning>a large highway</meaning>
+<example>many cars on the motorway</example>

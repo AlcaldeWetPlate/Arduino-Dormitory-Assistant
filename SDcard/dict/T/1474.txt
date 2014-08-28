@@ -1,0 +1,3 @@
+<word>pivot</word>
+<meaning>the action of turning around a point :the action of pivoting</meaning>
+<example>the pivot point of a seesaw</example>

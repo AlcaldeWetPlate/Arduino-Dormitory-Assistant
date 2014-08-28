@@ -1,0 +1,3 @@
+<word>noisy</word>
+<meaning>making a lot of loud or unpleasant noise</meaning>
+<example>a noisy man yelling</example>

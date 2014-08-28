@@ -1,0 +1,3 @@
+<word>ally</word>
+<meaning>a person or group that gives help to another person or group</meaning>
+<example>allies on the same team</example>

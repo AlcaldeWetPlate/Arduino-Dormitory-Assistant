@@ -1,0 +1,3 @@
+<word>boredom</word>
+<meaning>the state of being bored</meaning>
+<example>The red-haired man experiences boredom.</example>

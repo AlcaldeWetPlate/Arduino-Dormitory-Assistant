@@ -1,0 +1,3 @@
+<word>lank</word>
+<meaning>hanging straight down in an unattractive way</meaning>
+<example>tall and lank teenager</example>

@@ -1,0 +1,3 @@
+<word>turmoil</word>
+<meaning>a state of confusion or disorder</meaning>
+<example>civil turmoil</example>

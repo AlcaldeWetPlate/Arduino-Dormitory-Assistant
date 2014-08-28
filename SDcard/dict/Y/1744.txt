@@ -1,0 +1,3 @@
+<word>hare</word>
+<meaning>a fast animal that resembles a rabbit</meaning>
+<example>a bunch of cute hares</example>

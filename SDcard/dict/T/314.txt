@@ -1,0 +1,3 @@
+<word>herculean</word>
+<meaning>very large, difficult, powerful, etc.</meaning>
+<example>big herculean bodies</example>

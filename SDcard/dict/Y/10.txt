@@ -1,0 +1,3 @@
+<word>actuality</word>
+<meaning>the quality or state of being actual or real</meaning>
+<example>In actuality, apples are red.</example>

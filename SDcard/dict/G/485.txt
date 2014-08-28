@@ -1,0 +1,3 @@
+<word>ragged</word>
+<meaning>in bad condition especially because of being torn</meaning>
+<example>ragged shoes</example>

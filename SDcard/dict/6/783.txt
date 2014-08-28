@@ -1,0 +1,3 @@
+<word>exquisite</word>
+<meaning>finely done or made</meaning>
+<example>exquisite food</example>

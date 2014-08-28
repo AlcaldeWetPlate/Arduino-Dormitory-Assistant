@@ -1,0 +1,3 @@
+<word>advice</word>
+<meaning>an opinion or suggestion about what someone should do</meaning>
+<example>medical advice</example>

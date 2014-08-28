@@ -1,0 +1,3 @@
+<word>buoyant</word>
+<meaning>able to float</meaning>
+<example>keep the boat buoyant</example>

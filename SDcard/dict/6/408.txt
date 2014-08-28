@@ -1,0 +1,3 @@
+<word>implement</word>
+<meaning>an object used to do work</meaning>
+<example>garden implements</example>

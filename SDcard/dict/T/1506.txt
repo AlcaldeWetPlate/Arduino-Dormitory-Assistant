@@ -1,0 +1,3 @@
+<word>admiring</word>
+<meaning>showing that you like or respect someone or something</meaning>
+<example>be admiring of the ring</example>

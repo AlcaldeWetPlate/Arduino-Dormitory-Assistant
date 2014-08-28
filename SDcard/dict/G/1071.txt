@@ -1,0 +1,3 @@
+<word>assiduous</word>
+<meaning>showing great care, attention, and effort</meaning>
+<example>be assiduous about his work</example>

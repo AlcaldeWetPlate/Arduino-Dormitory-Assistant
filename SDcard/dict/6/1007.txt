@@ -1,0 +1,3 @@
+<word>snap</word>
+<meaning>to break quickly with a short, sharp sound</meaning>
+<example>snap the bone in half</example>

@@ -1,0 +1,3 @@
+<word>upcoming</word>
+<meaning>happening or appearing soon</meaning>
+<example>an upcoming movie</example>

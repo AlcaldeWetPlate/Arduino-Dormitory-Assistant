@@ -1,0 +1,3 @@
+<word>outbreak</word>
+<meaning>a sudden start or increase of fighting or disease</meaning>
+<example>a flu outbreak</example>

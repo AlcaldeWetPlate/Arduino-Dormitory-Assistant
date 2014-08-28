@@ -1,0 +1,3 @@
+<word>mulberry</word>
+<meaning>a type of tree that has purple berries that can be eaten</meaning>
+<example>eat some mulberries</example>

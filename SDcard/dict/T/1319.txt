@@ -1,0 +1,3 @@
+<word>eager</word>
+<meaning>very excited and interested</meaning>
+<example>be eager to eat</example>

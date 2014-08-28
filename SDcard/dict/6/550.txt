@@ -1,0 +1,3 @@
+<word>blunder</word>
+<meaning>a bad mistake made because of stupidity or carelessness</meaning>
+<example>an obvious blunder</example>

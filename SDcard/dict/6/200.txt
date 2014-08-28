@@ -1,0 +1,3 @@
+<word>throne</word>
+<meaning>the special chair for a king, queen, or other powerful person</meaning>
+<example>a king's throne</example>

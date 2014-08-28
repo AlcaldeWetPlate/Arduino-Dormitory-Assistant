@@ -1,0 +1,3 @@
+<word>widen</word>
+<meaning>to become wide or wider</meaning>
+<example>machines help widen the road</example>

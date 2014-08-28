@@ -1,0 +1,3 @@
+<word>brawling</word>
+<meaning>disposed to loud disagreements and fighting</meaning>
+<example>two brawling men</example>

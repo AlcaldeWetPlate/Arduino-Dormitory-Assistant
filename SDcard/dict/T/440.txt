@@ -1,0 +1,3 @@
+<word>adjoin</word>
+<meaning>to be next to or joined with something</meaning>
+<example>The houses adjoin each other.</example>

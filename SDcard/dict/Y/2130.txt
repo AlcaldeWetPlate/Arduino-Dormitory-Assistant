@@ -1,0 +1,3 @@
+<word>inquire</word>
+<meaning>to ask for information</meaning>
+<example>What is your name? she inquired.</example>

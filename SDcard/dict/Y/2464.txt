@@ -1,0 +1,3 @@
+<word>pass</word>
+<meaning>to move past someone or something</meaning>
+<example>pass the blue baton</example>

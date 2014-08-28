@@ -1,0 +1,3 @@
+<word>decorum</word>
+<meaning>correct or proper behavior that shows respect and good manners</meaning>
+<example>Bowing is proper decorum.</example>

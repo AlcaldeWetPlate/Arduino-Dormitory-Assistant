@@ -1,0 +1,3 @@
+<word>embolden</word>
+<meaning>to make (someone) more confident</meaning>
+<example>embolden the fighters</example>

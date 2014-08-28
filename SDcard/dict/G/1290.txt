@@ -1,0 +1,3 @@
+<word>pithy</word>
+<meaning>using few words in a clever and effective way</meaning>
+<example>make a pithy comment</example>

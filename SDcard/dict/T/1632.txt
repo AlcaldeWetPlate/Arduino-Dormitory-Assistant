@@ -1,0 +1,3 @@
+<word>satirist</word>
+<meaning>a person who uses satire in books, movies, etc.</meaning>
+<example>a famous political satirist</example>

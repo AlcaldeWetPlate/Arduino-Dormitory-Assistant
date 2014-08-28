@@ -1,0 +1,3 @@
+<word>brace</word>
+<meaning>to give added physical support or strength to (something)</meaning>
+<example>braces on her teeth</example>

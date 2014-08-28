@@ -1,0 +1,3 @@
+<word>kinetic</word>
+<meaning>of or relating to the movement of physical objects</meaning>
+<example>the kinetic energy of the balls</example>

@@ -1,0 +1,3 @@
+<word>hip</word>
+<meaning>the part of your body between your waist and legs on each side</meaning>
+<example>measure her hips</example>

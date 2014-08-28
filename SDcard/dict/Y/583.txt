@@ -1,0 +1,3 @@
+<word>awful</word>
+<meaning>causing feelings of fear and wonder</meaning>
+<example>an awful sight</example>

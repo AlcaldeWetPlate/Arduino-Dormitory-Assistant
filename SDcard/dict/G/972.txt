@@ -1,0 +1,3 @@
+<word>flit</word>
+<meaning>to move or fly quickly from one place or thing to another</meaning>
+<example>The bird flits from flower to flower.</example>

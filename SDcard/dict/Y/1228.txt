@@ -1,0 +1,3 @@
+<word>miniature</word>
+<meaning>a very small sculpture, portrait, or painting</meaning>
+<example>a miniature house</example>

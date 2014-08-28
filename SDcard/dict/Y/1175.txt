@@ -1,0 +1,3 @@
+<word>cheque</word>
+<meaning>a written order directing a bank to pay money</meaning>
+<example>sign the cheque</example>

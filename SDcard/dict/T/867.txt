@@ -1,0 +1,3 @@
+<word>pathway</word>
+<meaning>a trodden path</meaning>
+<example>walk through the pathway</example>

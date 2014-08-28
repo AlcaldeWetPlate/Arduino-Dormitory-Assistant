@@ -1,0 +1,3 @@
+<word>urbanism</word>
+<meaning>the typical way of life of people who live in a city or town</meaning>
+<example>the country's new urbanism</example>

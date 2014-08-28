@@ -1,0 +1,3 @@
+<word>slake</word>
+<meaning>to provide, do, or have what is required by (something)</meaning>
+<example>slake thirst with water</example>

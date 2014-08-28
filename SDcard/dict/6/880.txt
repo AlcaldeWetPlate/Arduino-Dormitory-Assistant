@@ -1,0 +1,3 @@
+<word>figure</word>
+<meaning>the shape or form of a person's body</meaning>
+<example>a nice, strong figure</example>

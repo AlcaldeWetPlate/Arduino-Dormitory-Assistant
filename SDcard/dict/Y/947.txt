@@ -1,0 +1,3 @@
+<word>transfer</word>
+<meaning>to move (someone or something) from one place to another</meaning>
+<example>transfer these files</example>

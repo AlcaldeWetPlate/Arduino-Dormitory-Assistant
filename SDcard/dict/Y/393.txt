@@ -1,0 +1,3 @@
+<word>favour</word>
+<meaning>an act of gracious kindness</meaning>
+<example>do the red man a favour</example>

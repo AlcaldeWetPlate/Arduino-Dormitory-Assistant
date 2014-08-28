@@ -1,0 +1,3 @@
+<word>panoramic</word>
+<meaning>as from an altitude or distance</meaning>
+<example>a panoramic view of Hong Kong</example>

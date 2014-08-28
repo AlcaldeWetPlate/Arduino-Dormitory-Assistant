@@ -1,0 +1,3 @@
+<word>chicken</word>
+<meaning>the meat of the chicken used as food</meaning>
+<example>roasted chicken</example>

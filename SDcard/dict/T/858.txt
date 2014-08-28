@@ -1,0 +1,3 @@
+<word>dumb</word>
+<meaning>not able to speak especially after being shocked or surprised</meaning>
+<example>She's dumb, and cannot talk.</example>

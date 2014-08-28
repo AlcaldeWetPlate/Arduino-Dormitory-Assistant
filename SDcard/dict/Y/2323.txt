@@ -1,0 +1,3 @@
+<word>grammar</word>
+<meaning>the set of rules that explain how words are used in a language</meaning>
+<example>learn English grammar</example>

@@ -1,0 +1,3 @@
+<word>man</word>
+<meaning>an adult male human being</meaning>
+<example>A man smiles.</example>

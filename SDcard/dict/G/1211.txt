@@ -1,0 +1,3 @@
+<word>manumit</word>
+<meaning>free from slavery or servitude</meaning>
+<example>manumit and free the slaves</example>

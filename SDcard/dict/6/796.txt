@@ -1,0 +1,3 @@
+<word>deficient</word>
+<meaning>not having enough of something that is important or necessary</meaning>
+<example>be deficient of sight</example>

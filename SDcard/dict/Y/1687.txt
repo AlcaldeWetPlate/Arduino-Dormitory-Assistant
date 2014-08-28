@@ -1,0 +1,3 @@
+<word>childhood</word>
+<meaning>the period of time when a person is a child</meaning>
+<example>a happy childhood</example>

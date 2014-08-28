@@ -1,0 +1,3 @@
+<word>ideology</word>
+<meaning>the set of ideas and beliefs of a group or political party</meaning>
+<example>Religion is an ideology.</example>

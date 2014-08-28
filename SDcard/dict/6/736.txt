@@ -1,0 +1,3 @@
+<word>peel</word>
+<meaning>to remove the skin from (a fruit, vegetable, etc.)</meaning>
+<example>peel the banana</example>

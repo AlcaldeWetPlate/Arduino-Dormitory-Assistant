@@ -1,0 +1,3 @@
+<word>convene</word>
+<meaning>to come together in a group for a meeting</meaning>
+<example>convene at a cafe</example>

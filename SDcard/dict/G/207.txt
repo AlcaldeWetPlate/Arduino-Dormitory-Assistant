@@ -1,0 +1,3 @@
+<word>temperate</word>
+<meaning>having temperatures that are not too hot or too cold</meaning>
+<example>a temperate climate</example>

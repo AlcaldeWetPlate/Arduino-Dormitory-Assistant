@@ -1,0 +1,3 @@
+<word>ordeal</word>
+<meaning>an experience that is very unpleasant or difficult</meaning>
+<example>The ordeal frustrates him.</example>

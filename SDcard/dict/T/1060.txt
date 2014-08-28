@@ -1,0 +1,3 @@
+<word>plain</word>
+<meaning>having no pattern or decoration</meaning>
+<example>plain T-shirts</example>

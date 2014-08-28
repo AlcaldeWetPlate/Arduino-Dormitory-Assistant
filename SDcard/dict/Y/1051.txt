@@ -1,0 +1,3 @@
+<word>logical</word>
+<meaning>agreeing with the rules of logic :sensible or reasonable</meaning>
+<example>Chess is a logical game.</example>

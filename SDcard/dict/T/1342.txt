@@ -1,0 +1,3 @@
+<word>garb</word>
+<meaning>a particular style or type of clothing</meaning>
+<example>wear formal garb</example>

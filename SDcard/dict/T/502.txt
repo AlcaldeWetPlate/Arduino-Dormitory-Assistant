@@ -1,0 +1,3 @@
+<word>delicate</word>
+<meaning>easily broken or damaged</meaning>
+<example>the delicate cups</example>

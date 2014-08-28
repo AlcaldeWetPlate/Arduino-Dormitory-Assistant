@@ -1,0 +1,3 @@
+<word>render</word>
+<meaning>to cause (someone or something) to be in a specified condition</meaning>
+<example>render him unconscious</example>

@@ -1,0 +1,3 @@
+<word>repay</word>
+<meaning>to pay back (money that you have borrowed)</meaning>
+<example>repay the credit card debt</example>

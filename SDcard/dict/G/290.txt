@@ -1,0 +1,3 @@
+<word>dilatory</word>
+<meaning>tending to be late :slow to do something</meaning>
+<example>the lazy, dilatory hare</example>

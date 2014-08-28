@@ -1,0 +1,3 @@
+<word>unkind</word>
+<meaning>not friendly, pleasant, helpful, etc. :not kind</meaning>
+<example>An unkind man points at you.</example>

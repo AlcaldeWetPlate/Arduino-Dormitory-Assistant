@@ -1,0 +1,3 @@
+<word>gratitude</word>
+<meaning>a feeling of appreciation or thanks</meaning>
+<example>the father's gratitude</example>

@@ -1,0 +1,3 @@
+<word>indigent</word>
+<meaning>lacking money :very poor</meaning>
+<example>The indigent man doesn't have a home.</example>

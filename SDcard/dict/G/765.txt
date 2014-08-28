@@ -1,0 +1,3 @@
+<word>irate</word>
+<meaning>very angry</meaning>
+<example>an irate, angry man</example>

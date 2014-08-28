@@ -1,0 +1,3 @@
+<word>sensation</word>
+<meaning>a particular feeling or effect that your body experiences</meaning>
+<example>the sensation in his heart</example>

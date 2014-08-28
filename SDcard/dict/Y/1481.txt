@@ -1,0 +1,3 @@
+<word>pavement</word>
+<meaning>the hard surface of a road, driveway, etc.</meaning>
+<example>walk on the pavement</example>

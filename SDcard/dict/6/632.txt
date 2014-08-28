@@ -1,0 +1,3 @@
+<word>growl</word>
+<meaning>to make a low sound like the sound of a growling animal</meaning>
+<example>lion's fierce growl</example>

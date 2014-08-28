@@ -1,0 +1,3 @@
+<word>triangle</word>
+<meaning>something that is shaped like a triangle</meaning>
+<example>A triangle has three sides.</example>

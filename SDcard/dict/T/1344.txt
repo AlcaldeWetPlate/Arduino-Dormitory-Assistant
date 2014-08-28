@@ -1,0 +1,3 @@
+<word>irritable</word>
+<meaning>becoming angry or annoyed easily</meaning>
+<example>the irritable boss</example>

@@ -1,0 +1,3 @@
+<word>trumpeter</word>
+<meaning>a person who plays a trumpet</meaning>
+<example>The trumpeter plays a song.</example>

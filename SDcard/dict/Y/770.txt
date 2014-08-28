@@ -1,0 +1,3 @@
+<word>flow</word>
+<meaning>to move in a steady and continuous way</meaning>
+<example>The water flows by.</example>

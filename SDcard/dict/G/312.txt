@@ -1,0 +1,3 @@
+<word>ream</word>
+<meaning>an amount of paper that equals 480, 500, or 516 sheets</meaning>
+<example>reams of white paper</example>

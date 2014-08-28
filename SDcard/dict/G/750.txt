@@ -1,0 +1,3 @@
+<word>lax</word>
+<meaning>not careful enough :not strict enough</meaning>
+<example>a lax security guard</example>

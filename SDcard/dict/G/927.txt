@@ -1,0 +1,3 @@
+<word>spurious</word>
+<meaning>not genuine, sincere, or authentic</meaning>
+<example>a spurious copy of a dollar</example>

@@ -1,0 +1,3 @@
+<word>contrary</word>
+<meaning>against or opposed to something</meaning>
+<example>Their shirts are contrary to each other.</example>

@@ -1,0 +1,3 @@
+<word>discomfit</word>
+<meaning>to make (someone) confused or upset</meaning>
+<example>discomfit with unwanted touch</example>

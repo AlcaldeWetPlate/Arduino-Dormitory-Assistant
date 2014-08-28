@@ -1,0 +1,3 @@
+<word>dolphin</word>
+<meaning>a small usually gray whale that has a pointed nose</meaning>
+<example>dolphins at the aquarium</example>

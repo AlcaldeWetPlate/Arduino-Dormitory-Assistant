@@ -1,0 +1,3 @@
+<word>prowl</word>
+<meaning>to move quietly through an area while hunting</meaning>
+<example>The leopard prowls through the jungle.</example>

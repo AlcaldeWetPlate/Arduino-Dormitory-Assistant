@@ -1,0 +1,3 @@
+<word>breach</word>
+<meaning>a break in friendly relations between people or groups</meaning>
+<example>a breach of their contract</example>

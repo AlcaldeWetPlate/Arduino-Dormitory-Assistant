@@ -1,0 +1,3 @@
+<word>mongrel</word>
+<meaning>a dog with parents of different breeds</meaning>
+<example>The dog is a mongrel.</example>

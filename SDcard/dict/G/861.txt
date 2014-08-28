@@ -1,0 +1,3 @@
+<word>dawdle</word>
+<meaning>to move or act too slowly</meaning>
+<example>Hurry - don't dawdle!</example>

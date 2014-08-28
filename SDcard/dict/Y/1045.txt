@@ -1,0 +1,3 @@
+<word>oppose</word>
+<meaning>to disagree with or disapprove of (something or someone)</meaning>
+<example>oppose his father's smoking</example>

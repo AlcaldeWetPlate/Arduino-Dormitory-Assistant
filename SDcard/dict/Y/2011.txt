@@ -1,0 +1,3 @@
+<word>highjack</word>
+<meaning>to stop and steal (a moving vehicle)</meaning>
+<example>highjack the car with a gun</example>

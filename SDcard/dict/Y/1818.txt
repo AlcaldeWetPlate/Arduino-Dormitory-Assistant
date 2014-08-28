@@ -1,0 +1,3 @@
+<word>legislate</word>
+<meaning>to make laws</meaning>
+<example>They will legislate laws.</example>

@@ -1,0 +1,3 @@
+<word>enter</word>
+<meaning>to go or come into (something)</meaning>
+<example>enter through the red door</example>

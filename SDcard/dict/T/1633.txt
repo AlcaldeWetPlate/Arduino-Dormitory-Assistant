@@ -1,0 +1,3 @@
+<word>saturated</word>
+<meaning>completely wet</meaning>
+<example>a saturated sponge</example>

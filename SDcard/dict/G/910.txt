@@ -1,0 +1,3 @@
+<word>ecstasy</word>
+<meaning>a state of very great happiness :extreme delight</meaning>
+<example>feeling of ecstasy</example>

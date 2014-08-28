@@ -1,0 +1,3 @@
+<word>blazon</word>
+<meaning>. the official symbols of a family, state, etc.</meaning>
+<example>blazon their shields with dragon designs</example>

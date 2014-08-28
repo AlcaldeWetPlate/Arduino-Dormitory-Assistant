@@ -1,0 +1,3 @@
+<word>demotic</word>
+<meaning>popular or common</meaning>
+<example>football in demotic American culture</example>

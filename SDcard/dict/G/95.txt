@@ -1,0 +1,3 @@
+<word>exalt</word>
+<meaning>to raise (someone or something) to a higher level</meaning>
+<example>exalt sb. by building him a statue</example>

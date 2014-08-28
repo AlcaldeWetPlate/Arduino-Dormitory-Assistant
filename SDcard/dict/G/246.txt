@@ -1,0 +1,3 @@
+<word>pitfall</word>
+<meaning>a danger or problem that is hidden or not obvious at first</meaning>
+<example>a banana causes a pitfall</example>

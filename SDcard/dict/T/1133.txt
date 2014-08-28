@@ -1,0 +1,3 @@
+<word>recur</word>
+<meaning>to happen or appear again :to occur again</meaning>
+<example>The pattern recurs.</example>

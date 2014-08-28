@@ -1,0 +1,3 @@
+<word>sacred</word>
+<meaning>worthy of religious worship :very holy</meaning>
+<example>a sacred temple</example>

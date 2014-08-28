@@ -1,0 +1,3 @@
+<word>clan</word>
+<meaning>a large family</meaning>
+<example>a clan of the same family</example>

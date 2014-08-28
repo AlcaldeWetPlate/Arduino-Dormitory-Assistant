@@ -1,0 +1,3 @@
+<word>favor</word>
+<meaning>a kind or helpful act that you do for someone</meaning>
+<example>do him a small favor</example>

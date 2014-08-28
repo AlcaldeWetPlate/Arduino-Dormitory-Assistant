@@ -1,0 +1,3 @@
+<word>naked</word>
+<meaning>not wearing any clothes :not covered by clothing</meaning>
+<example>her naked body</example>

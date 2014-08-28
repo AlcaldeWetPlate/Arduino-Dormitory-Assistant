@@ -1,0 +1,3 @@
+<word>resonant</word>
+<meaning>producing a loud, clear, deep sound</meaning>
+<example>resonant blue and yellow waves</example>

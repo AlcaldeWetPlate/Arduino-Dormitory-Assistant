@@ -1,0 +1,3 @@
+<word>appalling</word>
+<meaning>very bad in a way that causes fear, shock, or disgust</meaning>
+<example>Smoking is appalling.</example>

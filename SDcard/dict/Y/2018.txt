@@ -1,0 +1,3 @@
+<word>soviet</word>
+<meaning>of or relating to the former U.S.S.R. or its people</meaning>
+<example>the Soviet Union</example>

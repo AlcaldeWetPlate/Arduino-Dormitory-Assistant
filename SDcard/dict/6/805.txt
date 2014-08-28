@@ -1,0 +1,3 @@
+<word>bandage</word>
+<meaning>to cover or wrap (something) with a bandage</meaning>
+<example>wrap one's hand in a bandage</example>

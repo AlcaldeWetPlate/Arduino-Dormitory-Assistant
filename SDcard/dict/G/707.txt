@@ -1,0 +1,3 @@
+<word>bland</word>
+<meaning>lacking strong flavor</meaning>
+<example>the bland  rice</example>

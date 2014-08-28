@@ -1,0 +1,3 @@
+<word>proper</word>
+<meaning>right or suitable for some purpose or situation</meaning>
+<example>wear proper clothing</example>

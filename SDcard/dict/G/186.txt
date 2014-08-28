@@ -1,0 +1,3 @@
+<word>replete</word>
+<meaning>having had plenty to eat :pleasantly full</meaning>
+<example>feel replete after eating a big burger</example>

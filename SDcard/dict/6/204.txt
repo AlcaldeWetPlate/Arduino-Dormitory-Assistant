@@ -1,0 +1,3 @@
+<word>wardrobe</word>
+<meaning>a room, closet, or chest where clothes are kept</meaning>
+<example>a large wardrobe with clothes</example>

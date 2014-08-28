@@ -1,0 +1,3 @@
+<word>precipice</word>
+<meaning>a very steep side of a mountain or cliff</meaning>
+<example>stand on a cliff's precipice</example>

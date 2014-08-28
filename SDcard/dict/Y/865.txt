@@ -1,0 +1,3 @@
+<word>pilgrim</word>
+<meaning>someone who travels to a holy place</meaning>
+<example>many pilgrims at Mecca</example>

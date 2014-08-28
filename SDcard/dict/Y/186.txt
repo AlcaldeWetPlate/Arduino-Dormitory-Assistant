@@ -1,0 +1,3 @@
+<word>gifted</word>
+<meaning>having great natural ability</meaning>
+<example>a gifted young musician</example>

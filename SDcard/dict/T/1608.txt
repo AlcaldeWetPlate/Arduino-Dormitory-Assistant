@@ -1,0 +1,3 @@
+<word>notate</word>
+<meaning>put into notation, as of music or choreography</meaning>
+<example>notate the music</example>

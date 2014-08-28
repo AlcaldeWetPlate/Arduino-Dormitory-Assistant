@@ -1,0 +1,3 @@
+<word>sailor</word>
+<meaning>a person who works on a boat or ship as part of the crew</meaning>
+<example>a sailor smoking</example>

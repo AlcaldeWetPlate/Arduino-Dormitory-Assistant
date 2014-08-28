@@ -1,0 +1,3 @@
+<word>verdict</word>
+<meaning>the decision made by a jury in a trial</meaning>
+<example>the judge's verdict</example>

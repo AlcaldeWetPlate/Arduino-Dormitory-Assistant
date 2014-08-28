@@ -1,0 +1,3 @@
+<word>poseur</word>
+<meaning>a person who habitually pretends to be something he is not</meaning>
+<example>the "cool" poseur</example>

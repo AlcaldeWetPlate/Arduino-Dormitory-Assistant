@@ -1,0 +1,3 @@
+<word>flexible</word>
+<meaning>capable of bending or being bent</meaning>
+<example>the flexible body</example>

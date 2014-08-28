@@ -1,0 +1,3 @@
+<word>limestone</word>
+<meaning>a type of white stone that is commonly used in building</meaning>
+<example>white limestone rocks</example>

@@ -1,0 +1,3 @@
+<word>used</word>
+<meaning>having been used before</meaning>
+<example>used bottles</example>

@@ -1,0 +1,3 @@
+<word>senior</word>
+<meaning>a person who is older than another person</meaning>
+<example>respect senior citizens</example>

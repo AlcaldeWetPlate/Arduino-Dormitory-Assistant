@@ -1,0 +1,3 @@
+<word>roisterer</word>
+<meaning>an especially noisy and unrestrained merrymaker</meaning>
+<example>the drunk, loud roisterers</example>

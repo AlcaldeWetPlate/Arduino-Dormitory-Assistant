@@ -1,0 +1,3 @@
+<word>wealth</word>
+<meaning>a large amount of money and possessions</meaning>
+<example>a wealth of gold</example>

@@ -1,0 +1,3 @@
+<word>lining</word>
+<meaning>material that covers the inner surface of something</meaning>
+<example>the coat's lining</example>

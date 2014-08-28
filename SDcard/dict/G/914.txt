@@ -1,0 +1,3 @@
+<word>indolent</word>
+<meaning>not liking to work or be active</meaning>
+<example>an indolent, lazy woman</example>

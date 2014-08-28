@@ -1,0 +1,3 @@
+<word>shabby</word>
+<meaning>in poor condition especially because of age or use</meaning>
+<example>a shabby house</example>

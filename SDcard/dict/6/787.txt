@@ -1,0 +1,3 @@
+<word>cutter</word>
+<meaning>a person, machine, or tool that cuts something</meaning>
+<example>a sharp cutter</example>

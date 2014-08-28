@@ -1,0 +1,3 @@
+<word>certainty</word>
+<meaning>the state of being or feeling certain about something</meaning>
+<example>know with certainty that it's a boy</example>

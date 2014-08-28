@@ -1,0 +1,3 @@
+<word>overseas</word>
+<meaning>in or to a foreign country that is across a sea or ocean</meaning>
+<example>send packages overseas</example>

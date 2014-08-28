@@ -1,0 +1,3 @@
+<word>breathe</word>
+<meaning>to move air into and out of your lungs :to inhale and exhale</meaning>
+<example>breathe pure oxygen</example>

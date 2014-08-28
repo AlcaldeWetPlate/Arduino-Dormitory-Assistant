@@ -1,0 +1,3 @@
+<word>list</word>
+<meaning>to enter information about (someone or something) in a list</meaning>
+<example>a list of purchased food</example>

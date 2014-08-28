@@ -1,0 +1,3 @@
+<word>gangly</word>
+<meaning>tall, thin, and awkward</meaning>
+<example>a giraffe's gangly legs</example>

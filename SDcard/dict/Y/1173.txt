@@ -1,0 +1,3 @@
+<word>intensive</word>
+<meaning>giving force or emphasis to a statement</meaning>
+<example>the intensive physical training</example>

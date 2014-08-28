@@ -1,0 +1,3 @@
+<word>slack</word>
+<meaning>not stretched or held in a tight position</meaning>
+<example>a slack rope</example>

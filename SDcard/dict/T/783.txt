@@ -1,0 +1,3 @@
+<word>slope</word>
+<meaning>ground that slants downward or upward :ground that slopes</meaning>
+<example>ski down the slope</example>

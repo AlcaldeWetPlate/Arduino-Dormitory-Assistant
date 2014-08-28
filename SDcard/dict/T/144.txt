@@ -1,0 +1,3 @@
+<word>glazed</word>
+<meaning>covered with a shiny coating</meaning>
+<example>the glazed surface of the cake</example>

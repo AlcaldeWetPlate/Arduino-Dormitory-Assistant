@@ -1,0 +1,3 @@
+<word>ponder</word>
+<meaning>to think about or consider (something) carefully</meaning>
+<example>look up and ponder</example>

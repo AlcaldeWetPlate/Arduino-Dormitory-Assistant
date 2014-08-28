@@ -1,0 +1,3 @@
+<word>variety</word>
+<meaning>a number or collection of different things or people</meaning>
+<example>a wide variety of spices</example>

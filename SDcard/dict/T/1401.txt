@@ -1,0 +1,3 @@
+<word>juncture</word>
+<meaning>a place where things join</meaning>
+<example>a road juncture</example>

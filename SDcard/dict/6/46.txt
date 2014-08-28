@@ -1,0 +1,3 @@
+<word>clause</word>
+<meaning>a separate part of a legal document</meaning>
+<example>Read the final clause before you sign.</example>

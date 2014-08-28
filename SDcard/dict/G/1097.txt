@@ -1,0 +1,3 @@
+<word>lambaste</word>
+<meaning>to criticize (someone or something) very harshly</meaning>
+<example>lambaste the woman for her bad cooking</example>

@@ -1,0 +1,3 @@
+<word>derelict</word>
+<meaning>no longer cared for or used by anyone</meaning>
+<example>a derelict street</example>

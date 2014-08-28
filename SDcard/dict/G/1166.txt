@@ -1,0 +1,3 @@
+<word>disparate</word>
+<meaning>different from each other</meaning>
+<example>the children's disparate skin colors</example>

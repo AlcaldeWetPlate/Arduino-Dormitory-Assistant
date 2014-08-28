@@ -1,0 +1,3 @@
+<word>rabid</word>
+<meaning>affected with rabies</meaning>
+<example>a rabid dog</example>

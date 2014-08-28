@@ -1,0 +1,3 @@
+<word>agape</word>
+<meaning>having the mouth open because of wonder, surprise, or shock</meaning>
+<example>her mouth agape</example>

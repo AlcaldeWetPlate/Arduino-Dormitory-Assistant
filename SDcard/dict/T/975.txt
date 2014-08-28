@@ -1,0 +1,3 @@
+<word>palatable</word>
+<meaning>having a pleasant or agreeable taste</meaning>
+<example>a palatable dessert</example>

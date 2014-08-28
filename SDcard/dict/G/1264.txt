@@ -1,0 +1,3 @@
+<word>serried</word>
+<meaning>crowded or pressed together</meaning>
+<example>the serried groups of soldiers</example>

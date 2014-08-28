@@ -1,0 +1,3 @@
+<word>crippling</word>
+<meaning>that cripples or disables or incapacitates</meaning>
+<example>a crippling injury</example>

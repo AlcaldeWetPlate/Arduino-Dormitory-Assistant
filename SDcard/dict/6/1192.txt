@@ -1,0 +1,3 @@
+<word>budge</word>
+<meaning>to move slightly</meaning>
+<example>The mule won't budge!</example>

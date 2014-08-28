@@ -1,0 +1,3 @@
+<word>carver</word>
+<meaning>makes decorative wooden panels</meaning>
+<example>a brick carver</example>

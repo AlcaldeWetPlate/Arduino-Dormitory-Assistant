@@ -1,0 +1,3 @@
+<word>molecular</word>
+<meaning>relating to or involving molecules</meaning>
+<example>the molecular structure of H2O</example>

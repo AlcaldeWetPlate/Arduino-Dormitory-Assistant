@@ -1,0 +1,3 @@
+<word>commingle</word>
+<meaning>to join or mix together</meaning>
+<example>The different flavors commingle.</example>

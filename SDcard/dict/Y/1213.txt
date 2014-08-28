@@ -1,0 +1,3 @@
+<word>dull</word>
+<meaning>not exciting or interesting</meaning>
+<example>a very dull boy</example>

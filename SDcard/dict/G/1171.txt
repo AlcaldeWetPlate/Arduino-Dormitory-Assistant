@@ -1,0 +1,3 @@
+<word>doodle</word>
+<meaning>to draw something without thinking about what you are doing</meaning>
+<example>draw some doodles about love</example>

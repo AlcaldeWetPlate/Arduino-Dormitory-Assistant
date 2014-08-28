@@ -1,0 +1,3 @@
+<word>view</word>
+<meaning>the things that can be seen from a particular place</meaning>
+<example>an amazing view</example>

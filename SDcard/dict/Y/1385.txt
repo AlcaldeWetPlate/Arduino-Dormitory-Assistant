@@ -1,0 +1,3 @@
+<word>quantify</word>
+<meaning>to find or calculate the quantity or amount of (something)</meaning>
+<example>quantify the ingredients</example>

@@ -1,0 +1,3 @@
+<word>thin</word>
+<meaning>not having a lot of extra flesh on the body :not fat</meaning>
+<example>her thin waist</example>

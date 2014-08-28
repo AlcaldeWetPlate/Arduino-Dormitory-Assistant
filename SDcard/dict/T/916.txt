@@ -1,0 +1,3 @@
+<word>daring</word>
+<meaning>willing to do dangerous or difficult things</meaning>
+<example>a daring leap</example>

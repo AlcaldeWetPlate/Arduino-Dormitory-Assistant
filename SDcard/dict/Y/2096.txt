@@ -1,0 +1,3 @@
+<word>futile</word>
+<meaning>having no result or effect :pointless or useless</meaning>
+<example>It's futile to use that pot.</example>

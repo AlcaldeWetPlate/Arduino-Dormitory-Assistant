@@ -1,0 +1,3 @@
+<word>veracious</word>
+<meaning>habitually speaking the truth</meaning>
+<example>trust the veracious man</example>

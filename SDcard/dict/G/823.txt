@@ -1,0 +1,3 @@
+<word>tangent</word>
+<meaning>a line that touches a sphere or circle at only one point</meaning>
+<example>tangent to the circle</example>

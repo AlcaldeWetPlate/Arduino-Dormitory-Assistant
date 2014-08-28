@@ -1,0 +1,3 @@
+<word>viewpoint</word>
+<meaning>a place from which you can see or watch something</meaning>
+<example>look at the scenery from a viewpoint</example>

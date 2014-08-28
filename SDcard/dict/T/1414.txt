@@ -1,0 +1,3 @@
+<word>curator</word>
+<meaning>a person who is in charge of the things in a museum, zoo, etc.</meaning>
+<example>the curator of the zoo</example>

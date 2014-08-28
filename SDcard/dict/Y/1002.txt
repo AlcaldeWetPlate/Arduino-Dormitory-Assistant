@@ -1,0 +1,3 @@
+<word>odd</word>
+<meaning>strange or unusual :different from what is normal or expected</meaning>
+<example>an odd ball</example>

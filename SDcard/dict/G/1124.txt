@@ -1,0 +1,3 @@
+<word>tirade</word>
+<meaning>a long and angry speech</meaning>
+<example>yell an angry tirade</example>

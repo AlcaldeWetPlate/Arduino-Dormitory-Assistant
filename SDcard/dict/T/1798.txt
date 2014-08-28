@@ -1,0 +1,3 @@
+<word>magic</word>
+<meaning>involving the skill of doing tricks that seem to be impossible</meaning>
+<example>a magic trick</example>

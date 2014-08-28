@@ -1,0 +1,3 @@
+<word>windbag</word>
+<meaning>a person who talks too much</meaning>
+<example>The windbag says, "Bla bla bla."</example>

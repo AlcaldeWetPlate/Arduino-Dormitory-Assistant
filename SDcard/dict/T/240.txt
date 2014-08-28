@@ -1,0 +1,3 @@
+<word>relevance</word>
+<meaning>the relation of something to the matter at hand</meaning>
+<example>highlight words of relevance</example>

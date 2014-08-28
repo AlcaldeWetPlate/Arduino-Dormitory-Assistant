@@ -1,0 +1,3 @@
+<word>canopy</word>
+<meaning>something that hangs or spreads out over an area</meaning>
+<example>a white canopy</example>

@@ -1,0 +1,3 @@
+<word>offshore</word>
+<meaning>moving away from the shore toward the water</meaning>
+<example>an offshore oil rig</example>

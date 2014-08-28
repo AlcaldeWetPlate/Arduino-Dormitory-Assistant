@@ -1,0 +1,3 @@
+<word>affirm</word>
+<meaning>to say that something is true in a confident way</meaning>
+<example>affirm his faith in the bible</example>

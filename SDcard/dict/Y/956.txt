@@ -1,0 +1,3 @@
+<word>bottom</word>
+<meaning>the lowest part, point, or level of something</meaning>
+<example>the bottom of the sea</example>

@@ -1,0 +1,3 @@
+<word>depress</word>
+<meaning>to make (someone) feel sad :to make (someone) depressed</meaning>
+<example>School depresses the boy.</example>

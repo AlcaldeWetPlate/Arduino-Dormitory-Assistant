@@ -1,0 +1,3 @@
+<word>reflexion</word>
+<meaning>an image that is seen in a mirror or on a shiny surface</meaning>
+<example>her reflexion in the glass</example>

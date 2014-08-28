@@ -1,0 +1,3 @@
+<word>represent</word>
+<meaning>to be a sign or symbol of (someone or something)</meaning>
+<example>represent different kinds of weather</example>

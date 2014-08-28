@@ -1,0 +1,3 @@
+<word>consign</word>
+<meaning>to send (something)</meaning>
+<example>consign a package</example>

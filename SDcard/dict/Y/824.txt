@@ -1,0 +1,3 @@
+<word>texture</word>
+<meaning>the way that something feels when you touch it</meaning>
+<example>smooth hair texture</example>

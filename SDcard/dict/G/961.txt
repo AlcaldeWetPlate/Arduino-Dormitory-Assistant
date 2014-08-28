@@ -1,0 +1,3 @@
+<word>whimsical</word>
+<meaning>unusual in a playful or amusing way :not serious</meaning>
+<example>the child's whimsical appearance</example>

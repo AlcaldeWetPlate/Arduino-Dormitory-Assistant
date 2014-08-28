@@ -1,0 +1,3 @@
+<word>perplex</word>
+<meaning>to confuse (someone) very much</meaning>
+<example>perplex the pretty girl</example>

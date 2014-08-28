@@ -1,0 +1,3 @@
+<word>contrive</word>
+<meaning>to form or make (something) in a skillful or clever way</meaning>
+<example>contrive some ideas</example>

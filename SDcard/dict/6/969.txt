@@ -1,0 +1,3 @@
+<word>excerpt</word>
+<meaning>a small part of a longer written work</meaning>
+<example>read a short excerpt</example>

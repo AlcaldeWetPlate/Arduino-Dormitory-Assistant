@@ -1,0 +1,3 @@
+<word>bend</word>
+<meaning>the act or process of bending something</meaning>
+<example>bend her waist</example>

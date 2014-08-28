@@ -1,0 +1,3 @@
+<word>loll</word>
+<meaning>to lie or sit in a relaxed or lazy manner</meaning>
+<example>the big cat lolls</example>

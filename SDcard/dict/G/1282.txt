@@ -1,0 +1,3 @@
+<word>viscid</word>
+<meaning>having the properties of glue</meaning>
+<example>the viscid honey</example>

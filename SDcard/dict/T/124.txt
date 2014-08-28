@@ -1,0 +1,3 @@
+<word>faintly</word>
+<meaning>without vividness or distinctness</meaning>
+<example>The light shines faintly.</example>

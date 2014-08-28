@@ -1,0 +1,3 @@
+<word>royalty</word>
+<meaning>members of a royal family</meaning>
+<example>Crowns are a symbol of royalty.</example>

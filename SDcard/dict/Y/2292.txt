@@ -1,0 +1,3 @@
+<word>reply</word>
+<meaning>something said, written, or done as an answer or response</meaning>
+<example>receive his reply</example>

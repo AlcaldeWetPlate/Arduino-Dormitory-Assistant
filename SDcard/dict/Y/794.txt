@@ -1,0 +1,3 @@
+<word>valuable</word>
+<meaning>worth a lot of money</meaning>
+<example>the valuable jewelery</example>

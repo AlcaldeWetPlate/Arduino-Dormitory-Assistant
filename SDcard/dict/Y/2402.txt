@@ -1,0 +1,3 @@
+<word>dead</word>
+<meaning>no longer alive or living :no longer having life</meaning>
+<example>the gravestones of the dead</example>

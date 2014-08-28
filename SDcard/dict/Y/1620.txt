@@ -1,0 +1,3 @@
+<word>hunger</word>
+<meaning>a very great need for food :a severe lack of food</meaning>
+<example>satisfy one's hunger</example>

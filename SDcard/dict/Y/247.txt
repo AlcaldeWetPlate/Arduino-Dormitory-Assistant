@@ -1,0 +1,3 @@
+<word>merry</word>
+<meaning>very happy and cheerful :feeling or showing joy and happiness</meaning>
+<example>a merry time while drinking</example>

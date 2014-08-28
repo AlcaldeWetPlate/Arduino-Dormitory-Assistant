@@ -1,0 +1,3 @@
+<word>increase</word>
+<meaning>to become larger or greater in size, amount, number, etc.</meaning>
+<example>The bar size increases.</example>

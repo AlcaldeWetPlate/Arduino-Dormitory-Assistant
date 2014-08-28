@@ -1,0 +1,3 @@
+<word>ancillary</word>
+<meaning>providing something additional to a main part or function</meaning>
+<example>ancillary medical staff</example>

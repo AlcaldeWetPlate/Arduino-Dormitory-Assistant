@@ -1,0 +1,3 @@
+<word>deference</word>
+<meaning>a way of behaving that shows respect for someone or something</meaning>
+<example>deference to his boss</example>

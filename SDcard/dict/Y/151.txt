@@ -1,0 +1,3 @@
+<word>empress</word>
+<meaning>a woman who rules an empire</meaning>
+<example>a statue of an empress</example>

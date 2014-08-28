@@ -1,0 +1,3 @@
+<word>replenish</word>
+<meaning>to fill or build up (something) again</meaning>
+<example>replenish the gas tank</example>

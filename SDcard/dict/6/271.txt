@@ -1,0 +1,3 @@
+<word>behave</word>
+<meaning>to act in an acceptable way :to act properly</meaning>
+<example>Bad boys should behave.</example>

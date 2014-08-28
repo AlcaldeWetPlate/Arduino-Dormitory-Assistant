@@ -1,0 +1,3 @@
+<word>medley</word>
+<meaning>a musical piece made up of parts of other musical works</meaning>
+<example>play a medley</example>

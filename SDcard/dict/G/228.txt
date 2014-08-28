@@ -1,0 +1,3 @@
+<word>sluggard</word>
+<meaning>an idle slothful person</meaning>
+<example>sluggard on a sofa</example>

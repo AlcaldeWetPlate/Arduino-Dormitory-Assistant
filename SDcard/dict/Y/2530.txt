@@ -1,0 +1,3 @@
+<word>fine</word>
+<meaning>a sum imposed as punishment for an offense</meaning>
+<example>The policeman gives her a fine.</example>

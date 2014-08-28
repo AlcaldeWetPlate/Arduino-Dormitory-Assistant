@@ -1,0 +1,3 @@
+<word>toothache</word>
+<meaning>pain in or near a tooth</meaning>
+<example>painful toothache</example>

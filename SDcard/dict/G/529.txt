@@ -1,0 +1,3 @@
+<word>barren</word>
+<meaning>having very few plants :not suitable for plants</meaning>
+<example>the barren land</example>

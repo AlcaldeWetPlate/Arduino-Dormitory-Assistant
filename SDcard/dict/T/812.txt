@@ -1,0 +1,3 @@
+<word>logic</word>
+<meaning>a particular way of thinking about something</meaning>
+<example>logic gives him the answer</example>

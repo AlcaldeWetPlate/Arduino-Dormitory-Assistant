@@ -1,0 +1,3 @@
+<word>seemingly</word>
+<meaning>from appearances alone</meaning>
+<example>seemingly happy apple</example>

@@ -1,0 +1,3 @@
+<word>drowsy</word>
+<meaning>tired and ready to fall asleep</meaning>
+<example>The baby feels drowsy.</example>

@@ -1,0 +1,3 @@
+<word>partial</word>
+<meaning>not complete or total</meaning>
+<example>the partial eclipse of the moon</example>

@@ -1,0 +1,3 @@
+<word>sentinel</word>
+<meaning>a person employed to watch for something to happen</meaning>
+<example>a British sentinel standing guard</example>

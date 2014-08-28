@@ -1,0 +1,3 @@
+<word>terrain</word>
+<meaning>land of a particular kind</meaning>
+<example>in muddy terrain</example>

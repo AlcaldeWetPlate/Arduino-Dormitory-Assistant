@@ -1,0 +1,3 @@
+<word>priceless</word>
+<meaning>extremely valuable or important</meaning>
+<example>a priceless crown</example>

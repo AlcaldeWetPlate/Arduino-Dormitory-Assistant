@@ -1,0 +1,3 @@
+<word>defy</word>
+<meaning>to refuse to obey (something or someone)</meaning>
+<example>defy the 'No Parking' sign</example>

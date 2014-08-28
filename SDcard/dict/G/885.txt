@@ -1,0 +1,3 @@
+<word>sage</word>
+<meaning>very wise</meaning>
+<example>a wise sage in Ancient Greece</example>

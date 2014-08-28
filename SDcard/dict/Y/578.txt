@@ -1,0 +1,3 @@
+<word>via</word>
+<meaning>by means of</meaning>
+<example>via the highway</example>

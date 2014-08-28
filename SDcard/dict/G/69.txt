@@ -1,0 +1,3 @@
+<word>dearth</word>
+<meaning>the state or condition of not having enough of something</meaning>
+<example>a dearth of food</example>

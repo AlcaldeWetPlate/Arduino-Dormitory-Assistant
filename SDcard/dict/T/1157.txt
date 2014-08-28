@@ -1,0 +1,3 @@
+<word>packaging</word>
+<meaning>material used to enclose or contain something</meaning>
+<example>Open the packaging.</example>

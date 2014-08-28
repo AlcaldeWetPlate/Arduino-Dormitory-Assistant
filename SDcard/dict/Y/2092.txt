@@ -1,0 +1,3 @@
+<word>cynical</word>
+<meaning>believing that people are generally selfish and dishonest</meaning>
+<example>a cynical, unhappy woman</example>

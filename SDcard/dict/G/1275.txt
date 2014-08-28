@@ -1,0 +1,3 @@
+<word>candor</word>
+<meaning>the quality of being open, sincere, and honest</meaning>
+<example>the businessman's candor and sincerity</example>

@@ -1,0 +1,3 @@
+<word>viscous</word>
+<meaning>thick or sticky :not flowing easily</meaning>
+<example>the viscous honey</example>

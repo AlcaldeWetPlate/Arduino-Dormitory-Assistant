@@ -1,0 +1,3 @@
+<word>feisty</word>
+<meaning>not afraid to fight or argue :very lively and aggressive</meaning>
+<example>the feisty, energetic girl</example>

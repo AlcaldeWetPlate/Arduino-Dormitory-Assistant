@@ -1,0 +1,3 @@
+<word>ward off</word>
+<meaning>prevent the occurrence of; prevent from happening</meaning>
+<example>The boy wards off his attacker.</example>

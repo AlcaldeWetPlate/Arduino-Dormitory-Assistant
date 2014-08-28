@@ -1,0 +1,3 @@
+<word>primal</word>
+<meaning>very basic and powerful</meaning>
+<example>the primal instincts of a bear</example>

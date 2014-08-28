@@ -1,0 +1,3 @@
+<word>servile</word>
+<meaning>very obedient and trying too hard to please someone</meaning>
+<example>servile workers kowtow to their boss</example>

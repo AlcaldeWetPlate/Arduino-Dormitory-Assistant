@@ -1,0 +1,3 @@
+<word>matron</word>
+<meaning>an older married woman who usually has a high social position</meaning>
+<example>the old matron of the household</example>

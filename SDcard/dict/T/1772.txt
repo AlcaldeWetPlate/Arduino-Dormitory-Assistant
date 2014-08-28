@@ -1,0 +1,3 @@
+<word>dangerous</word>
+<meaning>able or likely to cause injury, pain, harm, etc.</meaning>
+<example>It's dangerous on this tightrope.</example>

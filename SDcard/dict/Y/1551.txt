@@ -1,0 +1,3 @@
+<word>unknown</word>
+<meaning>not known</meaning>
+<example>an unknown flying machine</example>

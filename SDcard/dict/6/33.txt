@@ -1,0 +1,3 @@
+<word>burial</word>
+<meaning>the act or ceremony of burying a dead person in a grave</meaning>
+<example>burial of the body</example>

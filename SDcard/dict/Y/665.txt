@@ -1,0 +1,3 @@
+<word>pitch</word>
+<meaning>to throw or toss (something)</meaning>
+<example>pitch the ball</example>

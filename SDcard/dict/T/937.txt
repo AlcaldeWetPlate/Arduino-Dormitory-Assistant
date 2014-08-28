@@ -1,0 +1,3 @@
+<word>outdoors</word>
+<meaning>outside a building :not inside a building</meaning>
+<example>The family plays outdoors.</example>

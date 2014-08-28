@@ -1,0 +1,3 @@
+<word>porous</word>
+<meaning>having small holes that allow air or liquid to pass through</meaning>
+<example>a porous sponge</example>

@@ -1,0 +1,3 @@
+<word>confining</word>
+<meaning>limiting or preventing movement or freedom</meaning>
+<example>a small, confining room</example>

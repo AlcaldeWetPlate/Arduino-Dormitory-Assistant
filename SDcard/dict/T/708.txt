@@ -1,0 +1,3 @@
+<word>decline</word>
+<meaning>to become lower in amount or less in number</meaning>
+<example>The economy has declined.</example>

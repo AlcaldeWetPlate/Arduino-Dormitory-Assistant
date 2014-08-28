@@ -1,0 +1,3 @@
+<word>scour</word>
+<meaning>to search (something) carefully and thoroughly</meaning>
+<example>He will scour this place for clues.</example>

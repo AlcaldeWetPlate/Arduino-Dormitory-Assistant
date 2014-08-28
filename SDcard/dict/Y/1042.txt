@@ -1,0 +1,3 @@
+<word>giant</word>
+<meaning>very large :much larger or more powerful than normal</meaning>
+<example>a giant hamburger</example>

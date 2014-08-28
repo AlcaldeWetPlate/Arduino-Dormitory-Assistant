@@ -1,0 +1,3 @@
+<word>hate</word>
+<meaning>to dislike (someone) very strongly :to feel hate for (someone)</meaning>
+<example>They hate each other.</example>

@@ -1,0 +1,3 @@
+<word>impulse</word>
+<meaning>a sudden strong desire to do something</meaning>
+<example>spend money on an impulse</example>

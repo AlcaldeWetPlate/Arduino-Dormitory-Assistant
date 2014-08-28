@@ -1,0 +1,3 @@
+<word>programme</word>
+<meaning>a presentation that is broadcast on radio or television</meaning>
+<example>watch the TV programme</example>

@@ -1,0 +1,3 @@
+<word>linear</word>
+<meaning>formed by lines :made up of lines</meaning>
+<example>vertical linear stripes</example>

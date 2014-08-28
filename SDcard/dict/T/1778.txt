@@ -1,0 +1,3 @@
+<word>serious</word>
+<meaning>thoughtful or quiet in appearance or manner</meaning>
+<example>a serious woman</example>

@@ -1,0 +1,3 @@
+<word>expedite</word>
+<meaning>to cause (something) to happen faster</meaning>
+<example>expedite one's travel arrangements</example>

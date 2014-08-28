@@ -1,0 +1,3 @@
+<word>humid</word>
+<meaning>having a lot of moisture in the air</meaning>
+<example>the humid environment</example>

@@ -1,0 +1,3 @@
+<word>cloak</word>
+<meaning>a thing that hides or covers someone or something</meaning>
+<example>a green and grey cloak</example>

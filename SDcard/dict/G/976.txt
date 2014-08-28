@@ -1,0 +1,3 @@
+<word>stultify</word>
+<meaning>to cause (someone or something) to become dull, slow, etc.</meaning>
+<example>The wine stultifies his mind.</example>

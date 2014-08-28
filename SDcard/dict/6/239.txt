@@ -1,0 +1,3 @@
+<word>elderly</word>
+<meaning>old or rather old :past middle age</meaning>
+<example>elderly woman calls for help</example>

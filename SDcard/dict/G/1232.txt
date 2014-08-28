@@ -1,0 +1,3 @@
+<word>off-key</word>
+<meaning>not in tune :above or below the proper pitch</meaning>
+<example>sing off-key</example>

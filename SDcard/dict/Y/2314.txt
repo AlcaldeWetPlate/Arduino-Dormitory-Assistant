@@ -1,0 +1,3 @@
+<word>meanwhile</word>
+<meaning>at or during the same time :in the meantime</meaning>
+<example>meanwhile, rabbit stared in disbelief !</example>

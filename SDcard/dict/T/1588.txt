@@ -1,0 +1,3 @@
+<word>overturn</word>
+<meaning>to turn (something) over</meaning>
+<example>overturn the bowl of ice cream</example>

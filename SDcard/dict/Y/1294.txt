@@ -1,0 +1,3 @@
+<word>nowadays</word>
+<meaning>at the present time</meaning>
+<example>Nowadays, everyone has technology.</example>

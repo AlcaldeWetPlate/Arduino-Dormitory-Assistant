@@ -1,0 +1,3 @@
+<word>alter</word>
+<meaning>to change (something)</meaning>
+<example>alter the shape of the fruit</example>

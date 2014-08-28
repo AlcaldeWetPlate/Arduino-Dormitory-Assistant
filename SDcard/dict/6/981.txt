@@ -1,0 +1,3 @@
+<word>sheer</word>
+<meaning>very steep :almost straight up and down</meaning>
+<example>climb up the sheer rock</example>

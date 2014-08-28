@@ -1,0 +1,3 @@
+<word>divergent</word>
+<meaning>different from another or from a standard</meaning>
+<example>divergent views</example>

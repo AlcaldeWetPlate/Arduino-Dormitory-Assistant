@@ -1,0 +1,3 @@
+<word>lurk</word>
+<meaning>to be in a hidden place</meaning>
+<example>lurk in the river</example>

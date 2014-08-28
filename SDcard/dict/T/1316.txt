@@ -1,0 +1,3 @@
+<word>diver</word>
+<meaning>a person who dives into water</meaning>
+<example>a deep sea diver</example>

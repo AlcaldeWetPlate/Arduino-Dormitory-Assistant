@@ -1,0 +1,3 @@
+<word>telegram</word>
+<meaning>a message that is sent by telegraph</meaning>
+<example>send an old-fashioned telegram</example>

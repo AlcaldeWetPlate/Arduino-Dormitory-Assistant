@@ -1,0 +1,3 @@
+<word>wrist</word>
+<meaning>the part of your body where your hand joins your arm</meaning>
+<example>wrist pain</example>

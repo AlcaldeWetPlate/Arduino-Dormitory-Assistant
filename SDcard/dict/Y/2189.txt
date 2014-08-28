@@ -1,0 +1,3 @@
+<word>person</word>
+<meaning>a human being</meaning>
+<example>an independent person</example>

@@ -1,0 +1,3 @@
+<word>laborious</word>
+<meaning>requiring a lot of time and effort</meaning>
+<example>his laborious day at work</example>

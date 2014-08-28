@@ -1,0 +1,3 @@
+<word>optional</word>
+<meaning>available as a choice but not required</meaning>
+<example>optional ways to go</example>

@@ -1,0 +1,3 @@
+<word>lucrative</word>
+<meaning>producing money or wealth</meaning>
+<example>a lucrative investment</example>

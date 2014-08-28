@@ -1,0 +1,3 @@
+<word>imitation</word>
+<meaning>the act of copying or imitating someone or something</meaning>
+<example>the monkey's imitation of him</example>

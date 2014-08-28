@@ -1,0 +1,3 @@
+<word>placid</word>
+<meaning>not moving much :calm and steady</meaning>
+<example>a placid lake</example>

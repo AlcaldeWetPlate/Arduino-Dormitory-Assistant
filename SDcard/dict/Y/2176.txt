@@ -1,0 +1,3 @@
+<word>clench</word>
+<meaning>to hold (something) tightly</meaning>
+<example>clench one's fists</example>

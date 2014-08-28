@@ -1,0 +1,3 @@
+<word>mire</word>
+<meaning>thick and deep mud</meaning>
+<example>truck stuck in the mire</example>

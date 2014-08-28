@@ -1,0 +1,3 @@
+<word>body</word>
+<meaning>a dead person or animal</meaning>
+<example>the human body</example>

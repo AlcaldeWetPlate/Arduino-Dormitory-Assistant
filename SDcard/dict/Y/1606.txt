@@ -1,0 +1,3 @@
+<word>sober</word>
+<meaning>not drunk</meaning>
+<example>Stay sober and don't drink.</example>

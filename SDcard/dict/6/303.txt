@@ -1,0 +1,3 @@
+<word>ferry</word>
+<meaning>a place where a ferryboat operates</meaning>
+<example>the river ferry</example>

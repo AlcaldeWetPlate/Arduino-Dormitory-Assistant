@@ -1,0 +1,3 @@
+<word>enactment</word>
+<meaning>The act of enacting</meaning>
+<example>enactment of laws</example>

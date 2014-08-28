@@ -1,0 +1,3 @@
+<word>steep</word>
+<meaning>almost straight up and down :rising or falling very sharply</meaning>
+<example>a steep cliff</example>

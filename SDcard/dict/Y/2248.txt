@@ -1,0 +1,3 @@
+<word>tell</word>
+<meaning>to let (someone) know a secret</meaning>
+<example>tell him something</example>

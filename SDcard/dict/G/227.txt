@@ -1,0 +1,3 @@
+<word>sedulous</word>
+<meaning>marked by care and persistent effort</meaning>
+<example>The sedulous craftsman works with wood.</example>

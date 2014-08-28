@@ -1,0 +1,3 @@
+<word>quantity</word>
+<meaning>a large amount or number of something</meaning>
+<example>large quantity vs. small quantity</example>

@@ -1,0 +1,3 @@
+<word>foam</word>
+<meaning>a mass of small bubbles that are formed in or on a liquid</meaning>
+<example>foam in the beer mug</example>

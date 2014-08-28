@@ -1,0 +1,3 @@
+<word>furnish</word>
+<meaning>to provide (a room or building) with furniture</meaning>
+<example>furnish the room</example>

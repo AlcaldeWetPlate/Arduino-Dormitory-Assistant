@@ -1,0 +1,3 @@
+<word>dabble</word>
+<meaning>to play or move around in water</meaning>
+<example>dabble in swimming</example>

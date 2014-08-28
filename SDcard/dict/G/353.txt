@@ -1,0 +1,3 @@
+<word>assert</word>
+<meaning>to state (something) in a strong and definite way</meaning>
+<example>both people assert their idea</example>

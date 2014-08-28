@@ -1,0 +1,3 @@
+<word>gulf</word>
+<meaning>a large area of ocean that is partly surrounded by land</meaning>
+<example>the Gulf of Mexico</example>

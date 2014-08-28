@@ -1,0 +1,3 @@
+<word>fluffy</word>
+<meaning>covered with soft material</meaning>
+<example>a fluffy squirrel</example>

@@ -1,0 +1,3 @@
+<word>glimpse</word>
+<meaning>a brief or quick view or look</meaning>
+<example>a glimpse through the door</example>

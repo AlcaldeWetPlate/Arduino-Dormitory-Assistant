@@ -1,0 +1,3 @@
+<word>tractable</word>
+<meaning>easily managed or controlled</meaning>
+<example>a tractable horse</example>

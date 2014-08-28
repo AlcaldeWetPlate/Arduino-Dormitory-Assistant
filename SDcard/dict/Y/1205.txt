@@ -1,0 +1,3 @@
+<word>gear</word>
+<meaning>a toothed wheel in a machine</meaning>
+<example>climbing gear</example>

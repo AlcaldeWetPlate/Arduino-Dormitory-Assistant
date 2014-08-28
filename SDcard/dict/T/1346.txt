@@ -1,0 +1,3 @@
+<word>laurels</word>
+<meaning>a small evergreen tree with shiny leaves</meaning>
+<example>four symbolic laurels</example>

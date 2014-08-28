@@ -1,0 +1,3 @@
+<word>cock</word>
+<meaning>an adult male chicken</meaning>
+<example>a cock and his hens</example>

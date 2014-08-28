@@ -1,0 +1,3 @@
+<word>felony</word>
+<meaning>a serious crime (such as murder or rape)</meaning>
+<example>use a gun to commit a felony</example>

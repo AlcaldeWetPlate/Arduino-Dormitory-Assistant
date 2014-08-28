@@ -1,0 +1,3 @@
+<word>feeder</word>
+<meaning>a device for supplying food to animals</meaning>
+<example>chickens around the feeder</example>

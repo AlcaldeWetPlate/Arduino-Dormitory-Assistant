@@ -1,0 +1,3 @@
+<word>relish</word>
+<meaning>enjoyment of or delight in something</meaning>
+<example>relish the pizza</example>

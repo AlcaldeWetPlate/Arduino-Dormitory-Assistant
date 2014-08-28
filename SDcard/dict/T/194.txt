@@ -1,0 +1,3 @@
+<word>longevity</word>
+<meaning>long life :the fact of living for many years</meaning>
+<example>the couple's longevity</example>

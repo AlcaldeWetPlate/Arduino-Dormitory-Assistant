@@ -1,0 +1,3 @@
+<word>arise</word>
+<meaning>to get up from sleep or after lying down</meaning>
+<example>arise at 7 AM</example>

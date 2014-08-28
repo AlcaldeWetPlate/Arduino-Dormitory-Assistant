@@ -1,0 +1,3 @@
+<word>vestige</word>
+<meaning>the smallest possible amount of something</meaning>
+<example>vestige of an ancient culture</example>

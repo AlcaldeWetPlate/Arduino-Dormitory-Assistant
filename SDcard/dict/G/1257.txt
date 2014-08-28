@@ -1,0 +1,3 @@
+<word>oaf</word>
+<meaning>a stupid or awkward person</meaning>
+<example>The oaf sits on the couch all day.</example>

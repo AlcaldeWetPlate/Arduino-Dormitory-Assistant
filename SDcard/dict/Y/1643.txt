@@ -1,0 +1,3 @@
+<word>meter</word>
+<meaning>the basic metric unit of length equal to about 39.37 inches</meaning>
+<example>one meter deep</example>

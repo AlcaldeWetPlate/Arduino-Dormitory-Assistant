@@ -1,0 +1,3 @@
+<word>partisan</word>
+<meaning>strongly supporting one leader, group, or cause over another</meaning>
+<example>partisan sports fans</example>

@@ -1,0 +1,3 @@
+<word>buggy</word>
+<meaning>a light carriage that is usually pulled by one horse</meaning>
+<example>a horse and buggy</example>

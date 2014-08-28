@@ -1,0 +1,3 @@
+<word>mortality</word>
+<meaning>the number of deaths that occur in a particular time or place</meaning>
+<example>Dead bodies remind us of our mortality.</example>

@@ -1,0 +1,3 @@
+<word>perfectly</word>
+<meaning>without errors, mistakes, or flaws :in a perfect way</meaning>
+<example>perfectly laid out dining set</example>

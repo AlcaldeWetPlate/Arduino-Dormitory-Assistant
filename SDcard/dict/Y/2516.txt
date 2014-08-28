@@ -1,0 +1,3 @@
+<word>come</word>
+<meaning>to move toward someone or something</meaning>
+<example>Come in to my house!</example>

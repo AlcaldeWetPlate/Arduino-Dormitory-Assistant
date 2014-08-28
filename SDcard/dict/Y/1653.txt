@@ -1,0 +1,3 @@
+<word>instal</word>
+<meaning>to set up for use or service</meaning>
+<example>instal the cabinets</example>

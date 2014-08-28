@@ -1,0 +1,3 @@
+<word>night</word>
+<meaning>the darkness that occurs during the nighttime</meaning>
+<example>many stars at night</example>

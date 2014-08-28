@@ -1,0 +1,3 @@
+<word>supine</word>
+<meaning>lying on your back with your face upward</meaning>
+<example>lie supine on the bed</example>

@@ -1,0 +1,3 @@
+<word>climate</word>
+<meaning>the usual weather conditions in a particular place or region</meaning>
+<example>a hot or cold climate</example>

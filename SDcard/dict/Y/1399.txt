@@ -1,0 +1,3 @@
+<word>apparatus</word>
+<meaning>a tool or piece of equipment used for specific activities</meaning>
+<example>a machine's complicated apparatus</example>

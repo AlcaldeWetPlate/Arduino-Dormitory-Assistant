@@ -1,0 +1,3 @@
+<word>haunt</word>
+<meaning>to visit or live in (a place)</meaning>
+<example>Ghosts haunt old places.</example>

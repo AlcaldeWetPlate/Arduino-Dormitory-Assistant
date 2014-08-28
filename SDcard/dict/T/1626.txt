@@ -1,0 +1,3 @@
+<word>rarefy</word>
+<meaning>lessen the density or solidity of</meaning>
+<example>Oxygen will rarefy at high elevations.</example>

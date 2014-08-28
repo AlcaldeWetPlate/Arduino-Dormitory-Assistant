@@ -1,0 +1,3 @@
+<word>tan</word>
+<meaning>a browning of the skin that is caused by the sun's rays</meaning>
+<example>She gets a tan in the sun.</example>

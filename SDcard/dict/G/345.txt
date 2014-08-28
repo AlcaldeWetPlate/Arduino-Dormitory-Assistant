@@ -1,0 +1,3 @@
+<word>discharge</word>
+<meaning>to send out (electricity)</meaning>
+<example>an electrical discharge</example>

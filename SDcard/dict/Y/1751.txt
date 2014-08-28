@@ -1,0 +1,3 @@
+<word>recollect</word>
+<meaning>to remember (something)</meaning>
+<example>A woman recollects her memories.</example>

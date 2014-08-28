@@ -1,0 +1,3 @@
+<word>probity</word>
+<meaning>the quality of a person who is completely honest</meaning>
+<example>the judge's sense of probity</example>

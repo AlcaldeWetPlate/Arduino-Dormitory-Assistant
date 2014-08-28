@@ -1,0 +1,3 @@
+<word>equip</word>
+<meaning>to provide (someone) with necessary materials or supplies</meaning>
+<example>equip him with guns</example>

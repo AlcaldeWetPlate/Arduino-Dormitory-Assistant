@@ -1,0 +1,3 @@
+<word>desirable</word>
+<meaning>having good or pleasing qualities :worth having or getting</meaning>
+<example>a desirable car</example>

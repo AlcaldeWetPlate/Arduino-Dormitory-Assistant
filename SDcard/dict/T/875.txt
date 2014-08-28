@@ -1,0 +1,3 @@
+<word>postwar</word>
+<meaning>happening, existing, or made after a war</meaning>
+<example>postwar rebuilding of the country</example>

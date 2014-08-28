@@ -1,0 +1,3 @@
+<word>discord</word>
+<meaning>lack of agreement between people, ideas, etc.</meaning>
+<example>discord between sisters</example>

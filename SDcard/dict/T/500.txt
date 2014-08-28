@@ -1,0 +1,3 @@
+<word>rational</word>
+<meaning>based on facts or reason and not on emotions or feelings</meaning>
+<example>Math is a very rational subject.</example>

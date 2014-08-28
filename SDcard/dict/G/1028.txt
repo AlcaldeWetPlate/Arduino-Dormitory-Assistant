@@ -1,0 +1,3 @@
+<word>nudge</word>
+<meaning>to touch or push (someone or something) gently</meaning>
+<example>The elephant nudges her child.</example>

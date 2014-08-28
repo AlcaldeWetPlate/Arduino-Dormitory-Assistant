@@ -1,0 +1,3 @@
+<word>labile</word>
+<meaning>open to change</meaning>
+<example>emotionally labile</example>

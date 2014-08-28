@@ -1,0 +1,3 @@
+<word>unjust</word>
+<meaning>not fair or deserved :not just</meaning>
+<example>an unjust law</example>

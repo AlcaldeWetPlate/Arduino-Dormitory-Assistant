@@ -1,0 +1,3 @@
+<word>glory</word>
+<meaning>public praise, honor, and fame</meaning>
+<example>glory in battle</example>

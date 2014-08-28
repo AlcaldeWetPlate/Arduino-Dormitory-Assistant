@@ -1,0 +1,3 @@
+<word>spokesman</word>
+<meaning>someone who speaks for or represents a person, company, etc.</meaning>
+<example>spokesman for the company</example>

@@ -1,0 +1,3 @@
+<word>patronize</word>
+<meaning>to be a frequent or regular customer or user of (a place)</meaning>
+<example>patronize a restaurant</example>

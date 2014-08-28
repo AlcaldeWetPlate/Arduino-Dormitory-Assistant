@@ -1,0 +1,3 @@
+<word>garish</word>
+<meaning>too bright or colorful</meaning>
+<example>her brightly colored, garish clothes</example>

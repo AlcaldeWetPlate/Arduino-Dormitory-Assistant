@@ -1,0 +1,3 @@
+<word>iniquity</word>
+<meaning>the quality of being unfair or evil</meaning>
+<example>iniquity in Las Vegas</example>

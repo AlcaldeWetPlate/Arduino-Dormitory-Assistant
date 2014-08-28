@@ -1,0 +1,3 @@
+<word>perish</word>
+<meaning>to die or be killed</meaning>
+<example>perish and die</example>

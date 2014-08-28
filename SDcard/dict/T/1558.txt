@@ -1,0 +1,3 @@
+<word>illusive</word>
+<meaning>based on or having the nature of an illusion</meaning>
+<example>the illusive ghosts</example>

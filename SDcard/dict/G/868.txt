@@ -1,0 +1,3 @@
+<word>rostrum</word>
+<meaning>a small raised platform on a stage</meaning>
+<example>speak at a rostrum</example>

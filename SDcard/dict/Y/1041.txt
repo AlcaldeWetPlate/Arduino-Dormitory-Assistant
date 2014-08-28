@@ -1,0 +1,3 @@
+<word>expose</word>
+<meaning>to leave (something) without covering or protection</meaning>
+<example>expose her body</example>

@@ -1,0 +1,3 @@
+<word>slate</word>
+<meaning>a type of hard rock that splits easily into thin layers</meaning>
+<example>draw on a slate</example>

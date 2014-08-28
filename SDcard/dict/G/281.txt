@@ -1,0 +1,3 @@
+<word>venal</word>
+<meaning>willing to do dishonest things in return for money</meaning>
+<example>a venal, greedy man</example>

@@ -1,0 +1,3 @@
+<word>babble</word>
+<meaning>to make speech sounds that do not make sense to the hearer</meaning>
+<example>babble into her ears</example>

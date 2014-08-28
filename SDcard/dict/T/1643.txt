@@ -1,0 +1,3 @@
+<word>spined</word>
+<meaning>aristate , brambly</meaning>
+<example>a spined cactus</example>

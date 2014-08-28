@@ -1,0 +1,3 @@
+<word>minor</word>
+<meaning>not very serious :not causing much trouble or damage</meaning>
+<example>a minor parking violation</example>

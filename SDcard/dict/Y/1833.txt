@@ -1,0 +1,3 @@
+<word>elevation</word>
+<meaning>the height of a place</meaning>
+<example>an elevation map</example>

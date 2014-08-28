@@ -1,0 +1,3 @@
+<word>uncertain</word>
+<meaning>not exactly known or decided :not definite or fixed</meaning>
+<example>be uncertain about where to go</example>

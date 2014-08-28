@@ -1,0 +1,3 @@
+<word>deify</word>
+<meaning>to treat (someone or something) like a god or goddess</meaning>
+<example>deify the Buddha</example>

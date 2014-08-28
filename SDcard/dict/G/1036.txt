@@ -1,0 +1,3 @@
+<word>scrawl</word>
+<meaning>to write or draw (something) very quickly or carelessly</meaning>
+<example>carelessly scrawl some words</example>

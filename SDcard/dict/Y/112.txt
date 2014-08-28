@@ -1,0 +1,3 @@
+<word>consulate</word>
+<meaning>the building where a consul lives and works</meaning>
+<example>the Chinese consulate</example>

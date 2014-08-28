@@ -1,0 +1,3 @@
+<word>odor</word>
+<meaning>a particular smell</meaning>
+<example>a smelly odor</example>

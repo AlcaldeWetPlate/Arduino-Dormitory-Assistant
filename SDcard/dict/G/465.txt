@@ -1,0 +1,3 @@
+<word>calamity</word>
+<meaning>an event that causes great harm and suffering</meaning>
+<example>a disastrous calamity</example>

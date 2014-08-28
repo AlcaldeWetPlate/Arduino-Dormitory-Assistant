@@ -1,0 +1,3 @@
+<word>surround</word>
+<meaning>to be on every side of (someone or something)</meaning>
+<example>The plants surround the windows.</example>

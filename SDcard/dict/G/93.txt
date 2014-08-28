@@ -1,0 +1,3 @@
+<word>evict</word>
+<meaning>to force (someone) to leave a place</meaning>
+<example>evict her from her house</example>

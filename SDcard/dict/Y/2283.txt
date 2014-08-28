@@ -1,0 +1,3 @@
+<word>peace</word>
+<meaning>a quiet and calm state</meaning>
+<example>inner peace</example>

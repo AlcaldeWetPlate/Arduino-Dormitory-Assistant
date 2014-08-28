@@ -1,0 +1,3 @@
+<word>orchard</word>
+<meaning>a place where people grow fruit trees</meaning>
+<example>pick apples at the orchard</example>

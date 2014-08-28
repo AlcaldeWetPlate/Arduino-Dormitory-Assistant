@@ -1,0 +1,3 @@
+<word>voracious</word>
+<meaning>having or showing a tendency to eat very large amounts of food</meaning>
+<example>a voracious appetite</example>

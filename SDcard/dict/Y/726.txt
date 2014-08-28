@@ -1,0 +1,3 @@
+<word>accept</word>
+<meaning>to receive or take (something offered)</meaning>
+<example>accept a gift</example>

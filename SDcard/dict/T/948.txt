@@ -1,0 +1,3 @@
+<word>concave</word>
+<meaning>having a shape like the inside of a bowl :curving inward</meaning>
+<example>a concave shape</example>

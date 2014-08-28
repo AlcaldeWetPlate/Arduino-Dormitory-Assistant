@@ -1,0 +1,3 @@
+<word>brighten</word>
+<meaning>to add more light to (something)</meaning>
+<example>light brightens up the room</example>

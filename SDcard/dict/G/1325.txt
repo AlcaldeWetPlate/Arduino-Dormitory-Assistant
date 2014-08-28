@@ -1,0 +1,3 @@
+<word>jape</word>
+<meaning>a humorous anecdote or remark intended to provoke laughter</meaning>
+<example>make japes and crack jokes</example>

@@ -1,0 +1,3 @@
+<word>ambrosial</word>
+<meaning>extremely pleasing to the taste; sweet and fragrant</meaning>
+<example>the ambrosial golden honey</example>

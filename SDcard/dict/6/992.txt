@@ -1,0 +1,3 @@
+<word>torpedo</word>
+<meaning>a bomb that is shaped like a tube and that is fired underwater</meaning>
+<example>a big torpedo for the ship</example>

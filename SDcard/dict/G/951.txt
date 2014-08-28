@@ -1,0 +1,3 @@
+<word>verdant</word>
+<meaning>green with growing plants</meaning>
+<example>a verdant, green field</example>

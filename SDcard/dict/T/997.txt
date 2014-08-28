@@ -1,0 +1,3 @@
+<word>towering</word>
+<meaning>very tall</meaning>
+<example>a towering building</example>

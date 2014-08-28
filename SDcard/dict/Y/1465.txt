@@ -1,0 +1,3 @@
+<word>wrestle</word>
+<meaning>to fight in the sport of wrestling</meaning>
+<example>Two young men wrestle each other.</example>

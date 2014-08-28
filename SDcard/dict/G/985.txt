@@ -1,0 +1,3 @@
+<word>droll</word>
+<meaning>having an odd and amusing quality</meaning>
+<example>a droll comedy act</example>

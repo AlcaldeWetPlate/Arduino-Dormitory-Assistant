@@ -1,0 +1,3 @@
+<word>jibe</word>
+<meaning>to agree</meaning>
+<example>jibes from the girls</example>

@@ -1,0 +1,3 @@
+<word>eclectic</word>
+<meaning>including things taken from many different sources</meaning>
+<example>an eclectic fashion sense</example>

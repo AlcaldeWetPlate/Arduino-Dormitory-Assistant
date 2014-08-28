@@ -1,0 +1,3 @@
+<word>erect</word>
+<meaning>to build (something) by putting together materials</meaning>
+<example>erect a  tall building</example>

@@ -1,0 +1,3 @@
+<word>highway</word>
+<meaning>a main road that connects cities, towns, etc.</meaning>
+<example>a scenic highway</example>

@@ -1,0 +1,3 @@
+<word>blight</word>
+<meaning>a disease that makes plants dry up and die</meaning>
+<example>leaf blight</example>

@@ -1,0 +1,3 @@
+<word>chat</word>
+<meaning>to talk with someone in a casual way</meaning>
+<example>chat with each other over drinks</example>

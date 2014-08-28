@@ -1,0 +1,3 @@
+<word>squash</word>
+<meaning>to press (something) into a flat or flatter shape</meaning>
+<example>squash the can</example>

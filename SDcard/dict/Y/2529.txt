@@ -1,0 +1,3 @@
+<word>august</word>
+<meaning>the eighth month of the year</meaning>
+<example>August is the eighth month of the year.</example>

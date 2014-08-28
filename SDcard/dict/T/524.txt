@@ -1,0 +1,3 @@
+<word>revise</word>
+<meaning>to make changes especially to correct or improve (something)</meaning>
+<example>revise the paper</example>

@@ -1,0 +1,3 @@
+<word>gain</word>
+<meaning>to get (something wanted or valued)</meaning>
+<example>financial gain</example>

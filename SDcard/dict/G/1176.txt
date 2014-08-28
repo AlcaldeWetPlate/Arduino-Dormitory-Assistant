@@ -1,0 +1,3 @@
+<word>verbatim</word>
+<meaning>in exactly the same words</meaning>
+<example>copy down the speaker's words verbatim</example>

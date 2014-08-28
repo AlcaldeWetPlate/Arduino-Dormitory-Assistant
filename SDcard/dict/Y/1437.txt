@@ -1,0 +1,3 @@
+<word>express</word>
+<meaning>a train or bus that travels quickly with few stops</meaning>
+<example>the express train</example>

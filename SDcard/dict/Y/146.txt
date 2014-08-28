@@ -1,0 +1,3 @@
+<word>dweller</word>
+<meaning>a person or animal that lives in a particular place</meaning>
+<example>apartment dweller</example>

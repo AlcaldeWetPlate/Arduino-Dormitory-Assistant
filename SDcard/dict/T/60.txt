@@ -1,0 +1,3 @@
+<word>climatic</word>
+<meaning>of or relating to a climate</meaning>
+<example>climatic changes</example>

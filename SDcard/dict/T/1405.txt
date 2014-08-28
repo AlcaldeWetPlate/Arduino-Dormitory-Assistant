@@ -1,0 +1,3 @@
+<word>ravine</word>
+<meaning>a small, deep, narrow valley</meaning>
+<example>a ravine in the forest</example>

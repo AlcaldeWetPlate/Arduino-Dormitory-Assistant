@@ -1,0 +1,3 @@
+<word>precedent</word>
+<meaning>a similar action or event that happened at an earlier time</meaning>
+<example>research a legal precedent</example>

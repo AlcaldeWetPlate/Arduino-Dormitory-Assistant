@@ -1,0 +1,3 @@
+<word>seaside</word>
+<meaning>the areas or towns along or near the sea</meaning>
+<example>family at the seaside</example>

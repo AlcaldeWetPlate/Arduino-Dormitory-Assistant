@@ -1,0 +1,3 @@
+<word>companion</word>
+<meaning>a person or animal you spend time with or enjoy being with</meaning>
+<example>The dog is her running companion.</example>

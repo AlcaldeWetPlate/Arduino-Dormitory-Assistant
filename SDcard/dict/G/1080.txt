@@ -1,0 +1,3 @@
+<word>septic</word>
+<meaning>infected with bacteria</meaning>
+<example>a septic wound</example>

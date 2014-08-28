@@ -1,0 +1,3 @@
+<word>fencing</word>
+<meaning>the art or sport of fighting with swords</meaning>
+<example>Fencing is a dangerous sport.</example>

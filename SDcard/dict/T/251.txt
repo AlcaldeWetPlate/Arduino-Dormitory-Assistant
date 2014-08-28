@@ -1,0 +1,3 @@
+<word>shrinkage</word>
+<meaning>the amount by which something becomes smaller or less</meaning>
+<example>suffer shrinkage</example>

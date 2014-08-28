@@ -1,0 +1,3 @@
+<word>cute</word>
+<meaning>having a pleasing and usually youthful appearance</meaning>
+<example>a cute little kitten</example>

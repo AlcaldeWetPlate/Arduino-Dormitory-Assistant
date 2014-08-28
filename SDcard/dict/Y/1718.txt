@@ -1,0 +1,3 @@
+<word>lavatory</word>
+<meaning>a room with a toilet and sink</meaning>
+<example>a clean lavatory</example>

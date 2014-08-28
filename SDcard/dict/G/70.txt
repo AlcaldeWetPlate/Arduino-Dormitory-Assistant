@@ -1,0 +1,3 @@
+<word>defer</word>
+<meaning>to choose to do (something) at a later time</meaning>
+<example>defer the appointment time</example>

@@ -1,0 +1,3 @@
+<word>backache</word>
+<meaning>pain in the back</meaning>
+<example>a painful backache</example>

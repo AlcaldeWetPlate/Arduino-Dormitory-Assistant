@@ -1,0 +1,3 @@
+<word>accolade</word>
+<meaning>an award or an expression of praise</meaning>
+<example>receive the businesspeople's accolades</example>

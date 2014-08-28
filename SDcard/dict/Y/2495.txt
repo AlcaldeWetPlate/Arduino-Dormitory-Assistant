@@ -1,0 +1,3 @@
+<word>snake</word>
+<meaning>an animal that has a long, thin body and no arms or legs</meaning>
+<example>a yellow snake</example>

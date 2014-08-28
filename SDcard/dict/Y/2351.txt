@@ -1,0 +1,3 @@
+<word>know</word>
+<meaning>to have learned (something, as a skill or a language)</meaning>
+<example>know the answer</example>

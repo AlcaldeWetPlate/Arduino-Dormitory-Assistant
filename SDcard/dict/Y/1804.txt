@@ -1,0 +1,3 @@
+<word>oriental</word>
+<meaning>of, relating to, or from Asia and especially eastern Asia</meaning>
+<example>traditional oriental clothing</example>

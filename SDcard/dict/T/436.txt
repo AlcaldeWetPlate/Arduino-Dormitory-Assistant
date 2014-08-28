@@ -1,0 +1,3 @@
+<word>bleak</word>
+<meaning>not hopeful or encouraging</meaning>
+<example>a bleak, ugly place</example>

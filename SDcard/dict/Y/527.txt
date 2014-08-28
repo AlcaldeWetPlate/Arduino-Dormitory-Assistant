@@ -1,0 +1,3 @@
+<word>petty</word>
+<meaning>relating to things that are not very important or serious</meaning>
+<example>give some petty cash</example>

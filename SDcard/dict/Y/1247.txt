@@ -1,0 +1,3 @@
+<word>curl</word>
+<meaning>the ability of hair to form curls</meaning>
+<example>her hair's curls</example>

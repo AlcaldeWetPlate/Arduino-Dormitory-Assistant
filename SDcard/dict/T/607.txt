@@ -1,0 +1,3 @@
+<word>dependent</word>
+<meaning>needing someone or something else for support, help, etc.</meaning>
+<example>be dependent on her husband</example>

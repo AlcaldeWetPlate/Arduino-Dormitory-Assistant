@@ -1,0 +1,3 @@
+<word>promotion</word>
+<meaning>the act of promoting someone or something</meaning>
+<example>a TV promotion</example>

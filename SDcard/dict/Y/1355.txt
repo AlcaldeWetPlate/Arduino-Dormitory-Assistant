@@ -1,0 +1,3 @@
+<word>insure</word>
+<meaning>to buy insurance for (something, such as property or health)</meaning>
+<example>insure my car</example>

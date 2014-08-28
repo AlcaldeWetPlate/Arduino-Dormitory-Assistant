@@ -1,0 +1,3 @@
+<word>epigram</word>
+<meaning>a short and clever poem or saying</meaning>
+<example>use an epigram in a political speech</example>

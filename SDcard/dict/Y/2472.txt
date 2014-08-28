@@ -1,0 +1,3 @@
+<word>caress</word>
+<meaning>to touch (someone or something) in a gentle way</meaning>
+<example>caress her mother's stomach</example>

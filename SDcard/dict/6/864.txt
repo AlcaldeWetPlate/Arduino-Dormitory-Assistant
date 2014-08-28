@@ -1,0 +1,3 @@
+<word>anxiety</word>
+<meaning>fear or nervousness about what might happen</meaning>
+<example>experience anxiety and nervousness</example>

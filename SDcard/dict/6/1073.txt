@@ -1,0 +1,3 @@
+<word>rapidity</word>
+<meaning>the quality or state of being rapid</meaning>
+<example>drive with extreme rapidity</example>

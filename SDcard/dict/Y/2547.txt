@@ -1,0 +1,3 @@
+<word>lie</word>
+<meaning>to be in a flat position on a surface (such as a bed)</meaning>
+<example>The kids lie on the ground.</example>

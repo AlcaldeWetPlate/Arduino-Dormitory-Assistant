@@ -1,0 +1,3 @@
+<word>suffer</word>
+<meaning>to experience pain, illness, or injury</meaning>
+<example>suffer from stomach pain</example>

@@ -1,0 +1,3 @@
+<word>mobilize</word>
+<meaning>to make (soldiers, an army, etc.) ready for war</meaning>
+<example>mobilize his workers</example>

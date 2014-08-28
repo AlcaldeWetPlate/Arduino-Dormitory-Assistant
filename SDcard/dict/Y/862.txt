@@ -1,0 +1,3 @@
+<word>tedious</word>
+<meaning>boring and too slow or long</meaning>
+<example>the tedious book</example>

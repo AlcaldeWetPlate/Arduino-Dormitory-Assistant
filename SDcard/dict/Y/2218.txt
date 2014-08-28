@@ -1,0 +1,3 @@
+<word>addition</word>
+<meaning>the act or process of adding numbers</meaning>
+<example>addition of two and two</example>

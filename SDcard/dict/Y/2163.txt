@@ -1,0 +1,3 @@
+<word>dutiful</word>
+<meaning>doing what is expected of you</meaning>
+<example>a dutiful wife</example>

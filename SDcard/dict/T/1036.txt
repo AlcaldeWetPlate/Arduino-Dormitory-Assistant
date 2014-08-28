@@ -1,0 +1,3 @@
+<word>paucity</word>
+<meaning>a small amount</meaning>
+<example>a paucity of food</example>

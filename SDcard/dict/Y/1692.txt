@@ -1,0 +1,3 @@
+<word>solve</word>
+<meaning>to find a way to deal with and end (a problem)</meaning>
+<example>solve the math problem</example>

@@ -1,0 +1,3 @@
+<word>saturnine</word>
+<meaning>very serious and unhappy</meaning>
+<example>the mean girl's saturnine expression</example>

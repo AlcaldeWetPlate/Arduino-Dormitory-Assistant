@@ -1,0 +1,3 @@
+<word>haphazard</word>
+<meaning>having no plan, order, or direction</meaning>
+<example>The woman's work was haphazard.</example>

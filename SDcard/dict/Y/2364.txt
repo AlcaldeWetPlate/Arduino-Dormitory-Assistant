@@ -1,0 +1,3 @@
+<word>duty</word>
+<meaning>something that is done as part of a job</meaning>
+<example>The guard is on duty.</example>

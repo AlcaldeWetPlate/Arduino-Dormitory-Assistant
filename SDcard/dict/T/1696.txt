@@ -1,0 +1,3 @@
+<word>lifesaver</word>
+<meaning>something or someone which provides help that is badly needed</meaning>
+<example>red lifesavers on a boat</example>

@@ -1,0 +1,3 @@
+<word>beaded</word>
+<meaning>decorated with beads</meaning>
+<example>an elegant beaded dress</example>

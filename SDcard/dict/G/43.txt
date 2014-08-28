@@ -1,0 +1,3 @@
+<word>brook</word>
+<meaning>a small stream</meaning>
+<example>boat down a brook</example>

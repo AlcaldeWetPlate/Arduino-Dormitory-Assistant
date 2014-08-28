@@ -1,0 +1,3 @@
+<word>educable</word>
+<meaning>can be educated</meaning>
+<example>an educable dog</example>

@@ -1,0 +1,3 @@
+<word>miniscule</word>
+<meaning>very small</meaning>
+<example>the small, miniscule plant</example>

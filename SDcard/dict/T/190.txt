@@ -1,0 +1,3 @@
+<word>legendary</word>
+<meaning>told about in a legend</meaning>
+<example>legendary dragons</example>

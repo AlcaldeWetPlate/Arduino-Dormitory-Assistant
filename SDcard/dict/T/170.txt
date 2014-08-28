@@ -1,0 +1,3 @@
+<word>impending</word>
+<meaning>happening or likely to happen soon</meaning>
+<example>an impending wave</example>

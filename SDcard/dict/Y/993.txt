@@ -1,0 +1,3 @@
+<word>location</word>
+<meaning>a place or position</meaning>
+<example>the location on the map</example>

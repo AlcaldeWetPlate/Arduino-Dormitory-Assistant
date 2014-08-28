@@ -1,0 +1,3 @@
+<word>hanker</word>
+<meaning>to have a strong or constant desire for something</meaning>
+<example>The dog hankers for some meat.</example>

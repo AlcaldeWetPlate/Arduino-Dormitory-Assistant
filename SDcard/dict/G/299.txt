@@ -1,0 +1,3 @@
+<word>imbroglio</word>
+<meaning>a complex dispute or argument</meaning>
+<example>a loud imbroglio</example>

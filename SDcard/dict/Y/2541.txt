@@ -1,0 +1,3 @@
+<word>opener</word>
+<meaning>a tool, device, or machine that is used to open something</meaning>
+<example>a bottle opener</example>

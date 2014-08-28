@@ -1,0 +1,3 @@
+<word>depose</word>
+<meaning>to remove (someone) from a powerful position</meaning>
+<example>Depose the king!</example>

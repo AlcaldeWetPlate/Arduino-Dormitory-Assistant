@@ -1,0 +1,3 @@
+<word>rebound</word>
+<meaning>to bounce back</meaning>
+<example>The ball rebounds off of the ground.</example>

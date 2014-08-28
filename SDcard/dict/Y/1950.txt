@@ -1,0 +1,3 @@
+<word>ruby</word>
+<meaning>a deep red stone that is used in jewelry</meaning>
+<example>a red ruby</example>

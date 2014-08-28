@@ -1,0 +1,3 @@
+<word>recondite</word>
+<meaning>not understood or known by many people</meaning>
+<example>read a recondite text</example>

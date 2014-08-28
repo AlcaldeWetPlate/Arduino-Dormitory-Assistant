@@ -1,0 +1,3 @@
+<word>cop</word>
+<meaning>police</meaning>
+<example>The cop looks for the criminal.</example>

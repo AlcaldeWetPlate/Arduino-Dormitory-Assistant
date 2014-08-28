@@ -1,0 +1,3 @@
+<word>noisome</word>
+<meaning>very unpleasant or disgusting</meaning>
+<example>a cigar's noisome smoke</example>

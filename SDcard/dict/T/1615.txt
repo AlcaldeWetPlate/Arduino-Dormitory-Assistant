@@ -1,0 +1,3 @@
+<word>overtire</word>
+<meaning>too tired of much work</meaning>
+<example>overtire the worker</example>

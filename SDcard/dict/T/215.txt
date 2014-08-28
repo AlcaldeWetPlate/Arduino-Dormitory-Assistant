@@ -1,0 +1,3 @@
+<word>motive</word>
+<meaning>a reason for doing something</meaning>
+<example>uncertain motives</example>

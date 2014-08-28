@@ -1,0 +1,3 @@
+<word>assault</word>
+<meaning>a military attack</meaning>
+<example>an assault on enemy territory</example>

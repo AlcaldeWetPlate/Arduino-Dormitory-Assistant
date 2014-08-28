@@ -1,0 +1,3 @@
+<word>drunken</word>
+<meaning>drunk or often becoming drunk</meaning>
+<example>a drunken man on the floor</example>

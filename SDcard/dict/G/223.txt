@@ -1,0 +1,3 @@
+<word>jocund</word>
+<meaning>of a humorous temperament; merry</meaning>
+<example>the jocund, happy girl</example>

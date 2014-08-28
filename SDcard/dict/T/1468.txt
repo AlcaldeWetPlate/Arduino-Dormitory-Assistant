@@ -1,0 +1,3 @@
+<word>vowel</word>
+<meaning>a letter</meaning>
+<example>A, E, I, O, and U are vowels.</example>

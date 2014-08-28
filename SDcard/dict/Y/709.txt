@@ -1,0 +1,3 @@
+<word>patient</word>
+<meaning>a person who receives medical care or treatment</meaning>
+<example>take care of the patient</example>

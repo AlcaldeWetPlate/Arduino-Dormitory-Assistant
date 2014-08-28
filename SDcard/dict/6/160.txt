@@ -1,0 +1,3 @@
+<word>mission</word>
+<meaning>a specific military or naval task</meaning>
+<example>soldiers on a mission</example>

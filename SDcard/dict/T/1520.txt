@@ -1,0 +1,3 @@
+<word>all but</word>
+<meaning>very nearly</meaning>
+<example>All but one are red.</example>

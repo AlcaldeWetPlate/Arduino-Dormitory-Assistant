@@ -1,0 +1,3 @@
+<word>drive</word>
+<meaning>a journey in a car</meaning>
+<example>drive the car</example>

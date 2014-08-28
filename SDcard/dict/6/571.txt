@@ -1,0 +1,3 @@
+<word>settle</word>
+<meaning>to move to a place and make it your home</meaning>
+<example>settle in at a new house</example>

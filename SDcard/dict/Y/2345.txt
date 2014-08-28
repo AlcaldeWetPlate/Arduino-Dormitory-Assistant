@@ -1,0 +1,3 @@
+<word>factory</word>
+<meaning>a building or group of buildings where products are made</meaning>
+<example>the chemical factory</example>

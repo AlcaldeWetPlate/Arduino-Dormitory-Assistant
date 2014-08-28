@@ -1,0 +1,3 @@
+<word>frail</word>
+<meaning>easily damaged or destroyed</meaning>
+<example>a frail old woman</example>

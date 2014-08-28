@@ -1,0 +1,3 @@
+<word>respire</word>
+<meaning>a body respires when it produces energy from food</meaning>
+<example>breathe and respire</example>

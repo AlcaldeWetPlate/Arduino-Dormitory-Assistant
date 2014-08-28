@@ -1,0 +1,3 @@
+<word>utmost</word>
+<meaning>the highest point or degree that can be reached</meaning>
+<example>the utmost speed</example>

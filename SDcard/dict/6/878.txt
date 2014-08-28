@@ -1,0 +1,3 @@
+<word>evidence</word>
+<meaning>something which shows that something else exists or is true</meaning>
+<example>collect evidence for the police</example>

@@ -1,0 +1,3 @@
+<word>build</word>
+<meaning>to make (something) by putting together parts or materials</meaning>
+<example>build the house</example>

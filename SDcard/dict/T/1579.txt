@@ -1,0 +1,3 @@
+<word>defecate</word>
+<meaning>to pass solid waste from the body</meaning>
+<example>the dog defecates on the snow</example>

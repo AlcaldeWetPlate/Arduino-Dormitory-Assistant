@@ -1,0 +1,3 @@
+<word>carving</word>
+<meaning>a carved object, design, or figure</meaning>
+<example>American presidents in the carving</example>

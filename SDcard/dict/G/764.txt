@@ -1,0 +1,3 @@
+<word>vehement</word>
+<meaning>showing strong and often angry feelings :very emotional</meaning>
+<example>a vehement opinion</example>

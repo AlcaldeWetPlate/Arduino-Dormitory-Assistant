@@ -1,0 +1,3 @@
+<word>mute</word>
+<meaning>not able or willing to speak</meaning>
+<example>Mute people cannot talk.</example>

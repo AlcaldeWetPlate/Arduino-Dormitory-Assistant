@@ -1,0 +1,3 @@
+<word>belong to</word>
+<meaning>be a part or adjunct</meaning>
+<example>The bear belongs to me.</example>

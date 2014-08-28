@@ -1,0 +1,3 @@
+<word>plural</word>
+<meaning>relating to or made up of more than one kind or group</meaning>
+<example>Plural of fish is fish.</example>

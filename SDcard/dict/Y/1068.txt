@@ -1,0 +1,3 @@
+<word>drown</word>
+<meaning>to die by being underwater too long and unable to breathe</meaning>
+<example>drown in the ocean</example>

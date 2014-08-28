@@ -1,0 +1,3 @@
+<word>nugatory</word>
+<meaning>of no real value</meaning>
+<example>a nugatory gift</example>

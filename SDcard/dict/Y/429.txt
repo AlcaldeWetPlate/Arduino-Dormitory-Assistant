@@ -1,0 +1,3 @@
+<word>circuit</word>
+<meaning>the complete path that an electric current travels along</meaning>
+<example>circuits of a computer chip</example>

@@ -1,0 +1,3 @@
+<word>expense</word>
+<meaning>the amount of money that is needed to pay for or buy something</meaning>
+<example>expenses for food</example>

@@ -1,0 +1,3 @@
+<word>rear</word>
+<meaning>at or near the back of something</meaning>
+<example>the rear view mirror</example>

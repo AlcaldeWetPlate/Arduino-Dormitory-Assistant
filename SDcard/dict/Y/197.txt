@@ -1,0 +1,3 @@
+<word>habitual</word>
+<meaning>doing something regularly or repeatedly</meaning>
+<example>a habitual alcoholic drinker</example>

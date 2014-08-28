@@ -1,0 +1,3 @@
+<word>glorify</word>
+<meaning>to honor or praise (a god or goddess)</meaning>
+<example>glorify God at sunset</example>

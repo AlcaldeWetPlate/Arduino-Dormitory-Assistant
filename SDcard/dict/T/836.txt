@@ -1,0 +1,3 @@
+<word>locally</word>
+<meaning>by a particular locality</meaning>
+<example>locally grown fruit</example>

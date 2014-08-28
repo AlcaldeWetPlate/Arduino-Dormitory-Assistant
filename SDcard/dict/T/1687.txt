@@ -1,0 +1,3 @@
+<word>hornet</word>
+<meaning>a flying insect that has a powerful sting</meaning>
+<example>A hornet is like a bee.</example>

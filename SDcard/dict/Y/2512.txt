@@ -1,0 +1,3 @@
+<word>prophesy</word>
+<meaning>to state that something will happen in the future</meaning>
+<example>She's about to tell a prophesy.</example>

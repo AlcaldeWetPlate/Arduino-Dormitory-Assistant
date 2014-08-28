@@ -1,0 +1,3 @@
+<word>folk</word>
+<meaning>of or relating to the common people of a country or region</meaning>
+<example>folk dancers</example>

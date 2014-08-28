@@ -1,0 +1,3 @@
+<word>bathetic</word>
+<meaning>effusively or insincerely emotional</meaning>
+<example>a bathetic, saccharine gift</example>

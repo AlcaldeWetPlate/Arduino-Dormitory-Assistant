@@ -1,0 +1,3 @@
+<word>shriek</word>
+<meaning>to make a loud, high-pitched cry</meaning>
+<example>shriek at the horror movie</example>

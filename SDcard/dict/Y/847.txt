@@ -1,0 +1,3 @@
+<word>brandy</word>
+<meaning>an alcoholic drink made from wine</meaning>
+<example>a glass of brandy</example>

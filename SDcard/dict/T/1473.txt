@@ -1,0 +1,3 @@
+<word>heroism</word>
+<meaning>great courage</meaning>
+<example>the strong man's heroism</example>

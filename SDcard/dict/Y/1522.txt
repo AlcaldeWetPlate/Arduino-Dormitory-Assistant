@@ -1,0 +1,3 @@
+<word>aspect</word>
+<meaning>a part of something</meaning>
+<example>different aspects of marketing</example>

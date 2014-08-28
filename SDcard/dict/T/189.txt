@@ -1,0 +1,3 @@
+<word>league</word>
+<meaning>a group of sports teams that play against each other</meaning>
+<example>a football league</example>

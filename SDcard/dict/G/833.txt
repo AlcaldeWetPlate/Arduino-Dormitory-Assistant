@@ -1,0 +1,3 @@
+<word>squabble</word>
+<meaning>to argue loudly about things that are not important</meaning>
+<example>squabble with his boss</example>

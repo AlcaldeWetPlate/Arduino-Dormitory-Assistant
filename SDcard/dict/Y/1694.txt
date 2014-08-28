@@ -1,0 +1,3 @@
+<word>broadcast</word>
+<meaning>a radio or television program</meaning>
+<example>the news broadcast on TV</example>

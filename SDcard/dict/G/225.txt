@@ -1,0 +1,3 @@
+<word>venial</word>
+<meaning>not serious</meaning>
+<example>Flowers can fix a venial mistake.</example>

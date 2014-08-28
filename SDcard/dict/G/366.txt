@@ -1,0 +1,3 @@
+<word>perimeter</word>
+<meaning>the total length of the lines that form a shape</meaning>
+<example>perimeter of a rectangle</example>

@@ -1,0 +1,3 @@
+<word>real</word>
+<meaning>actually existing or happening :not imaginary</meaning>
+<example>His reflection isn't real.</example>

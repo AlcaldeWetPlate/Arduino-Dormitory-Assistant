@@ -1,0 +1,3 @@
+<word>elemental</word>
+<meaning>basic and important</meaning>
+<example>elemental math concepts</example>

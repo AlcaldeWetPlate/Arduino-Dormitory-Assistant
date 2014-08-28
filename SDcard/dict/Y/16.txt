@@ -1,0 +1,3 @@
+<word>adverse</word>
+<meaning>bad or unfavorable :not good</meaning>
+<example>adverse health effects</example>

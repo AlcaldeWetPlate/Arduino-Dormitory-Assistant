@@ -1,0 +1,3 @@
+<word>disagree</word>
+<meaning>to have a different opinion :to fail to agree</meaning>
+<example>disagree with his mother</example>

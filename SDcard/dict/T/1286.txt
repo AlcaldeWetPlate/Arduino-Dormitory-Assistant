@@ -1,0 +1,3 @@
+<word>fairly</word>
+<meaning>in a way that is right or proper :in a fair way</meaning>
+<example>choose fairly</example>

@@ -1,0 +1,3 @@
+<word>breadth</word>
+<meaning>the distance from one side to the other side of something</meaning>
+<example>Measure the breadth please!</example>

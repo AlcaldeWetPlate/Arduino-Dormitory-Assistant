@@ -1,0 +1,3 @@
+<word>substance</word>
+<meaning>a material of a particular kind</meaning>
+<example>three substances,one element</example>

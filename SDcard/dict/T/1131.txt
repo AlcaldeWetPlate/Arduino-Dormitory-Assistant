@@ -1,0 +1,3 @@
+<word>actual</word>
+<meaning>real and not merely possible or imagined :existing in fact</meaning>
+<example>his actual body</example>

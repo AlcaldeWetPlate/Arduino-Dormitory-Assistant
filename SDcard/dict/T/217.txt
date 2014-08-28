@@ -1,0 +1,3 @@
+<word>negligent</word>
+<meaning>failing to take proper or normal care of something or someone</meaning>
+<example>be negligent of his wife</example>

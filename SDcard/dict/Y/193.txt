@@ -1,0 +1,3 @@
+<word>grim</word>
+<meaning>having a very serious appearance or manner</meaning>
+<example>a grim warrior</example>

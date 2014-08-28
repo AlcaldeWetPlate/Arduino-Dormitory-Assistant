@@ -1,0 +1,3 @@
+<word>frivolous</word>
+<meaning>silly and not serious</meaning>
+<example>the frivolous man in his bathtub</example>

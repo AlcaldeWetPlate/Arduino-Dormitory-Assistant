@@ -1,0 +1,3 @@
+<word>steak</word>
+<meaning>a thick, flat piece of meat and especially beef</meaning>
+<example>the delicious steak</example>

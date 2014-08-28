@@ -1,0 +1,3 @@
+<word>dwell</word>
+<meaning>to live in a particular place</meaning>
+<example>dwell in a large house</example>

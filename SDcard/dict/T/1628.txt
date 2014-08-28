@@ -1,0 +1,3 @@
+<word>redirect</word>
+<meaning>to change the path or direction of (something)</meaning>
+<example>signs to redirect traffic</example>

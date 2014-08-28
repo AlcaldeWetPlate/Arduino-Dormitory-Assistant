@@ -1,0 +1,3 @@
+<word>mournful</word>
+<meaning>full of sorrow :very sad</meaning>
+<example>a mournful, sad woman</example>

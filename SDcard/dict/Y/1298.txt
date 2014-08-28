@@ -1,0 +1,3 @@
+<word>meantime</word>
+<meaning>for the present time :until some time in the future</meaning>
+<example>in the meantime, the husband found him</example>

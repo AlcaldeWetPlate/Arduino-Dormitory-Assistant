@@ -1,0 +1,3 @@
+<word>buckle</word>
+<meaning>to fasten (something, such as a belt) with a buckle</meaning>
+<example>buckle my belt</example>

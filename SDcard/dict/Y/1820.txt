@@ -1,0 +1,3 @@
+<word>colonist</word>
+<meaning>a person who lives in a colony</meaning>
+<example>the American colonists</example>

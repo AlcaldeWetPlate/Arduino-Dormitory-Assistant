@@ -1,0 +1,3 @@
+<word>garrulous</word>
+<meaning>tending to talk a lot :very talkative</meaning>
+<example>Garrulous women love to talk!</example>

@@ -1,0 +1,3 @@
+<word>damage</word>
+<meaning>physical harm that is done to something or to someone's body</meaning>
+<example>damage the car</example>

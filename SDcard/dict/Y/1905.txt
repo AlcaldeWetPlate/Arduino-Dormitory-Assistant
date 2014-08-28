@@ -1,0 +1,3 @@
+<word>equally</word>
+<meaning>to an equal degree or extent</meaning>
+<example>The mother loves her sons equally.</example>

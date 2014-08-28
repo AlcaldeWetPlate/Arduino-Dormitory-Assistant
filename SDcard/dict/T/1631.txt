@@ -1,0 +1,3 @@
+<word>saltiness</word>
+<meaning>Something that is salty contains salt or tastes of salt.</meaning>
+<example>saltiness of seawater</example>

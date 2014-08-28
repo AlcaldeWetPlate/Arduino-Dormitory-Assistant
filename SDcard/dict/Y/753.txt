@@ -1,0 +1,3 @@
+<word>path</word>
+<meaning>the area in front of someone or something that is moving</meaning>
+<example>the path through the forest</example>

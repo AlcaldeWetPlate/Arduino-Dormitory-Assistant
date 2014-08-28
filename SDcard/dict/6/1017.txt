@@ -1,0 +1,3 @@
+<word>wealthy</word>
+<meaning>having a lot of money and possessions</meaning>
+<example>a wealthy woman with her money</example>

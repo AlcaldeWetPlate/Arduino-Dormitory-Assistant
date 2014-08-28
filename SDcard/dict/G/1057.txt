@@ -1,0 +1,3 @@
+<word>wrest</word>
+<meaning>to pull (something) away</meaning>
+<example>wrest the picture frame away from sb.</example>

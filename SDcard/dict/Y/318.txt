@@ -1,0 +1,3 @@
+<word>tremor</word>
+<meaning>a shaking movement of the ground before or after an earthquake</meaning>
+<example>ground tremors</example>

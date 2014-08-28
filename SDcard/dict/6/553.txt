@@ -1,0 +1,3 @@
+<word>dazzle</word>
+<meaning>to cause (someone) to be unable to see for a short time</meaning>
+<example>The sun dazzles my eyes.</example>

@@ -1,0 +1,3 @@
+<word>certify</word>
+<meaning>to say officially that something is true, correct, or genuine</meaning>
+<example>certify the document</example>

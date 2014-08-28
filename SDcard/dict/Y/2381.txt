@@ -1,0 +1,3 @@
+<word>classmate</word>
+<meaning>a member of the same class in a school, college, or university</meaning>
+<example>classmates in school</example>

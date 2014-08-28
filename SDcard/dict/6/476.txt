@@ -1,0 +1,3 @@
+<word>Egyptian</word>
+<meaning>a native or inhabitant of Egypt</meaning>
+<example>Egyptian pyramids</example>

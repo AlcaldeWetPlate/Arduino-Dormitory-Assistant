@@ -1,0 +1,3 @@
+<word>perilous</word>
+<meaning>full of danger</meaning>
+<example>the perilous, dangerous waters</example>

@@ -1,0 +1,3 @@
+<word>numerous</word>
+<meaning>existing in large numbers</meaning>
+<example>numerous sports fans</example>

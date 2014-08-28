@@ -1,0 +1,3 @@
+<word>puissance</word>
+<meaning>power to influence or coerce</meaning>
+<example>the lion's puissance</example>

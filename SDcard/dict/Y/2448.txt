@@ -1,0 +1,3 @@
+<word>clear</word>
+<meaning>very obvious :not causing or allowing doubt</meaning>
+<example>clear water</example>

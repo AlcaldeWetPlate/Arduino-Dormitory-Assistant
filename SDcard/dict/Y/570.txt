@@ -1,0 +1,3 @@
+<word>decimal</word>
+<meaning>based on the number 10</meaning>
+<example>a decimal point</example>

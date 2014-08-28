@@ -1,0 +1,3 @@
+<word>hostess</word>
+<meaning>a woman who is entertaining guests socially or as a job</meaning>
+<example>an airline hostess</example>

@@ -1,0 +1,3 @@
+<word>beset</word>
+<meaning>to cause problems or difficulties for (someone or something)</meaning>
+<example>beset with tons of paperwork</example>

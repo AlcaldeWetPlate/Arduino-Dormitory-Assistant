@@ -1,0 +1,3 @@
+<word>bold</word>
+<meaning>very confident in a way that may seem rude or foolish</meaning>
+<example>a bold motorcycle rider</example>

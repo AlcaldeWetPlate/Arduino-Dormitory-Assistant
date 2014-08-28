@@ -1,0 +1,3 @@
+<word>levity</word>
+<meaning>a lack of seriousness</meaning>
+<example>jump with levity</example>

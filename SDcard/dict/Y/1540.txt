@@ -1,0 +1,3 @@
+<word>memory</word>
+<meaning>the power or process of remembering what has been learned</meaning>
+<example>a memory of Paris</example>

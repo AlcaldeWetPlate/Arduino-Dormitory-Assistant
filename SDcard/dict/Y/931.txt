@@ -1,0 +1,3 @@
+<word>jungle</word>
+<meaning>a tropical forest where plants and trees grow very thickly</meaning>
+<example>elephants in the jungle</example>

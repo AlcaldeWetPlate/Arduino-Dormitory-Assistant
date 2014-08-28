@@ -1,0 +1,3 @@
+<word>shyness</word>
+<meaning>a feeling of fear of embarrassment</meaning>
+<example>the scared man's shyness</example>

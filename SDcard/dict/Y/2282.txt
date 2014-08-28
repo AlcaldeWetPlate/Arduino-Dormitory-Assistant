@@ -1,0 +1,3 @@
+<word>fear</word>
+<meaning>to be afraid of (something or someone)</meaning>
+<example>The driver expresses fear.</example>

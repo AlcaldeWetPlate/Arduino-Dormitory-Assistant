@@ -1,0 +1,3 @@
+<word>faulty</word>
+<meaning>having a mistake, fault, or weakness</meaning>
+<example>a faulty phone</example>

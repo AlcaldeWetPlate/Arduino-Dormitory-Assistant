@@ -1,0 +1,3 @@
+<word>emphasis</word>
+<meaning>special importance or attention given to something</meaning>
+<example>put emphasis on his statement</example>

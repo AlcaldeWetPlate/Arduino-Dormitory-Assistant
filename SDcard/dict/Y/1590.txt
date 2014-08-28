@@ -1,0 +1,3 @@
+<word>urgent</word>
+<meaning>very important and needing immediate attention</meaning>
+<example>urgent medical attention</example>

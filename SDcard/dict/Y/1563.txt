@@ -1,0 +1,3 @@
+<word>connect</word>
+<meaning>to join (two or more things) together</meaning>
+<example>the lines connect everybody</example>

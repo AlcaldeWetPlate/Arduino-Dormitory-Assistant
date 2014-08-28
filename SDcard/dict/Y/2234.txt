@@ -1,0 +1,3 @@
+<word>preceding</word>
+<meaning>existing, happening, or coming before</meaning>
+<example>the preceding day</example>

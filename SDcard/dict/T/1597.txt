@@ -1,0 +1,3 @@
+<word>escapist</word>
+<meaning>a person who escapes into a world of fantasy</meaning>
+<example>an escapist in the clouds</example>

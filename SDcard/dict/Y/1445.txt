@@ -1,0 +1,3 @@
+<word>lightly</word>
+<meaning>with little weight or force</meaning>
+<example>hold the baby lightly</example>

@@ -1,0 +1,3 @@
+<word>reputed</word>
+<meaning>said to be true, to exist, to have a specified identity, etc.</meaning>
+<example>a highly reputed politician</example>

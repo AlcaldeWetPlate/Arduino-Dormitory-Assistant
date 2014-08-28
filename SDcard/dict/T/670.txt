@@ -1,0 +1,3 @@
+<word>obscure</word>
+<meaning>difficult or impossible to know completely and with certainty</meaning>
+<example>the obscure directions</example>

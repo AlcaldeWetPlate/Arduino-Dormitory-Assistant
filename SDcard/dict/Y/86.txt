@@ -1,0 +1,3 @@
+<word>cessation</word>
+<meaning>a stopping of some action :a pause or stop</meaning>
+<example>cessation of smoking</example>

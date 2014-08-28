@@ -1,0 +1,3 @@
+<word>raspy</word>
+<meaning>having a rough, harsh sound</meaning>
+<example>the old man's raspy voice</example>

@@ -1,0 +1,3 @@
+<word>novice</word>
+<meaning>a person who has just started learning or doing something</meaning>
+<example>a novice at bike riding</example>

@@ -1,0 +1,3 @@
+<word>lacerate</word>
+<meaning>to cut or tear (someone's flesh) deeply or roughly</meaning>
+<example>lacerate one's foot</example>

@@ -1,0 +1,3 @@
+<word>grisly</word>
+<meaning>causing horror or fear :very shocking</meaning>
+<example>grisly picture of skulls</example>

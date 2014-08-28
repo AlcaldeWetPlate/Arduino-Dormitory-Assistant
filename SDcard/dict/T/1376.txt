@@ -1,0 +1,3 @@
+<word>seedling</word>
+<meaning>a young plant that is grown from seed</meaning>
+<example>the green  seedling</example>

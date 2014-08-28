@@ -1,0 +1,3 @@
+<word>travail</word>
+<meaning>painful or difficult work or effort</meaning>
+<example>the housewife's travails</example>

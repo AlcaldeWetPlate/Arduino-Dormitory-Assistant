@@ -1,0 +1,3 @@
+<word>sweeping</word>
+<meaning>including or involving many things :wide in range or amount</meaning>
+<example>do the sweeping with a broom</example>

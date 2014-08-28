@@ -1,0 +1,3 @@
+<word>ethically</word>
+<meaning>relating to beliefs about right and wrong</meaning>
+<example>ethically wrong to take the money</example>

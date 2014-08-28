@@ -1,0 +1,3 @@
+<word>skilful</word>
+<meaning>having or showing knowledge and skill and aptitude</meaning>
+<example>a skilful juggler</example>

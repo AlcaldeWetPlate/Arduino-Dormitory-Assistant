@@ -1,0 +1,3 @@
+<word>position</word>
+<meaning>the situation that someone or something is in</meaning>
+<example>an uncomfortable position</example>

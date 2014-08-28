@@ -1,0 +1,3 @@
+<word>shoulder</word>
+<meaning>the part of your body where your arm is connected</meaning>
+<example>My shoulder hurts.</example>

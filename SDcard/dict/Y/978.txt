@@ -1,0 +1,3 @@
+<word>identify</word>
+<meaning>to find out who someone is or what something is</meaning>
+<example>identify sb.'s fingerprints</example>

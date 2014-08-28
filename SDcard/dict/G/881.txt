@@ -1,0 +1,3 @@
+<word>parable</word>
+<meaning>a short story that teaches a moral or spiritual lesson</meaning>
+<example>the parable of the tortoise and the hare</example>

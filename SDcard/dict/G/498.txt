@@ -1,0 +1,3 @@
+<word>succumb</word>
+<meaning>to stop trying to resist something</meaning>
+<example>succumb to exhaustion and fall down</example>

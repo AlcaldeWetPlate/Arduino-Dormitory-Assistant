@@ -1,0 +1,3 @@
+<word>stool</word>
+<meaning>a seat that fits one person and that has no back or arms</meaning>
+<example>sitting on a stool</example>

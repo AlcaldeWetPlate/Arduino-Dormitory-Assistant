@@ -1,0 +1,3 @@
+<word>arresting</word>
+<meaning>commanding attention</meaning>
+<example>her arresting blue eyes</example>

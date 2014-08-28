@@ -1,0 +1,3 @@
+<word>missing</word>
+<meaning>needed or expected but not included</meaning>
+<example>missing piece of the puzzle</example>

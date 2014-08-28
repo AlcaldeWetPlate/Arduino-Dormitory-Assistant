@@ -1,0 +1,3 @@
+<word>lean</word>
+<meaning>to bend or move from a straight position</meaning>
+<example>She leans on the tree.</example>

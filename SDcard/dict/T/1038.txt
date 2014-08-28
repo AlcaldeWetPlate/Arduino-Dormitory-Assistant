@@ -1,0 +1,3 @@
+<word>phenomena</word>
+<meaning>an event or situation that can be seen to happen or exist</meaning>
+<example>weather phenomena</example>

@@ -1,0 +1,3 @@
+<word>fright</word>
+<meaning>a feeling of sudden fear</meaning>
+<example>the clown gives me a fright</example>

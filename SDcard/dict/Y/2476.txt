@@ -1,0 +1,3 @@
+<word>railway</word>
+<meaning>a system of tracks on which trains travel</meaning>
+<example>a railway line</example>

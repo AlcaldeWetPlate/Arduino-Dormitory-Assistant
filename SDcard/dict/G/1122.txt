@@ -1,0 +1,3 @@
+<word>penury</word>
+<meaning>the state of being very poor :extreme poverty</meaning>
+<example>be poor and live in penury</example>

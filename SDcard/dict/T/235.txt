@@ -1,0 +1,3 @@
+<word>prodigy</word>
+<meaning>a young person who is unusually talented in some way</meaning>
+<example>a young piano prodigy</example>

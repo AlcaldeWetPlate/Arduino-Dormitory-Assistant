@@ -1,0 +1,3 @@
+<word>detest</word>
+<meaning>to dislike (someone or something) very strongly</meaning>
+<example>The bullies detest the boy.</example>

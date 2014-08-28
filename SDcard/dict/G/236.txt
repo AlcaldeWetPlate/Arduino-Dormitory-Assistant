@@ -1,0 +1,3 @@
+<word>exult</word>
+<meaning>to feel or show great happiness</meaning>
+<example>exult because you're happy</example>

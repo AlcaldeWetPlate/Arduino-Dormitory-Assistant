@@ -1,0 +1,3 @@
+<word>remain</word>
+<meaning>to be left when the other parts are gone or have been used</meaning>
+<example>Only one egg remains.</example>

@@ -1,0 +1,3 @@
+<word>surprise</word>
+<meaning>an unexpected event, piece of information, etc.</meaning>
+<example>surprise her with a ring</example>

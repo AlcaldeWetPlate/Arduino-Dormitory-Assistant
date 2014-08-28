@@ -1,0 +1,3 @@
+<word>culinary</word>
+<meaning>used in or relating to cooking</meaning>
+<example>learn to cook at culinary school</example>

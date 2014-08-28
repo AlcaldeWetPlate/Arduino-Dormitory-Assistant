@@ -1,0 +1,3 @@
+<word>overtax</word>
+<meaning>to make (people) pay too much in taxes</meaning>
+<example>overtax the citizens</example>

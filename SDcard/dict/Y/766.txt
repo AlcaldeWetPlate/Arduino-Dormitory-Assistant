@@ -1,0 +1,3 @@
+<word>ought</word>
+<meaning>used to say or suggest what should be done</meaning>
+<example>ought to choose</example>

@@ -1,0 +1,3 @@
+<word>mode</word>
+<meaning>the state in which a machine does a particular function</meaning>
+<example>choose the camera mode</example>

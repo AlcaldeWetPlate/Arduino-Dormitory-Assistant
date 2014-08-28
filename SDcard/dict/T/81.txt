@@ -1,0 +1,3 @@
+<word>dazzling</word>
+<meaning>amazingly impressive; suggestive of the flashing of lightning</meaning>
+<example>the dazzling sunlight between the trees</example>

@@ -1,0 +1,3 @@
+<word>incarnate</word>
+<meaning>having a human body</meaning>
+<example>The devil is evil incarnate.</example>

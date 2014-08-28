@@ -1,0 +1,3 @@
+<word>ardor</word>
+<meaning>a strong feeling of energy or eagerness</meaning>
+<example>the ardor of football fans</example>

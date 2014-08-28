@@ -1,0 +1,3 @@
+<word>quandary</word>
+<meaning>a situation in which you are confused about what to do</meaning>
+<example>be in a quandary and have a big problem</example>

@@ -1,0 +1,3 @@
+<word>encomium</word>
+<meaning>a formal expression of praise</meaning>
+<example>the encomium of his impressed co-workers</example>

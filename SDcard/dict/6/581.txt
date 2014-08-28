@@ -1,0 +1,3 @@
+<word>identity</word>
+<meaning>who someone is :the name of a person</meaning>
+<example>your identity card (ID)</example>

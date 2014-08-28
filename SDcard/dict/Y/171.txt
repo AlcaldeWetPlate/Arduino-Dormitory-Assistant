@@ -1,0 +1,3 @@
+<word>farewell</word>
+<meaning>something that you say to a person who is leaving</meaning>
+<example>She waves farewell to you.</example>

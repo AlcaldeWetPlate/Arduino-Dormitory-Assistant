@@ -1,0 +1,3 @@
+<word>affective</word>
+<meaning>characterized by emotion</meaning>
+<example>a mother's affective communication</example>

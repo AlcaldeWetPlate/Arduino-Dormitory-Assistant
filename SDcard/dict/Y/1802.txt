@@ -1,0 +1,3 @@
+<word>knob</word>
+<meaning>a round handle on a door, drawer, etc.</meaning>
+<example>signs on the door knobs</example>

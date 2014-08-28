@@ -1,0 +1,3 @@
+<word>dappled</word>
+<meaning>marked with many spots of color or light</meaning>
+<example>a deer's dappled coat</example>

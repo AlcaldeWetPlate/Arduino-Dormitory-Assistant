@@ -1,0 +1,3 @@
+<word>relic</word>
+<meaning>something that is from a past time, place, culture, etc.</meaning>
+<example>ancient stone relics</example>

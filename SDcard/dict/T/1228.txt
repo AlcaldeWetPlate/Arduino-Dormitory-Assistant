@@ -1,0 +1,3 @@
+<word>armored</word>
+<meaning>covered in flat pieces of metal :protected by armor</meaning>
+<example>armored knight</example>

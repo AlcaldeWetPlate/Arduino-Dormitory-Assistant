@@ -1,0 +1,3 @@
+<word>sprout</word>
+<meaning>to produce new leaves, buds, etc.</meaning>
+<example>The seed sprouts.</example>

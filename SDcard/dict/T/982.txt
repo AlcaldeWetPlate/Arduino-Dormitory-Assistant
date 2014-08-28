@@ -1,0 +1,3 @@
+<word>yolk</word>
+<meaning>the yellow part in the center of an egg</meaning>
+<example>a yellow egg yolk</example>

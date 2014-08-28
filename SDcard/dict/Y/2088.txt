@@ -1,0 +1,3 @@
+<word>following</word>
+<meaning>coming next</meaning>
+<example>the following day</example>

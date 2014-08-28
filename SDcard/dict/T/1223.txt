@@ -1,0 +1,3 @@
+<word>adornment</word>
+<meaning>something added to make a person or thing more attractive</meaning>
+<example>an adornment on her hat</example>

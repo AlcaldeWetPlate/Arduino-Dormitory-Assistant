@@ -1,0 +1,3 @@
+<word>induce</word>
+<meaning>to cause (someone or something)</meaning>
+<example>induce his followers to do sth.</example>

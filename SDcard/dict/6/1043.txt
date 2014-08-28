@@ -1,0 +1,3 @@
+<word>heater</word>
+<meaning>a machine that heats water or air</meaning>
+<example>The heater keeps the house warm.</example>

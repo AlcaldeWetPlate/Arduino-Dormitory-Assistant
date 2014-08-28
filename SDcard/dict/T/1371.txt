@@ -1,0 +1,3 @@
+<word>utilize</word>
+<meaning>to use (something) for a particular purpose</meaning>
+<example>utilize the rubbish</example>

@@ -1,0 +1,3 @@
+<word>giddy</word>
+<meaning>feeling or showing great happiness and joy</meaning>
+<example>a giddy little boy on the swings</example>

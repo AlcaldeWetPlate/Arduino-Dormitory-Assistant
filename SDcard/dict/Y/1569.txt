@@ -1,0 +1,3 @@
+<word>varied</word>
+<meaning>having many forms or types :including many different things</meaning>
+<example>a varied assortment of tools</example>

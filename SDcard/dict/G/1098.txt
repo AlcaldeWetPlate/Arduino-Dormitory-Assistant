@@ -1,0 +1,3 @@
+<word>languor</word>
+<meaning>a state of feeling tired and relaxed</meaning>
+<example>the woman's languor by the beach</example>

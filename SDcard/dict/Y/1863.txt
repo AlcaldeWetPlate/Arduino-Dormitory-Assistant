@@ -1,0 +1,3 @@
+<word>muddy</word>
+<meaning>filled or covered with mud</meaning>
+<example>a muddy road</example>

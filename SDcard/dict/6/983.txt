@@ -1,0 +1,3 @@
+<word>mast</word>
+<meaning>a long pole that supports the sails of a boat or ship</meaning>
+<example>the mast of the ship</example>

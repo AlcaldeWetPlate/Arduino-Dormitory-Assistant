@@ -1,0 +1,3 @@
+<word>congeal</word>
+<meaning>to become thick or solid</meaning>
+<example>The old milk will congeal.</example>

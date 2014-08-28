@@ -1,0 +1,3 @@
+<word>aberrant</word>
+<meaning>different from the usual or natural type :unusual or abnormal</meaning>
+<example>an aberrant smile</example>

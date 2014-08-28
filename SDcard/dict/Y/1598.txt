@@ -1,0 +1,3 @@
+<word>painful</word>
+<meaning>causing pain to your body</meaning>
+<example>painful chest</example>

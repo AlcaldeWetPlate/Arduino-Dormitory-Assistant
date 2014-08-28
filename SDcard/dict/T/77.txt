@@ -1,0 +1,3 @@
+<word>custodian</word>
+<meaning>a person who cleans and takes care of a building</meaning>
+<example>work as a custodian</example>

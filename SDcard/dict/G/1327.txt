@@ -1,0 +1,3 @@
+<word>jocular</word>
+<meaning>liking to tell jokes</meaning>
+<example>the kids' jocular mood</example>

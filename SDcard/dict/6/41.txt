@@ -1,0 +1,3 @@
+<word>chuck</word>
+<meaning>to throw or toss (something)</meaning>
+<example>chuck the hats into the air</example>

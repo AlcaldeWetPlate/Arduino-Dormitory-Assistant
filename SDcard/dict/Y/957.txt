@@ -1,0 +1,3 @@
+<word>obtain</word>
+<meaning>to gain or get (something) usually by effort</meaning>
+<example>obtain a degree</example>

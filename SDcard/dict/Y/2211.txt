@@ -1,0 +1,3 @@
+<word>besides</word>
+<meaning>in addition to (something)</meaning>
+<example>besides the injury, she was also tired</example>

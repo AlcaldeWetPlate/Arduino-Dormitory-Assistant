@@ -1,0 +1,3 @@
+<word>assembly</word>
+<meaning>a meeting of all the teachers and students of a school</meaning>
+<example>a school assembly</example>

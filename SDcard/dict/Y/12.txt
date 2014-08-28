@@ -1,0 +1,3 @@
+<word>adjacent</word>
+<meaning>close or near :sharing a border, wall, or point</meaning>
+<example>adjacent buildings</example>

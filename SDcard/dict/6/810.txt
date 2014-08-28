@@ -1,0 +1,3 @@
+<word>fighter</word>
+<meaning>someone or something that fights</meaning>
+<example>the fighter blocks his kick</example>

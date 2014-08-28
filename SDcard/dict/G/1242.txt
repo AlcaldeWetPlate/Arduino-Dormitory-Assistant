@@ -1,0 +1,3 @@
+<word>foolproof</word>
+<meaning>done, made, or planned so well that nothing can go wrong</meaning>
+<example>foolproof design of the scissors</example>

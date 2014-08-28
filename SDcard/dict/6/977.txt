@@ -1,0 +1,3 @@
+<word>hurrah</word>
+<meaning>used to express joy, approval, or encouragement</meaning>
+<example>The happy people shout, "Hurrah!"</example>

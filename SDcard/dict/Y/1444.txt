@@ -1,0 +1,3 @@
+<word>loose</word>
+<meaning>not tightly fastened, attached, or held</meaning>
+<example>loose pants</example>

@@ -1,0 +1,3 @@
+<word>plenitude</word>
+<meaning>a large number or amount of something</meaning>
+<example>a plenitude of food</example>

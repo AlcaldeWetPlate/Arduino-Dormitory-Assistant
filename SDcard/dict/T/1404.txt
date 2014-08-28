@@ -1,0 +1,3 @@
+<word>proceeds</word>
+<meaning>the total amount of money or profit that is made</meaning>
+<example>the charity's proceeds</example>

@@ -1,0 +1,3 @@
+<word>offish</word>
+<meaning>lacking cordiality; unfriendly</meaning>
+<example>an offish, unfriendly woman</example>

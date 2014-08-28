@@ -1,0 +1,3 @@
+<word>vitality</word>
+<meaning>a lively or energetic quality</meaning>
+<example>Yoga improves one's vitality.</example>

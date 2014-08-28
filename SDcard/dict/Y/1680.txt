@@ -1,0 +1,3 @@
+<word>temper</word>
+<meaning>the tendency of someone to become angry</meaning>
+<example>She has a bad temper.</example>

@@ -1,0 +1,3 @@
+<word>determine</word>
+<meaning>to make a decision</meaning>
+<example>determine the choice</example>

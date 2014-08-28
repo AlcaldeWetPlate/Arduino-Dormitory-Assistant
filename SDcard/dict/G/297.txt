@@ -1,0 +1,3 @@
+<word>hidebound</word>
+<meaning>not willing to accept new or different ideas</meaning>
+<example>a hidebound old woman</example>

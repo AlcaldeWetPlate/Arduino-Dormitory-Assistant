@@ -1,0 +1,3 @@
+<word>greed</word>
+<meaning>a selfish desire to have more of something (especially money)</meaning>
+<example>the woman's greed for money</example>

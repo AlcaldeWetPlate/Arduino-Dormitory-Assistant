@@ -1,0 +1,3 @@
+<word>umbrage</word>
+<meaning>a feeling of being offended by what someone has said or done</meaning>
+<example>take umbrage at sth. offensive</example>

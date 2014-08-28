@@ -1,0 +1,3 @@
+<word>vaulted</word>
+<meaning>built in the form of an arch</meaning>
+<example>a sealed vaulted doorway</example>

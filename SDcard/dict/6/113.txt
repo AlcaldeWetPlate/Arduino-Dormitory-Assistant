@@ -1,0 +1,3 @@
+<word>goddess</word>
+<meaning>a female god (sense 2)</meaning>
+<example>an Indian goddess</example>

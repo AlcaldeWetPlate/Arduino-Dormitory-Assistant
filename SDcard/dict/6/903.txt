@@ -1,0 +1,3 @@
+<word>transport</word>
+<meaning>to carry (someone or something) from one place to another</meaning>
+<example>transport ships</example>

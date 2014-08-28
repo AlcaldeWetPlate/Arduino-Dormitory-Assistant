@@ -1,0 +1,3 @@
+<word>decent</word>
+<meaning>good enough but not the best :adequate or acceptable</meaning>
+<example>a decent grade</example>

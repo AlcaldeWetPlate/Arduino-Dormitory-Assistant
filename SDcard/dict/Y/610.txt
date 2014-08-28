@@ -1,0 +1,3 @@
+<word>confuse</word>
+<meaning>to make (someone) uncertain or unable to understand something</meaning>
+<example>Computers confuse her.</example>

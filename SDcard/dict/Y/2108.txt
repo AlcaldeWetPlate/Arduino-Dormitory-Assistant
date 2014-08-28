@@ -1,0 +1,3 @@
+<word>extrinsic</word>
+<meaning>not part of something :coming from the outside of something</meaning>
+<example>Money is an extrinsic motivator.</example>

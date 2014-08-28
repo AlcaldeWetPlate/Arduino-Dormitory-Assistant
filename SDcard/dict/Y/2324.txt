@@ -1,0 +1,3 @@
+<word>never</word>
+<meaning>not ever :not at any time</meaning>
+<example>They can never fly.</example>

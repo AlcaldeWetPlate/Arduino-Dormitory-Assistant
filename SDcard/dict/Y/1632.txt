@@ -1,0 +1,3 @@
+<word>hatred</word>
+<meaning>a very strong feeling of dislike</meaning>
+<example>hatred for each other</example>

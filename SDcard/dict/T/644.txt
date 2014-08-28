@@ -1,0 +1,3 @@
+<word>stubborn</word>
+<meaning>refusing to change your ideas or to stop doing something</meaning>
+<example>the stubborn couple</example>

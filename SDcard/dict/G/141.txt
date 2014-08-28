@@ -1,0 +1,3 @@
+<word>invoke</word>
+<meaning>to ask for help or protection from (something or someone)</meaning>
+<example>The construction worker invokes God.</example>

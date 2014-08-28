@@ -1,0 +1,3 @@
+<word>flannel</word>
+<meaning>a soft cloth made of wool or cotton</meaning>
+<example>a green and white flannel shirt</example>

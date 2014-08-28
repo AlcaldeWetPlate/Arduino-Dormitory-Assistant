@@ -1,0 +1,3 @@
+<word>shower</word>
+<meaning>the act of washing your body with a shower</meaning>
+<example>a big shower head</example>

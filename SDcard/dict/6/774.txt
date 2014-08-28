@@ -1,0 +1,3 @@
+<word>fireplace</word>
+<meaning>a specially built place in a room where a fire can be built</meaning>
+<example>in front of the fireplace</example>

@@ -1,0 +1,3 @@
+<word>vanquish</word>
+<meaning>to defeat (someone) completely in a war, battle, etc.</meaning>
+<example>vanquish one's enemies</example>

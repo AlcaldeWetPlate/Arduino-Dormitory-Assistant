@@ -1,0 +1,3 @@
+<word>embroider</word>
+<meaning>to sew a design on a piece of cloth</meaning>
+<example>embroider the blanket.</example>

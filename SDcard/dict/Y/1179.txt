@@ -1,0 +1,3 @@
+<word>dialog</word>
+<meaning>a conversation between two persons</meaning>
+<example>have a dialog about</example>

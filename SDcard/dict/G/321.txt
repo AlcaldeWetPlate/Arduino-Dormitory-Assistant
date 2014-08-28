@@ -1,0 +1,3 @@
+<word>coagulate</word>
+<meaning>to become thick and partly solid</meaning>
+<example>the blood coagulates</example>

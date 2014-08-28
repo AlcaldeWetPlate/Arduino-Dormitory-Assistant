@@ -1,0 +1,3 @@
+<word>widow</word>
+<meaning>a woman whose husband has died</meaning>
+<example>a sad widow</example>

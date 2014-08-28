@@ -1,0 +1,3 @@
+<word>unadorned</word>
+<meaning>not decorated or fancy :not adorned</meaning>
+<example>an unadorned stone wall</example>

@@ -1,0 +1,3 @@
+<word>honorable</word>
+<meaning>deserving honor and respect</meaning>
+<example>honorable soldiers</example>

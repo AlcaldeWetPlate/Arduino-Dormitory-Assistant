@@ -1,0 +1,3 @@
+<word>aspersion</word>
+<meaning>the act of making such a charge</meaning>
+<example>aspersions from the boss</example>

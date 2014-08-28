@@ -1,0 +1,3 @@
+<word>generate</word>
+<meaning>to produce (something) or cause (something) to be produced</meaning>
+<example>The plant generates electricity.</example>

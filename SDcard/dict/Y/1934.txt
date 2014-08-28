@@ -1,0 +1,3 @@
+<word>capture</word>
+<meaning>to win or get (something) through effort</meaning>
+<example>capture the sunlight</example>

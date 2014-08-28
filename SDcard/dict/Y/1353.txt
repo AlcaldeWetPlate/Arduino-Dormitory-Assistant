@@ -1,0 +1,3 @@
+<word>tolerate</word>
+<meaning>to accept the feelings, behavior, or beliefs of (someone)</meaning>
+<example>tolerate the pain</example>

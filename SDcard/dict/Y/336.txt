@@ -1,0 +1,3 @@
+<word>pair</word>
+<meaning>two things that are the same and are meant to be used together</meaning>
+<example>a mating pair of birds</example>

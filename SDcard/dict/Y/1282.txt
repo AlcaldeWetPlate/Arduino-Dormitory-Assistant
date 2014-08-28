@@ -1,0 +1,3 @@
+<word>briefcase</word>
+<meaning>a flat case that is used for carrying papers or books</meaning>
+<example>briefcase full of files</example>

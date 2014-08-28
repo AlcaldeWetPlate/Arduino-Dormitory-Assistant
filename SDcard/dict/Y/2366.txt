@@ -1,0 +1,3 @@
+<word>national</word>
+<meaning>of or relating to an entire nation or country</meaning>
+<example>America's national sport</example>

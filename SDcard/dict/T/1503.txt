@@ -1,0 +1,3 @@
+<word>utterance</word>
+<meaning>something that a person says</meaning>
+<example>a loud utterance</example>

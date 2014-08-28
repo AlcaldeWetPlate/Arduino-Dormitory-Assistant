@@ -1,0 +1,3 @@
+<word>fade</word>
+<meaning>to disappear gradually</meaning>
+<example>Her image fades</example>

@@ -1,0 +1,3 @@
+<word>certitude</word>
+<meaning>the state of being or feeling certain :freedom from doubt</meaning>
+<example>shows his certitude with a "thumbs up"</example>

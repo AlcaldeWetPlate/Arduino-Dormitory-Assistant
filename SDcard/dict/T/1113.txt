@@ -1,0 +1,3 @@
+<word>vigor</word>
+<meaning>strength, energy, or determination</meaning>
+<example>exercise with vigor</example>

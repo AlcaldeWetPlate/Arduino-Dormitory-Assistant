@@ -1,0 +1,3 @@
+<word>nil</word>
+<meaning>a score of zero</meaning>
+<example>'Nil' means 'nothing'.</example>

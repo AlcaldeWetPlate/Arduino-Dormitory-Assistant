@@ -1,0 +1,3 @@
+<word>voltage</word>
+<meaning>the force of an electrical current that is measured in volts</meaning>
+<example>measure the voltage</example>

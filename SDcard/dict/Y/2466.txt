@@ -1,0 +1,3 @@
+<word>carry</word>
+<meaning>to move (something) while holding and supporting it</meaning>
+<example>Two men carry a box.</example>

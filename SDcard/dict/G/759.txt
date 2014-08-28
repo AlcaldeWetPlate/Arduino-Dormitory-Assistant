@@ -1,0 +1,3 @@
+<word>atrophy</word>
+<meaning>to become weak from lack of use :to suffer from atrophy</meaning>
+<example>Her muscles atrophy.</example>

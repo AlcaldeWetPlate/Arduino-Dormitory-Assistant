@@ -1,0 +1,3 @@
+<word>trifling</word>
+<meaning>having little value or importance</meaning>
+<example>a trifling amount of money</example>

@@ -1,0 +1,3 @@
+<word>retinue</word>
+<meaning>a group of helpers, supporters, or followers</meaning>
+<example>a retinue of followers</example>

@@ -1,0 +1,3 @@
+<word>inchoate</word>
+<meaning>not completely formed or developed yet</meaning>
+<example>the inchoate universe</example>

@@ -1,0 +1,3 @@
+<word>choppy</word>
+<meaning>rough with small waves</meaning>
+<example>choppy water</example>

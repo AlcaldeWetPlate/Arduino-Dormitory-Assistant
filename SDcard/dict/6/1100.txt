@@ -1,0 +1,3 @@
+<word>sweetness</word>
+<meaning>the quality of tasting or smelling sweet</meaning>
+<example>the sweetness of the candy</example>

@@ -1,0 +1,3 @@
+<word>baron</word>
+<meaning>a man who is a member of a low rank of British nobility</meaning>
+<example>an old European baron</example>

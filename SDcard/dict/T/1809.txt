@@ -1,0 +1,3 @@
+<word>thread</word>
+<meaning>a long, thin piece of cotton, silk, etc., used for sewing</meaning>
+<example>a needle and thread</example>

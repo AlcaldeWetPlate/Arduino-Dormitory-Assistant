@@ -1,0 +1,3 @@
+<word>Spartan</word>
+<meaning>a resident of Sparta</meaning>
+<example>Spartan warriors are fearless.</example>

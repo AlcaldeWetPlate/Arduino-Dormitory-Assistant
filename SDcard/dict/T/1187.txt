@@ -1,0 +1,3 @@
+<word>sculptor</word>
+<meaning>a person who makes sculptures</meaning>
+<example>a sculptor hard at work</example>

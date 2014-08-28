@@ -1,0 +1,3 @@
+<word>genetic</word>
+<meaning>of, relating to, or involving genes</meaning>
+<example>genetic material in your body</example>

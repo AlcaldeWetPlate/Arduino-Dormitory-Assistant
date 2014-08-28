@@ -1,0 +1,3 @@
+<word>jolting</word>
+<meaning>characterized by rough motion</meaning>
+<example>a jolting ride in a Jeep</example>

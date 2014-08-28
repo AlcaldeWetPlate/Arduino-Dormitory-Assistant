@@ -1,0 +1,3 @@
+<word>tank</word>
+<meaning>a container for holding a liquid or gas</meaning>
+<example>large tanks of oil</example>

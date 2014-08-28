@@ -1,0 +1,3 @@
+<word>reprove</word>
+<meaning>to criticize or correct (someone) usually in a gentle way</meaning>
+<example>The mother reproves her son for sth.</example>

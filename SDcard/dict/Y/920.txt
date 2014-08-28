@@ -1,0 +1,3 @@
+<word>conceive</word>
+<meaning>to become pregnant</meaning>
+<example>conceive a baby</example>

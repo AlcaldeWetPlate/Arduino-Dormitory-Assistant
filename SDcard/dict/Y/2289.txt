@@ -1,0 +1,3 @@
+<word>dry</word>
+<meaning>having no or very little water or liquid</meaning>
+<example>dry desert</example>

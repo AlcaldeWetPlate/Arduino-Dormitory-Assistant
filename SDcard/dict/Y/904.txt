@@ -1,0 +1,3 @@
+<word>quit</word>
+<meaning>to stop doing (an action or activity)</meaning>
+<example>quit smoking</example>

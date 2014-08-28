@@ -1,0 +1,3 @@
+<word>animated</word>
+<meaning>full of life and energy</meaning>
+<example>an animated cartoon of Santa</example>

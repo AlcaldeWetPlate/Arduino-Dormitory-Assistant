@@ -1,0 +1,3 @@
+<word>burrow</word>
+<meaning>to make a hole or tunnel in the ground by digging</meaning>
+<example>to burrow underground</example>

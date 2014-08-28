@@ -1,0 +1,3 @@
+<word>authentic</word>
+<meaning>real or genuine :not copied or false</meaning>
+<example>an authentic diamond</example>

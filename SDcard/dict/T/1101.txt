@@ -1,0 +1,3 @@
+<word>date</word>
+<meaning>a particular day of a month or year</meaning>
+<example>the date of the wedding</example>

@@ -1,0 +1,3 @@
+<word>feat</word>
+<meaning>an act or achievement that shows courage, strength, or skill</meaning>
+<example>a feat of kung fu</example>

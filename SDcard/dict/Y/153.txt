@@ -1,0 +1,3 @@
+<word>endow</word>
+<meaning>to freely or naturally provide (someone or something)</meaning>
+<example>endows man with life</example>

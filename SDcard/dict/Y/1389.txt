@@ -1,0 +1,3 @@
+<word>count</word>
+<meaning>to add (people or things) together to find the total number</meaning>
+<example>count numbers</example>

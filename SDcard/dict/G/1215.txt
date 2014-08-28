@@ -1,0 +1,3 @@
+<word>sartorial</word>
+<meaning>of or relating to clothes</meaning>
+<example>work on sartorial design</example>

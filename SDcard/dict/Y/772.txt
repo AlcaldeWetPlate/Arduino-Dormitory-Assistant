@@ -1,0 +1,3 @@
+<word>tin</word>
+<meaning>a soft, shiny, bluish-white metal that has many different uses</meaning>
+<example>make tin can telephones</example>

@@ -1,0 +1,3 @@
+<word>recall</word>
+<meaning>to remember (something) from the past</meaning>
+<example>She can't recall sth.</example>

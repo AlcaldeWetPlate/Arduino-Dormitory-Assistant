@@ -1,0 +1,3 @@
+<word>bootless</word>
+<meaning>unproductive of success</meaning>
+<example>his bootless attempt to reach the moon</example>

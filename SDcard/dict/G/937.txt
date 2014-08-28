@@ -1,0 +1,3 @@
+<word>baleful</word>
+<meaning>threatening harm or evil</meaning>
+<example>Ghosts are baleful creatures.</example>

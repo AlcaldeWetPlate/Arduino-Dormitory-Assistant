@@ -1,0 +1,3 @@
+<word>warn</word>
+<meaning>to tell (someone) about possible danger or trouble</meaning>
+<example>warn of trouble ahea</example>

@@ -1,0 +1,3 @@
+<word>join</word>
+<meaning>to put or bring (two or more things) together</meaning>
+<example>join the four pieces together</example>

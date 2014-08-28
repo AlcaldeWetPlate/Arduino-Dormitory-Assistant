@@ -1,0 +1,3 @@
+<word>emblem</word>
+<meaning>a person or thing that represents an idea</meaning>
+<example>many corporate emblems</example>

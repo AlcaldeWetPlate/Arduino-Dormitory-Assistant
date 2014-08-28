@@ -1,0 +1,3 @@
+<word>helpful</word>
+<meaning>willing to help other people</meaning>
+<example>be helpful to her grandmother</example>

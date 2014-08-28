@@ -1,0 +1,3 @@
+<word>fission</word>
+<meaning>a process in which the nucleus of a heavy atom is split apart</meaning>
+<example>nuclear fission</example>

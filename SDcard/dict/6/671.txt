@@ -1,0 +1,3 @@
+<word>discourse</word>
+<meaning>the use of words to exchange thoughts and ideas</meaning>
+<example>discourse with his son</example>

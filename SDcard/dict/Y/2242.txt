@@ -1,0 +1,3 @@
+<word>opt</word>
+<meaning>to choose one thing instead of another</meaning>
+<example>opt for apple or cake</example>

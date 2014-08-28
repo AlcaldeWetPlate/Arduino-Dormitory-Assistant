@@ -1,0 +1,3 @@
+<word>confess</word>
+<meaning>to admit that you did something wrong or illegal</meaning>
+<example>confess your secrets</example>

@@ -1,0 +1,3 @@
+<word>drawback</word>
+<meaning>something that causes problems</meaning>
+<example>the bicycle's drawback</example>

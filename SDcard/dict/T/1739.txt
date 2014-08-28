@@ -1,0 +1,3 @@
+<word>outlet</word>
+<meaning>a place or opening through which something can go out</meaning>
+<example>an outlet for water</example>

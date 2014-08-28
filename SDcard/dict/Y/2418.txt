@@ -1,0 +1,3 @@
+<word>fast</word>
+<meaning>moving or able to move quickly</meaning>
+<example>a fast car</example>

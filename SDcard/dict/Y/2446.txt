@@ -1,0 +1,3 @@
+<word>look</word>
+<meaning>to have an appearance that is suitable for (something)</meaning>
+<example>look in the mirror</example>

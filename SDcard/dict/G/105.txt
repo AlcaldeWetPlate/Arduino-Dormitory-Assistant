@@ -1,0 +1,3 @@
+<word>fleet</word>
+<meaning>a group of military ships that are controlled by one leader</meaning>
+<example>a fleet of battleships</example>

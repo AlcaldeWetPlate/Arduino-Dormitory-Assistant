@@ -1,0 +1,3 @@
+<word>rhythmic</word>
+<meaning>having a regular repeated pattern of sounds or movements</meaning>
+<example>rhythmic body movements</example>

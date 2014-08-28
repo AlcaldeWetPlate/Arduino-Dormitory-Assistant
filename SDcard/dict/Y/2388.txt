@@ -1,0 +1,3 @@
+<word>cordless</word>
+<meaning>powered by a battery rather than by electricity through a cord</meaning>
+<example>a cordless telephone</example>

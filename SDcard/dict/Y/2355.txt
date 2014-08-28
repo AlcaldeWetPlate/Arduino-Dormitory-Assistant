@@ -1,0 +1,3 @@
+<word>hard</word>
+<meaning>physically or mentally difficult :not easy</meaning>
+<example>a hard climb</example>

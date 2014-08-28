@@ -1,0 +1,3 @@
+<word>fate</word>
+<meaning>a power that is believed to control what happens in the future</meaning>
+<example>Fate will decide if you can make money.</example>

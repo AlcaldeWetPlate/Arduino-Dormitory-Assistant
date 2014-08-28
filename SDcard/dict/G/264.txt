@@ -1,0 +1,3 @@
+<word>friable</word>
+<meaning>easily broken into smaller pieces</meaning>
+<example>Friable foods taste good!</example>

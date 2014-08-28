@@ -1,0 +1,3 @@
+<word>grit</word>
+<meaning>very small pieces of sand or stone</meaning>
+<example>gray stone grit</example>

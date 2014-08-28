@@ -1,0 +1,3 @@
+<word>swim</word>
+<meaning>to move through water by moving your arms and legs</meaning>
+<example>swim in the pool</example>

@@ -1,0 +1,3 @@
+<word>burgeon</word>
+<meaning>to grow or develop quickly</meaning>
+<example>The field burgeons with flowers.</example>

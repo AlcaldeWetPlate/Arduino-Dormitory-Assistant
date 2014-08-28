@@ -1,0 +1,3 @@
+<word>allot</word>
+<meaning>to give someone (an amount of something) to use or have</meaning>
+<example>allot you these coins</example>

@@ -1,0 +1,3 @@
+<word>carve</word>
+<meaning>to cut (cooked meat) into pieces or slices</meaning>
+<example>carve watermelons</example>

@@ -1,0 +1,3 @@
+<word>mediator</word>
+<meaning>a negotiator who acts as a link between parties</meaning>
+<example>A mediator stops the fighting.</example>

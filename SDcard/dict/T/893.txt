@@ -1,0 +1,3 @@
+<word>speedy</word>
+<meaning>moving or able to move quickly :fast or quick</meaning>
+<example>the speedy car</example>

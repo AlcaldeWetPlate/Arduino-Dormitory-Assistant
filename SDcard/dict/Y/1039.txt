@@ -1,0 +1,3 @@
+<word>labor</word>
+<meaning>physical or mental effort</meaning>
+<example>He is ready for labor.</example>

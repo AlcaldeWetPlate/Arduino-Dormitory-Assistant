@@ -1,0 +1,3 @@
+<word>indoors</word>
+<meaning>in, inside, or into a building</meaning>
+<example>Both people are indoors.</example>

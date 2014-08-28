@@ -1,0 +1,3 @@
+<word>peep</word>
+<meaning>to show slightly :to be slightly visible</meaning>
+<example>peep through the blinds</example>

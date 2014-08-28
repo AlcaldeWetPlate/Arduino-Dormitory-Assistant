@@ -1,0 +1,3 @@
+<word>brim</word>
+<meaning>the top edge of a glass or a similar container</meaning>
+<example>be full to the brim</example>

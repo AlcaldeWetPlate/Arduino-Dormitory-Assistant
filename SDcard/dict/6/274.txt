@@ -1,0 +1,3 @@
+<word>scatter</word>
+<meaning>to separate and go in different directions</meaning>
+<example>scatter the books</example>

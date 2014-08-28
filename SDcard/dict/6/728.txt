@@ -1,0 +1,3 @@
+<word>slaughter</word>
+<meaning>the act of killing animals for their meat</meaning>
+<example>slaughter the animals</example>

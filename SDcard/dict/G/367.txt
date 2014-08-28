@@ -1,0 +1,3 @@
+<word>preface</word>
+<meaning>an introduction to a book or speech</meaning>
+<example>a book's preface</example>

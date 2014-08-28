@@ -1,0 +1,3 @@
+<word>housing</word>
+<meaning>the houses, apartments, etc., in which people live</meaning>
+<example>model of a new housing development</example>

@@ -1,0 +1,3 @@
+<word>singer</word>
+<meaning>a performer who sings</meaning>
+<example>a female singer</example>

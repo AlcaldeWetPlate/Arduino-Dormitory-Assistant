@@ -1,0 +1,3 @@
+<word>sometime</word>
+<meaning>at an unspecified time in the future</meaning>
+<example>sometime this weekend</example>

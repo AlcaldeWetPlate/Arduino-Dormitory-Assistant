@@ -1,0 +1,3 @@
+<word>complex</word>
+<meaning>not easy to understand or explain :not simple</meaning>
+<example>a complex computer system</example>

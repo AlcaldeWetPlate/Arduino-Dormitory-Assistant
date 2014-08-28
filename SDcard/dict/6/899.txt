@@ -1,0 +1,3 @@
+<word>sincerity</word>
+<meaning>an earnest and sincere feeling</meaning>
+<example>the sincerity of her love</example>

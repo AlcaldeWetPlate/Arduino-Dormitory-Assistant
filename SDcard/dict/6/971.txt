@@ -1,0 +1,3 @@
+<word>sieve</word>
+<meaning>to put (something) through a sieve</meaning>
+<example>a sieve to filter water</example>

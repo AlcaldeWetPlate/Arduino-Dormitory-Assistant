@@ -1,0 +1,3 @@
+<word>kindness</word>
+<meaning>the quality or state of being kind</meaning>
+<example>show kindness to the kitten</example>

@@ -1,0 +1,3 @@
+<word>permeable</word>
+<meaning>allowing liquids or gases to pass through</meaning>
+<example>permeable material</example>

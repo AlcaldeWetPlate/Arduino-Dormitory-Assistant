@@ -1,0 +1,3 @@
+<word>mutual</word>
+<meaning>shared between two or more people or groups</meaning>
+<example>the girls are mutual friends</example>

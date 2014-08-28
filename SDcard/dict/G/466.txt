@@ -1,0 +1,3 @@
+<word>chasm</word>
+<meaning>a deep hole or opening in the surface of the earth</meaning>
+<example>jumped over the chasm</example>

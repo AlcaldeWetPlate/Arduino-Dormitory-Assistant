@@ -1,0 +1,3 @@
+<word>untoward</word>
+<meaning>not proper or appropriate</meaning>
+<example>untoward touching</example>

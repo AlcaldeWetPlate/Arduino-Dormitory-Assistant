@@ -1,0 +1,3 @@
+<word>lattice</word>
+<meaning>a frame or structure made of crossed wood or metal strips</meaning>
+<example>a green garden lattice</example>

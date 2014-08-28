@@ -1,0 +1,3 @@
+<word>pathetic</word>
+<meaning>causing feelings of sadness and sympathy</meaning>
+<example>the crying girl's pathetic appearance</example>

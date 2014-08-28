@@ -1,0 +1,3 @@
+<word>irascible</word>
+<meaning>becoming angry very easily :having a bad temper</meaning>
+<example>an irascible, angry man</example>

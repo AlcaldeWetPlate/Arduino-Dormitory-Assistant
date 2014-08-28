@@ -1,0 +1,3 @@
+<word>nestle</word>
+<meaning>to lie comfortably close to or against someone or something</meaning>
+<example>A swan nestles in the reeds.</example>

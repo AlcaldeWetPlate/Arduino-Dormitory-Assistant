@@ -1,0 +1,3 @@
+<word>portray</word>
+<meaning>to show (someone or something) in a painting, book, etc.</meaning>
+<example>portray flowers in paintings</example>

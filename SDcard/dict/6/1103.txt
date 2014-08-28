@@ -1,0 +1,3 @@
+<word>continual</word>
+<meaning>happening without interruption :not stopping or ending</meaning>
+<example>The continual washing of the waves.</example>

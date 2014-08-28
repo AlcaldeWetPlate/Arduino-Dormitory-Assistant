@@ -1,0 +1,3 @@
+<word>gorge</word>
+<meaning>a deep, narrow area between hills or mountains</meaning>
+<example>A river runs through the gorge.</example>

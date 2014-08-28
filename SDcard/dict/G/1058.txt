@@ -1,0 +1,3 @@
+<word>scathing</word>
+<meaning>very harsh or severe</meaning>
+<example>Teenage girls say scathing things!</example>

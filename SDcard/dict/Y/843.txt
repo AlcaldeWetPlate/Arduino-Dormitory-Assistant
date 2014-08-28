@@ -1,0 +1,3 @@
+<word>customary</word>
+<meaning>usual or typical of a particular person</meaning>
+<example>It's customary to eat with chopsticks.</example>

@@ -1,0 +1,3 @@
+<word>willful</word>
+<meaning>done deliberately</meaning>
+<example>a stubborn, willful little girl</example>

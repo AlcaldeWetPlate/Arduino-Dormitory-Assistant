@@ -1,0 +1,3 @@
+<word>sediment</word>
+<meaning>material that sinks to the bottom of a liquid</meaning>
+<example>muddy sediment in the river</example>

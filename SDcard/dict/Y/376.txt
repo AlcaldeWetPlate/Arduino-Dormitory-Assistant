@@ -1,0 +1,3 @@
+<word>finance</word>
+<meaning>to provide money for (something or someone)</meaning>
+<example>finance our business with  money</example>

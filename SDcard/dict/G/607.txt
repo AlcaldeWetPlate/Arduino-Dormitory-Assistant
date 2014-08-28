@@ -1,0 +1,3 @@
+<word>tycoon</word>
+<meaning>a very wealthy and powerful business person</meaning>
+<example>a business tycoon</example>

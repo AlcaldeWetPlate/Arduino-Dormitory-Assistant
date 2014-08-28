@@ -1,0 +1,3 @@
+<word>delve</word>
+<meaning>to search for information about something</meaning>
+<example>delve deep into the soil</example>

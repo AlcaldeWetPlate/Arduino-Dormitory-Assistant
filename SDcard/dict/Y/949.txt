@@ -1,0 +1,3 @@
+<word>skin</word>
+<meaning>to scrape or rub off some of the skin from (a body part)</meaning>
+<example>clear skin</example>

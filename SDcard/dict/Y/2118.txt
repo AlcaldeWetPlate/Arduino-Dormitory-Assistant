@@ -1,0 +1,3 @@
+<word>aside</word>
+<meaning>to or toward the side</meaning>
+<example>step aside to let the cars pass</example>

@@ -1,0 +1,3 @@
+<word>croon</word>
+<meaning>to sing (a song) in a low soft voice</meaning>
+<example>croon and play guitar</example>

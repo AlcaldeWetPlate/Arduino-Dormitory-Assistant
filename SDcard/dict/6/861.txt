@@ -1,0 +1,3 @@
+<word>fore</word>
+<meaning>in or into a place of importance</meaning>
+<example>The female manager stands at the fore.</example>

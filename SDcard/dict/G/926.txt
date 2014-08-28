@@ -1,0 +1,3 @@
+<word>prowess</word>
+<meaning>great ability or skill</meaning>
+<example>dancing prowess</example>

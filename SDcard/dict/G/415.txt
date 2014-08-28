@@ -1,0 +1,3 @@
+<word>banish</word>
+<meaning>to force (someone) to leave a country as punishment</meaning>
+<example>banish the red man</example>

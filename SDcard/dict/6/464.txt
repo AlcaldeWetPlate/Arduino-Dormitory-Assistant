@@ -1,0 +1,3 @@
+<word>instruct</word>
+<meaning>to teach (someone) a subject, skill, etc.</meaning>
+<example>mother instructs me</example>

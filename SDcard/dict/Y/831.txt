@@ -1,0 +1,3 @@
+<word>ankle</word>
+<meaning>the joint where the foot joins the leg</meaning>
+<example>an injured ankle</example>

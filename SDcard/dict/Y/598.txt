@@ -1,0 +1,3 @@
+<word>Easter</word>
+<meaning>a wind from the east</meaning>
+<example>Easter eggs</example>

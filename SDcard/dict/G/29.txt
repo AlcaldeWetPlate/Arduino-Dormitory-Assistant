@@ -1,0 +1,3 @@
+<word>aversion</word>
+<meaning>a strong feeling of not liking something</meaning>
+<example>an aversion to vegetables</example>

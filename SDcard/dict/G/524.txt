@@ -1,0 +1,3 @@
+<word>spur</word>
+<meaning>to urge (a horse) to go faster by pushing spurs into its sides</meaning>
+<example>spur the horse on</example>

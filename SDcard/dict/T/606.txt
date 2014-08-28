@@ -1,0 +1,3 @@
+<word>poll</word>
+<meaning>the places where people vote during an election</meaning>
+<example>vote at the polls</example>

@@ -1,0 +1,3 @@
+<word>interim</word>
+<meaning>used or accepted for a limited time :not permanent</meaning>
+<example>provide us with interim housing</example>

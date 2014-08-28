@@ -1,0 +1,3 @@
+<word>gulp</word>
+<meaning>to eat or swallow (something) quickly or in large amounts</meaning>
+<example>gulp down some water</example>

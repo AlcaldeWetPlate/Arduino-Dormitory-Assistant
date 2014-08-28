@@ -1,0 +1,3 @@
+<word>slovenly</word>
+<meaning>messy or untidy</meaning>
+<example>a slovenly homeless woman</example>

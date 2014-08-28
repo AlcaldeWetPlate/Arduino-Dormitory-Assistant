@@ -1,0 +1,3 @@
+<word>district</word>
+<meaning>an area or section of a country, city, or town</meaning>
+<example>four different districts</example>

@@ -1,0 +1,3 @@
+<word>clarion</word>
+<meaning>a medieval brass instrument with a clear shrill tone</meaning>
+<example>the clarion call of the trumpets</example>

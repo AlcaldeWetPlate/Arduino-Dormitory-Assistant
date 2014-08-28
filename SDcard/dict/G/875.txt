@@ -1,0 +1,3 @@
+<word>parity</word>
+<meaning>the state of being equal</meaning>
+<example>The dollar and euro reach parity.</example>

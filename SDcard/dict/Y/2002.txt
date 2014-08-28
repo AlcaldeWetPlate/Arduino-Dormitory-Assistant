@@ -1,0 +1,3 @@
+<word>naughty</word>
+<meaning>behaving badly</meaning>
+<example>a naughty little boy</example>

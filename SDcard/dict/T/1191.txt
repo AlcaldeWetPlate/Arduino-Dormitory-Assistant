@@ -1,0 +1,3 @@
+<word>pigment</word>
+<meaning>a natural substance that gives color to animals and plants</meaning>
+<example>make dyes from natural pigments</example>

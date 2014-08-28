@@ -1,0 +1,3 @@
+<word>per</word>
+<meaning>for each</meaning>
+<example>133 kilometers per hour</example>

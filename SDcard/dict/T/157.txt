@@ -1,0 +1,3 @@
+<word>healing</word>
+<meaning>the natural process by which the body repairs itself</meaning>
+<example>the bandage helps the healing</example>

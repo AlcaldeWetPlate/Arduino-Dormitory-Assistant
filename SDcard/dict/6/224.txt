@@ -1,0 +1,3 @@
+<word>annual</word>
+<meaning>covering the period of a year</meaning>
+<example>annual growth in 2012</example>

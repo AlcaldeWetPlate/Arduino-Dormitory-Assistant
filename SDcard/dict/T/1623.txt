@@ -1,0 +1,3 @@
+<word>purified</word>
+<meaning>made pure</meaning>
+<example>pour purified water</example>

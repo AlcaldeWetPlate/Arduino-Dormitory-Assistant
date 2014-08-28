@@ -1,0 +1,3 @@
+<word>homely</word>
+<meaning>not pretty or handsome :plain or unattractive</meaning>
+<example>a homely wild pig</example>

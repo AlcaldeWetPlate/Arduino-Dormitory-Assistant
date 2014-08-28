@@ -1,0 +1,3 @@
+<word>agony</word>
+<meaning>extreme mental or physical pain</meaning>
+<example>The man is in agony.</example>

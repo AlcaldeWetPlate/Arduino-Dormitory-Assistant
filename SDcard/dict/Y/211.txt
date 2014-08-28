@@ -1,0 +1,3 @@
+<word>howl</word>
+<meaning>to make a long, loud sound</meaning>
+<example>The wolf howls.</example>

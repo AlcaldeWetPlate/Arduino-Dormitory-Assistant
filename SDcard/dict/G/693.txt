@@ -1,0 +1,3 @@
+<word>repute</word>
+<meaning>good reputation</meaning>
+<example>a salesman of good repute</example>

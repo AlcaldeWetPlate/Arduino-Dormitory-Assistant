@@ -1,0 +1,3 @@
+<word>trench</word>
+<meaning>a long, narrow hole that is dug in the ground</meaning>
+<example>a deep trench</example>

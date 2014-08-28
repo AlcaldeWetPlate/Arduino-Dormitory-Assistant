@@ -1,0 +1,3 @@
+<word>fortress</word>
+<meaning>a place that is protected against attack :a fortified place</meaning>
+<example>a mountain fortress</example>

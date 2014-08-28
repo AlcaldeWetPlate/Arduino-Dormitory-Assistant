@@ -1,0 +1,3 @@
+<word>osprey</word>
+<meaning>a large bird that eats fish</meaning>
+<example>The osprey eats sth.</example>

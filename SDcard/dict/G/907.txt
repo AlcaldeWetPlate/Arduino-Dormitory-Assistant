@@ -1,0 +1,3 @@
+<word>potable</word>
+<meaning>safe to drink</meaning>
+<example>potable water</example>

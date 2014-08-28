@@ -1,0 +1,3 @@
+<word>terrace</word>
+<meaning>a flat area next to a building where people can sit and relax</meaning>
+<example>the view over our terrace</example>

@@ -1,0 +1,3 @@
+<word>pneumatic</word>
+<meaning>using air pressure to move or work</meaning>
+<example>pneumatic pressure inside a balloon</example>

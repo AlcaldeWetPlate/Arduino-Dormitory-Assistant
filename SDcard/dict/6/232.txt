@@ -1,0 +1,3 @@
+<word>occur</word>
+<meaning>to happen</meaning>
+<example>A car accident occurs.</example>

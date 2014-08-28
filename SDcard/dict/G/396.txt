@@ -1,0 +1,3 @@
+<word>sporadic</word>
+<meaning>happening often but not regularly :not constant or steady</meaning>
+<example>Solar eclipses are sporadic.</example>

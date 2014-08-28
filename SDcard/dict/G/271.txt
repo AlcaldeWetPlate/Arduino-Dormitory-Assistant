@@ -1,0 +1,3 @@
+<word>laudatory</word>
+<meaning>expressing or containing praise</meaning>
+<example>A laudatory thumbs up!</example>

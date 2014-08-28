@@ -1,0 +1,3 @@
+<word>incisive</word>
+<meaning>very clear and direct</meaning>
+<example>The professor's incisive questions.</example>

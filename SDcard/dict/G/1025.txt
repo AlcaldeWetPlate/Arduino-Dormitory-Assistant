@@ -1,0 +1,3 @@
+<word>loathe</word>
+<meaning>to hate (someone or something) very much</meaning>
+<example>They loathe each other.</example>

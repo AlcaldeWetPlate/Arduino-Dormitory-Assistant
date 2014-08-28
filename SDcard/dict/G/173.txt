@@ -1,0 +1,3 @@
+<word>playful</word>
+<meaning>happy and full of energy :eager to play</meaning>
+<example>a playful couple in a field</example>

@@ -1,0 +1,3 @@
+<word>botany</word>
+<meaning>a branch of science that deals with plant life</meaning>
+<example>Botany is the study of plants.</example>

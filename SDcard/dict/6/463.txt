@@ -1,0 +1,3 @@
+<word>consent</word>
+<meaning>permission for something to happen or be done</meaning>
+<example>She gives her consent.</example>

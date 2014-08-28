@@ -1,0 +1,3 @@
+<word>soil</word>
+<meaning>the top layer of earth in which plants grow</meaning>
+<example>plants in the soil</example>

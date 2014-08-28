@@ -1,0 +1,3 @@
+<word>jovial</word>
+<meaning>full of happiness and joy</meaning>
+<example>a jovial, friendly man</example>

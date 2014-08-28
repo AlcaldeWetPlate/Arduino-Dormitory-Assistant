@@ -1,0 +1,3 @@
+<word>heroic</word>
+<meaning>of or relating to heroes</meaning>
+<example>a strong, heroic man</example>

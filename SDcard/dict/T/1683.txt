@@ -1,0 +1,3 @@
+<word>healthful</word>
+<meaning>good for your health</meaning>
+<example>a healthful food</example>

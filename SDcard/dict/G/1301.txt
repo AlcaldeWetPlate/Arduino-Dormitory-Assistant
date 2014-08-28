@@ -1,0 +1,3 @@
+<word>slew</word>
+<meaning>a large number</meaning>
+<example>a slew of jellyfish in the sea</example>

@@ -1,0 +1,3 @@
+<word>ranching</word>
+<meaning>the activity of raising animals on a ranch</meaning>
+<example>cattle ranching</example>

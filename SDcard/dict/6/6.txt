@@ -1,0 +1,3 @@
+<word>adore</word>
+<meaning>to love or admire (someone) very much</meaning>
+<example>She adores her baby.</example>

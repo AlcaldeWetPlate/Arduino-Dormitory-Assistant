@@ -1,0 +1,3 @@
+<word>ground</word>
+<meaning>the surface of the earth</meaning>
+<example>grass on the ground</example>

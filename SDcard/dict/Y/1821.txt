@@ -1,0 +1,3 @@
+<word>faultless</word>
+<meaning>having no fault</meaning>
+<example>a faultless exam</example>

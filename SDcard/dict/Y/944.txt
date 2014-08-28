@@ -1,0 +1,3 @@
+<word>powerful</word>
+<meaning>having the ability to control or influence people or things</meaning>
+<example>a powerful leader</example>

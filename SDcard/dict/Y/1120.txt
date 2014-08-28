@@ -1,0 +1,3 @@
+<word>musical</word>
+<meaning>having the pleasing qualities of music</meaning>
+<example>a musical instrument</example>

@@ -1,0 +1,3 @@
+<word>upward</word>
+<meaning>from a lower place or level to a higher place or level</meaning>
+<example>the man looks upward</example>

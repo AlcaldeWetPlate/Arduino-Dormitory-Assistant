@@ -1,0 +1,3 @@
+<word>cash</word>
+<meaning>money in the form of coins and bills</meaning>
+<example>pay with cash</example>

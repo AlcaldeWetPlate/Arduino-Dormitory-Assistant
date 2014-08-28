@@ -1,0 +1,3 @@
+<word>glib</word>
+<meaning>speaking in a smooth, easy way that is not sincere</meaning>
+<example>the boy's glib smile</example>

@@ -1,0 +1,3 @@
+<word>buck</word>
+<meaning>a male animal (such as a male deer)</meaning>
+<example>two bucks fighting</example>

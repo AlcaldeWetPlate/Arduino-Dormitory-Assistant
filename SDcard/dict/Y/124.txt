@@ -1,0 +1,3 @@
+<word>decree</word>
+<meaning>to order or decide (something) in an official way</meaning>
+<example>The Queen issues a decree.</example>

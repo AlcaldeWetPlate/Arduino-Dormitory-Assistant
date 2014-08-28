@@ -1,0 +1,3 @@
+<word>ship</word>
+<meaning>a large boat used for traveling long distances over the sea</meaning>
+<example>a cargo ship</example>

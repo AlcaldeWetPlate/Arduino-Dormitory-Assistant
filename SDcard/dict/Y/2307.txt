@@ -1,0 +1,3 @@
+<word>wayside</word>
+<meaning>the land next to a road or path</meaning>
+<example>stand on the road's wayside</example>

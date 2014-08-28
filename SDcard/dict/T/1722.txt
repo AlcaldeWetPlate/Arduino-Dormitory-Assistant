@@ -1,0 +1,3 @@
+<word>credence</word>
+<meaning>belief that something is true</meaning>
+<example>give credence to myths and legends</example>

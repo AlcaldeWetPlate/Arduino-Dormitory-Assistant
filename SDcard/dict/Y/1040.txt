@@ -1,0 +1,3 @@
+<word>wing</word>
+<meaning>a part of an animal's body that is used for flying or gliding</meaning>
+<example>butterfly wings</example>

@@ -1,0 +1,3 @@
+<word>kingdom</word>
+<meaning>a country whose ruler is a king or queen</meaning>
+<example>the United Kingdom</example>

@@ -1,0 +1,3 @@
+<word>earshot</word>
+<meaning>the distance within which someone's voice can be heard</meaning>
+<example>whisper within earshot of the teacher</example>

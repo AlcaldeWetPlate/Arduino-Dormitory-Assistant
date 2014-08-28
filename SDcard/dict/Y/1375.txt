@@ -1,0 +1,3 @@
+<word>timid</word>
+<meaning>feeling or showing a lack of courage or confidence</meaning>
+<example>She is cute, but timid.</example>

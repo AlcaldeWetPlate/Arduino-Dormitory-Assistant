@@ -1,0 +1,3 @@
+<word>shelter</word>
+<meaning>a structure that covers or protects people or things</meaning>
+<example>shelter from the cold</example>

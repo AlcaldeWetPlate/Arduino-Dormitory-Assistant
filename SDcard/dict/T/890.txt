@@ -1,0 +1,3 @@
+<word>regulate</word>
+<meaning>to bring (something) under the control of authority</meaning>
+<example>regulate the water flow</example>

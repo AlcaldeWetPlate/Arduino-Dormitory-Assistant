@@ -1,0 +1,3 @@
+<word>canny</word>
+<meaning>very clever and able to make intelligent decisions</meaning>
+<example>a canny businessman</example>

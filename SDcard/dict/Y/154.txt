@@ -1,0 +1,3 @@
+<word>enduring</word>
+<meaning>Lasting; continuing; durable</meaning>
+<example>an enduring monument</example>

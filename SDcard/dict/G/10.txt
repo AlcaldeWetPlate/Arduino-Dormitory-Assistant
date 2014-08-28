@@ -1,0 +1,3 @@
+<word>acumen</word>
+<meaning>the ability to think clearly and make good decisions</meaning>
+<example>good business acumen</example>

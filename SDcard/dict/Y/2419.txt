@@ -1,0 +1,3 @@
+<word>drink</word>
+<meaning>to take a liquid into your mouth and swallow it</meaning>
+<example>drink wine</example>

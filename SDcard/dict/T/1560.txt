@@ -1,0 +1,3 @@
+<word>savings</word>
+<meaning>a fund of money put by as a reserve</meaning>
+<example>keep savings in a jar</example>

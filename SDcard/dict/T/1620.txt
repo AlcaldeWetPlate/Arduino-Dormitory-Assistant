@@ -1,0 +1,3 @@
+<word>polygonal</word>
+<meaning>having many sides or relating to a surface marked by polygons</meaning>
+<example>polygonal shapes on the ball</example>

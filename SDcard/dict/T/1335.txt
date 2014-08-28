@@ -1,0 +1,3 @@
+<word>hub</word>
+<meaning>the central and most active part or place</meaning>
+<example>the network hub</example>

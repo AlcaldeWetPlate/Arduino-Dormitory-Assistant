@@ -1,0 +1,3 @@
+<word>shrill</word>
+<meaning>having a very loud, high-pitched sound</meaning>
+<example>a loud, shrill woman</example>

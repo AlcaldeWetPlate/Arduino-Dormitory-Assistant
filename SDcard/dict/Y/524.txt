@@ -1,0 +1,3 @@
+<word>enquire</word>
+<meaning>have a wish or desire to know something</meaning>
+<example>She enquires about the company.</example>

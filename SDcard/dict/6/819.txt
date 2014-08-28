@@ -1,0 +1,3 @@
+<word>compare</word>
+<meaning>to say that (something) is similar</meaning>
+<example>compare products</example>

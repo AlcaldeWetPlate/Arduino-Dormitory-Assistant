@@ -1,0 +1,3 @@
+<word>trainload</word>
+<meaning>quantity that can be carried by a train</meaning>
+<example>a trainload of grain</example>

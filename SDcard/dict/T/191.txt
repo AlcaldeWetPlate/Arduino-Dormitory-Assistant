@@ -1,0 +1,3 @@
+<word>lethal</word>
+<meaning>causing or able to cause death</meaning>
+<example>a lethal weapon</example>

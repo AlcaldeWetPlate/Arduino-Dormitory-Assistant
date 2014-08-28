@@ -1,0 +1,3 @@
+<word>outgoing</word>
+<meaning>at ease in talking to others</meaning>
+<example>an outgoing personality</example>

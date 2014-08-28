@@ -1,0 +1,3 @@
+<word>homesick</word>
+<meaning>sad because you are away from your family and home</meaning>
+<example>a homesick, sad woman</example>

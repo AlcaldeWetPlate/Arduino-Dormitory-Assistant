@@ -1,0 +1,3 @@
+<word>popular</word>
+<meaning>liked or enjoyed by many people</meaning>
+<example>a popular singer</example>

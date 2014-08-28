@@ -1,0 +1,3 @@
+<word>ware</word>
+<meaning>things that are being sold by someone</meaning>
+<example>deliver your wares</example>

@@ -1,0 +1,3 @@
+<word>kettle</word>
+<meaning>a container used for heating or boiling liquid</meaning>
+<example>a tea kettle</example>

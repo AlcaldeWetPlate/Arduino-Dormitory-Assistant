@@ -1,0 +1,3 @@
+<word>flock</word>
+<meaning>a group of birds or animals (such as sheep)</meaning>
+<example>a flock of birds</example>

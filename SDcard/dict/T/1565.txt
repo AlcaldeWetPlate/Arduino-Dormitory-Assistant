@@ -1,0 +1,3 @@
+<word>boundless</word>
+<meaning>not limited in any way :having no boundaries</meaning>
+<example>a boundless desert</example>

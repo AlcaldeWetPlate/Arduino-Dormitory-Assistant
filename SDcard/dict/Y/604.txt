@@ -1,0 +1,3 @@
+<word>ideal</word>
+<meaning>exactly right for a particular purpose, situation, or person</meaning>
+<example>her ideal weight</example>

@@ -1,0 +1,3 @@
+<word>delicacy</word>
+<meaning>a food that people like to eat because it is special or rare</meaning>
+<example>a sweet delicacy</example>

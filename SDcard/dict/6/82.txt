@@ -1,0 +1,3 @@
+<word>dreadful</word>
+<meaning>very bad or unpleasant</meaning>
+<example>dreadful witch</example>

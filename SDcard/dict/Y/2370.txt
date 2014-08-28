@@ -1,0 +1,3 @@
+<word>call</word>
+<meaning>to make a telephone call</meaning>
+<example>a phone call</example>

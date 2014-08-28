@@ -1,0 +1,3 @@
+<word>abandon</word>
+<meaning>to leave and never return to (something)</meaning>
+<example>abandon old furniture</example>

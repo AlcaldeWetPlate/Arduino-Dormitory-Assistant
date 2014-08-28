@@ -1,0 +1,3 @@
+<word>gild</word>
+<meaning>to cover (something) with a thin layer of gold</meaning>
+<example>gild the temple roof</example>

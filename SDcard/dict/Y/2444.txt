@@ -1,0 +1,3 @@
+<word>work</word>
+<meaning>to do things as part of your job</meaning>
+<example>use a computer at work</example>

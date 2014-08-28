@@ -1,0 +1,3 @@
+<word>beverage</word>
+<meaning>something you can drink :a liquid for drinking</meaning>
+<example>different alcoholic beverages</example>

@@ -1,0 +1,3 @@
+<word>preclude</word>
+<meaning>to prevent (someone) from doing something</meaning>
+<example>preclude us from diving into the water</example>

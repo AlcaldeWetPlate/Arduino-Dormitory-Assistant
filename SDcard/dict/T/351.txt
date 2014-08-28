@@ -1,0 +1,3 @@
+<word>prospect</word>
+<meaning>someone or something that is likely to succeed or to be chosen</meaning>
+<example>the college graduate's job prospects</example>

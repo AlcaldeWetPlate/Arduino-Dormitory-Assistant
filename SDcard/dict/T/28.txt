@@ -1,0 +1,3 @@
+<word>atheist</word>
+<meaning>a person who believes that God does not exist</meaning>
+<example>Atheists do not believe in God.</example>

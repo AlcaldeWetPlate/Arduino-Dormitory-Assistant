@@ -1,0 +1,3 @@
+<word>involved</word>
+<meaning>actively participating in something</meaning>
+<example>Everybody is involved in the project.</example>

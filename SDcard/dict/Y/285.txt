@@ -1,0 +1,3 @@
+<word>rejoice</word>
+<meaning>to feel or show that you are very happy about something</meaning>
+<example>rejoice and be happy</example>

@@ -1,0 +1,3 @@
+<word>intense</word>
+<meaning>very great in degree :very strong</meaning>
+<example>an intense thunderstorm</example>

@@ -1,0 +1,3 @@
+<word>dinosaur</word>
+<meaning>one of many reptiles that lived on Earth millions of years ago</meaning>
+<example>two scary dinosaurs</example>

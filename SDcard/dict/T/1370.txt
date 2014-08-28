@@ -1,0 +1,3 @@
+<word>beak</word>
+<meaning>the hard usually pointed parts that cover a bird's mouth</meaning>
+<example>the long beak of the bird</example>

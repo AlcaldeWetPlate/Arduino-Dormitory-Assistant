@@ -1,0 +1,3 @@
+<word>drip</word>
+<meaning>a drop of liquid that falls from something</meaning>
+<example>The tap drips.</example>

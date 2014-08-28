@@ -1,0 +1,3 @@
+<word>vile</word>
+<meaning>evil or immoral</meaning>
+<example>the vile toad</example>

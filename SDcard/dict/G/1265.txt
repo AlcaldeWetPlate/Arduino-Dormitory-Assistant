@@ -1,0 +1,3 @@
+<word>dyspeptic</word>
+<meaning>suffering from pain caused by digestive problems</meaning>
+<example>feel dyspeptic in one's stomach</example>

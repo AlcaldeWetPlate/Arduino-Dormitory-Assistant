@@ -1,0 +1,3 @@
+<word>broken</word>
+<meaning>separated into parts or pieces by being hit, damaged, etc.</meaning>
+<example>a broken heart</example>

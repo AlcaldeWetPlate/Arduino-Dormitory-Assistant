@@ -1,0 +1,3 @@
+<word>chore</word>
+<meaning>a small job that is done regularly</meaning>
+<example>A man does his chores.</example>

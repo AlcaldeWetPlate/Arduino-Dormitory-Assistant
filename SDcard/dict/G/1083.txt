@@ -1,0 +1,3 @@
+<word>baffling</word>
+<meaning>hard to comprehend or solve or believe</meaning>
+<example>The directions are baffling.</example>

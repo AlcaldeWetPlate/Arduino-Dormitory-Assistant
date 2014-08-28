@@ -1,0 +1,3 @@
+<word>reprehend</word>
+<meaning>express strong disapproval of</meaning>
+<example>reprehend the naughty boy</example>

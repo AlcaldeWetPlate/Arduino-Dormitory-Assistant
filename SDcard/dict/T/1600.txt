@@ -1,0 +1,3 @@
+<word>manually</word>
+<meaning>by hand</meaning>
+<example>plant rice manually</example>

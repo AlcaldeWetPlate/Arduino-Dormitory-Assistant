@@ -1,0 +1,3 @@
+<word>pensioner</word>
+<meaning>a person who receives or lives on a pension</meaning>
+<example>old pensioners</example>

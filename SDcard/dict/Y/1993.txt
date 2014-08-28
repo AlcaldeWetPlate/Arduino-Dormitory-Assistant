@@ -1,0 +1,3 @@
+<word>broaden</word>
+<meaning>to become wider or more general</meaning>
+<example>broaden at the top</example>

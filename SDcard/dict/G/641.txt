@@ -1,0 +1,3 @@
+<word>sap</word>
+<meaning>a watery juice inside a plant that carries the plant's food</meaning>
+<example>a plant's sap</example>

@@ -1,0 +1,3 @@
+<word>missile</word>
+<meaning>a rocket that explodes when it hits a distant target</meaning>
+<example>pointy missiles</example>

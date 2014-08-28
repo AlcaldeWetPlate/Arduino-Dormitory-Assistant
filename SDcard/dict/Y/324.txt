@@ -1,0 +1,3 @@
+<word>unwilling</word>
+<meaning>not willing</meaning>
+<example>unwilling to eat baby food</example>

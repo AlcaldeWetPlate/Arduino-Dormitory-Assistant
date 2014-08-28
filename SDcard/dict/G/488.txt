@@ -1,0 +1,3 @@
+<word>lavish</word>
+<meaning>giving or using a large amount of something</meaning>
+<example>the lavish hotel room</example>

@@ -1,0 +1,3 @@
+<word>ardent</word>
+<meaning>having or showing very strong feelings</meaning>
+<example>an ardent football fan</example>

@@ -1,0 +1,3 @@
+<word>special</word>
+<meaning>different from what is normal or usual</meaning>
+<example>a special day</example>

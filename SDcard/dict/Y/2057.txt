@@ -1,0 +1,3 @@
+<word>center</word>
+<meaning>the middle point or part of something</meaning>
+<example>center of the target</example>

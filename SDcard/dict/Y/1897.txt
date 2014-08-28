@@ -1,0 +1,3 @@
+<word>waitress</word>
+<meaning>a woman who serves food or drinks to people in a restaurant</meaning>
+<example>a waitress in a restaurant</example>

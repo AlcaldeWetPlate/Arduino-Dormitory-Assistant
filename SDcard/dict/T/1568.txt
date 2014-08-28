@@ -1,0 +1,3 @@
+<word>buzzer</word>
+<meaning>an electric device that makes a loud sound</meaning>
+<example>press the buzzer</example>

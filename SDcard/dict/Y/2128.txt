@@ -1,0 +1,3 @@
+<word>eyesight</word>
+<meaning>the ability to see :sight or vision</meaning>
+<example>eyesight checked at the doctor</example>

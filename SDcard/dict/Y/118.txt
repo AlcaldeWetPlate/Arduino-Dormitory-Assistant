@@ -1,0 +1,3 @@
+<word>crafty</word>
+<meaning>clever in usually a deceptive or dishonest way</meaning>
+<example>a crafty thief in black</example>

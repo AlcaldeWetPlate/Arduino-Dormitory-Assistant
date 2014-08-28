@@ -1,0 +1,3 @@
+<word>notion</word>
+<meaning>an idea or opinion</meaning>
+<example>a notion of change</example>

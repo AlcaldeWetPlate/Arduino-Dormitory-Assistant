@@ -1,0 +1,3 @@
+<word>archetype</word>
+<meaning>a perfect example of something</meaning>
+<example>The big snake is an archetype of evil.</example>

@@ -1,0 +1,3 @@
+<word>extra</word>
+<meaning>more than is usual or necessary</meaning>
+<example>extra scoops of ice cream</example>

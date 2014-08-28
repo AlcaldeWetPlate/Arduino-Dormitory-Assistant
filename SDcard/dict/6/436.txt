@@ -1,0 +1,3 @@
+<word>pant</word>
+<meaning>to breathe hard and quickly</meaning>
+<example>The dog pants.</example>

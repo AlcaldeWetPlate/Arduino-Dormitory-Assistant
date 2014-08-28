@@ -1,0 +1,3 @@
+<word>judicious</word>
+<meaning>having or showing good judgment</meaning>
+<example>a judicious man's conscience</example>

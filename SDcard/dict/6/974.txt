@@ -1,0 +1,3 @@
+<word>brink</word>
+<meaning>the edge at the top of a steep cliff</meaning>
+<example>the brink of the cliff</example>

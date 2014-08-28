@@ -1,0 +1,3 @@
+<word>public</word>
+<meaning>the people of a country, state, etc.</meaning>
+<example>walk in public</example>

@@ -1,0 +1,3 @@
+<word>protect</word>
+<meaning>to keep (someone or something) from being harmed, lost, etc.</meaning>
+<example>protect your money</example>

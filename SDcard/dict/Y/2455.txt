@@ -1,0 +1,3 @@
+<word>run</word>
+<meaning>to move with your legs at a speed that is faster than walking</meaning>
+<example>run to work</example>

@@ -1,0 +1,3 @@
+<word>freshman</word>
+<meaning>a student in the first year of high school or college</meaning>
+<example>a freshman in college</example>

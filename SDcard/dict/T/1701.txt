@@ -1,0 +1,3 @@
+<word>insulting</word>
+<meaning>rude or offensive :showing a lack of respect</meaning>
+<example>be insulting to the purple-haired girl</example>

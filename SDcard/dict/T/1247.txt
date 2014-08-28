@@ -1,0 +1,3 @@
+<word>trash</word>
+<meaning>a container where people put things that are being thrown away</meaning>
+<example>a black trash bag</example>

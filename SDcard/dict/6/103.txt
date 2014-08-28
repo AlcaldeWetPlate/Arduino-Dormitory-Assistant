@@ -1,0 +1,3 @@
+<word>fort</word>
+<meaning>a strong building or group of buildings where soldiers live</meaning>
+<example>the fort on top of the mountain</example>

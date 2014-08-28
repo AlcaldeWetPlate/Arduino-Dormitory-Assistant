@@ -1,0 +1,3 @@
+<word>scarce</word>
+<meaning>very small in amount or number :not plentiful</meaning>
+<example>Oil is scarce.</example>

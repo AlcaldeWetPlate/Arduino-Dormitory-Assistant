@@ -1,0 +1,3 @@
+<word>crisp</word>
+<meaning>dry, hard, and easily broken</meaning>
+<example>potatoes fried to a crisp</example>

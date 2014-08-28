@@ -1,0 +1,3 @@
+<word>repress</word>
+<meaning>to not allow yourself to do or express (something)</meaning>
+<example>repress his opinions</example>

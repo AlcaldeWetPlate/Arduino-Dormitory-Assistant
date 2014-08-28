@@ -1,0 +1,3 @@
+<word>gust</word>
+<meaning>a sudden strong wind</meaning>
+<example>a gust of wind</example>

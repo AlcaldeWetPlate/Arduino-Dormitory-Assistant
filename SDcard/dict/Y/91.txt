@@ -1,0 +1,3 @@
+<word>civility</word>
+<meaning>polite, reasonable, and respectful behavior</meaning>
+<example>the old man's civility</example>

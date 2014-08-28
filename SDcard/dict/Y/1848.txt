@@ -1,0 +1,3 @@
+<word>imperial</word>
+<meaning>of or relating to an empire or an emperor</meaning>
+<example>ancient imperial court</example>

@@ -1,0 +1,3 @@
+<word>yelp</word>
+<meaning>to make a quick, high cry or bark</meaning>
+<example>yelp in pain</example>

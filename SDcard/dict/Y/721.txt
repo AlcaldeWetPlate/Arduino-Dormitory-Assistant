@@ -1,0 +1,3 @@
+<word>lower</word>
+<meaning>below another or others in position, rank, or order</meaning>
+<example>lower house prices</example>

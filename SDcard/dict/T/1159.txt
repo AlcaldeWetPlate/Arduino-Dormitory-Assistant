@@ -1,0 +1,3 @@
+<word>bilateral</word>
+<meaning>involving two groups or countries</meaning>
+<example>a bilateral agreement</example>

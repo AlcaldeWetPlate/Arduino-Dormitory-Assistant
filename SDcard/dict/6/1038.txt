@@ -1,0 +1,3 @@
+<word>mentality</word>
+<meaning>a particular way of thinking</meaning>
+<example>mentality of earning money</example>

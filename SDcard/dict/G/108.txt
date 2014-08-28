@@ -1,0 +1,3 @@
+<word>frenzy</word>
+<meaning>great and often wild or uncontrolled activity</meaning>
+<example>The crowd is in a frenzy.</example>

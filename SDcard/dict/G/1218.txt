@@ -1,0 +1,3 @@
+<word>anemic</word>
+<meaning>relating to or suffering from anemia</meaning>
+<example>The anemic woman has very pale skin.</example>

@@ -1,0 +1,3 @@
+<word>facsimile</word>
+<meaning>an exact copy</meaning>
+<example>a facsimile of the American constitution</example>

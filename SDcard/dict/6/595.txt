@@ -1,0 +1,3 @@
+<word>classic</word>
+<meaning>having a graceful design with simple lines</meaning>
+<example>a classic style</example>

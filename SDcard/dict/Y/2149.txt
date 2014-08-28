@@ -1,0 +1,3 @@
+<word>auto</word>
+<meaning>automobile</meaning>
+<example>an auto dealership</example>

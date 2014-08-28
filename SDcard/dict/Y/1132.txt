@@ -1,0 +1,3 @@
+<word>dozen</word>
+<meaning>a group of 12 people or things</meaning>
+<example>a dozen eggs</example>

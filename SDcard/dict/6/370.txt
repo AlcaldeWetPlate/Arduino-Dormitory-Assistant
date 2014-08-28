@@ -1,0 +1,3 @@
+<word>twinkle</word>
+<meaning>a quick flash of light :a sparkle or flicker of light</meaning>
+<example>the fresh snow twinkles</example>

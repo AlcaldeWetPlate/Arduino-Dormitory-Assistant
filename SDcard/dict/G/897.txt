@@ -1,0 +1,3 @@
+<word>recumbent</word>
+<meaning>lying down</meaning>
+<example>lie in a recumbent position on the ground</example>

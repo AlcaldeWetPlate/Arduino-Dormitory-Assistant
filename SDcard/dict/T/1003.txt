@@ -1,0 +1,3 @@
+<word>roe</word>
+<meaning>the eggs of a fish or sea animal</meaning>
+<example>fish roe</example>

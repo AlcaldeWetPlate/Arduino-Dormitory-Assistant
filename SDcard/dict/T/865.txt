@@ -1,0 +1,3 @@
+<word>revive</word>
+<meaning>to become strong, healthy, or active again</meaning>
+<example>revive a dead person</example>

@@ -1,0 +1,3 @@
+<word>wholesome</word>
+<meaning>helping to keep your body healthy :good for your health</meaning>
+<example>wholesome food</example>

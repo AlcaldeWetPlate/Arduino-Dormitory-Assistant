@@ -1,0 +1,3 @@
+<word>goad</word>
+<meaning>to urge or force (someone) to do something</meaning>
+<example>goad the angry animal</example>

@@ -1,0 +1,3 @@
+<word>warrant</word>
+<meaning>to make a legal promise that a statement is true</meaning>
+<example>warrant the legal statement</example>

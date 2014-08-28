@@ -1,0 +1,3 @@
+<word>numerical</word>
+<meaning>of or relating to numbers or a system of numbers</meaning>
+<example>a numerical password</example>

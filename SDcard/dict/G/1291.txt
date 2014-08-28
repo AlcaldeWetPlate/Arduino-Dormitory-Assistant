@@ -1,0 +1,3 @@
+<word>preempt</word>
+<meaning>to prevent (something) from happening</meaning>
+<example>preempt the falling of the wooden blocks</example>

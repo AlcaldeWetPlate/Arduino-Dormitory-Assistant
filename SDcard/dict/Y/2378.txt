@@ -1,0 +1,3 @@
+<word>eggplant</word>
+<meaning>a somewhat egg-shaped vegetable with usually purple skin</meaning>
+<example>a bunch of purple eggplants</example>

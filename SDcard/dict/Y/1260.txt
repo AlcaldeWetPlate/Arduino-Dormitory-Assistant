@@ -1,0 +1,3 @@
+<word>giggle</word>
+<meaning>to laugh in a nervous or childlike way</meaning>
+<example>The baby giggles.</example>

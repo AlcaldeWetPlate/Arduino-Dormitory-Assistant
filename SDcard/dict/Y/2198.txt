@@ -1,0 +1,3 @@
+<word>born</word>
+<meaning>brought into life by the process of birth</meaning>
+<example>A baby was born.</example>

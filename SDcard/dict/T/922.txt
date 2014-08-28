@@ -1,0 +1,3 @@
+<word>collision</word>
+<meaning>a crash in which two or more things or people hit each other</meaning>
+<example>a car collision</example>

@@ -1,0 +1,3 @@
+<word>fake</word>
+<meaning>not true or real</meaning>
+<example>the fake teeth</example>

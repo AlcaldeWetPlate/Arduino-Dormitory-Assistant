@@ -1,0 +1,3 @@
+<word>hypnotic</word>
+<meaning>tending to cause sleep or relaxation</meaning>
+<example>the stopwatch's hypnotic powers</example>

@@ -1,0 +1,3 @@
+<word>refine</word>
+<meaning>to remove the unwanted substances in (something)</meaning>
+<example>refine crude oil into gasoline</example>

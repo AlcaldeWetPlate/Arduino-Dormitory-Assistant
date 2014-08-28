@@ -1,0 +1,3 @@
+<word>loosely</word>
+<meaning>not rigidly fastened or securely attached</meaning>
+<example>a loosely tied knot</example>

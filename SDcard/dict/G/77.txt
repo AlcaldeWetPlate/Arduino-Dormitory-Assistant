@@ -1,0 +1,3 @@
+<word>diffuse</word>
+<meaning>to cause (light) to be soft and spread out</meaning>
+<example>Water can diffuse light.</example>

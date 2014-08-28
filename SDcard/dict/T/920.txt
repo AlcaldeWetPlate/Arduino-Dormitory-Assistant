@@ -1,0 +1,3 @@
+<word>ripe</word>
+<meaning>fully grown and developed and ready to be eaten</meaning>
+<example>ripe fruit</example>

@@ -1,0 +1,3 @@
+<word>sharply</word>
+<meaning>suddenly and by a large amount</meaning>
+<example>go down sharply</example>

@@ -1,0 +1,3 @@
+<word>financing</word>
+<meaning>the act of financing</meaning>
+<example>get financing from the piggy bank</example>

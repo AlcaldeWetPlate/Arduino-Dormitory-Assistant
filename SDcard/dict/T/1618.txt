@@ -1,0 +1,3 @@
+<word>paycheck</word>
+<meaning>a check that is used to pay an employee for his or her work</meaning>
+<example>an empty paycheck</example>

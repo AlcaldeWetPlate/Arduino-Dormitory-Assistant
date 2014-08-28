@@ -1,0 +1,3 @@
+<word>mini</word>
+<meaning>something is smart</meaning>
+<example>a mini car</example>

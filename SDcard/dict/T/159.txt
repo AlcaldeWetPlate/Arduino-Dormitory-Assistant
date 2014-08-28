@@ -1,0 +1,3 @@
+<word>helpless</word>
+<meaning>not protected :not able to defend yourself</meaning>
+<example>helpless children</example>

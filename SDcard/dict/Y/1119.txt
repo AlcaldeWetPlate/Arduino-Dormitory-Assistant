@@ -1,0 +1,3 @@
+<word>injure</word>
+<meaning>to harm or damage (someone or something)</meaning>
+<example>injure one's leg</example>

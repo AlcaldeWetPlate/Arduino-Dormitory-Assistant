@@ -1,0 +1,3 @@
+<word>icy</word>
+<meaning>very cold</meaning>
+<example>icy cold drink</example>

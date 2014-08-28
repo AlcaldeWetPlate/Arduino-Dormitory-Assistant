@@ -1,0 +1,3 @@
+<word>cozy</word>
+<meaning>small, comfortable, and warm</meaning>
+<example>The baby is cozy.</example>

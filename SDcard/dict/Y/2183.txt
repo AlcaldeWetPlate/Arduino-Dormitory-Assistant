@@ -1,0 +1,3 @@
+<word>similar</word>
+<meaning>almost the same as someone or something else</meaning>
+<example>similar uniforms</example>

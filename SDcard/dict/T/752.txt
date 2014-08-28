@@ -1,0 +1,3 @@
+<word>fabric</word>
+<meaning>woven or knitted material</meaning>
+<example>the dress's white fabric</example>

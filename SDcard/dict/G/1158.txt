@@ -1,0 +1,3 @@
+<word>inane</word>
+<meaning>very silly or stupid</meaning>
+<example>the girls' inane chatter</example>

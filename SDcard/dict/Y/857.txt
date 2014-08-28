@@ -1,0 +1,3 @@
+<word>blend</word>
+<meaning>to mix (things) thoroughly and usually with good results</meaning>
+<example>blend the colors together</example>

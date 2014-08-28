@@ -1,0 +1,3 @@
+<word>want</word>
+<meaning>to desire or wish for (something)</meaning>
+<example>I want a job.</example>

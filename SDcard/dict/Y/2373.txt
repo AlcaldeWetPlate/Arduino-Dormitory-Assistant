@@ -1,0 +1,3 @@
+<word>close</word>
+<meaning>at or to a short distance or time away</meaning>
+<example>close the door</example>

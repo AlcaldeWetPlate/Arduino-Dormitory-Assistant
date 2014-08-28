@@ -1,0 +1,3 @@
+<word>ossify</word>
+<meaning>to become or to cause something to become hard like bone</meaning>
+<example>the wood ossifies</example>

@@ -1,0 +1,3 @@
+<word>rain</word>
+<meaning>water that falls in drops from clouds in the sky</meaning>
+<example>rain in the forest</example>

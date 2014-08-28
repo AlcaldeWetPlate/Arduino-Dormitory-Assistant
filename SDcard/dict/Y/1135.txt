@@ -1,0 +1,3 @@
+<word>honour</word>
+<meaning>bestow honor or rewards upon</meaning>
+<example>the honor of graduating from college</example>

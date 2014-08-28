@@ -1,0 +1,3 @@
+<word>enunciate</word>
+<meaning>to make a clear statement of (ideas, beliefs, etc.)</meaning>
+<example>Enunciate when you talk.</example>

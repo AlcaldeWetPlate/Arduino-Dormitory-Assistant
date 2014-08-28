@@ -1,0 +1,3 @@
+<word>precise</word>
+<meaning>very accurate and exact</meaning>
+<example>be precise about the amount of air</example>

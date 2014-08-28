@@ -1,0 +1,3 @@
+<word>seamount</word>
+<meaning>mount under sea</meaning>
+<example>a coral seamount</example>

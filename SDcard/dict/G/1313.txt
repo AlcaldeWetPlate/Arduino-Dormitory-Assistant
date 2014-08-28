@@ -1,0 +1,3 @@
+<word>accrete</word>
+<meaning>grow together (of plants and organs)</meaning>
+<example>accrete money</example>

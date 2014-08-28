@@ -1,0 +1,3 @@
+<word>triumph</word>
+<meaning>a great or important victory</meaning>
+<example>triumph in tennis</example>

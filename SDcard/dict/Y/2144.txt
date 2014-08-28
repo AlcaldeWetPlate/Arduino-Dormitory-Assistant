@@ -1,0 +1,3 @@
+<word>creator</word>
+<meaning>a person who makes something new</meaning>
+<example>creator of the sculpture</example>

@@ -1,0 +1,3 @@
+<word>verbose</word>
+<meaning>using more words than are needed</meaning>
+<example>the verbose man's boring speech</example>

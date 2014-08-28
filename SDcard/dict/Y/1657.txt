@@ -1,0 +1,3 @@
+<word>amid</word>
+<meaning>in or into the middle of (something)</meaning>
+<example>The baby is lost amid the balls.</example>

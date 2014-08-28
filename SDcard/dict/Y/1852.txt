@@ -1,0 +1,3 @@
+<word>nation</word>
+<meaning>a large area of land that is controlled by its own government</meaning>
+<example>the Chinese nation</example>

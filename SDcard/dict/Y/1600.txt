@@ -1,0 +1,3 @@
+<word>heating</word>
+<meaning>a system that is used to provide warmth to a room or building</meaning>
+<example>heating herself up</example>

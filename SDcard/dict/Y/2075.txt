@@ -1,0 +1,3 @@
+<word>respect</word>
+<meaning>a polite greeting or expression of kind feelings</meaning>
+<example>show respect by bowing</example>

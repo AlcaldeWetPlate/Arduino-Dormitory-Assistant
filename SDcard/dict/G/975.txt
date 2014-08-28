@@ -1,0 +1,3 @@
+<word>genteel</word>
+<meaning>of or relating to people who have high social status</meaning>
+<example>a genteel European lady</example>

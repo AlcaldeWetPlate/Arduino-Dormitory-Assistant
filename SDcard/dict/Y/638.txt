@@ -1,0 +1,3 @@
+<word>faculty</word>
+<meaning>the group of teachers in a school or college</meaning>
+<example>faculty of the math department</example>

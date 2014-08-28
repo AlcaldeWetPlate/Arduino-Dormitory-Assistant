@@ -1,0 +1,3 @@
+<word>flux</word>
+<meaning>a substance used for helping to melt or join metals</meaning>
+<example>magnetic flux</example>

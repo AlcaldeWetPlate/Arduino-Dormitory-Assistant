@@ -1,0 +1,3 @@
+<word>artful</word>
+<meaning>done with or showing artistic skill</meaning>
+<example>artful watermelon cutting</example>

@@ -1,0 +1,3 @@
+<word>compel</word>
+<meaning>to force (someone) to do something</meaning>
+<example>compel me to follow</example>

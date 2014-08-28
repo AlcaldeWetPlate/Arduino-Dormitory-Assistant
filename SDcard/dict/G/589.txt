@@ -1,0 +1,3 @@
+<word>reticent</word>
+<meaning>not willing to tell people about things</meaning>
+<example>be reticent about your idea</example>

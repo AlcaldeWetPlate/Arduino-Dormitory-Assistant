@@ -1,0 +1,3 @@
+<word>religion</word>
+<meaning>the belief in a god or in a group of gods</meaning>
+<example>the religion of Islam</example>

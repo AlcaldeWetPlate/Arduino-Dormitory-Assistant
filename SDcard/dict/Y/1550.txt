@@ -1,0 +1,3 @@
+<word>absolute</word>
+<meaning>completely different</meaning>
+<example>the absolute opposite</example>

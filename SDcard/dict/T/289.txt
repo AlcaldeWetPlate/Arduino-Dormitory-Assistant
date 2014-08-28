@@ -1,0 +1,3 @@
+<word>infest</word>
+<meaning>to be in or over (a place, an animal, etc.) in large numbers</meaning>
+<example>infest the leaf</example>

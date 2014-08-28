@@ -1,0 +1,3 @@
+<word>volt</word>
+<meaning>a unit for measuring the force of an electrical current</meaning>
+<example>volts of electricity</example>

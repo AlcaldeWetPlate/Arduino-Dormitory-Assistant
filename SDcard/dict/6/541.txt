@@ -1,0 +1,3 @@
+<word>privacy</word>
+<meaning>the state of being away from public attention</meaning>
+<example>electronic privacy</example>

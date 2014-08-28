@@ -1,0 +1,3 @@
+<word>branch</word>
+<meaning>a part of a tree that grows out from the trunk</meaning>
+<example>a tree branch</example>

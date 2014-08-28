@@ -1,0 +1,3 @@
+<word>jot</word>
+<meaning>to write down (something) quickly</meaning>
+<example>jot down some ideas on his notepad</example>

@@ -1,0 +1,3 @@
+<word>energize</word>
+<meaning>to give energy or excitement to (someone or something)</meaning>
+<example>energize sb. with some coffee</example>

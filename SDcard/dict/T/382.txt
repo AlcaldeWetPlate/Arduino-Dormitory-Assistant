@@ -1,0 +1,3 @@
+<word>naval</word>
+<meaning>of or relating to a country's navy</meaning>
+<example>naval power</example>

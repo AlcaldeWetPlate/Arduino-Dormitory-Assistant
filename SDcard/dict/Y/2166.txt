@@ -1,0 +1,3 @@
+<word>dominate</word>
+<meaning>to have control of or power over (someone or something)</meaning>
+<example>dominate 90% of the market</example>

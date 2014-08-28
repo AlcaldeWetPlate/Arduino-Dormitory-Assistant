@@ -1,0 +1,3 @@
+<word>fresco</word>
+<meaning>a painting that is done on wet plaster</meaning>
+<example>a fresco on the ceiling</example>

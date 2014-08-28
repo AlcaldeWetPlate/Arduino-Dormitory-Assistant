@@ -1,0 +1,3 @@
+<word>receptive</word>
+<meaning>willing to listen to or accept ideas, suggestions, etc.</meaning>
+<example>She's receptive to your ideas.</example>

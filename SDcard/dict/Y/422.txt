@@ -1,0 +1,3 @@
+<word>engage</word>
+<meaning>give to in marriage</meaning>
+<example>be engaged to be married</example>

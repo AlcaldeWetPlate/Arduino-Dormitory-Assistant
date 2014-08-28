@@ -1,0 +1,3 @@
+<word>encompass</word>
+<meaning>to cover or surround (an area)</meaning>
+<example>Barbed wire encompasses the perimeter.</example>

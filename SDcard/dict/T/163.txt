@@ -1,0 +1,3 @@
+<word>hover</word>
+<meaning>to float in the air without moving in any direction</meaning>
+<example>The helicopters hover.</example>

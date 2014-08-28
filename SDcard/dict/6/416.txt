@@ -1,0 +1,3 @@
+<word>dual</word>
+<meaning>having two of something</meaning>
+<example>dual pistols</example>

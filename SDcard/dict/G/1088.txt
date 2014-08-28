@@ -1,0 +1,3 @@
+<word>forebode</word>
+<meaning>make a prediction about; tell in advance</meaning>
+<example>forebode the future</example>

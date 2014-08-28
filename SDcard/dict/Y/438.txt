@@ -1,0 +1,3 @@
+<word>situated</word>
+<meaning>located in a particular place</meaning>
+<example>be situated in New York</example>

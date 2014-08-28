@@ -1,0 +1,3 @@
+<word>fraction</word>
+<meaning>a part or amount of something</meaning>
+<example>a fraction of the chart</example>

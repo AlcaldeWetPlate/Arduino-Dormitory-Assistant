@@ -1,0 +1,3 @@
+<word>picture</word>
+<meaning>a painting, drawing, or photograph of someone or something</meaning>
+<example>four pictures in a field</example>

@@ -1,0 +1,3 @@
+<word>embargo</word>
+<meaning>a government order that limits trade in some way</meaning>
+<example>a trade embargo</example>

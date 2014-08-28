@@ -1,0 +1,3 @@
+<word>holder</word>
+<meaning>a person who holds or owns something</meaning>
+<example>holder of a bachelor's degree</example>

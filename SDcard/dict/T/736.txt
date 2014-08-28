@@ -1,0 +1,3 @@
+<word>architect</word>
+<meaning>a person who designs buildings</meaning>
+<example>An architect designs a home.</example>

@@ -1,0 +1,3 @@
+<word>culpable</word>
+<meaning>deserving blame :guilty of doing something wrong</meaning>
+<example>be culpable for the accident</example>

@@ -1,0 +1,3 @@
+<word>lump</word>
+<meaning>a small piece or mass of something</meaning>
+<example>a lump of amber</example>

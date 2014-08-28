@@ -1,0 +1,3 @@
+<word>contract</word>
+<meaning>a legal agreement between people, companies, etc.</meaning>
+<example>sign a  contract</example>

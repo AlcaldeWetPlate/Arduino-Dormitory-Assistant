@@ -1,0 +1,3 @@
+<word>fortnight</word>
+<meaning>a period of 14 days :two weeks</meaning>
+<example>There are 14 days in a fortnight.</example>

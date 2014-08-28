@@ -1,0 +1,3 @@
+<word>concert</word>
+<meaning>a public performance of music</meaning>
+<example>the singer's concert</example>

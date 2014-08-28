@@ -1,0 +1,3 @@
+<word>Roman</word>
+<meaning>an inhabitant of the ancient Roman Empire</meaning>
+<example>an ancient Roman building</example>

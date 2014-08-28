@@ -1,0 +1,3 @@
+<word>jogging</word>
+<meaning>running at a jog trot as a form of cardiopulmonary exercise</meaning>
+<example>jogging for exercise</example>

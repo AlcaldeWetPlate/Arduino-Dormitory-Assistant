@@ -1,0 +1,3 @@
+<word>turbid</word>
+<meaning>not clean or clear :cloudy or muddy</meaning>
+<example>a turbid river</example>

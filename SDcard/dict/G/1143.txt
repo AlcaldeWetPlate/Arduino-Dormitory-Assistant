@@ -1,0 +1,3 @@
+<word>dulcet</word>
+<meaning>pleasant to hear</meaning>
+<example>dulcet sound of the violin</example>

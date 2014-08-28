@@ -1,0 +1,3 @@
+<word>wilt</word>
+<meaning>to bend over because of not having enough water</meaning>
+<example>The flowers wilt.</example>

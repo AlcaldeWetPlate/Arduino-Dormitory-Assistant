@@ -1,0 +1,3 @@
+<word>endlessly</word>
+<meaning>continuing forever without end</meaning>
+<example>run endlessly</example>

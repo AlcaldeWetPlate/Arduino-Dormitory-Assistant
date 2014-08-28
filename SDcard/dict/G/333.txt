@@ -1,0 +1,3 @@
+<word>rail</word>
+<meaning>one of the bars of steel that form a train's track</meaning>
+<example>the steel rails</example>

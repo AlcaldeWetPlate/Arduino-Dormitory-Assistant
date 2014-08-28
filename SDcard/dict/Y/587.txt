@@ -1,0 +1,3 @@
+<word>bless</word>
+<meaning>to ask God to care for and protect (someone or something)</meaning>
+<example>ask Buddha to bless her</example>

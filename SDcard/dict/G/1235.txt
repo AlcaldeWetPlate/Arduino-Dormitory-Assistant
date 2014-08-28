@@ -1,0 +1,3 @@
+<word>savory</word>
+<meaning>having a pleasant taste or smell</meaning>
+<example>Indian food's savory taste</example>

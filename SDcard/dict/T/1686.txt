@@ -1,0 +1,3 @@
+<word>horned</word>
+<meaning>having horns or parts that look like horns</meaning>
+<example>The rhinoceros is a horned animal.</example>

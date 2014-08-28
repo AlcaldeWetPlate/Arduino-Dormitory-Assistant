@@ -1,0 +1,3 @@
+<word>fluid</word>
+<meaning>a substance that is able to flow freely :a liquid substance</meaning>
+<example>pour fluid out of the bucket</example>

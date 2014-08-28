@@ -1,0 +1,3 @@
+<word>bubble</word>
+<meaning>a tiny, round ball of air or gas inside a liquid</meaning>
+<example>blow bubbles</example>

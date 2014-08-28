@@ -1,0 +1,3 @@
+<word>equal</word>
+<meaning>having the same mathematical value</meaning>
+<example>Women and men are equal.</example>

@@ -1,0 +1,3 @@
+<word>mettle</word>
+<meaning>strength of spirit :ability to continue despite difficulties</meaning>
+<example>test your mettle against a robot</example>

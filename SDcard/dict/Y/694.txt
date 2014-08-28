@@ -1,0 +1,3 @@
+<word>dip</word>
+<meaning>to put (something) into a liquid and pull it out again quickly</meaning>
+<example>dip its feet into the ocean</example>

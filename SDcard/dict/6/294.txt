@@ -1,0 +1,3 @@
+<word>gravel</word>
+<meaning>small pieces of rock</meaning>
+<example>a handful of gray gravel</example>

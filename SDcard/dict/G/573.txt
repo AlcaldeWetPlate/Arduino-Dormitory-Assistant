@@ -1,0 +1,3 @@
+<word>pry</word>
+<meaning>to raise, move, or open (something) with a tool</meaning>
+<example>pry out a nail</example>

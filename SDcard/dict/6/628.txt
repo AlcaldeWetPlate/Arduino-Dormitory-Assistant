@@ -1,0 +1,3 @@
+<word>glamour</word>
+<meaning>a very exciting and attractive quality</meaning>
+<example>her glamour and beauty</example>

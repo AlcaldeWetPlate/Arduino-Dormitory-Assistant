@@ -1,0 +1,3 @@
+<word>pretty</word>
+<meaning>attractive to look at usually in a simple or delicate way</meaning>
+<example>a pretty girl</example>

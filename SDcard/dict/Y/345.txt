@@ -1,0 +1,3 @@
+<word>situate</word>
+<meaning>to place (someone or something) in a particular location</meaning>
+<example>situate oneself with a compass</example>

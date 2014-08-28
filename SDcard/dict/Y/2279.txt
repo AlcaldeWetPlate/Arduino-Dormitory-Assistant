@@ -1,0 +1,3 @@
+<word>course</word>
+<meaning>a series of classes about a particular subject in a school</meaning>
+<example>Monday's courses</example>

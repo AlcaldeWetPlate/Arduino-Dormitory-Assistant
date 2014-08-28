@@ -1,0 +1,3 @@
+<word>grateful</word>
+<meaning>feeling or showing thanks</meaning>
+<example>be grateful for your help</example>

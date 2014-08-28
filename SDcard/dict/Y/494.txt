@@ -1,0 +1,3 @@
+<word>execute</word>
+<meaning>to do or perform (an action or movement that requires skill)</meaning>
+<example>execute a difficult maneuver</example>

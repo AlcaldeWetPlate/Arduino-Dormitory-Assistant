@@ -1,0 +1,3 @@
+<word>aesthetic</word>
+<meaning>of or relating to art or beauty</meaning>
+<example>a strange aesthetic sense</example>

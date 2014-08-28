@@ -1,0 +1,3 @@
+<word>intellect</word>
+<meaning>the ability to think in a logical way</meaning>
+<example>a strong intellect and a strong mind</example>

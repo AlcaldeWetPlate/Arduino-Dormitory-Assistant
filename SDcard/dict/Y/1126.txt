@@ -1,0 +1,3 @@
+<word>poet</word>
+<meaning>a person who writes poems</meaning>
+<example>an ancient poet</example>

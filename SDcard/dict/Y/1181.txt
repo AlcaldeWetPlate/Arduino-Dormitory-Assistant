@@ -1,0 +1,3 @@
+<word>seize</word>
+<meaning>to use legal or official power to take (something)</meaning>
+<example>seize the money</example>

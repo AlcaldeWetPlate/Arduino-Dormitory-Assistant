@@ -1,0 +1,3 @@
+<word>credulous</word>
+<meaning>too ready to believe things :easily fooled or cheated</meaning>
+<example>The credulous kids believe her.</example>

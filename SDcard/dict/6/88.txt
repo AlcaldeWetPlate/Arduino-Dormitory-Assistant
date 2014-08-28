@@ -1,0 +1,3 @@
+<word>evoke</word>
+<meaning>to bring (a memory, feeling, image, etc.) into the mind</meaning>
+<example>evoke thoughts of summer</example>

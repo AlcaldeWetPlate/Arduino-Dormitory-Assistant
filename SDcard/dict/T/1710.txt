@@ -1,0 +1,3 @@
+<word>succinct</word>
+<meaning>using few words to state or express an idea</meaning>
+<example>a succinct invitation</example>

@@ -1,0 +1,3 @@
+<word>top</word>
+<meaning>the highest part, point, or level of something</meaning>
+<example>the top of the mountain</example>

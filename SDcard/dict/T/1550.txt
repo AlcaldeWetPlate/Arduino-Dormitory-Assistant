@@ -1,0 +1,3 @@
+<word>helper</word>
+<meaning>someone who helps another person with a job or task</meaning>
+<example>the old man's helper</example>

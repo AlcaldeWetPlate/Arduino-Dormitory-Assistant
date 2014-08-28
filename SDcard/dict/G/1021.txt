@@ -1,0 +1,3 @@
+<word>impudent</word>
+<meaning>failing to show proper respect and courtesy :very rude</meaning>
+<example>an impudent child</example>

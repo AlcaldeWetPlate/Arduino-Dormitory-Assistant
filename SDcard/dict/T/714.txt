@@ -1,0 +1,3 @@
+<word>crowd</word>
+<meaning>a large group of people who are together in one place</meaning>
+<example>a large crowd of people</example>

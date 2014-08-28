@@ -1,0 +1,3 @@
+<word>evince</word>
+<meaning>to show (something) clearly</meaning>
+<example>His big nose evinces his dishonesty.</example>

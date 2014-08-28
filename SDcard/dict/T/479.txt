@@ -1,0 +1,3 @@
+<word>slender</word>
+<meaning>small or limited in amount or size</meaning>
+<example>too slender for those jeans</example>

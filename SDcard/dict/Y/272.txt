@@ -1,0 +1,3 @@
+<word>partition</word>
+<meaning>a wall or screen that separates one area from another</meaning>
+<example>partitions between the urinals</example>

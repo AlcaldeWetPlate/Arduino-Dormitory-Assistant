@@ -1,0 +1,3 @@
+<word>cavil</word>
+<meaning>to complain about things that are not important</meaning>
+<example>He cavils with his wife about sth.</example>

@@ -1,0 +1,3 @@
+<word>ordinary</word>
+<meaning>normal or usual :not unusual, different, or special</meaning>
+<example>an ordinary man</example>

@@ -1,0 +1,3 @@
+<word>carpet</word>
+<meaning>a heavy fabric cover for a floor</meaning>
+<example>carpets on the ground</example>

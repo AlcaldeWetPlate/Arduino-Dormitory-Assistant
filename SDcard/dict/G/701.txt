@@ -1,0 +1,3 @@
+<word>ethics</word>
+<meaning>motivation based on ideas of right and wrong</meaning>
+<example>Confucian ethics</example>

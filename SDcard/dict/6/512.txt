@@ -1,0 +1,3 @@
+<word>malice</word>
+<meaning>a desire to cause harm to another person</meaning>
+<example>malice in his eyes</example>

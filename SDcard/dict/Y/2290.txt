@@ -1,0 +1,3 @@
+<word>lose</word>
+<meaning>to gradually have less of (something) as time passes</meaning>
+<example>lose weight</example>

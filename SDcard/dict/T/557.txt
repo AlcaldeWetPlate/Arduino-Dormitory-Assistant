@@ -1,0 +1,3 @@
+<word>format</word>
+<meaning>to arrange (something) in a particular format</meaning>
+<example>format the newspaper</example>

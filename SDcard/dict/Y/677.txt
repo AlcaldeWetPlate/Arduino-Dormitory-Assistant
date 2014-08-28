@@ -1,0 +1,3 @@
+<word>funeral</word>
+<meaning>a ceremony held for a dead person</meaning>
+<example>a sad funeral ceremony</example>

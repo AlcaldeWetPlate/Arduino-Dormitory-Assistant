@@ -1,0 +1,3 @@
+<word>haunted</word>
+<meaning>lived in or visited by ghosts</meaning>
+<example>a haunted old house</example>

@@ -1,0 +1,3 @@
+<word>squalid</word>
+<meaning>very dirty and unpleasant</meaning>
+<example>a squalid alley</example>

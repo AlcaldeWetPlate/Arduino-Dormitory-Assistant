@@ -1,0 +1,3 @@
+<word>outset</word>
+<meaning>the start or beginning of something</meaning>
+<example>from the outset of race</example>

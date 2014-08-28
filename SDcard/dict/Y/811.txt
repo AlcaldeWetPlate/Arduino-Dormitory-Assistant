@@ -1,0 +1,3 @@
+<word>incident</word>
+<meaning>an unexpected and usually unpleasant thing that happens</meaning>
+<example>an incident with an airplane</example>

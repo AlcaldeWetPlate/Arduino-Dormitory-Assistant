@@ -1,0 +1,3 @@
+<word>associate</word>
+<meaning>to be together</meaning>
+<example>associate with  coworkers</example>

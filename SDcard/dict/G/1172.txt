@@ -1,0 +1,3 @@
+<word>deadpan</word>
+<meaning>showing no feeling or emotion</meaning>
+<example>the woman's deadpan expression</example>

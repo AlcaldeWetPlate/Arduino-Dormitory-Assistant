@@ -1,0 +1,3 @@
+<word>foggy</word>
+<meaning>having or filled with fog</meaning>
+<example>the foggy forest</example>

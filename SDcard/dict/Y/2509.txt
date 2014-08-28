@@ -1,0 +1,3 @@
+<word>defender</word>
+<meaning>a fighter who holds out against attack</meaning>
+<example>a defender on a soccer team</example>

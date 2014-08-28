@@ -1,0 +1,3 @@
+<word>vacant</word>
+<meaning>not filled, used, or lived in</meaning>
+<example>a vacant apartment</example>

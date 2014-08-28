@@ -1,0 +1,3 @@
+<word>common</word>
+<meaning>occurring or appearing frequently :not rare</meaning>
+<example>Bicycles are very common.</example>

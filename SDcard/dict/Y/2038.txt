@@ -1,0 +1,3 @@
+<word>unload</word>
+<meaning>to remove something (such as cargo) from a truck, ship, etc.</meaning>
+<example>unload these boxes</example>

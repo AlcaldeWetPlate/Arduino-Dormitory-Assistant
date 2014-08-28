@@ -1,0 +1,3 @@
+<word>indirect</word>
+<meaning>not going straight from one point to another</meaning>
+<example>an indirect path through the maze</example>

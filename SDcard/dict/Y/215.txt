@@ -1,0 +1,3 @@
+<word>immortal</word>
+<meaning>used to say that something will last or be remembered forever</meaning>
+<example>the immortal spirit of saints</example>

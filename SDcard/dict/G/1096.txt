@@ -1,0 +1,3 @@
+<word>laconic</word>
+<meaning>using few words in speech or writing</meaning>
+<example>a laconic, one-word suggestion</example>

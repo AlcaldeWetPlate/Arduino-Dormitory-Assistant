@@ -1,0 +1,3 @@
+<word>merely</word>
+<meaning>and nothing more</meaning>
+<example>merely a small wound</example>

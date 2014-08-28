@@ -1,0 +1,3 @@
+<word>palaver</word>
+<meaning>talk that is not important or meaningful</meaning>
+<example>hear sb.'s stupid palaver in the phone</example>

@@ -1,0 +1,3 @@
+<word>compute</word>
+<meaning>to find out (something) by using mathematical processes</meaning>
+<example>compute figures</example>

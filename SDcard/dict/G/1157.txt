@@ -1,0 +1,3 @@
+<word>impostor</word>
+<meaning>a person who deceives others by pretending to be someone else</meaning>
+<example>a fake impostor</example>

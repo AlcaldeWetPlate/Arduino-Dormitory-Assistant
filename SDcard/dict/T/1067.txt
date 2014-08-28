@@ -1,0 +1,3 @@
+<word>foretell</word>
+<meaning>to describe (something) before it happens</meaning>
+<example>foretell the future</example>

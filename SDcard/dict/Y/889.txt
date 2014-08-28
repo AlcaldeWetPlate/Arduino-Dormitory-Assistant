@@ -1,0 +1,3 @@
+<word>opaque</word>
+<meaning>not letting light through :not transparent</meaning>
+<example>an opaque crystal</example>

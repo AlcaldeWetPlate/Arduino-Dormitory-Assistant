@@ -1,0 +1,3 @@
+<word>occupant</word>
+<meaning>a person who is in a room, vehicle, etc., at a particular time</meaning>
+<example>the occupant of the car</example>

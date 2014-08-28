@@ -1,0 +1,3 @@
+<word>attend</word>
+<meaning>to go to and be present at (an event, meeting, etc.)</meaning>
+<example>attend a meeting</example>

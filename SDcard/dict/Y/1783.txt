@@ -1,0 +1,3 @@
+<word>cultivate</word>
+<meaning>to prepare and use (soil) for growing plants</meaning>
+<example>cultivate fields</example>

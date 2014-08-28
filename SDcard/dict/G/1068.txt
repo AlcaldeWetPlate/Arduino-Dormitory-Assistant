@@ -1,0 +1,3 @@
+<word>anathema</word>
+<meaning>someone or something that is very strongly disliked</meaning>
+<example>non-believers are anathema to the church</example>

@@ -1,0 +1,3 @@
+<word>soak</word>
+<meaning>to put (something) in a liquid for a period of time</meaning>
+<example>Water soaks his shirt.</example>

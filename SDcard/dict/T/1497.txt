@@ -1,0 +1,3 @@
+<word>turquoise</word>
+<meaning>a bluish-green stone used in jewelry</meaning>
+<example>turquoise jewelry</example>

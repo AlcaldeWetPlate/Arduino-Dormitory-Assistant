@@ -1,0 +1,3 @@
+<word>dawn</word>
+<meaning>the time of day when sunlight first begins to appear</meaning>
+<example>sunrise at dawn</example>

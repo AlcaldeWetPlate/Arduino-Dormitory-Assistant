@@ -1,0 +1,3 @@
+<word>subway</word>
+<meaning>a system of underground trains in a city</meaning>
+<example>take the subway to work</example>

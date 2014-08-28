@@ -1,0 +1,3 @@
+<word>startling</word>
+<meaning>very surprising, shocking, or frightening</meaning>
+<example>She sees something startling.</example>

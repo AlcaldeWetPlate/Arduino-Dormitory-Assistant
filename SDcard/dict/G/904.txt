@@ -1,0 +1,3 @@
+<word>panache</word>
+<meaning>lots of energy and style</meaning>
+<example>the stylish woman's panache</example>

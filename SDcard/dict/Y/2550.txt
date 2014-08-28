@@ -1,0 +1,3 @@
+<word>easy</word>
+<meaning>not hard to do :not difficult</meaning>
+<example>an easy math problem</example>

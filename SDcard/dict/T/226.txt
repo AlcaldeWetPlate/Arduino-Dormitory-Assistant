@@ -1,0 +1,3 @@
+<word>outright</word>
+<meaning>quickly and completely :not gradually</meaning>
+<example>reject him outright</example>

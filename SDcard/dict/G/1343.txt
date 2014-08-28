@@ -1,0 +1,3 @@
+<word>striate</word>
+<meaning>mark with striae or striations</meaning>
+<example>the zebra's striate coat</example>

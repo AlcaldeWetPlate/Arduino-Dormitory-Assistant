@@ -1,0 +1,3 @@
+<word>facet</word>
+<meaning>a part or element</meaning>
+<example>the shape's facets</example>

@@ -1,0 +1,3 @@
+<word>famous</word>
+<meaning>known or recognized by very many people :having fame</meaning>
+<example>the famous statue</example>

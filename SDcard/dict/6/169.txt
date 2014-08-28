@@ -1,0 +1,3 @@
+<word>pasture</word>
+<meaning>a large area of land where animals feed on the grass</meaning>
+<example>a green pasture</example>

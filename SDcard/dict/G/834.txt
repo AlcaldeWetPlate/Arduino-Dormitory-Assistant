@@ -1,0 +1,3 @@
+<word>stoke</word>
+<meaning>to stir or add fuel to (something that is burning)</meaning>
+<example>stoke a fire</example>

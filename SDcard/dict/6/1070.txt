@@ -1,0 +1,3 @@
+<word>panther</word>
+<meaning>a large, black wildcat</meaning>
+<example>a strong, beautiful panther</example>

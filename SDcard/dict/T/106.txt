@@ -1,0 +1,3 @@
+<word>elusive</word>
+<meaning>hard to find or capture</meaning>
+<example>an elusive insect</example>

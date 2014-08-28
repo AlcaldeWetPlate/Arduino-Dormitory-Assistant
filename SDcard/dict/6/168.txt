@@ -1,0 +1,3 @@
+<word>pastime</word>
+<meaning>an activity that you enjoy doing during your free time</meaning>
+<example>Her favorite pastime is reading.</example>

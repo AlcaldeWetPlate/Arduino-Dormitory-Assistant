@@ -1,0 +1,3 @@
+<word>Antarctic</word>
+<meaning>of or relating to the South Pole or the region around it</meaning>
+<example>the cold antarctic</example>

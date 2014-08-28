@@ -1,0 +1,3 @@
+<word>approve</word>
+<meaning>to officially accept (an idea, action, plan, etc.)</meaning>
+<example>they approve your idea</example>

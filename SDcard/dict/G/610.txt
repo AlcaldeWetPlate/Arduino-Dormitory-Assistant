@@ -1,0 +1,3 @@
+<word>perturb</word>
+<meaning>to cause (someone) to be worried or upset</meaning>
+<example>Sth. perturbs the anxious woman.</example>

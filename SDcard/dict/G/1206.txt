@@ -1,0 +1,3 @@
+<word>cursory</word>
+<meaning>done or made quickly</meaning>
+<example>write a cursory shopping list</example>

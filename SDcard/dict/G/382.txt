@@ -1,0 +1,3 @@
+<word>crucial</word>
+<meaning>extremely important</meaning>
+<example>The red cog is crucial.</example>

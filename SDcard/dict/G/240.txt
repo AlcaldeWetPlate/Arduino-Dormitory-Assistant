@@ -1,0 +1,3 @@
+<word>instigate</word>
+<meaning>to cause (something) to happen or begin</meaning>
+<example>instigate the bull's response</example>

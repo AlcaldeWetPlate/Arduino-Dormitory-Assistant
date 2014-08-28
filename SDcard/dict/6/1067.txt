@@ -1,0 +1,3 @@
+<word>mixer</word>
+<meaning>a machine used for mixing things</meaning>
+<example>use a mixer to mix the food</example>

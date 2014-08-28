@@ -1,0 +1,3 @@
+<word>afford</word>
+<meaning>to be able to pay for (something)</meaning>
+<example>She can afford the jeans.</example>

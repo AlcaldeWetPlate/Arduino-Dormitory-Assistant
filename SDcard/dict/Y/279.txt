@@ -1,0 +1,3 @@
+<word>profess</word>
+<meaning>to say or declare (something) openly</meaning>
+<example>profess their love for each other</example>

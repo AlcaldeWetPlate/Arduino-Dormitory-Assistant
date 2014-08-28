@@ -1,0 +1,3 @@
+<word>native to</word>
+<meaning>the event of being born</meaning>
+<example>Pandas are native to China.</example>

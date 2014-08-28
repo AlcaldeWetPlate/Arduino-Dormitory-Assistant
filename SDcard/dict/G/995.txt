@@ -1,0 +1,3 @@
+<word>oration</word>
+<meaning>a formal speech</meaning>
+<example>the speaker's oration</example>

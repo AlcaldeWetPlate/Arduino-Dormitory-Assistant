@@ -1,0 +1,3 @@
+<word>draw up</word>
+<meaning>draw up the plans or basic details for</meaning>
+<example>draw up a blueprint of the house</example>

@@ -1,0 +1,3 @@
+<word>flee</word>
+<meaning>to run away from danger</meaning>
+<example>flee from the coin</example>

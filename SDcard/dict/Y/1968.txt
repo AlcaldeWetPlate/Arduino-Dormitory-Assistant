@@ -1,0 +1,3 @@
+<word>allow</word>
+<meaning>to permit (someone) to have or do something</meaning>
+<example>allow you to go</example>

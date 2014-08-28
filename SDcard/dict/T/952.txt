@@ -1,0 +1,3 @@
+<word>crayon</word>
+<meaning>a stick of colored wax that is used for drawing</meaning>
+<example>draw with crayons</example>
